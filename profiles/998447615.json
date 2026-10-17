@@ -1,0 +1,135 @@
+{
+  "orgnr": "998447615",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. STORÅSEN SPEIDERGRUPPE, NSF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Anne Karin Fonn, Myrdalskogen 340, 5117, ULSET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "website",
+      "value": "1.storasen.speidergruppe.org",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1976-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anne Karin Knudtzon Fonn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615/roller",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christopher Knudtzon Fonn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615/roller",
+      "source_date": "2026-01-06",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sara Haraldseid Lilleskare",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615/roller",
+      "source_date": "2026-01-06",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sigve Vidareid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615/roller",
+      "source_date": "2026-01-06",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998447615. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:42+00:00",
+  "changes": []
+}

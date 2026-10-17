@@ -1,0 +1,226 @@
+{
+  "orgnr": "976047303",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRINDABERGET BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Grindaberget 1, 1354, BÆRUMS VERK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.grindaberget.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 20,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-09-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage i Bærum kommune for barn som bor i kommunen. Barnehagen skal i samarbeid og forståelse med hjemmet ivarta behov for omsorg og lek, og fremme læring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge på grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik om respekt for menneskeverdet og naturen, på åndsfrihet, nestekjærlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn og som er forannkret i menneskerettighetene. Virksomheten skal drives i samsvar med de til enhver tid gjeldende lover og forskrifter for barnehagevirksomhet. Virksomheten har et ideelt(ikke-økonomisk) formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": "1996-01-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anna Jenny Örlander",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2020-07-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kaja Daae Torsteinsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Ringstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ida Benedicte Berg Kjølås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Cathrine Haugeli Halvorsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Steffen Nagbøl Villebro",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
+      "source_date": "2016-01-27",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 14276027.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 752019.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 716572.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5680790.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3484136.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976047303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976047303.",
+  "last_checked": "2026-10-17T07:47:44+00:00",
+  "changes": []
+}

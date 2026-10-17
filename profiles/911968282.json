@@ -1,0 +1,121 @@
+{
+  "orgnr": "911968282",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENGEN GÅRD DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Seilasveien 14, 8013, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2013-05-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drifte Engen Gård, som utleievirksomhet og vedlikehold av bygningsmassen, den tilhørende eiendommen rundt, og alt som naturlig kan tilhøre slik virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Bjørghild Engen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282/roller",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Asle-Magnar Furfjord",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282/roller",
+      "source_date": "2013-05-22",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911968282. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:21+00:00",
+  "changes": []
+}

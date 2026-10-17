@@ -1,0 +1,149 @@
+{
+  "orgnr": "954420183",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS GLASSCOATING GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.340 Maler- og glassarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Agmund Holes veg 4, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 41, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-11-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Lakkere vinduer for solbeskyttelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "John Harald Fagernæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183/roller",
+      "source_date": "1990-02-07",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "John Harald Fagernæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183/roller",
+      "source_date": "1991-01-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Arne Aasbekken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183/roller",
+      "source_date": "1991-01-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Arve Aasen Strand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183/roller",
+      "source_date": "1991-01-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Roar Aasbekken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954420183/roller",
+      "source_date": "1991-01-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954420183. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:02+00:00",
+  "changes": []
+}

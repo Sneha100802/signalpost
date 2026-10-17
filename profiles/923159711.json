@@ -1,0 +1,107 @@
+{
+  "orgnr": "923159711",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FLINT POLAND SP. ZOO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Al. 3 Maja 2/23, PL-00-391 WARSZAWA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Olav V gate 58, 8004, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Krzysztof Robert Szkaradkiewicz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711/roller",
+      "source_date": "2020-03-30",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "FLINT POLAND SP. ZOO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711/roller",
+      "source_date": "2019-09-05",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923159711. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:57+00:00",
+  "changes": []
+}

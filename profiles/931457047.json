@@ -1,0 +1,205 @@
+{
+  "orgnr": "931457047",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARAB - NORWEGIAN CHAMBER OF COMMERCE (ANCC)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Ole Johan Sandvær, Vikenstranda 8, 2816, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-03-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:05+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Johan Sandvær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sjur Eigil Bratland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Birgit Marie Bjørndal Liodden",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bror Anthony Berge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Arvnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Fon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Heidi Margrete Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gisle Wold Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
+      "source_date": "2026-02-19",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2023-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 72000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 70470.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 70468.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931457047",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931457047. Gaps: Regnskapsregisteret's newest filing ends 2023-12-31, but Enhetsregisteret lists accounts filed for 2025.",
+  "last_checked": "2026-10-17T07:47:06+00:00",
+  "changes": []
+}

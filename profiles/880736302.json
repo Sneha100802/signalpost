@@ -1,0 +1,128 @@
+{
+  "orgnr": "880736302",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BROSTUEN SNUGGERUD SAMDRIFT ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Finstadvegen 154, 2836, BIRI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1999-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive felles melkeproduksjon for best mulig rasjonell drift og økonomisk utnyttelse for partene, ved hovedsaklig å utnytte eksisterende kapasitet. I tillegg til melkeproduksjon kan partene etablere annen virksomhet som direkte knytter seg til landbruksnæringen. Etableres det samdrift om annen virksomhet i tillegg til selve melkeproduksjon med grovforproduksjon, bør det utarbeides tilleggsavtale/-vedtekter for dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": "1999-07-07",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Nils Kristian Brostuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302/roller",
+      "source_date": "2000-09-20",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Nils Kristian Brostuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302/roller",
+      "source_date": "2000-09-20",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Øystein Snuggerud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302/roller",
+      "source_date": "2000-09-20",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880736302. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:27+00:00",
+  "changes": []
+}

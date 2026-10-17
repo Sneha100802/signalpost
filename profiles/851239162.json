@@ -1,0 +1,149 @@
+{
+  "orgnr": "851239162",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS MOLDE INTERIØR OG MØBELSERVICE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.340 Maler- og glassarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Fagerlivegen 28, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-02-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive verksted og forretning innen møbel og interiør, samt alt som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Sylva Irene Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "2026-07-03",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Nina Susanne Sivertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "2026-07-03",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Mona Helen Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "2026-07-03",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nina Susanne Sivertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "1989-04-05",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sylva Irene Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "1989-04-05",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mona Helen Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/851239162/roller",
+      "source_date": "1989-04-05",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 851239162. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:14+00:00",
+  "changes": []
+}

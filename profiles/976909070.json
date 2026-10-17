@@ -1,0 +1,212 @@
+{
+  "orgnr": "976909070",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DEN ISLAMSKE STIFTELSE I NORGE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Tordenskiolds gate 40, 3044, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2435, 3003, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1996-07-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": "1996-11-15",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ali Ekiz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2010-11-10",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ali Ekiz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2014-11-05",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Osman Katirci",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2014-11-05",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mehmet Erkøk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2014-11-05",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Faruk Unsal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2014-11-05",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Haydar Satici",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2014-11-05",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KOPSTAD OG KURE REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2019-07-23",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ARTIA REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
+      "source_date": "2025-06-01",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 328800.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -434419.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -452239.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2184885.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1971865.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976909070",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976909070.",
+  "last_checked": "2026-10-17T07:49:41+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "984729421",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARENA AKUSTIKK DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "77.390 Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sørhaugen 21, 5236, RÅDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.arenaakustikk.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-08-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg, installasjon og utleie av teknisk lyd, lys og sceneutstyr samt andre ting som faller naturlig inn under samme kategorier.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": "2002-08-08",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Knut-Magnus Harildstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421/roller",
+      "source_date": "2014-01-16",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Erling Harildstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984729421/roller",
+      "source_date": "2014-01-16",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984729421. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:49+00:00",
+  "changes": []
+}

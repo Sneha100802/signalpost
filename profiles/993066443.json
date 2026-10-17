@@ -1,0 +1,156 @@
+{
+  "orgnr": "993066443",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DRIFTSSELSKAPET MISVÆR SVØMMEHALL SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.510 Undervisning innenfor idrett og rekreasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Eivind Tidslevold, Oppegårdveien 9, 8100, MISVÆR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1985-03-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Stå for all drift av svømmehallen utenom skoletid og reguleres ved avtale mellom Bodø kommune og Driftsselskapet Misvær Svømmehall SA.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": "2020-03-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Idar Brodersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Andreas Nerland Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mona Sinclair Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ragnhild Klette",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stig John Hagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Espen Opli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Sander Lind",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443/roller",
+      "source_date": "2025-03-25",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993066443. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:30+00:00",
+  "changes": []
+}

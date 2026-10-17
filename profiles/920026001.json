@@ -1,0 +1,142 @@
+{
+  "orgnr": "920026001",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASLAK BOLIGRUPPE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.110 Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Montebello terrasse 13, 0379, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/OBOS Eiendomsforvaltning AS, Postboks 6666 St. Olavs plass, 0129, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive tilrettelagte aktiviteter til bolig for samvirkemedlemmene. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av varer og/eller tjenester for tilrettelagte aktiviteter til bolig for samvirkemedlemmene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": "2018-01-05",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Thorbjørn Grindhaug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Olav Tandberg Raae",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Peter Pronstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "OBOS EIENDOMSFORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
+      "source_date": "2020-09-30",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920026001. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:04+00:00",
+  "changes": []
+}

@@ -1,0 +1,205 @@
+{
+  "orgnr": "920639674",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BORGESTAD ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Fornebuveien 1, 1366, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1904-07-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive investerings- og forvaltningsvirksomhet, herunder deltakelse i andre selskaper, erverv av aksjer og andre selskapsandeler, samt erverv og drift av fast eiendom, samt all hertil hørende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Pål Feen Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2019-06-14",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Glen Ole Rødland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Helene Bryde Steen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Erik Sivertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Wenche Kjølås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jacob Andreas Møller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2023-06-29",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
+      "source_date": "2025-05-30",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1125973000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 52606000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 20334000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1466849000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 802909000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920639674",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920639674.",
+  "last_checked": "2026-10-17T07:47:14+00:00",
+  "changes": []
+}

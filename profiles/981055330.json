@@ -1,0 +1,170 @@
+{
+  "orgnr": "981055330",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AXEL SELLGRENS STIFTELSE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": "1999-09-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": "1999-09-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": "1999-09-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jens Tvedts veg 20, 7024, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": "1999-09-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1974-11-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": "1999-09-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørn Rune Sellgren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330/roller",
+      "source_date": "2022-06-27",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Solem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330/roller",
+      "source_date": "2022-06-27",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Walle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330/roller",
+      "source_date": "2022-06-27",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330/roller",
+      "source_date": "2010-01-06",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981055330",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -35560.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981055330",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 78821.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981055330",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1683968.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981055330",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1683968.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981055330",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981055330.",
+  "last_checked": "2026-10-17T07:50:27+00:00",
+  "changes": []
+}

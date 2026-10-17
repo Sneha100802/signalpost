@@ -1,0 +1,205 @@
+{
+  "orgnr": "953870819",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL GYLDENLØVESGT 32 BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Sørlandet Boligbyggelag, Rådhusgata 14, 4611, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1959-01-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOSØR BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2010-04-13",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Guttorm Andreas Haaversen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2025-09-03",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monica Brunell Hernandez",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2025-09-03",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Adrian Brogård Hjelkrem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2025-09-03",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Dragan Djulepa",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2025-09-03",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOSØR BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
+      "source_date": "2012-03-24",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 600467.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 206797.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 212921.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 578039.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 397717.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953870819",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953870819.",
+  "last_checked": "2026-10-17T07:48:30+00:00",
+  "changes": []
+}

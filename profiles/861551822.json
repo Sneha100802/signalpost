@@ -1,0 +1,226 @@
+{
+  "orgnr": "861551822",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL RØDBERGVEIEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Zetlitzveien 2, 4017, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Bate boligbyggelag, Postboks 88 Sentrum, 4001, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1970-04-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "AGIO FORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2025-08-22",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BATE BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2025-08-22",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tom Vestgård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2023-08-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annar Salberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2023-08-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marit Nylund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2023-08-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eva Irene Tobiassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2023-08-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Siv-Aina Kvanli Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2023-08-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2025-09-17",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BATE BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
+      "source_date": "2025-08-23",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1226739.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 490810.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -64253.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 6751927.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -3537920.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/861551822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 861551822.",
+  "last_checked": "2026-10-17T07:50:21+00:00",
+  "changes": []
+}

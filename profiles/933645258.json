@@ -1,0 +1,170 @@
+{
+  "orgnr": "933645258",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "369 HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Tranberglia 20, 2819, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-04-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investeringsvirksomhet i eiendom og verdipapirer, samt alt som står i forbindelse med dette, herunder å delta i andre selskaper med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kristian Andersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258/roller",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristian Andersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258/roller",
+      "source_date": "2024-06-20",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -8282.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -123635.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3281538.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1334164.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933645258",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:28+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933645258.",
+  "last_checked": "2026-10-17T07:47:28+00:00",
+  "changes": []
+}

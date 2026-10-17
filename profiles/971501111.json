@@ -1,0 +1,240 @@
+{
+  "orgnr": "971501111",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANDUNGEN BARNEHAGE TRONDHEIM SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Klostergata 82, 7030, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "website",
+      "value": "andungenbarnehage.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 15,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Foretakets formål er ikkekapitalavkastning til medlemmene. Eventuelt årsoverskudd godskrives egenkapitalen i foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Randi Viken Faanes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2013-02-12",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lars Tingelstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gjermund Rød Siksjø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne Gabrielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Signe Grete Desserud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christoffer Søbstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Andrea Gisela Gertrud Kontis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Alberto Diez Sanchez",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2014-10-03",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "TALERA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
+      "source_date": "2024-06-14",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 7667188.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 562710.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 564367.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2861591.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1773832.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971501111",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971501111.",
+  "last_checked": "2026-10-17T07:50:27+00:00",
+  "changes": []
+}

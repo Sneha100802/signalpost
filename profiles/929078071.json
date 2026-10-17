@@ -1,0 +1,100 @@
+{
+  "orgnr": "929078071",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "4NORWAY OMAR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "79.110 Reisebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Birkeveien 36, 5089, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Khalil Sharif Omar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929078071/roller",
+      "source_date": "2022-04-20",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929078071. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:46:52+00:00",
+  "changes": []
+}

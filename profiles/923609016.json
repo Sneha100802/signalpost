@@ -1,0 +1,282 @@
+{
+  "orgnr": "923609016",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EQUINOR ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "06.100 Utvinning av råolje",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Forusbeen 50, 4035, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 8500, 4035, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.equinor.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 21231,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1972-09-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "1120 Statlig eide aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å utvikle, produsere og markedsføre ulike former for energi, avledede produkter og tjenester, samt annen virksomhet. Virksomheten kan også drives gjennom deltakelse i eller i samarbeid med andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anders Opedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2020-11-02",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jarle Kjell Roth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Finn Bjørn Ruyter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Haakon Stephen Bruun-Hanssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Fernanda Lopes Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hilde Møllerstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frank Indreland Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir Leon Vadheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Drinkwater",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mikael Roland Karlsson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Dawn Summers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hans Einar Haldorsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anette Heggholmen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Terje Werner Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2026-09-04",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
+      "source_date": "2019-07-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 106462000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 25353000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 5058000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 131727000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 40497000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    }
+  ],
+  "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923609016.",
+  "last_checked": "2026-10-17T07:49:57+00:00",
+  "changes": []
+}

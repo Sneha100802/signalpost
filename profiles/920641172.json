@@ -1,0 +1,184 @@
+{
+  "orgnr": "920641172",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1 TIME AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Breistølsveien 11, 5034, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-02-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investeringsvirksomhet, herunder kjøp og salg av andeler i andre selskaper, samt det som naturlig hører under dette og utlånsvirksomhet til tilknyttede selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": "2018-03-21",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jon-Terje Lepsøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
+      "source_date": "2018-08-16",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jon-Terje Lepsøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
+      "source_date": "2019-11-15",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Liv My Falck",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
+      "source_date": "2019-11-15",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BJØRGVIN REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
+      "source_date": "2019-11-15",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
+      "source_date": "2025-01-29",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920641172",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -134027.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920641172",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 3467620.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920641172",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 53924501.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920641172",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 53235031.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920641172",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920641172.",
+  "last_checked": "2026-10-17T07:51:16+00:00",
+  "changes": []
+}

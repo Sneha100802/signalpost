@@ -1,0 +1,128 @@
+{
+  "orgnr": "985966826",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AUTOGRAFENE PROSJEKT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.990 Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jarveien 14A, 1358, JAR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg og konsulentvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Claus Johannsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826/roller",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Claus Johannsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826/roller",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Truls Heiberg Kristoffersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985966826/roller",
+      "source_date": "2003-09-18",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985966826. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:16+00:00",
+  "changes": []
+}

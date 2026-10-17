@@ -1,0 +1,212 @@
+{
+  "orgnr": "933187764",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CAVENDISH HYDROGEN ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "72.100 Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Dronning Eufemias gate 16, 0191, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-03-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive virksomhet, herunder utvikle og produsere, investere i og/eller eie rettigheter innen produksjon av hydrogenfyllestasjoner eller andre relaterte områder, og alt som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Robert Christian Gustaf Borin",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2024-05-13",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jon Andre Løkke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Michael Simml",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mimi Kristine Berdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vibeke Strømme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Allan Bødskov Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2024-03-19",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "KPMG ACCOUNTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
+      "source_date": "2024-07-24",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 15961000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -25096000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -26644000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 59021000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 48682000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933187764",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933187764.",
+  "last_checked": "2026-10-17T07:50:56+00:00",
+  "changes": []
+}

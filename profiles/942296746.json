@@ -1,0 +1,170 @@
+{
+  "orgnr": "942296746",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS TREKANTEN I",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bynesveien 9, 7018, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1986-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive eiendommen \"Trekanten\" gnr. 315, bnr. 425 i Trondheim.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Øyvind Gartland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746/roller",
+      "source_date": "2022-11-04",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "TREKANTEN EIENDOM OG DRIFT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746/roller",
+      "source_date": "2005-10-01",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "TREKANTEN INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746/roller",
+      "source_date": "2005-10-01",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/942296746",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:18+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/942296746",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:18+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/942296746",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:18+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/942296746",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:18+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/942296746",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:18+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 942296746.",
+  "last_checked": "2026-10-17T07:47:18+00:00",
+  "changes": []
+}

@@ -1,0 +1,170 @@
+{
+  "orgnr": "982771706",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKAT HÅVARD FREMSTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Storgata 2, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "website",
+      "value": "advs2.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Håvard Fremstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706/roller",
+      "source_date": "2001-01-09",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "INTER REVISOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706/roller",
+      "source_date": "2022-09-12",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SKREIA REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706/roller",
+      "source_date": "2024-03-21",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3349641.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2504111.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2505840.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1153725.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 850822.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982771706",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:08+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982771706.",
+  "last_checked": "2026-10-17T07:50:08+00:00",
+  "changes": []
+}

@@ -1,0 +1,212 @@
+{
+  "orgnr": "926046055",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CONSULATET 2 SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Dokkgata 7, 4014, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.facebook.com/Consulatet/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-12-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utleie av lokaler til medlemmene sine i et produksjonsfelleskap. Medlemmene samarbeider om innkjøp til og drift av fellesområder i lokalene. Fellesområdene kan også brukes til kulturarrangementer og utsalgssted der medlemmene er leverandører av innhold. Formålet med Consulatet 2 SA er å holde lav leiepris på lokalene medlemmene leier, samt at medlemmene deler utstyr, fellesområder i lokalene og samarbeider om produksjon av kunst og kultur. Formålet med virksomheten er ikke å generere overskudd i samvirket, men å gi medlemmene økonomisk fordel gjennom å holde leieprisen lav. Heller enn å fordele overskudd, vil samvirket gi lavere husleie til medlemmene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": "2021-01-13",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mia Louise Koch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Benjamin Simon Hickethier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Morten Iversen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Torger Svindland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lena Skår Størseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Birkedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Line Lønning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anette Gellein",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stine Johanne Janvin Joh",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Johan Olsen Joh",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Fredrik Sundsteigen Hana",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Auestad Danielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjetil Davies Brandsdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Patrick Gulliksen Petterson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926046055/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:08+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926046055. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:08+00:00",
+  "changes": []
+}

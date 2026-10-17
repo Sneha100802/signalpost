@@ -1,0 +1,128 @@
+{
+  "orgnr": "922629862",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FRISVOLL DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "33.120 Reparasjon og vedlikehold av maskiner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Hallvar Toven Frisvoll, Kanndalsvegen 42, 6470, ERESFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Tilby vedlikehold og reparasjoner av landbruksredskap, anleggsmaskiner og alt som står i naturlig forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Hallvar Toven Frisvoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862/roller",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kato Morewood Frisvoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862/roller",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BØNDENES REGNSKAPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862/roller",
+      "source_date": "2019-04-15",
+      "retrieved_at": "2026-10-17T07:49:52+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922629862. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:53+00:00",
+  "changes": []
+}

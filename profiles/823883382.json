@@ -1,0 +1,149 @@
+{
+  "orgnr": "823883382",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASSIMILATE DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.529 Annen undervisning innenfor kultur",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Ole Kristian Løberg, Plutobakken 26, 3055, KROKSTADELVA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-10-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Musikkseminar, kurs og fremførelse av egenkomponert musikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ole-Kristian Løvberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ole-Kristian Løvberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Svein Ivar Sarassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Alexander Brevig",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Dan-Elias Brevig",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Geir Wetterhus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
+      "source_date": "2020-04-23",
+      "retrieved_at": "2026-10-17T07:47:06+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 823883382. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:06+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "984011733",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANALOGUE ORCHESTRA ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "59.200 Produksjon og utgivelse av musikk- og lydopptak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Paal Evjen, Astri Aasensvei 10 A, 7051, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/Paal Evjen, Astri Aasensvei 10 A, 7051, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-12-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Musikkutgivelse og det som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:20+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Paal Evjen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733/roller",
+      "source_date": "2001-12-12",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Paal Evjen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733/roller",
+      "source_date": "2002-02-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jonny Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984011733/roller",
+      "source_date": "2002-02-16",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984011733. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:21+00:00",
+  "changes": []
+}

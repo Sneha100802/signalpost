@@ -1,0 +1,107 @@
+{
+  "orgnr": "915319343",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "21MANAGEMENT KNUT AXEL GULBRANDSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Eiksveien 65, 1361, ØSTERÅS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.tjueen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Knut Axel Gulbrandsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915319343/roller",
+      "source_date": "2015-04-29",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915319343. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:39+00:00",
+  "changes": []
+}

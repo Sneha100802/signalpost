@@ -1,0 +1,226 @@
+{
+  "orgnr": "990681619",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN FREDVIKA STEINERBARNEHAGE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Østre Totenveg 10, 2816, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "website",
+      "value": "fredvika.steinerbarnehage.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 30,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2006-12-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": "2007-04-18",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Hilde Kristensen Gran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2019-04-09",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Roar Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hilde Kristensen Gran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Synnøve Eidsvoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mari Bekk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Damaris Leigh Lanjopoulos Smedsrud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "May Linn Nygård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-10-20",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2025-09-24",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "DITT REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
+      "source_date": "2012-03-10",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 13107573.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 549544.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 265884.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8233391.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1331525.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990681619",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:07+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990681619.",
+  "last_checked": "2026-10-17T07:48:07+00:00",
+  "changes": []
+}

@@ -1,0 +1,149 @@
+{
+  "orgnr": "985514593",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADMINISTRASJONS- OG LEDELSESPERSONALETS FAGFORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.200 Aktiviteter i arbeidstakerorganisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Schweigaards gate 23, 0191, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Nedbergveien 17, 3053, STEINBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-01-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": "2003-04-30",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Trond Aksel Nedberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2025-07-10",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trond Aksel Nedberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "David Rødland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Truls Kleven",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linda Svalland Hoen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tove Skogrand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985514593. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:16+00:00",
+  "changes": []
+}

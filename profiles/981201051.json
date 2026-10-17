@@ -1,0 +1,205 @@
+{
+  "orgnr": "981201051",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DRANGSHOLT VANNVERK SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Thomas Gabrielsen, Drangsholtveien 31, 4658, TVEIT",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/Iren Sommerset, Mjølemonen 26, 4658, TVEIT",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1956-08-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Foretaket er et vannverk som skal levere drikkevann til andelshaverne i henhold til Drikkevannsforskriften. Foretaket er et samvirkeforetak regulert under Samvirkeloven.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": "1999-12-14",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Iren Herdis Sommerset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Dagfinn Brørs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Targeir Attestog",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Cecilia Skåle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Glenn Erik Drangsholt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ASPIA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981201051/roller",
+      "source_date": "2025-12-18",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 544883.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -98650.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -109850.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 831258.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 735828.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981201051",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981201051.",
+  "last_checked": "2026-10-17T07:47:15+00:00",
+  "changes": []
+}

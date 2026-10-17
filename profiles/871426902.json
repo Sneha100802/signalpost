@@ -1,0 +1,233 @@
+{
+  "orgnr": "871426902",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GODTHAAB HELSE OG REHABILITERING STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "87.101 Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gamle Ringeriksvei 148, 1356, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.godthaab.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 71,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1925-03-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Stiftelsens formål er å gi aktive rehabiliteringstilbud for å bedre pasientenes funksjonsnivå, bidra til å hindre tilbakefall av sykdom/skade og bedre muligheten for god livskvalitet og egenomsorg.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jostein Blikås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-05",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Marianne Wahlstrøm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marianne Voll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Pål Johan Vanberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Kjersti Cecelia Befring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Didrik Weiby Bell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Reidar Johan Muri Sverdrup",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2026-05-12",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "NITSCHKE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2017-11-23",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "NIVAL AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
+      "source_date": "2024-12-11",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 57575000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 316957.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -54764.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 42422418.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 19170419.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:32+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871426902.",
+  "last_checked": "2026-10-17T07:48:32+00:00",
+  "changes": []
+}

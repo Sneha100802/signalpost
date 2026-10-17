@@ -1,0 +1,121 @@
+{
+  "orgnr": "984918690",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1 MJØNDALEN SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": "2002-12-12",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": "2002-12-12",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": "2002-12-12",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 11, 3051, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": "2002-12-12",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1922-02-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": "2002-12-12",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Geir Ottar Kvisten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690/roller",
+      "source_date": "2014-01-11",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jens Andre Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690/roller",
+      "source_date": "2014-01-11",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Knud Peter Lottrup",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690/roller",
+      "source_date": "2014-01-11",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984918690. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:11+00:00",
+  "changes": []
+}

@@ -1,0 +1,226 @@
+{
+  "orgnr": "974688034",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GJETTUM BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gjettumveien 75, 1346, GJETTUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.gjettumbarnehage.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 20,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-03-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Barnehagen skal i samarbeid og forståelse med hjemmet ivareta barnas behov for omsorg og lek, og fremme læring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge på grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik som respekt for menneskeverdet og naturen, på åndsfrihet, nestekjærlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn som er forankret i menneskerettighetene.   Barna skal få utfolde skaperglede, undring og utforskertrang. De skal få lære å ta vare på seg selv, hverandre og naturen. Barna skal utvikle grunnleggende kunnskap og ferdigheter. De skal ha rett til medvirkning tilpasset alder og forutsetninger.   Barnehagen skal møte barna med tillit og respekt og anerkjenne barndommens egenverdi. Den skal bidra til trivsel og glede i lek og læring, og være et utfordrene og trygt sted for fellesskap og venneskap. Barnehagen skal fremme demokrati og likestilling og motarbeide alle former for diskriminering (barnehageloven § 1).  ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": "1995-07-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Cathrine Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2002-10-19",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nicolai Lindal Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rein Baardsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Susanne Lorentzen Hellehaugen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Lande",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjersti Egeland Fjellstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ALPHA REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2002-04-22",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "REIDUN GULBRANDSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
+      "source_date": "2013-09-09",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 13340026.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 156551.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 178591.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1798628.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -309959.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974688034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:00+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974688034.",
+  "last_checked": "2026-10-17T07:48:00+00:00",
+  "changes": []
+}

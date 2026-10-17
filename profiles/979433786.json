@@ -1,0 +1,247 @@
+{
+  "orgnr": "979433786",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN BODIN 4H-GÅRD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "88.996 Andre sosialtjenester uten botilbud ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Thalleveien 27, 8076, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 16,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-12-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Finn Arne Almås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "1998-02-19",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lena Brøndbo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne-Terese Fagerli-Johnson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gøril Tømmerberg Tvenning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aleksander Stensaker Emilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Sigfred Solstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Olaug Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Harald Nøss",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Svein Magne Åsbakk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tove Helen Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "NORDNORSK REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SALTEN REGNSKAPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-06-16",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ØKORÅD SALTEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
+      "source_date": "2026-06-16",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2551218.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 328401.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 395279.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3514806.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3068596.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979433786",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:46+00:00"
+    }
+  ],
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979433786.",
+  "last_checked": "2026-10-17T07:50:46+00:00",
+  "changes": []
+}

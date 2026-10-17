@@ -1,0 +1,191 @@
+{
+  "orgnr": "921260717",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2 MINUTTER FOR HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Johs Faales vei 18, 1363, HØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-06-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investere i andre bedrifter og eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jørgen Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717/roller",
+      "source_date": "2018-08-20",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jørgen Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717/roller",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Heidi Bøås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717/roller",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "NITSCHKE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717/roller",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921260717/roller",
+      "source_date": "2023-12-21",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 20000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -718540.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 66746777.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 79705107.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 76619268.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921260717",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921260717.",
+  "last_checked": "2026-10-17T07:50:35+00:00",
+  "changes": []
+}

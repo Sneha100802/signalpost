@@ -1,0 +1,212 @@
+{
+  "orgnr": "921179391",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABG SUNDAL COLLIER STIFTELSEN - FOR KVINNER I FINANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ruseløkkveien 26, 0251, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1444 Vika, 0115, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-05-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Marianne Daae",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2023-05-02",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Adele Bugge Norman Pran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Petter Collier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Knut Brundtland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eirin Traasdahl Mårvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Catrin Kerstin Maria Jansson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2018-07-26",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ABG BUSINESS MANAGEMENT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2024-04-11",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
+      "source_date": "2024-04-11",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921179391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -2155304.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921179391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 63293.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921179391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 28445506.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921179391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 27821793.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921179391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921179391.",
+  "last_checked": "2026-10-17T07:51:09+00:00",
+  "changes": []
+}

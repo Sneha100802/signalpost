@@ -1,0 +1,128 @@
+{
+  "orgnr": "937307152",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AJC GROUP SP.Z O.O. NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ul. Wojska Polskiego nr. 42, PL-84-300 LEBORK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Folkestadsgate 2, 3043, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 16,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "MTA GROUP 2 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Karol Maciej Wozniak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "MTA GROUP 2 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "AJC GROUP SPÒLKA Z OGRANICZONA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937307152. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:29+00:00",
+  "changes": []
+}

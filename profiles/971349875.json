@@ -1,0 +1,212 @@
+{
+  "orgnr": "971349875",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3,14 STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vågsallmenningen 12, 5014, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.kunsthall314.art",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-12-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Malin Anna Carolina Barth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2007-05-19",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Johannes Magnus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linn Kristin Langley-Rasmussen Engø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Øyunn Viken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nuray Yildirim Gullestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "STORETVEDT REGNSKAPSBYRÅ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
+      "source_date": "2015-12-22",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 4856270.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 383862.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 386535.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 725869.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 263193.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971349875",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:33+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971349875.",
+  "last_checked": "2026-10-17T07:49:33+00:00",
+  "changes": []
+}

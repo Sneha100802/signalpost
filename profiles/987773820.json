@@ -1,0 +1,170 @@
+{
+  "orgnr": "987773820",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A-CONSULTING ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.201 Revisjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Åsfaret 12, 1362, HOSLE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-12-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av tjenester knyttet til økonomisk administrative tjenester herigjennom som underleverandør av medarbeidertimer til revisjon samt investeringer i andre selskaper og fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Hans-Christian Axelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820/roller",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Odd Arne Ekholt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820/roller",
+      "source_date": "2005-01-25",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2023-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -137513.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -137570.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 39285.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 16471.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987773820",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:42+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987773820.",
+  "last_checked": "2026-10-17T07:50:42+00:00",
+  "changes": []
+}

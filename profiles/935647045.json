@@ -1,0 +1,135 @@
+{
+  "orgnr": "935647045",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABB TRONDHEIM BEDRIFTSIDRETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": "2025-06-10",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": "2025-06-10",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.120 Aktiviteter i idrettslag og -klubber",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": "2025-06-10",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o ABB AS, Ingvald Ystgaards veg 3A, 7047, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": "2025-06-10",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-05-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": "2025-06-10",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "John David Frisk Strömberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nils Erik Eggen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andreas Gurk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ella Victoria Berglund Erdmann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kyrre Alexander Classon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935647045. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:15+00:00",
+  "changes": []
+}

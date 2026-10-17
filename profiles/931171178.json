@@ -1,0 +1,107 @@
+{
+  "orgnr": "931171178",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "24M TECHNOLOGIES, INC.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "27.200 Produksjon av batterier og akkumulatorer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "130 Brookline ST, CAMBRIDGE, MA 02139",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Advokatfirmaet Vialto Partners, Dronning Eufemias gate 16, 0191, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Austin Bronick Watroba",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178/roller",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "24M TECHNOLOGIES, INC.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931171178/roller",
+      "source_date": "2023-04-20",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931171178. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:48+00:00",
+  "changes": []
+}

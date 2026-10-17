@@ -1,0 +1,219 @@
+{
+  "orgnr": "961183332",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HEDENSRUD BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gamle Kongevei 107, 3040, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.hedensrud.barnehage.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 17,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-08-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Silje Benedicte Gellein Ayazoglu",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2022-10-10",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anders Prytz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aylin Tügsüz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ida Skustad Moe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Stine Opheim Kaland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2026-09-30",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
+      "source_date": "2009-08-11",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 13001043.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -468432.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -369566.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 6718066.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4904507.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/961183332",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961183332.",
+  "last_checked": "2026-10-17T07:49:29+00:00",
+  "changes": []
+}

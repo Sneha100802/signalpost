@@ -1,0 +1,135 @@
+{
+  "orgnr": "950791268",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A T BLOMSTER & INTERIØR DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.761 Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Brolandsveien 22C, 0980, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-01-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handelsvirksomhet av blomster og gaveartikler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:08+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Per-Inge Evensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268/roller",
+      "source_date": "1989-03-17",
+      "retrieved_at": "2026-10-17T07:49:09+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Turid Sparby Nordlund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268/roller",
+      "source_date": "1989-03-17",
+      "retrieved_at": "2026-10-17T07:49:09+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Per-Inge Evensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268/roller",
+      "source_date": "1989-03-17",
+      "retrieved_at": "2026-10-17T07:49:09+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Turid Sparby Nordlund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950791268/roller",
+      "source_date": "1989-03-17",
+      "retrieved_at": "2026-10-17T07:49:09+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950791268. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:09+00:00",
+  "changes": []
+}

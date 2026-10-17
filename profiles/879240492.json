@@ -1,0 +1,93 @@
+{
+  "orgnr": "879240492",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJ PETROLEUM SERVICES LTD. C/O ADVOKATFIMAET PRICE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Advfa PricewaterhouseCoopers DA, Postboks 538, 4003, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Iain Shields Thom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492/roller",
+      "source_date": "1998-09-14",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "BJ PETROLEUM SERVICES LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879240492/roller",
+      "source_date": "1998-09-14",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    }
+  ],
+  "explanation": "12 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 879240492. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:37+00:00",
+  "changes": []
+}

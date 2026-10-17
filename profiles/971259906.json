@@ -1,0 +1,219 @@
+{
+  "orgnr": "971259906",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "INTERNATIONAL CHILD DEVELOPMENTS PROGRAMME (ICDP) STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.597 Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Temtemoveien 10B, 3053, STEINBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.icdp.info",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-01-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Dahliani Anne Drejza",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2022-03-18",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nicoletta Armstrong",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ane-Marthe Solheim Skar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Einar Columbus Salvesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Guillermo Hernando Navas Camacho",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Santana Gulamali Momade",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tatiana Lisa Compton",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2025-01-15",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "HØILUND REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2023-05-10",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971259906/roller",
+      "source_date": "2024-10-29",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 293768.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 91588.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 90622.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 428634.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 426250.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971259906",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971259906.",
+  "last_checked": "2026-10-17T07:50:58+00:00",
+  "changes": []
+}

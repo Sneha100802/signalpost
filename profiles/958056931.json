@@ -1,0 +1,198 @@
+{
+  "orgnr": "958056931",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADAMSTUEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Hallgren & Hallgren AS, Brugata 11, 0186, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1990-07-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Viggo Hallgren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2025-07-09",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nils Ole Bae Brandtzæg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2025-07-09",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Dorte Dahl Grønnevet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2025-07-09",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anders Sætherø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2025-07-09",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Dennis Van Haalen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2025-07-09",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "STIANSEN & CO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2024-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 795816.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 22297.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -91527.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5156447.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1554462.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/958056931",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 958056931.",
+  "last_checked": "2026-10-17T07:48:55+00:00",
+  "changes": []
+}

@@ -1,0 +1,107 @@
+{
+  "orgnr": "937291655",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORTHERN OUTDOOR EXPERIENCE TOBIAS KOSTIAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "79.902 Guide- og reiseledervirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kreuzberg 8, DE-72829 ENGSTINGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Heike Vester, Løpshavn 86, 8016, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tobias Kostial",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655/roller",
+      "source_date": "2026-09-02",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "NORTHERN OUTDOOR EXPERIENCE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937291655/roller",
+      "source_date": "2026-03-28",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937291655. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:46:48+00:00",
+  "changes": []
+}

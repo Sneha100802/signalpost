@@ -1,0 +1,191 @@
+{
+  "orgnr": "995263165",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CAP CLARA SMÅBÅTHAVN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.292 Fritidsvirksomhet ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Mekvorpvegen 11, 6411, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.capclara.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-03-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2011",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å bygge ut og drive småbåthavn, samt levere eventuelle andre tjenester til medlemmene som står i forbindelse med dette. Foretaket skal arbeide for båteiernes felles interesser. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av varer og tjenester fra foretaket. Virksomhetens avkastning blir stående i virksomheten.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": "2010-03-22",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Geir Sylte",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Strømmen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Storebø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Lange Folke-Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Svein Bråthen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thomas Urdshals",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Halvard Fiksdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristian Webjørn Remen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tonje Marie Storlien",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BARSTEN REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
+      "source_date": "2022-09-22",
+      "retrieved_at": "2026-10-17T07:47:32+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995263165. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:32+00:00",
+  "changes": []
+}

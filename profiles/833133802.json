@@ -1,0 +1,205 @@
+{
+  "orgnr": "833133802",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BERGENSBANEN JV ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "42.120 Bygging av jernbaner og undergrunnsbaner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lysaker torg 25, 1366, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 18, 1324, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-02-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Være et prosjektselskap for utførelse av entreprenørarbeider i tilknytning til nytt kontaktledningsanlegg på Bergensbanen, kontrakt for KL-AT Hønefoss - Haugastøl.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Espen Heggelund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "NRC NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2025-05-23",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "ORION JBT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2025-05-23",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kenneth Nordahl-Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2026-06-26",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjetil Nevstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2026-06-26",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802/roller",
+      "source_date": "2024-03-07",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 413762931.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 62960374.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 63674698.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 177402517.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 70890700.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/833133802",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 833133802.",
+  "last_checked": "2026-10-17T07:49:32+00:00",
+  "changes": []
+}

@@ -1,0 +1,233 @@
+{
+  "orgnr": "971430087",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FOLKETS HUS BODØ SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Prinsens gate 115, 8005, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1965-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive virksomhet innen møte-, kontor-, og samlingslokaler. Foretaket kan også drive annen virksomhet relatert til hovedformålet. Foretaket har til formål å fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandør av ovennevnte lokaler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Knut Ilstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arnt Egil Hermansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Anne Sennesvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Carine Hagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Åse Marie Birkeli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Odd Andreas Lund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arnt Hugo Hatten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ann Merethe Larsos Kristensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Christine Ilstad Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Margit Wik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FLYT ØKONOMI AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
+      "source_date": "2024-08-24",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1977853.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 371073.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 112298.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 7475059.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1744029.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971430087",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971430087.",
+  "last_checked": "2026-10-17T07:47:44+00:00",
+  "changes": []
+}

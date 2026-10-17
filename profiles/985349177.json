@@ -1,0 +1,163 @@
+{
+  "orgnr": "985349177",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADELSTEEN NORMANN STIFTELSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.120 Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hålogatun, Reinslettveien 1, 8009, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 779, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-11-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": "2003-02-06",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nora Elisif Vaag Miller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjell Henrik Stein Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Harald Bodøgaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anne Grete Ellingsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jørgen Thommesen Fjørtoft",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Astrid Aleksandra Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2024-03-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "SALTEN KOMMUNEREVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
+      "source_date": "2008-04-26",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985349177. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:15+00:00",
+  "changes": []
+}

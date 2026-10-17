@@ -1,0 +1,205 @@
+{
+  "orgnr": "980762572",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A WILHELMSEN FOUNDATION STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Aker brygge, Beddingen 8, 0250, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1583 Vika, 0118, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "website",
+      "value": "awfoundation.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1999-04-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": "1999-09-29",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Knut Inge Nossen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2023-07-18",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jens-Julius Ramdahl Nygaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2025-08-27",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Vernegg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2025-08-27",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nils Christian Aars Wilhelmsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2025-08-27",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Ledel Henriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2025-08-27",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristine Hasle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2025-08-27",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980762572",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -741836.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980762572",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 12379740.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980762572",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 138759268.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980762572",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 137224342.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980762572",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:04+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980762572.",
+  "last_checked": "2026-10-17T07:51:04+00:00",
+  "changes": []
+}

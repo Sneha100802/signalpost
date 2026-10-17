@@ -1,0 +1,142 @@
+{
+  "orgnr": "912857328",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FUGLSET HANDEL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lyngvegen 3, 6429, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2013-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eiendomsforvaltning og utleie av eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Einar Røshol",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Kirsti Røshol Johnson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Gunnhild Røshol",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jørgen Røshol",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
+      "source_date": "2014-02-10",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ROMSDAL REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
+      "source_date": "2024-06-18",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912857328. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:56+00:00",
+  "changes": []
+}

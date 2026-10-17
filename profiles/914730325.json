@@ -1,0 +1,191 @@
+{
+  "orgnr": "914730325",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BØNESHEIEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Vestlandske Boligbyggelag, Strandgaten 196, 5004, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Vestlandske Boligbyggelag, Postboks 1947 Nordnes, 5817, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.vestbo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1985-11-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2016",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Opparbeiding og drift av lagets eiendom gnr. 20, bnr. 964 i Fana/Bergen som er fellesareal for huseierne/medlemmene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "VESTBO BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2015-03-03",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stein Rune Risa",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Finn Robert Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir Ole Aagedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marianne Tepstad Heier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tom Kristian Tørrissen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Siri Dalheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2026-09-22",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VESTBO BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914730325/roller",
+      "source_date": "2015-01-12",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914730325. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:31+00:00",
+  "changes": []
+}

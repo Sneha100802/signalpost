@@ -1,0 +1,135 @@
+{
+  "orgnr": "986282491",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "KARMEN GAVER & DESIGN ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.120 Detaljhandel med bredt vareutvalg ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Parkvegen 72, 6412, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-11-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Detaljhandel av gaveartikler, interiør, klær, moteartikler og tilbehør, herunder import og annen tjenesteyting forbundet med dette. Egen designet og produserte artikler som stearinlys, tekstiler, trykk på klær. etc.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": "2004-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ellen Johanne Nerland Torhus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491/roller",
+      "source_date": "2005-06-22",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Ellen Johanne Nerland Torhus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491/roller",
+      "source_date": "2005-06-22",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Anita Fredvig-Erichsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491/roller",
+      "source_date": "2005-06-22",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BØNDENES REGNSKAPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986282491/roller",
+      "source_date": "2007-02-14",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986282491. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:34+00:00",
+  "changes": []
+}

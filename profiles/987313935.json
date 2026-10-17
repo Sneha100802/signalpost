@@ -1,0 +1,198 @@
+{
+  "orgnr": "987313935",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EPAFRAS LEGAT STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vikingveien 33, 4043, HAFRSFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1987-10-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Trygve Hestness",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trygve Hestness",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Åshild Hestness Gjertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Magnhild Espeset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Georg Tumyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2004-10-12",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERGA REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2016-08-01",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FORMUE ACCOUNTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
+      "source_date": "2016-08-01",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 924544.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 95589.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 101312.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 13635130.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 13605468.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987313935",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987313935.",
+  "last_checked": "2026-10-17T07:49:40+00:00",
+  "changes": []
+}

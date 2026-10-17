@@ -1,0 +1,296 @@
+{
+  "orgnr": "964118191",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "MOWI ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "03.211 Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og brakkvann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sandviksbodene 77A/B, 5035, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 4102 Sandviken, 5835, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.mowi.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 2913,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-05-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Produksjon, foredling, salg og distribusjon av sjømat og produkter som benyttes i sjømatproduksjon, enten direkte eller gjennom aksjeeie, deltakelse i andre selskaper og alt som dermed er forbundet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ivan Vindheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2019-11-20",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Leif Teksum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Peder Strand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lisbet Karin Nærø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aino Kristin Lindal Olaisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eivind Kallbekken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "John Olav Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monica Karlsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kathrine Astrup Fredriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Nina Johansen Kupen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Roald Arve Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ingvill Tuhus Lunde",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tore Sagbak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Øystein Teigland Hunstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2026-06-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2003-10-17",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PROGRESSO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2023-01-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
+      "source_date": "2023-01-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6146000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 960000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 706000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 10229000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4565000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    }
+  ],
+  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964118191.",
+  "last_checked": "2026-10-17T07:46:58+00:00",
+  "changes": []
+}

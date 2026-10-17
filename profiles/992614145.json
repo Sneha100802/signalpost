@@ -1,0 +1,296 @@
+{
+  "orgnr": "992614145",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "POLARIS MEDIA ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "58.120 Utgivelse av aviser",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ferjemannsveien 10, 7042, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 3200 Torgarden, 7003, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.polarismedia.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 75,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-04-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive mediehus, informasjons- og forlagsvirksomhet, samt trykkeridrift og annen beslektet næringsvirksomhet. Selskapet kan for å realisere formålet foreta investeringer, herunder i andre selskaper samt eiendommer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": "2008-05-07",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Per Axel Koch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2008-10-21",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stig Eide Sivertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bente Sollid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thale Susanne Kuvås Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ragnar Kårhus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Siv Juvik Tveitnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stefan Anders Tage Persson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annette Margareta Björkman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lajla Ellingsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monika Vartdal Giske",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Emil Veimoen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ingeborg Volan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anne Cathrine Eilertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Espen Vesterhus Rasmussen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ronny Bertelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2023-09-04",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "DELOITTE SERVICES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
+      "source_date": "2024-06-17",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3650000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 21000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 18000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3994000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2064000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    }
+  ],
+  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145.",
+  "last_checked": "2026-10-17T07:48:54+00:00",
+  "changes": []
+}

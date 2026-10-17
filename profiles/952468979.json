@@ -1,0 +1,142 @@
+{
+  "orgnr": "952468979",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS NEDRE STORGT 14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Storgate 14, 3015, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-01-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøpe inn, utvikle (derunder utbygge) og forvalte eiendommen Nedre Storg. 14, gnr. 114 bnr. 675 i Drammen kommune.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Per Arvid Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "1989-08-28",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Tor Egil Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "1989-08-28",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Geir Lae Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "1998-09-16",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hans Holmen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "1998-09-16",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Egil Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "1998-09-16",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979/roller",
+      "source_date": "2021-01-15",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952468979. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:13+00:00",
+  "changes": []
+}

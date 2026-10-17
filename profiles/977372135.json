@@ -1,0 +1,100 @@
+{
+  "orgnr": "977372135",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3DESIGN TINE-IRLIN DAHL ANDERSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.120 Grafisk design og visuell kommunikasjonsdesign",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Nattland 63B, 5099, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Tine-Irlin Dahl Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977372135/roller",
+      "source_date": "1997-04-08",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977372135. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:31+00:00",
+  "changes": []
+}

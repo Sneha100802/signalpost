@@ -1,0 +1,240 @@
+{
+  "orgnr": "955049497",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "COOP RYE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Spongdalsvegen 28, 7070, BOSBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 40 Bosberg, 7498, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1920-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Forbrukersamvirke.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bjørn Tore Stensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2014-02-01",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lars Stene",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hege Lid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Reidun Annette Rånes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Arve Langørgen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Martin Olve Relling",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hilde Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anna Christina Widén-Björk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2010-01-06",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
+      "source_date": "2021-12-16",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 12961226.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 119457.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 262263.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8951571.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 5298815.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955049497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955049497.",
+  "last_checked": "2026-10-17T07:51:16+00:00",
+  "changes": []
+}

@@ -1,0 +1,142 @@
+{
+  "orgnr": "985446938",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BELUJA ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "42.210 Bygging av vann- og kloakkanlegg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Fjordveien 81C, 1363, HØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 467, 1323, HØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-02-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å yte håndverkstjenester som murerarbeid, malerarbeid, snekkerarbeid og rørleggerarbeid. Videre vil selskapet drive import av bygningselementer og eller hus fra Polen til Norge.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Beatrice Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938/roller",
+      "source_date": "2003-03-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Beatrice Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938/roller",
+      "source_date": "2007-12-12",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Lukasz Sebastian Zakrzewski",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938/roller",
+      "source_date": "2007-12-12",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jaroslaw Grzegorz Kowalczyk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938/roller",
+      "source_date": "2007-12-12",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985446938. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:15+00:00",
+  "changes": []
+}

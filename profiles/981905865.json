@@ -1,0 +1,100 @@
+{
+  "orgnr": "981905865",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "24 TIMMAR NYHETER I ØREBRO AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "60.310 Nyhetsbyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Pricewaterhouse Coopers AS, Karenslyst allé 12, 0278, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Lill Christin Egeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865/roller",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "24 TIMMAR NYHETER I ØREBRO AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981905865/roller",
+      "source_date": "2000-04-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981905865. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:08+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "929544153",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALFA FAGFORENINGS KLUBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": "2022-08-04",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": "2022-08-04",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.200 Aktiviteter i arbeidstakerorganisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": "2022-08-04",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Wergelands gate 9B, 2821, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": "2022-08-04",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": "2022-08-04",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ole Martin Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
+      "source_date": "2025-06-27",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Miodrag Bulic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
+      "source_date": "2026-01-19",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thomas Lønstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
+      "source_date": "2026-01-19",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Berger Gulbrandsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
+      "source_date": "2026-01-19",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ørjan Stenersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
+      "source_date": "2026-01-19",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929544153. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:52+00:00",
+  "changes": []
+}

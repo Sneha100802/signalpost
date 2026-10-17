@@ -1,0 +1,100 @@
+{
+  "orgnr": "938094500",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2PS LIAN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.710 Detaljhandel med klær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Oscar Wistings gate 46A, 4019, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:25+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Asang Niawrsang Lian",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938094500/roller",
+      "source_date": "2026-07-14",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938094500. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:27+00:00",
+  "changes": []
+}

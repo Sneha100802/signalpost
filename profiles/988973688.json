@@ -1,0 +1,226 @@
+{
+  "orgnr": "988973688",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKATFIRMA CHRISTENSEN FRIIS-MØLLER PETTERSSON DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Rådmann Halmrasts vei 14, 1337, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 400, 1302, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.kco.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2005-11-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Advokatvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": "2005-12-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Andreas Strime Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kim Friis-Møller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ida Kollenborg Pettersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ida Kollenborg Pettersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andreas Strime Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kim Friis-Møller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2019-04-25",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "NITSCHKE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "TANDEM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
+      "source_date": "2006-03-30",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 18966452.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 6752891.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 6768332.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9180357.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 6433192.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988973688",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:22+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988973688.",
+  "last_checked": "2026-10-17T07:50:22+00:00",
+  "changes": []
+}

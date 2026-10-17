@@ -1,0 +1,107 @@
+{
+  "orgnr": "898541142",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "440HZ VIDAR OSMUNDSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.390 Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bøkkersmauet 3, 4013, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:53+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Vidar Osmundsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142/roller",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:54+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Vidar Osmundsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/898541142/roller",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:49:54+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 898541142. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:54+00:00",
+  "changes": []
+}

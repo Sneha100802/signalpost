@@ -1,0 +1,233 @@
+{
+  "orgnr": "954415643",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EIDSVÅG BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "6460, EIDSVÅG I ROMSDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 58, 6601, SUNNDALSØRA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-02-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "SUNNDAL BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jostein Aasen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Johnny Vevang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mona Gammelsæter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thea Blø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vigdis Fjøseid Hildre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristian Szabo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Roy Egil Hatlen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2020-12-23",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SUNNDAL BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954415643/roller",
+      "source_date": "2021-11-25",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 998103.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 380081.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 246912.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9506092.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4043896.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954415643",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954415643.",
+  "last_checked": "2026-10-17T07:47:39+00:00",
+  "changes": []
+}

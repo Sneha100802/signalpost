@@ -1,0 +1,121 @@
+{
+  "orgnr": "979987587",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRLØW & BUNÆS DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.410 Takarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Austadveien 10, 3043, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-07-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Levere isloering- og blikkenslagerarbeider.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Pål Bunæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587/roller",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Thomas Bjørløw-Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587/roller",
+      "source_date": "1998-08-12",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979987587. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:10+00:00",
+  "changes": []
+}

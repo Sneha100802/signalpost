@@ -1,0 +1,135 @@
+{
+  "orgnr": "994937049",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "6. DRAMMEN MS SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "address",
+      "value": "C/O Wenche Irene Aasland, Solbergs gate 12B, 3040, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.6drammenms.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1924-11-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": "2009-12-29",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Wenche Irene Aasland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049/roller",
+      "source_date": "2023-02-28",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bent Anthony Guttormsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049/roller",
+      "source_date": "2023-02-28",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jonas Helfred Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049/roller",
+      "source_date": "2023-02-28",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Roll Elgsaas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994937049/roller",
+      "source_date": "2023-02-28",
+      "retrieved_at": "2026-10-17T07:47:43+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994937049. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:43+00:00",
+  "changes": []
+}

@@ -1,0 +1,121 @@
+{
+  "orgnr": "984045492",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BERO ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.320 Snekkerarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Fjordveien 81C, 1363, HØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-12-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel- og entreprenørvirksomhet, vedlikeholds- og konsulenttjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:23+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Roman Kaszycki",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492/roller",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:24+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Beatrice Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984045492/roller",
+      "source_date": "2002-01-07",
+      "retrieved_at": "2026-10-17T07:49:24+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984045492. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:24+00:00",
+  "changes": []
+}

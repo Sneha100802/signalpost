@@ -1,0 +1,184 @@
+{
+  "orgnr": "928493822",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "10X AGENCY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Rogalandsgata 3A, 4011, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 7,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-12-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av digitale kurs. Coaching og kurs. Markedsføring av sosiale medier.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Hortsy Waldmann Reyes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822/roller",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Hortsy Waldmann Reyes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822/roller",
+      "source_date": "2022-01-05",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822/roller",
+      "source_date": "2026-05-22",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 55358.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 40496.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928493822",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928493822.",
+  "last_checked": "2026-10-17T07:51:02+00:00",
+  "changes": []
+}

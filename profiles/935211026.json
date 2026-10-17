@@ -1,0 +1,191 @@
+{
+  "orgnr": "935211026",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "00SMART AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Veitvetveien 13, 0596, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-03-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling av programvare, IT-konsulenttjenester, kunstig intelligens, cybersikkerhet, og nettverksløsninger. Utvikle og tilby smarthus-løsninger, IoT-enheter, og innebygde systemer for automatisering, energieffektivisering og sikkerhet. Tilby rådgivning og tjenester innen sikker IoT-integrasjon, datasikkerhet, teknologisk innovasjon, og annen virksomhet som naturlig hører sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Mohsen Hosamo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
+      "source_date": "2025-03-14",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mohsen Hosamo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
+      "source_date": "2025-09-04",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Haidar Hosamo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
+      "source_date": "2025-09-04",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SYNEGA REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
+      "source_date": "2026-09-29",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "RANDI REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
+      "source_date": "2026-09-29",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 100000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -198967.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -198967.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 124869.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -168967.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935211026",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935211026.",
+  "last_checked": "2026-10-17T07:47:57+00:00",
+  "changes": []
+}

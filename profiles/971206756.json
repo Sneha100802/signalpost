@@ -1,0 +1,233 @@
+{
+  "orgnr": "971206756",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FJÆRE SAMEIE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.292 Fritidsvirksomhet ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kjerringøyveien 857, 8093, KJERRINGØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Kay-Inge Jensen, Kjerringøyveien 857, 8093, KJERRINGØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1886-05-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Forvalte og omsette verdiene andeleierne har i jakt og fiskerettigheter, samt i plantefelt, landslott og laksenotsett. Foretaket kan også arbeide for andelseiernes interesser i saker som angår arealplansaker, friluftsliv og bærekraftig utvikling av kulturlandskapet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:03+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kay-Inge Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tormod Henry Skålsvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "May Beate Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Kristian Ramdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "John Ivar Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jan Arvid Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Sverre Magnus Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Åse Irene Wickstrøm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "CJB REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ØKORÅD SALTEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2023-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 221174.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -28985.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -22827.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 301236.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 301236.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971206756",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:50:04+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971206756.",
+  "last_checked": "2026-10-17T07:50:04+00:00",
+  "changes": []
+}

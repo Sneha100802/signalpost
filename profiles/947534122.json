@@ -1,0 +1,184 @@
+{
+  "orgnr": "947534122",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS BODØ ENGROSSENTER II",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Teglverkveien 15, 8006, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 659, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1983-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Være hjemmelshaver til seksjoner i gnr 138 bnr 3800 i Bodø.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Magne Johan Risvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2005-08-25",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "BODØ NÆRINGSPARK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2023-06-06",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "BODØ ENGROSSENTER II AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2023-06-06",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Petter Bjørseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2023-06-06",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ivar Karl Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2023-06-06",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947534122/roller",
+      "source_date": "2011-07-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947534122",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947534122",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947534122",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947534122.",
+  "last_checked": "2026-10-17T07:48:57+00:00",
+  "changes": []
+}

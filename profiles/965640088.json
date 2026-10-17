@@ -1,0 +1,205 @@
+{
+  "orgnr": "965640088",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "LILLEVOLLEN BARNEHAGE STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lillevollen 2 - 4, 8011, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "website",
+      "value": "lillevollen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 25,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-08-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Beret Rørvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2006-02-21",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørn Inge Furunes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2017-05-29",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Helen Wilhelmsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2017-05-29",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hans Petter Horsgaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2017-05-29",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "GODE TALL AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
+      "source_date": "2020-06-08",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 18697560.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 928550.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 914110.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 20331515.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 9348515.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/965640088",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:15+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 965640088.",
+  "last_checked": "2026-10-17T07:50:15+00:00",
+  "changes": []
+}

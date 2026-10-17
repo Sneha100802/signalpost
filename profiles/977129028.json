@@ -1,0 +1,219 @@
+{
+  "orgnr": "977129028",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A/S NORSK VAREKRIGSFORSIKRINGS FOND STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Drammensveien 78, 0271, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o UNIFOR, Postboks 1131 Blindern, 0317, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.nansenfondet.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1921-01-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "FORVALTNINGSSTIFTELSEN UNIFOR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2017-01-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Vessela Radoeva Nedelcheva Kristensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Eldevik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Augustine Ebeku Arukwe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Einar Lie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Inger Greve Alsos",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Unn Røyneland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2024-11-06",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PKF REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1222208.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1168078.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 875078.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 16896987.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 16796987.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977129028",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:44+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977129028.",
+  "last_checked": "2026-10-17T07:48:44+00:00",
+  "changes": []
+}

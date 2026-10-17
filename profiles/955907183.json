@@ -1,0 +1,212 @@
+{
+  "orgnr": "955907183",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL ØVRE VIKEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nygårdsgaten 13, 5015, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 7280, 5020, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1958-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOB BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Andreas Rusken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2026-07-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jørgen Jenvin Høiden",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2026-07-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karolina Kinga Kraska",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2026-07-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Trym Hjortland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2026-07-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2025-02-01",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOB BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955907183/roller",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1089535.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 332446.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 135994.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5635969.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1415989.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955907183",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955907183.",
+  "last_checked": "2026-10-17T07:49:36+00:00",
+  "changes": []
+}

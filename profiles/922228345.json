@@ -1,0 +1,163 @@
+{
+  "orgnr": "922228345",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BONDENS MARKED ROGALAND SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Stavanger Sentrum, Søregata 30, 4006, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Bernt Lerøy, Parkvegen 23A, 4365, NÆRBØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-11-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Etablere, eie og drive Bondens marked i Rogaland etter retningslinjer gitt i Håndbok for Bondens marked. Bondens marked skal være et sted der forbruker kan kjøpe varer direkte fra den som har høstet, avlet, fanget, syltet, bakt, røkt eller på annen måte foredlet produktene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Hallvard Veen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2019-04-08",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bernt Lerøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-03-18",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Siri Holen Storfjord",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-03-18",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elin Rusnes Kvingedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-03-18",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Magne Nygård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-03-18",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Charlotte Louise Skorpen-Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-03-18",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ROGALAND REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922228345. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:12+00:00",
+  "changes": []
+}

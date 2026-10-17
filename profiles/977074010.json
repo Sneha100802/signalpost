@@ -1,0 +1,149 @@
+{
+  "orgnr": "977074010",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DANSKE BANK A/S NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "64.190 Banker og kredittforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bryggetorget 4, 0250, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 4700 Torgarden, 7466, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.danskebank.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 623,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "3200 Banker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": "1997-01-09",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Erlend Sigve Angelfoss",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
+      "source_date": "2022-05-20",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
+      "source_date": "2015-10-27",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VISMA ENTERPRISE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
+      "source_date": "2025-08-07",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "DANSKE BANK A/S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
+      "source_date": "1997-01-15",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977074010. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:00+00:00",
+  "changes": []
+}

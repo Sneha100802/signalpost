@@ -1,0 +1,191 @@
+{
+  "orgnr": "974470861",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKAT DEHLIS FOND STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Østre Aker vei 264, 0977, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 21   Haugenstua, 0915, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1921-11-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": "1995-06-01",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Siril Hervik Fredly",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2024-07-19",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stian Asphaug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trude Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marit Hemmingsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Martin Salte",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861/roller",
+      "source_date": "2015-04-28",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974470861",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -34388.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974470861",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 437318.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974470861",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9570970.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974470861",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 9558844.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974470861",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974470861.",
+  "last_checked": "2026-10-17T07:48:24+00:00",
+  "changes": []
+}

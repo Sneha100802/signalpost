@@ -1,0 +1,191 @@
+{
+  "orgnr": "947535560",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A. Vikhagen AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.223 Ventilasjonsarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Årøsetervegen 30, 6422, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2141, 6402, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-01-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive blikkenslagerforretning samt alt som står i forbindelse med dette,herunder deltakelse i andre selskaper med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bjørnar Vikhagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
+      "source_date": "2008-02-09",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørnar Vikhagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
+      "source_date": "2008-02-09",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kjell Arve Vikhagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
+      "source_date": "2008-02-09",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
+      "source_date": "2018-05-15",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3025657.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 294245.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 240456.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2440828.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1661209.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947535560",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947535560.",
+  "last_checked": "2026-10-17T07:49:58+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "976078616",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AMBROSIAS SKATTKAMMER DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.790 Detaljhandel med brukte varer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øvre Bakklandet 17, 7016, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Kvitsteinvegen 20A, 7027, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1996-01-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Forretningsdrift av brukt/antikk, salg av gamle klær, treartikler, porselen m.m.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": "1996-02-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Marit Kristine Lykken Flåtter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616/roller",
+      "source_date": "1996-03-09",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Heidi Merethe Flåtter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616/roller",
+      "source_date": "1996-03-09",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976078616. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:37+00:00",
+  "changes": []
+}

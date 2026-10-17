@@ -1,0 +1,121 @@
+{
+  "orgnr": "928781623",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. FAUSKE SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": "2022-02-21",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": "2022-02-21",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": "2022-02-21",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Karin Ljunggren, Storbjørnen 3, 8029, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": "2022-02-21",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1927-11-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": "2022-02-21",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Karin Margrethe Ljunggren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623/roller",
+      "source_date": "2026-04-25",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stian Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623/roller",
+      "source_date": "2026-04-25",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole-Magnus Eide Sveli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623/roller",
+      "source_date": "2026-04-25",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928781623. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:12+00:00",
+  "changes": []
+}

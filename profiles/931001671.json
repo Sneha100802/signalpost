@@ -1,0 +1,149 @@
+{
+  "orgnr": "931001671",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABUNE TEKLEHAYMANOT ERITREISKE ORTODOKSE KRISTNE KIRKE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Røde Kors i Alstad, Parallellen 14, 8072, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Grønnåsen 88, 8073, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-01-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": "2023-03-10",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Debesay Mihret Gebremariam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ghirmay Ghebregergish Hailu",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Samuel Teklezghi Hailemariam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Liya Kifle Berhe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Teklehaimano Tesfasilasie Mesel",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Luwam Okube Gebremariam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:48:09+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931001671. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:09+00:00",
+  "changes": []
+}

@@ -1,0 +1,142 @@
+{
+  "orgnr": "927339749",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRUNVALLVEIEN 56-72 VA-ANLEGG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Brunvallveien 72, 3294, STAVERN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Trond Sandboe, Kyrres vei 23D, 1369, STABEKK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-05-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie, drifte og vedlikeholde et felles vann- og avløpsanlegg - heretter kalt hovednettet - for foretakets medlemmer i stikkveien Brunvallveien 56-72 i Larvik kommune, samt ivareta medlemmenes interesser og behov i denne forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": "2021-07-28",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Geir Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole-Gunnar Øhren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thor Harry Tanggaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927339749. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:01+00:00",
+  "changes": []
+}

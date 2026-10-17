@@ -1,0 +1,149 @@
+{
+  "orgnr": "982894840",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARCTIC LOBSTER ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.322 Engroshandel med fisk, skalldyr og bløtdyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Myrullveien 32, 8027, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Sentrumsveien 45, 8540, BALLANGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salgsbedrift for hummer oppdrettet av Tysfjord Hummer ANS.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bård Inge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Arvid Inge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Bård Inge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
+      "source_date": "2001-02-07",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Arvid Inge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bård Inge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982894840. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:12+00:00",
+  "changes": []
+}

@@ -1,0 +1,177 @@
+{
+  "orgnr": "914084040",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A.S. CONSULTING GJØVIK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øvre veg 879, 2838, SNERTINGDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-08-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Konsulentvirksomhet i form av operasjonell og administrativ rådgivning, samt ledelse til utleie knyttet til å bidra til varige kundeforbedringer gjennom restrukturering og nytenkning basert på lean og operasjonelle forbedringskonsept gjennom hele verdikjeden og alt hva hermed står i forbindelse. Investeringsvirksomhet i eiendom og verdipapirer både i Norge og utland, samt alt som står i forbindelse med dette, herunder å delta i andre selskaper med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anders Søreng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040/roller",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anders Søreng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040/roller",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914084040/roller",
+      "source_date": "2014-09-01",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 858478.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 631397.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 809281.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5864900.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 5701172.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914084040",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914084040.",
+  "last_checked": "2026-10-17T07:47:09+00:00",
+  "changes": []
+}

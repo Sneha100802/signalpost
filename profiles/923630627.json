@@ -1,0 +1,177 @@
+{
+  "orgnr": "923630627",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARCH2 SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "72.200 Forskning og eksperimentell utvikling innenfor samfunnsvitenskap og humanistiske fag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Svoldergata 7, 0271, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-12-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive arkeologiske og arkitektoniske tjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Christian Hermansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627/roller",
+      "source_date": "2020-02-10",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christian Hermansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mari Hvattum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Carla Hermansen-Hvattum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923630627/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923630627",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -29422.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923630627",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -29422.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923630627",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": -10304.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923630627",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -29421.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923630627",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923630627.",
+  "last_checked": "2026-10-17T07:48:41+00:00",
+  "changes": []
+}

@@ -1,0 +1,191 @@
+{
+  "orgnr": "931398075",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GAMHÅGEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "02.200 Avvirkning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jordbruveien 17, 8215, VALNESFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Haugstuveien 5, 8010, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-04-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Forvaltning, drift og utvikling av eiendom knyttet til gårds og bruksnummer 71/1 Gamhaug i Fauske kommune. Fremme medlemmenes økonomiske interesser gjennom aktiv utvikling og langsiktig drift og forvaltning av eiendommens naturressurser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:03+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ørjan Andre Jordbru",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Asgeir Johan Jordbru",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anika Aakerøy Jordbru",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristin Stavnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
+      "source_date": "2023-06-01",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 10595.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -21137.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -17488.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 110781.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 110450.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931398075",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931398075.",
+  "last_checked": "2026-10-17T07:48:04+00:00",
+  "changes": []
+}

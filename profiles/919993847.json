@@ -1,0 +1,177 @@
+{
+  "orgnr": "919993847",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1814 UTVIKLING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Christies gate 14, 5015, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg, drift og utvikling av eiendommer, samt annen virksomhet som naturlig faller sammen med det. Handelsvirksomhet og investeringsvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kan Cao",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847/roller",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Feng Sheng Zheng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847/roller",
+      "source_date": "2017-11-29",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ØKONOMIHUSET AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847/roller",
+      "source_date": "2023-11-11",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -9130.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -9130.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 7699013.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 7695019.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919993847",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919993847.",
+  "last_checked": "2026-10-17T07:48:41+00:00",
+  "changes": []
+}

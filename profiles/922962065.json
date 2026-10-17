@@ -1,0 +1,142 @@
+{
+  "orgnr": "922962065",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARTTIK DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.120 Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Prinsens gate 46, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-08-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å skape et kreativt verksted for barna og voksne.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": "2019-09-23",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Lidija Pavlovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065/roller",
+      "source_date": "2020-05-26",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ivan Pavlovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065/roller",
+      "source_date": "2025-05-26",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Lidija Pavlovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065/roller",
+      "source_date": "2025-05-26",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lidija Pavlovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065/roller",
+      "source_date": "2024-10-19",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ivan Pavlovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922962065/roller",
+      "source_date": "2024-10-19",
+      "retrieved_at": "2026-10-17T07:47:57+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922962065. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:57+00:00",
+  "changes": []
+}

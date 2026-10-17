@@ -1,0 +1,247 @@
+{
+  "orgnr": "855003252",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL NYBORG BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Boligbyggelaget TOBB, Krambugata 7, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Boligbyggelaget TOBB, Postboks 2424 Torgarden, 7004, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1962-05-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:39+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET TOBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2022-08-19",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kai Rune Sæther",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingri Winge Breivik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christin Weierholt Strandli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aage Sæther",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marit Galåen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Cornelis Gerardus Van Der Wijst",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tord Holan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tove Indseth Stensheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Britt Cecilie Ratchje",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2010-06-26",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET TOBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
+      "source_date": "2019-11-09",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 12618633.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -236236.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -3544045.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 73220707.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 6358117.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/855003252",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    }
+  ],
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 855003252.",
+  "last_checked": "2026-10-17T07:49:40+00:00",
+  "changes": []
+}

@@ -1,0 +1,156 @@
+{
+  "orgnr": "817916732",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "TURBOSTREAM NORWAY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": "2016-10-24",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": "2016-10-24",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": "2016-10-24",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Hopsgården 32, 8050, TVERLANDET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": "2016-10-24",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tobias Brandvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732/roller",
+      "source_date": "2025-06-16",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SKI KONSULENTBYRÅ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732/roller",
+      "source_date": "2018-02-07",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "TURBOSTREAM LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817916732/roller",
+      "source_date": "2016-10-24",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 5041168.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -192811.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -193531.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1815176.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -536713.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/817916732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 817916732.",
+  "last_checked": "2026-10-17T07:51:15+00:00",
+  "changes": []
+}

@@ -1,0 +1,100 @@
+{
+  "orgnr": "993933082",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "00ROLF Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.100 Kontortjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ellen Gleditsch' vei 61, 0987, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Rolf Egil Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993933082/roller",
+      "source_date": "2009-04-01",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993933082. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:15+00:00",
+  "changes": []
+}

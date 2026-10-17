@@ -1,0 +1,177 @@
+{
+  "orgnr": "914736145",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "331 SKV VETERANFORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.920 Aktiviteter i partipolitiske organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Rolf Liland, Toftveien 6, 8013, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.331.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-12-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": "2015-01-19",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Rolf Liland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vegard Bøthun",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Steve Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Merete Mjelle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tommy Alstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rolf Olaf Mangseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kim-Rayner Fagerstad Monsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andreas Stamsø Eidem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Siv Lena Yttergård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
+      "source_date": "2026-01-14",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914736145. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:02+00:00",
+  "changes": []
+}

@@ -1,0 +1,163 @@
+{
+  "orgnr": "927648725",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1852 HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "address",
+      "value": "William Farres veg 4A, 7022, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-08-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Fredrik Storflor Moen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725/roller",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Fredrik Storflor Moen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725/roller",
+      "source_date": "2021-09-03",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIAK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927648725/roller",
+      "source_date": "2026-08-10",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927648725",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -4437.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927648725",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -1555.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927648725",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 879239.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927648725",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927648725.",
+  "last_checked": "2026-10-17T07:50:27+00:00",
+  "changes": []
+}

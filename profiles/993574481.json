@@ -1,0 +1,170 @@
+{
+  "orgnr": "993574481",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRANHOLMEN VANN- OG AVLØPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Herregårdsveien 44, 1634, GAMLE FREDRIKSTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Tore Haga, Lilleruts vei 10, 1364, FORNEBU",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.granholmen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-10-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Etablere, anlegge, eie, vedlikeholde og drifte et komplett vann- og avløpsanlegg for lagets medlemmer på Granholmen i Fredrikstad kommune, ivareta lagets medlemmers interesser og behov i denne forbindelse, og annet som står naturlig i forbindelse med dette, heri inkudert salg av tilknytningsretter til hytter og boliger på omkringliggende øyer. Lagets vedlikeholds- og driftsansvar forutsettes å omfatte felles installasjoner og tiltak frem til den enkelte hytte, samt minipumpestasjon i tilknytning til den enkelte hytte. Lokal infrastruktur på den enkelte hytte omfattes ikke av lagets drifts- og vedlikeholdsansvar.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": "2009-03-25",
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:26+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tore Haga",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-02-22",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ketil Roppestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Haga",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørn Skare",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gjermund Agnalt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Waage Nielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Reidar Christoffer Martinsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993574481/roller",
+      "source_date": "2025-01-28",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993574481. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:27+00:00",
+  "changes": []
+}

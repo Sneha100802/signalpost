@@ -1,0 +1,135 @@
+{
+  "orgnr": "834579642",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALBERT & DANIEL COMMERCE DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.710 Detaljhandel med klær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Odd arnfinn, Buheilia 29, 4640, SØGNE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-11-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Nettbutikk for salg av forskjellige klær, som for eksempel jakker, bukser og sko, samt annen virksomhet som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Albert Myklebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642/roller",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Daniel Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642/roller",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Albert Myklebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642/roller",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Daniel Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834579642/roller",
+      "source_date": "2024-12-19",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 834579642. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:42+00:00",
+  "changes": []
+}

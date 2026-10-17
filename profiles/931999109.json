@@ -1,0 +1,114 @@
+{
+  "orgnr": "931999109",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACTIVE OVERLANDERS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "79.121 Aktiviteter utført av utflukts- og eventarrangører",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o David Inge Daigle, Skipsveien 61, 4083, HUNDVÅG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-08-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "David Inge Daigle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109/roller",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjell Cato Øglænd",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109/roller",
+      "source_date": "2023-09-01",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931999109. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:46+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "998829445",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BIRI BYGDEKVINNELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": "2016-08-04",
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": "2016-08-04",
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": "2016-08-04",
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Torunn Vigrestad, Ravegen 22, 2836, BIRI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": "2016-08-04",
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1946-05-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": "2016-08-04",
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ingrid Bardal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
+      "source_date": "2026-05-03",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anette Marie Hauger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
+      "source_date": "2026-05-03",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hege Egner Stokke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
+      "source_date": "2026-05-03",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lise Lagestrand Brovold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
+      "source_date": "2026-05-03",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørg Thon Feiring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
+      "source_date": "2026-05-03",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998829445. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:07+00:00",
+  "changes": []
+}

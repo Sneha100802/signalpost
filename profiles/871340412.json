@@ -1,0 +1,219 @@
+{
+  "orgnr": "871340412",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENGØYHOLMEN KYSTKULTURSENTER STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "91.220 Drift av historiske steder og monumenter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Engøy, Engøyholmen 1, 4077, HUNDVÅG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.engoyholmen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 19,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Trude Eriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2023-09-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Per Madland Schjelderup",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hannes Carsten Reuter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Lending",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jørn Snorre Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mathies Ekelund Erlandsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jan Tor Hobberstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ROGALAND REVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2007-06-18",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ROTT REGNSKAP OG RÅDGIVNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871340412/roller",
+      "source_date": "2021-07-21",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 8079764.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 195985.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 327851.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 17703132.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 9030092.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871340412",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871340412.",
+  "last_checked": "2026-10-17T07:48:39+00:00",
+  "changes": []
+}

@@ -1,0 +1,226 @@
+{
+  "orgnr": "914620457",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CAPSOL TECHNOLOGIES ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Drammensveien 126A, 0277, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "capsoltechnologies.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 31,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-12-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive industri- og teknologiutvikling, investeringsvirksomhet samt yte konsulenttjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": "2014-12-16",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Wan Suen Lam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2024-02-16",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christopher John Bradley Barkey",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "John Arne Ulvan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monika Inde Zsak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Wayne Gordon Thomson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ellen Merete Hanetho",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2026-05-26",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ENORA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 70652000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -76102000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -81140000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 150701000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 65532000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457.",
+  "last_checked": "2026-10-17T07:50:34+00:00",
+  "changes": []
+}

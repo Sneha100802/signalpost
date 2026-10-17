@@ -1,0 +1,156 @@
+{
+  "orgnr": "990889880",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFGHANERES KULTURELLE OG ISLAMSKE FORENING I BUSKERUD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": "2007-02-27",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": "2007-02-27",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": "2007-02-27",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Laurits Grønlands vei 30, 3035, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": "2007-02-27",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2007-01-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": "2007-02-27",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Abdul Jalal Mohammad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2024-01-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Abdul Jalal Mohammad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Assadullah Rahemollah",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Redi Gul Safi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Zohrah Safi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Khatera Gholam Muhayuddin",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "LUNDES REVISJONSKONTOR I DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2021-11-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIKEN REGNSKAPSTJENESTER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
+      "source_date": "2026-07-18",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990889880. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:07+00:00",
+  "changes": []
+}

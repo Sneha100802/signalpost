@@ -1,0 +1,233 @@
+{
+  "orgnr": "948817705",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKERSBAKKEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "OBOS, Standardveien 1, 0581, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o OBOS, Postboks 393 Alnabru, 0614, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1952-05-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "OBOS EIENDOMSFORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2022-09-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Carl Fredrik Frog Arntzen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Liv Ringheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jacob Ruud Alvseike",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "May-Rita Bryntesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christer Antonsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Francis Augusto Medeiros-Logeay",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eirik Moen Holsve",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2025-12-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "TELL NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "OBOS EIENDOMSFORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948817705/roller",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 7809366.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1548738.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 949731.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 15061953.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1879194.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948817705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948817705.",
+  "last_checked": "2026-10-17T07:49:07+00:00",
+  "changes": []
+}

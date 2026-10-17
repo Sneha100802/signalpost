@@ -1,0 +1,219 @@
+{
+  "orgnr": "931187740",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "MINNEKULTUR - BLODVEIEN STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": "2023-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": "2023-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": "2023-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Goran Vasic, Sulitjelmaveien 4B, 8007, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": "2023-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-12-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": "2023-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Knut Flovik Thoresen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mirjana Zivanovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Milos Stojanovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vesna Bryn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Goran Vasic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Branislava Simic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Dobrila Radulovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Biljana Jovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ulf Ketil Bakke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ROGNAN REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931187740/roller",
+      "source_date": "2026-07-28",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 119110.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -6412.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -6387.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 63081.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 54331.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931187740",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931187740.",
+  "last_checked": "2026-10-17T07:50:59+00:00",
+  "changes": []
+}

@@ -1,0 +1,184 @@
+{
+  "orgnr": "930117382",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2020 BULKERS LTD. NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "50.201 Utenriks sjøfart med gods",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Tjuvholmen allé 3, 0252, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Magnus Halvorsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2024-09-26",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lori Wheeler Næss",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2024-09-26",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Viggo Henrik Bang-Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2024-09-26",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2025-06-19",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW MARITIME AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2023-05-04",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "2020 BULKERS LTD.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930117382/roller",
+      "source_date": "2022-11-19",
+      "retrieved_at": "2026-10-17T07:47:03+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 548000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -10822000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 220892000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1952256000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1901224000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930117382",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:04+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930117382.",
+  "last_checked": "2026-10-17T07:47:04+00:00",
+  "changes": []
+}

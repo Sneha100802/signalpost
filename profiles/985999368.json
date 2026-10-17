@@ -1,0 +1,121 @@
+{
+  "orgnr": "985999368",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANA-KATA ANIMASJON DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "18.130 Ferdiggjøring før trykking og publisering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Georgernes verft 12, 5011, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Produksjon av digital animasjon / 3D grafikk  ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": "2003-09-11",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Theodor Ervik Flo-Groeneboom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368/roller",
+      "source_date": "2004-11-22",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kevin Fredrik Fosse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368/roller",
+      "source_date": "2004-11-22",
+      "retrieved_at": "2026-10-17T07:48:26+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985999368. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:27+00:00",
+  "changes": []
+}

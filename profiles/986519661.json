@@ -1,0 +1,128 @@
+{
+  "orgnr": "986519661",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HAUGER SAMDRIFT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Biristrandvegen 765, 2837, BIRISTRAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-10-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive felles melk- og kjøttproduksjon for best mulig rasjonell og økonomisk utnyttelse av deltakernes egne jordbruksarealer. Samdrifta skal gi muligheter til ordnede arbeidsforhold, fritid og ferie for deltakerne.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ole Håvard Hauger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661/roller",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ingmar Sørum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661/roller",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ole Håvard Hauger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986519661/roller",
+      "source_date": "2004-02-12",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986519661. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:41+00:00",
+  "changes": []
+}

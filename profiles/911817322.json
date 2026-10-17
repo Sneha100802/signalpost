@@ -1,0 +1,156 @@
+{
+  "orgnr": "911817322",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALADDIN DRIFT SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kongens gate 6, 4610, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "website",
+      "value": "aladdindrif.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2013-02-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bidra til utvikling av kulturlivet i landsdelen gjennom drive utleie av lokaler til kulturformål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": "2013-05-13",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Harald Stensland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2023-03-23",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Julie Marie Bergstad Pichard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2023-03-23",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Danckert Georg Monrad-Krohn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2023-03-23",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingrid Kristin Falkenberg Dokka",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2023-03-23",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Janne Molberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2023-03-23",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911817322/roller",
+      "source_date": "2021-10-30",
+      "retrieved_at": "2026-10-17T07:51:08+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911817322. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:08+00:00",
+  "changes": []
+}

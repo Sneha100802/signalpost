@@ -1,0 +1,163 @@
+{
+  "orgnr": "927978911",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "4 NON BLONDES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.120 Utvikling og salg av byggeprosjekter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kjerrheia 47, 4621, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-09-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eiendomsutvikling, anskaffelse og drift av eiendommer, investering i aksjer og andeler i andre finans- og realobjekter, handel, konsulentvirksomhet, deltagelse i andre virksomheter samt alt hva som står i forbindelse med ovennevnte.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": "2021-10-22",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Øystein Espedal Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911/roller",
+      "source_date": "2025-12-13",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eivind Lund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911/roller",
+      "source_date": "2025-12-13",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927978911",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -4768.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927978911",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 162632.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927978911",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 194439.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927978911",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 190439.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927978911",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927978911.",
+  "last_checked": "2026-10-17T07:48:15+00:00",
+  "changes": []
+}

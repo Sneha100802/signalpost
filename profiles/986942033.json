@@ -1,0 +1,233 @@
+{
+  "orgnr": "986942033",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "APPEAR ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "26.300 Produksjon av kommunikasjonsutstyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lilleakerveien 2B, 0283, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 8, 0216, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.appear.net",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 171,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-06-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvilkle og tilby produkter, løsninger og tjenester for telekommunikasjon, leie ut konsulenter, delta i og investere i annen virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Thomas Bostrøm Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2021-01-18",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Terje Rogne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-06-28",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kenneth Ragnvaldsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-06-28",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anette Willumsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-06-28",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Brita Eilertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-06-28",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Græe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-06-28",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2004-07-21",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "STARIA NORWAY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
+      "source_date": "2025-11-07",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 801009000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 170720000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 129162000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 857979000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 589540000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:13+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986942033.",
+  "last_checked": "2026-10-17T07:47:13+00:00",
+  "changes": []
+}

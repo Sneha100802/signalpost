@@ -1,0 +1,177 @@
+{
+  "orgnr": "981241509",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "KJØPMANN TH. GUNDERSENS LEGAT I STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": "1999-11-15",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": "1999-11-15",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": "1999-11-15",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Stian Hamre, Østre Strandgate 28, 4610, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": "1999-11-15",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-12-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": "1999-11-15",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Stian Hamre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
+      "source_date": "2016-09-10",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stian Hamre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
+      "source_date": "2016-09-10",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hans Kristoffer Goa",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
+      "source_date": "2016-09-10",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Løland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
+      "source_date": "2016-09-10",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISJONSFIRMA TORBJØRN SALVESEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
+      "source_date": "2005-12-10",
+      "retrieved_at": "2026-10-17T07:49:26+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981241509",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -29280.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981241509",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 95002.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981241509",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2951130.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981241509",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2821130.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981241509",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981241509.",
+  "last_checked": "2026-10-17T07:49:27+00:00",
+  "changes": []
+}

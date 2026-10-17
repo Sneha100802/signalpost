@@ -1,0 +1,121 @@
+{
+  "orgnr": "936434002",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "137 AKTIV",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": "2025-10-23",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": "2025-10-23",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.120 Aktiviteter i idrettslag og -klubber",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": "2025-10-23",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lørenveien 50, 0585, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": "2025-10-23",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-10-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": "2025-10-23",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ola Graff Nyland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vemund Flornes Heen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Skaret",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936434002. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:12+00:00",
+  "changes": []
+}

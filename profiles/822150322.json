@@ -1,0 +1,198 @@
+{
+  "orgnr": "822150322",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN ONE-DAY ZAMBIA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Strandgata 6, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-12-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jan Merok Paulsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Håkon Anton Hellebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Merok Paulsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gerd Hellebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Astrid Brommeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Helga Julie Hellebust-Nygaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Håkon Arnvid Hellebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "RRO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
+      "source_date": "2019-02-15",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822150322",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -6225.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822150322",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -6242.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822150322",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 94653.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822150322",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 94653.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/822150322",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 822150322.",
+  "last_checked": "2026-10-17T07:50:32+00:00",
+  "changes": []
+}

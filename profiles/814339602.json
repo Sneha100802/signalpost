@@ -1,0 +1,163 @@
+{
+  "orgnr": "814339602",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRA VEL SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bjøra 18, 7070, BOSBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Bjøra 19, 7070, BOSBERG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2015-02-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å ha et felles organ til å ta seg av de forpliktelser som påhviler ovennevnte eiendommer for drift og vedlikehold av felles anlegg. Disse anlegg består av felles vei med belysning, avløpsrør i bekk under felles vei, vann- og kloakkanlegg og eiendom gnr. 260 bnr. 78. Virksomheten kan videre ta opp saker av felles interesse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": "2015-03-27",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ketil Parow",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2025-06-19",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ketil Parow",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Torild Schei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Wiggo Hammervik Grøvdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erlend Schei Strand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Gitte Grendstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Gunnar Kåre Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
+      "source_date": "2026-05-11",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 814339602. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:31+00:00",
+  "changes": []
+}

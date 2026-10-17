@@ -1,0 +1,163 @@
+{
+  "orgnr": "912181057",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "0275.CE-NO ARBEIDERFORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Røykenveien 54, 3427, GULLAUG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1071 Bragernes, 3001, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1915-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Sigurd Aagesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2013-10-17",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Sigurd Aagesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tom Marius Eriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Inghild Røren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Martinsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Ingolf Haug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Roger Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Sørensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
+      "source_date": "2026-01-08",
+      "retrieved_at": "2026-10-17T07:48:06+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912181057. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:06+00:00",
+  "changes": []
+}

@@ -1,0 +1,219 @@
+{
+  "orgnr": "979148038",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BLÅMANN STEINERBARNEHAGE STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": "1997-08-19",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": "1997-08-19",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": "1997-08-19",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jegersbergveien 6, 4630, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": "1997-08-19",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 20,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1997-04-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": "1997-08-19",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Siv Anita Winge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2015-08-07",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Claudia Klostergaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tone Storkås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Siv Anita Winge Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lisbet Løland Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anna Blekastad Watson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Pål Osjord",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979148038/roller",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 9740564.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 287116.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 450256.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5126964.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3741060.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979148038",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:10+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979148038.",
+  "last_checked": "2026-10-17T07:50:10+00:00",
+  "changes": []
+}

@@ -1,0 +1,191 @@
+{
+  "orgnr": "996420949",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EPROKUR SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.200 Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o UiA, Niels F. Garmann-Johnsen, H1 064a, Universitetsveien 25H, 4630, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1885 Gimlemoen, 4686, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.eprokur.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Foretaket skal drive tjenestevirksomhet innen informasjons- og kommunikasjonsteknologi og økonomi og forretningsdrift, og publisering av kunnskap knyttet til dette. Foretaket har til formål å fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandører av varer eller tjenester, innkjøpere, el. brukere. Virksomhetens avkastning, bortsett fra en normal forretnin av innskutt kapital, blir enten stående i virksomheten eller fordelt blant medlemmene på grunnlag av deres andel i verdiskapningen, herunder administrasjon, produktutviklingen eller omsetningen med foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Niels Frederik Garmann-Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949/roller",
+      "source_date": "2011-02-15",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Niels Frederik Garmann-Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949/roller",
+      "source_date": "2020-08-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trond Kjetil Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949/roller",
+      "source_date": "2020-08-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne-Liv Garmann-Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949/roller",
+      "source_date": "2020-08-04",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996420949",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -900.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996420949",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -900.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996420949",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5974.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996420949",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2973.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996420949",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996420949.",
+  "last_checked": "2026-10-17T07:50:41+00:00",
+  "changes": []
+}

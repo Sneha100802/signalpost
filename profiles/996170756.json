@@ -1,0 +1,177 @@
+{
+  "orgnr": "996170756",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2CASA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Rustabakken 144, 4027, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-10-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg og utleie av eiendom. I tillegg har selskapet som formål å drive med konsulent- og rådgivningsoppdrag innen økonomi og administrasjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": "2010-11-11",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Occiery Dørheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
+      "source_date": "2021-09-22",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Occiery Dørheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
+      "source_date": "2021-09-22",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "STAVANGER REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
+      "source_date": "2022-01-17",
+      "retrieved_at": "2026-10-17T07:51:05+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1527600.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1153961.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 901938.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4543115.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 349658.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996170756",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:06+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996170756.",
+  "last_checked": "2026-10-17T07:51:06+00:00",
+  "changes": []
+}

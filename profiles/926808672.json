@@ -1,0 +1,163 @@
+{
+  "orgnr": "926808672",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFRIKAS HORN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": "2021-03-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": "2021-03-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": "2021-03-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hans Kiærs gate 27, 3041, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": "2021-03-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-03-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": "2021-03-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mahmoud Hamid Hussein",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ibrahim Mohammedali Saleh",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mohammed Othman Hassan Othman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Waleed Mahmood Mohdahmed Omer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kamal Mohamed Saed Adem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Abdulaziz Abdul Kadir Salih Hyabo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Noura Mohamed Ali Eisa",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Shiraz Nabil Nubi Mohammad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hamed Mohamed Adem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926808672/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926808672. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:35+00:00",
+  "changes": []
+}

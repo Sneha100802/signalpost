@@ -1,0 +1,198 @@
+{
+  "orgnr": "915136303",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKAT THORVALD MEYER OG HUSTRU ELSE M. MEYERS MUSIKKLEGAT STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "UNIFOR, Postboks 1131 Blindern, 0317, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "website",
+      "value": "unifor.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-09-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "FORVALTNINGSSTIFTELSEN UNIFOR",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2015-04-20",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Astrid Kvalbein",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Victoria Cecilie Jakhelln",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tom Ottar Andreassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anders Eidsten Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2026-10-14",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PKF REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915136303/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1081547.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1038861.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 842000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 14348928.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 14348928.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915136303",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915136303.",
+  "last_checked": "2026-10-17T07:49:13+00:00",
+  "changes": []
+}

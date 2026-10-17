@@ -1,0 +1,135 @@
+{
+  "orgnr": "932262967",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADOEVENTS ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedrejordet 59, 3028, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Dekoreringsselskap som spesialiserer seg på moderne, estetiske og elegante dekorasjoner for bryllup og arrangementer. Introdusere internasjonal dekorasjonstrend til Norge og skape minneverdige øyeblikk for våre kunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ayisha Kuwayih Osuman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967/roller",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Aliyah Osuman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967/roller",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Aliyah Osuman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967/roller",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Ayisha Kuwayih Osuman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967/roller",
+      "source_date": "2023-10-17",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932262967. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:57+00:00",
+  "changes": []
+}

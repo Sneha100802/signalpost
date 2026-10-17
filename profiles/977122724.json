@@ -1,0 +1,198 @@
+{
+  "orgnr": "977122724",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "INDREMEDISINSK FORSKNINGSFOND AV 1987 STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Forskningsavdelingen, Bærum sykehus, Sogneprest Munthe-Kaas vei 100, 1346, GJETTUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Trygve Berge, forskningsavdeling, Vestre Viken HF, Bærum sykehus, Postboks 800, 3004, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1987-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trygve Berge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2026-03-16",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Håkon Ihle-Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2026-03-16",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Guro Storsul",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2026-03-16",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anna Lisa Schult",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2026-03-16",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rune Byrkjeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2026-03-16",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDT VIKEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2016-06-02",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "NORD SERVICES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
+      "source_date": "2004-06-19",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977122724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:24+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -34393.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977122724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:24+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 108359.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977122724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:24+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4481390.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977122724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:24+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4481390.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977122724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:24+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977122724.",
+  "last_checked": "2026-10-17T07:47:24+00:00",
+  "changes": []
+}

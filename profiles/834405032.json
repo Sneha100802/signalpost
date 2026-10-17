@@ -1,0 +1,100 @@
+{
+  "orgnr": "834405032",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A. ANDERSEN & CO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Erlands gate 14, 4010, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Ane Roth Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834405032/roller",
+      "source_date": "2024-11-04",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 834405032. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:42+00:00",
+  "changes": []
+}

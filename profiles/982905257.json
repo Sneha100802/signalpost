@@ -1,0 +1,100 @@
+{
+  "orgnr": "982905257",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFFERNS SVEIS REP OG SERVICE Alf Vidar Westbryhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "25.530 Bearbeiding av metaller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Breiskallmarka 213A, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Alf Widar Westbryhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982905257/roller",
+      "source_date": "2001-01-24",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982905257. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:36+00:00",
+  "changes": []
+}

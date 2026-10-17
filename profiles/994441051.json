@@ -1,0 +1,170 @@
+{
+  "orgnr": "994441051",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALTRAD BABCOCK LIMITED NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Loddefjordveien 2, 5171, LODDEFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.doosanbabcock.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Torbjørn Amundsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051/roller",
+      "source_date": "2020-07-01",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "KPMG ACCOUNTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051/roller",
+      "source_date": "2016-05-26",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALTRAD BABCOCK LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051/roller",
+      "source_date": "2009-09-14",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-08-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1464006.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 265299.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 205490.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4023398.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3788607.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/994441051",
+      "source_date": "2025-08-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994441051.",
+  "last_checked": "2026-10-17T07:49:04+00:00",
+  "changes": []
+}

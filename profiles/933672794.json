@@ -1,0 +1,142 @@
+{
+  "orgnr": "933672794",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EVJESUNDET VANN OG AVLØP DRIFTSFORETAK SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bjørnenga 48, 1364, FORNEBU",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-06-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Foretakets formål er å eie, drifte og administrere felles privat vann- og avløpsanlegg med tilhørende tekniske installasjoner for eiere av fritidseiendommer i områdene Stangerholmen og Klommetangen i Moss kommune som er medlem av samvirket. Det er videre foretakets formål, når VA-anlegget er bygget ferdig og klargjort for å settes i drift, å overta eierskapet til dette fra det særskilte foretaket, Evjesundet Vann og Avløp Utbygging SA. Samvirket har også til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av vann- og avløpstjenester fra samvirket. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stående i samvirket eller fordelt blant medlemmene på grunnlag av deres andel i omsetningen med foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christian Galtung Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Havrevold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christian Johan Anker-Rasch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Emil Paaske",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BACKOFFICE4U  AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
+      "source_date": "2025-06-25",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933672794. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:01+00:00",
+  "changes": []
+}

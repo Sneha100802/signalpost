@@ -1,0 +1,247 @@
+{
+  "orgnr": "947005065",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASPERVIK BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Zetlitzveien 2, 4017, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Bate boligbyggelag, Postboks 88 Sentrum, 4001, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bate.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1977-10-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BATE BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2014-07-26",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tom Haugstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Helge Hegrestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Terje Unhjem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Wenche Tronstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kirsten Vetrhus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jan Erik Vangdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Malena Strusshamn Sutherland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Elin Bjerkan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2026-04-21",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2016-08-29",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BATE BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
+      "source_date": "2014-07-26",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 9572133.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2269281.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1546579.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 48954883.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 17222275.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/947005065",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    }
+  ],
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947005065.",
+  "last_checked": "2026-10-17T07:49:14+00:00",
+  "changes": []
+}

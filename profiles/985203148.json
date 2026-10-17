@@ -1,0 +1,128 @@
+{
+  "orgnr": "985203148",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALMSETERMARKA VEGFORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/ Gjøvik Skogvesen, 2810, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Gjøvik kommune, Skogvesenet, Postboks 630, 2810, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1977-11-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": "2003-03-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Arnt Oluf Eide",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Harald Børstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Eivind Engen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985203148. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:56+00:00",
+  "changes": []
+}

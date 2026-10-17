@@ -1,0 +1,184 @@
+{
+  "orgnr": "927113848",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "123 OPPUSSING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.320 Snekkerarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "address",
+      "value": "C/o Thomas Hellum, Strømmveien 10, 3060, SVELVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-03-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Generelle håndverkertjenester innvendig og utvendig.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tom-Einar Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848/roller",
+      "source_date": "2021-05-15",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tom-Einar Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848/roller",
+      "source_date": "2026-02-07",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thomas Hellum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848/roller",
+      "source_date": "2026-02-07",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Antonio Exposito Lazaro",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927113848/roller",
+      "source_date": "2026-02-07",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 730879.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 760557.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 546779.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 269743.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 150559.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927113848",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:16+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927113848.",
+  "last_checked": "2026-10-17T07:48:16+00:00",
+  "changes": []
+}

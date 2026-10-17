@@ -1,0 +1,114 @@
+{
+  "orgnr": "944017380",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A ASBJØRNSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "12.000 Produksjon av tobakksvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vigev 46, 4633, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 699, 4633, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Asbjørn Fredrik Asbjørnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380/roller",
+      "source_date": "1992-01-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Asbjørn Fredrik Asbjørnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944017380/roller",
+      "source_date": "1992-01-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 944017380. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:45+00:00",
+  "changes": []
+}

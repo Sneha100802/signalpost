@@ -1,0 +1,240 @@
+{
+  "orgnr": "987059125",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BADEPARKEN 1 BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hålogalandsgata 128, 8008, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Solibo AS, Dronning Eufemias gate 16, 0191, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.solibo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-05-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": "2004-09-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "SOLIBO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-22",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jim Simonsen Jenssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Jan Skaalbones",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Emilie Mangi Olsen Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristoffer Nyhagen Brunvær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Stian Hoff Loe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2025-10-17",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SOLIBO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2026-06-15",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987059125/roller",
+      "source_date": "2026-06-15",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6869153.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 3718637.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1983918.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 88105221.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 34140235.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987059125",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987059125.",
+  "last_checked": "2026-10-17T07:48:38+00:00",
+  "changes": []
+}

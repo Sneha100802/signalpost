@@ -1,0 +1,296 @@
+{
+  "orgnr": "940379016",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HOFF SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "10.310 Bearbeiding og konservering av poteter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bryggevegen 3-5, 2821, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 110, 2801, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.hoff.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 178,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1982-03-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å avta produkter fra andelseierne og sørge for verdiskapende omsetning av disse gjennom industriell bearbeiding. Virksomheten skal drives med sikte på å kunne betale en høyest mulig råvarepris for potetprodusenten og som er bærekraftig for selskapet. Formålet for foretaket er å drive produksjon, markedsføring og salg av egenproduserte produkter, salg av handelsvarer, eller ved at foretaket med innskudd eller på annen måte tar del i andre foretak. Foretaket skal drive, selv eller gjennom påvirkning av andre aktører, aktivt utviklingsarbeid innefor hele verdikjeden, herunder arbeide aktivt for å framskaffe hensiktsmessige potetsorter. Foretaket skal videre drive opplysnings- og rådgivningstjeneste overfor produsentene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ken Are Bod Østlid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2023-10-02",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Hanne Refsholt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ellen Johanne Krogrud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tørres Bore",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ivar Sund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Håvard Hammer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arnt Kristian Klepp",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Heidi Merethe Hagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Håkon Gran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marit Lello",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Sean Patrick Skogstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Stian Skjei Buran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Lene Thomsen Nordås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tolle Hoel Slotnæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Thea Menne Tømte",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Elisabeth Moe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
+      "source_date": "2025-12-12",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 776874902.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 6814002.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 17188643.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 561945642.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 365753859.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    }
+  ],
+  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940379016.",
+  "last_checked": "2026-10-17T07:47:10+00:00",
+  "changes": []
+}

@@ -1,0 +1,191 @@
+{
+  "orgnr": "911634120",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2-HAND INTERNATIONAL MACHINERY AND PRODUCTION EQUIPMENT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.610 Engroshandel med maskiner og utstyr til jordbruk og skogbruk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Blommenholmveien 4C, 1365, BLOMMENHOLM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2013-02-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp/salg av maskiner og teknisk utstyr (anleggsmaskiner til verktøyindustrien og ulike typer produksjonsutstyr).",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anayet Said",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120/roller",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anayet Said",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120/roller",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hajira Sofia Sayed",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120/roller",
+      "source_date": "2013-02-28",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "MOORE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120/roller",
+      "source_date": "2024-03-14",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "4 YOU REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911634120/roller",
+      "source_date": "2025-12-03",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 25169221.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1572201.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1137584.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 12286980.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 8260876.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911634120",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:59+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911634120.",
+  "last_checked": "2026-10-17T07:48:59+00:00",
+  "changes": []
+}

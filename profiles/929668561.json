@@ -1,0 +1,114 @@
+{
+  "orgnr": "929668561",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "APPLYEQUIP NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Keramikkveien 45A, 4032, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Emmanuel Kwesi Solomon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561/roller",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Emmanuel Kwesi Solomon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561/roller",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "INTEGRUM NORWAY LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929668561/roller",
+      "source_date": "2022-09-17",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929668561. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:41+00:00",
+  "changes": []
+}

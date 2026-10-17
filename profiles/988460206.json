@@ -1,0 +1,219 @@
+{
+  "orgnr": "988460206",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BØNDENES REGNSKAPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.202 Regnskapsføring og bokføring",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Stranda 15, 6470, ERESFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1963-04-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Føre medlemmenes regnskap, utfylle selvangivelser og drive med økonomisk rådgivning for medlemmene. Regnskapslaget skal så langt det er mulig yte medlemmene veiledning ved grunnavståelse, eiendomsoverdragelser, finansieringsspørsmål og bistå i klagesaker i forbindelse med skattelegging og avgiftsberegning. Regnskapslaget kan utføre tilsvarende bistand til ikke-medlemmer. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stående i virksomhetens eller fordelt blant medlemmene på grunnlag av deres andel i omsetningen med foretaket. Regnskapslaget kan drive utleie av kontor dersom de ikke er i bruk av virksomhetens ansatte.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": "2005-07-28",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Marianne Reitan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2020-07-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Marthe Steinsvoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Martine Øverås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jostein Austigard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Erik Nerland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Nikolai Finset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Mali Ellingsgård Torjuul",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Bjørn Even Nerland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
+      "source_date": "2012-02-04",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3577658.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 5579.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -41028.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1384958.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 104964.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988460206",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:44+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988460206.",
+  "last_checked": "2026-10-17T07:50:44+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "917333831",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3DA - FORENINGEN FOR 3D-LYD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": "2016-06-23",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": "2016-06-23",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": "2016-06-23",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Ernst Philip Van der Loo, Steinbakken 17, 3025, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": "2016-06-23",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2016-06-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": "2016-06-23",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ernst Philip Van Der Loo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831/roller",
+      "source_date": "2020-11-09",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ernst Philip Van Der Loo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831/roller",
+      "source_date": "2024-01-04",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Giuseppe Pisano-Riise",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831/roller",
+      "source_date": "2024-01-04",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mariami Gviniashvili",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917333831/roller",
+      "source_date": "2024-01-04",
+      "retrieved_at": "2026-10-17T07:50:09+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917333831. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:09+00:00",
+  "changes": []
+}

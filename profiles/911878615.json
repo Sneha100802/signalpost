@@ -1,0 +1,205 @@
+{
+  "orgnr": "911878615",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BONDENS MARKED DRAMMEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.220 Detaljhandel med kjøtt og kjøttvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Thams gate 5, 3016, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Øvre Klevjervei 8, 3074, SANDE I VESTFOLD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bondensmarked.no/Drammen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2013-10-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Foretakets formål er å etablere, eie og drive Bondens marked (Bm) i Drammen etter retningslinjer gitt i \"Håndbok\" for Bondens marked. Bondens marked skal være et sted der forbruker kan kjøpe varer direkte fra den som har høstet, avlet, fanget, syltet, bakt, røkt eller på annen måte foredlet produktene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Elin Sofie Køhler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Karin Bøhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tim Reidar Stenberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Thore Riseng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "LIER REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2013-12-17",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2024-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 99340.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -67391.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -67753.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 340045.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 279971.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911878615",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:56+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911878615.",
+  "last_checked": "2026-10-17T07:49:56+00:00",
+  "changes": []
+}

@@ -1,0 +1,114 @@
+{
+  "orgnr": "985850631",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACCENTURE LATVIA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kr Valdemara iela 21, LV-1010 RIGA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Mobility, c/o Accenture AS, Postboks 363, 1326, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Alejandra Edith Pedernera",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631/roller",
+      "source_date": "2024-12-05",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "ACCENTURE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631/roller",
+      "source_date": "2024-09-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ACCENTURE LATVIA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631/roller",
+      "source_date": "2003-07-05",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985850631. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:28+00:00",
+  "changes": []
+}

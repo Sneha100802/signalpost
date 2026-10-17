@@ -1,0 +1,121 @@
+{
+  "orgnr": "946480339",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS KREOLINE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øvre Holmegate 31, 4006, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1986-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel samt hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Frøydis Olaug Berggraf",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339/roller",
+      "source_date": "1990-04-07",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Bjørg Oline Bremerthun Lidsheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339/roller",
+      "source_date": "1990-04-07",
+      "retrieved_at": "2026-10-17T07:50:25+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946480339. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:25+00:00",
+  "changes": []
+}

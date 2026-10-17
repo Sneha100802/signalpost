@@ -1,0 +1,142 @@
+{
+  "orgnr": "974969939",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BIRI BYGDEBARNEHAGE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": "1999-11-09",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": "1999-11-09",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": "1999-11-09",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 112, 2832, BIRI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": "1999-11-09",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": "1999-11-09",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ellen Randi Bruun Torvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2000-04-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ellen Randi Bruun Torvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Helge Sylliåsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anita Engevold Landgraff",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lise Lagestrand Brovold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Marianne Ingvaldsen Kirkerud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Heidi Engen Valdresstuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974969939/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974969939. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:10+00:00",
+  "changes": []
+}

@@ -1,0 +1,149 @@
+{
+  "orgnr": "938505705",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BERTHA OG HENRY JUEL ANDRESENS LEGAT STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Formue Accounting AS, Gamle Kirkeplass 7, 3019, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Formue Accounting AS, Postboks 9702 TORGET VEST, 3010, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": "1997-02-23",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "FORMUE ACCOUNTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705/roller",
+      "source_date": "2021-02-10",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Linda Moen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705/roller",
+      "source_date": "2024-09-04",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Solveig Aass Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705/roller",
+      "source_date": "2024-09-04",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "IRENE LANDFALD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705/roller",
+      "source_date": "2015-10-28",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FORMUE ACCOUNTING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938505705/roller",
+      "source_date": "2021-02-10",
+      "retrieved_at": "2026-10-17T07:48:38+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938505705. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:38+00:00",
+  "changes": []
+}

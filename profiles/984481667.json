@@ -1,0 +1,149 @@
+{
+  "orgnr": "984481667",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALTERNATIV OPPLYSNINGEN DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "58.130 Utgivelse av blader og tidsskrifter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Griniveien 367, 1356, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Grottenveien 16, 1177, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.alternativopplysningen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-04-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Informasjon, i form av en opplysningstjeneste og handel med/ produksjon av tjenester og produkter som naturlig hører sammen med dette, samt deltagelse i andre virksomheter innenfor samme bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": "2002-05-23",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Unni Nordbrenden",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667/roller",
+      "source_date": "2003-11-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Unni Nordbrenden",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667/roller",
+      "source_date": "2003-11-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Bertil Berg-Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667/roller",
+      "source_date": "2003-11-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "4 YOU REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667/roller",
+      "source_date": "2013-02-07",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:02+00:00",
+  "changes": []
+}

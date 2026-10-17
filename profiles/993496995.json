@@ -1,0 +1,177 @@
+{
+  "orgnr": "993496995",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARI BAHND DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.112 Skapende kunstnerisk virksomhet innenfor komposisjon av musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øvre Petersborg gate 2, 7016, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.aribahnd.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-12-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Produksjon, salg og videresalg av musikk og andre lydbærende medium. Rettighetsopphav til musikkverk og publishing av musikk. Rådgivningsvirksomhet, management, og formidling av artister. Ivaretakelse av intellektuelle rettigheter. Enhver annen virksomhet som naturlig faller sammen med ovennevnte, herunder å delta i andre selskaper med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretagender.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Per Anders Brattgjerd",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2009-01-21",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Johnny Wilmann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2017-08-24",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Robin Jenssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2017-08-24",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Per Anders Brattgjerd",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2017-08-24",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Jon Endre Rånes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2017-08-24",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Per Anders Brattgjerd",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Johnny Wilmann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Robin Jenssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jon Endre Rånes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993496995/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:48:58+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993496995. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:58+00:00",
+  "changes": []
+}

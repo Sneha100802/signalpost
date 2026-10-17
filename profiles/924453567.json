@@ -1,0 +1,142 @@
+{
+  "orgnr": "924453567",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FJELLBØ VANN- OG RENSEANLEGG SAMVIRKELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sjølystveien 46, 4610, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-01-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drifte og utvikle dette felles vann- og avløpsanlegg for hytteieiendommer tilhørende Fjellbø Hyttelag og omkringliggende hytter som kobler seg på dette. Foretaket har som formål å fremme medlemmenes økonomiske og praktiske interesser i vann- og avløpsanlegget gjennom deres deltakelse i samvirkelaget.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Finn Amund Norbye",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Wigstøl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Torstein Søren Robstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tom Christian Meyer-Bredesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
+      "source_date": "2020-02-07",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924453567. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:39+00:00",
+  "changes": []
+}

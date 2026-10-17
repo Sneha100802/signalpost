@@ -1,0 +1,163 @@
+{
+  "orgnr": "927366835",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALTERA AL RAYYAN L.L.C. NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Løkkeveien 107, 4007, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 50 Sentrum, 4001, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "David Alexander Vik Smith",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835/roller",
+      "source_date": "2025-02-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Henning Hoff Johannessen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835/roller",
+      "source_date": "2025-02-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALTERA AL RAYYAN L.L.C",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835/roller",
+      "source_date": "2021-07-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927366835",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -595000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927366835",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -404000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927366835",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 7963000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927366835",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1432000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927366835",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927366835.",
+  "last_checked": "2026-10-17T07:47:22+00:00",
+  "changes": []
+}

@@ -1,0 +1,219 @@
+{
+  "orgnr": "980334686",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EKREKROKEN BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ekrekroken 1, 1356, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 35,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Formålet er ikke kapitalavkastning til medlemmene. Eventuelt årsoverskudd skal godskrives egenkapitalen i foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": "1999-01-05",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Inger Cathrine Nilsen Poulsson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2012-07-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tea Marin Draganovic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Katrine Jayne Hagelund Wiksnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Fredrik Solem Neraker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tine Herlofsen Slaatten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eirik Thøgersen Ølnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "STATSAUTORISERT REVISOR HELENE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2011-06-22",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
+      "source_date": "2024-04-29",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 16850016.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -115877.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -127592.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4194238.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1013065.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980334686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980334686.",
+  "last_checked": "2026-10-17T07:48:37+00:00",
+  "changes": []
+}

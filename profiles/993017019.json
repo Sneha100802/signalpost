@@ -1,0 +1,135 @@
+{
+  "orgnr": "993017019",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HELDE DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/ John Helde, Vistdalsvegen 1594, 6364, VISTDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-03-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive felles for-, melk- og kjøttproduksjon for best mulig rasjonell utnytting av deltakernes egne jordbruksareal samt eventuelt forpakta areal. I tillegg kan samdrifta etablere annen virksomhet som direkte knytter seg til landbruksnæringa.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "John Helde",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019/roller",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Linda Larssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019/roller",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Merete Hanset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019/roller",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BØNDENES REGNSKAPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019/roller",
+      "source_date": "2008-10-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993017019. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:37+00:00",
+  "changes": []
+}

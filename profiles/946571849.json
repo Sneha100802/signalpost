@@ -1,0 +1,205 @@
+{
+  "orgnr": "946571849",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS STAVSETBYGG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Leirfossvegen 27, 7038, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1987-12-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eie og drive utleie av eiendommen Enromveien 2, Gnr. 104, bnr. 1101 i Trondheim Kommune. Rema 1000 Norge har fortrinnsrett til leie av hovedareal, til konkurransedyktige priser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Magnus Bang Svendsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2019-01-29",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "BYGGTEKNIKK PROSJEKT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2016-01-05",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "VINTERVEIEN EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2016-01-05",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "REBUS MEDINVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2016-01-05",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "EKSIT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2019-10-28",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2019-10-28",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BYGGTEKNIKK REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946571849/roller",
+      "source_date": "2019-04-10",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 10027316.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 6645592.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 6387191.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 20737267.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 15927667.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/946571849",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946571849.",
+  "last_checked": "2026-10-17T07:49:44+00:00",
+  "changes": []
+}

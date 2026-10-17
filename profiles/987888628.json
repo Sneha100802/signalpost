@@ -1,0 +1,177 @@
+{
+  "orgnr": "987888628",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BAE SYSTEMS HÄGGLUNDS AB NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.140 Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Studievegen 2, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 475  c/o Visma Services, Norge AS, 2803, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:21+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Roy Werner Russ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "STATSAUT. REVISOR JOHN ASLE JOHNSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
+      "source_date": "2017-10-05",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
+      "source_date": "2005-08-20",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "BAE SYSTEMS HÄGGLUNDS AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
+      "source_date": "2005-03-08",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 768200.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -4140318.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -4059317.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8339443.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987888628",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987888628.",
+  "last_checked": "2026-10-17T07:48:22+00:00",
+  "changes": []
+}

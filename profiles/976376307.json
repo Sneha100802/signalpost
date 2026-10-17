@@ -1,0 +1,142 @@
+{
+  "orgnr": "976376307",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FAGERHOLT FELLESANTENNEANLEGG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "61.100 Kabelbasert, satellittbasert og trådløs telekommunikasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Jan Grønlund, Tretjønnveien 1B, 4633, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1980-10-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å ivareta medlemmenes interesser i tilknytning til og bruk av telekommunikasjon som overfører lyd, bilde, kringkastingssendinger, informasjon, data ol. i konsesjonsområdet Fagerholt/Bleget, herunder fremforhandle kollektive avtaler om signalleveranser med tilhørende kostnadsdeling på medlemmene. Foretaket skal tilsikte en drift som går i balanse, og det skal ikke bygges opp kapital utover det som er nødvendig for å dekke påregnelige kostnader. Et eventuelt overskudd skal bli stående i foretaket og tillegges kapitalen, og et eventuelt underskudd skal avregnes mot kapitalen. Det skal ikke skje noen utbetaling til medlemmene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": "1996-05-09",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Grønlund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørn Skaare Karlsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Daniel Thorbjørn Miranda Pettersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Lars Erik Midtsundstad Storbukås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ACCOUNT GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976376307/roller",
+      "source_date": "2025-01-09",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976376307. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:48+00:00",
+  "changes": []
+}

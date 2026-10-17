@@ -1,0 +1,142 @@
+{
+  "orgnr": "996340554",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "41.BERGEN KFUK-KFUM-SPEIDERE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Indre Sædal 50, 5099, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Jon Harald Aase, Saudalskleivane 72, 5136, MJØLKERÅEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1946-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": "2011-01-22",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jon Harald Bøyum Aase",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
+      "source_date": "2014-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Herleik Overøye Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
+      "source_date": "2014-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jørgen Takøy Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
+      "source_date": "2014-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Martine Stølen Akse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
+      "source_date": "2014-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kim Boyd Fagerlie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
+      "source_date": "2014-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996340554. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:48+00:00",
+  "changes": []
+}

@@ -1,0 +1,205 @@
+{
+  "orgnr": "974904934",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKATFIRMAET KJÆR DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Rådhusgata 3, 4611, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-08-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Advokatvirksomhet, samt hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": "1995-08-17",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Jørgen Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-08-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Reidar Henrik Berge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-08-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Hans Thomas Engebretsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-08-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Pål Torblå Stendal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-08-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kim-Robert Danielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-08-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KRS REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2023-09-04",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ENORA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974904934/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 21351977.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 10003432.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 9936937.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 10385672.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 7070805.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974904934",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974904934.",
+  "last_checked": "2026-10-17T07:48:28+00:00",
+  "changes": []
+}

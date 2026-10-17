@@ -1,0 +1,107 @@
+{
+  "orgnr": "996234444",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALSTOM ENGINEERING AND SERVICES LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "4068, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Litchurch Lane, DERBY DE24 8AD ENGLAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Gaute Yddal Vestbøstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444/roller",
+      "source_date": "2025-05-14",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALSTOM ENGINEERING AND SERVICES",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444/roller",
+      "source_date": "2010-12-07",
+      "retrieved_at": "2026-10-17T07:50:34+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996234444. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:34+00:00",
+  "changes": []
+}

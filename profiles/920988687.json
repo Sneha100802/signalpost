@@ -1,0 +1,121 @@
+{
+  "orgnr": "920988687",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3W INDUSTRI SERVICE APS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "25.400 Smiing, stansing og valsing av metall, og pulvermetallurgi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Garbæksvej 2, DK-5330 MUNKEBO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o BD VAT and Tax Services AS, Postboks 1369 Vika, 0114, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "BD VAT AND TAX SERVICES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687/roller",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Toralv Follestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687/roller",
+      "source_date": "2019-12-05",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BD VAT AND TAX SERVICES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687/roller",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "3W INDUSTRI SERVICE APS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920988687/roller",
+      "source_date": "2018-06-20",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920988687. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:46:57+00:00",
+  "changes": []
+}

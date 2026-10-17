@@ -1,0 +1,114 @@
+{
+  "orgnr": "938546045",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANVIL MOTH LTD NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "5th Floor,, 167-169 Great Portland Street, LONDON W1W 5PF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Abels gate 12A, 7030, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Victoria Christiana Hamilton",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ANVIL MOTH LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938546045/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938546045. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:21+00:00",
+  "changes": []
+}

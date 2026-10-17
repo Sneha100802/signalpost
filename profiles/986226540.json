@@ -1,0 +1,135 @@
+{
+  "orgnr": "986226540",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FAMILIENE KIØSTERUD OG LYCHES LEGAT TIL STØTTE FOR ØKONOMISK VANSKELIGSTILTE I DRAMMEN OG TIL INGENIØRER/ARKITEKTER VED TEKNISKE HØYSKOLER STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": "2004-02-04",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": "2004-02-04",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": "2004-02-04",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/ BDO AS, Bragernes torg 2A, 3017, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": "2004-02-04",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": "2004-02-04",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anne Louise Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
+      "source_date": "2025-03-21",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Katrine Gretland Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
+      "source_date": "2025-03-21",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Lise Lervåg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
+      "source_date": "2025-03-21",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "VIKEN KOMMUNEREVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
+      "source_date": "2025-03-31",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ENORA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:47:17+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986226540. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:17+00:00",
+  "changes": []
+}

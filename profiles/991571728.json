@@ -1,0 +1,149 @@
+{
+  "orgnr": "991571728",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALMAUK VEGLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Osvegen 438, 5229, KALANDSEIDET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2007-06-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å bygge og vedlikeholde skogsbilveg fra Kalandseidet til Almeland.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": "2007-08-14",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Terje Nesse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2013-02-06",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trond Erik Austevoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2023-08-31",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Olav Børsheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2023-08-31",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Andre Totland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2023-08-31",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørn Erik Nesse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2023-08-31",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECIT FORRETNINGSPARTNER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
+      "source_date": "2022-06-18",
+      "retrieved_at": "2026-10-17T07:50:37+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991571728. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:37+00:00",
+  "changes": []
+}

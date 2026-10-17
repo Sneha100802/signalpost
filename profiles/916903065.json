@@ -1,0 +1,149 @@
+{
+  "orgnr": "916903065",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKO KUNSTSTIFTELSE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": "2016-04-15",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": "2016-04-15",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": "2016-04-15",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Jens Richard Andersen, c/o Advokatfirmaet Interjuris DA, Markens gate 2A, 4610, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": "2016-04-15",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2016-02-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": "2016-04-15",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stephan Lange Jervell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2025-06-13",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anniken Haugen Jebsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2025-06-13",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erling Gjerdrum Kagge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2025-06-13",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mette Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2025-06-13",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CROWE PARTNER REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2019-10-24",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ENORA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:50:21+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916903065. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:21+00:00",
+  "changes": []
+}

@@ -1,0 +1,142 @@
+{
+  "orgnr": "979384297",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EDBCONSULT ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.400 Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Svahellaveien 10, 8149, NEVERDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Istadliveien, 6453, KLEIVE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1997-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikle et allsidig kompetansemiljø innen elektronisk databehandeling, samt å utvikle og selge tjenester i tilknytning til dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Grete Alberta Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Asbjørn Magne Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
+      "source_date": "1997-11-12",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Asbjørn Magne Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Grete Alberta Jørgensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:33+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979384297. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:34+00:00",
+  "changes": []
+}

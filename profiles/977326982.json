@@ -1,0 +1,261 @@
+{
+  "orgnr": "977326982",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DRAMMENS MUSEUM FOR KUNST OG KULTURHISTORIE FYLKESMUSEUM OG GALLERI FOR BUSKERUD STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": "1997-06-06",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": "1997-06-06",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "91.212 Drift av kulturhistoriske museer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": "1997-06-06",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Konnerudgata 7, 3045, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": "1997-06-06",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 22,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1996-05-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "6500 Kommuneforvaltningen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": "1997-06-06",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Eivor Winther Sunesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2025-08-18",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Vibeke Margareta Kiær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marianne Werp",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Holm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linn Anette Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andor Magne Roksvåg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ulf Erik Knudsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Johan Baumann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Halldis Christiansen Sørby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tine Birgitte Ericsson Christoffersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Fred Løwe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hege Cathrine Brandsdal Eriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jan Inge Aas Eidem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2026-01-27",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "VIKEN KOMMUNEREVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2009-06-22",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECIT FORRETNINGSPARTNER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
+      "source_date": "2025-03-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 27763767.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 362524.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 21884.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 34328638.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 26309776.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977326982",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    }
+  ],
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977326982.",
+  "last_checked": "2026-10-17T07:46:59+00:00",
+  "changes": []
+}

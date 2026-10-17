@@ -1,0 +1,191 @@
+{
+  "orgnr": "930605972",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A.O.KLEIVE BYGG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Stubøvegen 121, 6460, EIDSVÅG I ROMSDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-12-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Snekker, påbygg, restaurering, nybygg og ferdighus, og andre produkter/tjenester som naturlig hører sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Arnt Ove Kleive",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972/roller",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Arnt Ove Kleive",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972/roller",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thomas Gjelsten Kleive",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972/roller",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972/roller",
+      "source_date": "2023-01-06",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 5686145.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 83395.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 65988.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1566681.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 563807.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930605972",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:00+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930605972.",
+  "last_checked": "2026-10-17T07:50:00+00:00",
+  "changes": []
+}

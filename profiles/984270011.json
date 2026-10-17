@@ -1,0 +1,149 @@
+{
+  "orgnr": "984270011",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKKSANG ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Frydenbergvegen 20E, 7050, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.akksang.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-04-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Vokalgruppe bestående av fem medlemmer. Opptredener ved ulike arrangementer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Marius Leine With",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011/roller",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Kristian Onarheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011/roller",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Lars Sigmund Løfsnæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011/roller",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Kristian Monsen Aune",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011/roller",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Audun Støren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984270011/roller",
+      "source_date": "2002-04-27",
+      "retrieved_at": "2026-10-17T07:50:59+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984270011. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:59+00:00",
+  "changes": []
+}

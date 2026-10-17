@@ -1,0 +1,240 @@
+{
+  "orgnr": "983456200",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HUNDREMETERSKOGEN BARNEHAGE GJØVIK SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Torgeir Forseths veg 14, 2821, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.100meter.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 21,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-10-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Etablere, eie og drive barnehage for andelshavernes barn. Barnehagen skal drives i henhold til \"Lov om barnehager\".",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": "2001-06-20",
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:12+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ann Jeanette Foss Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2025-06-30",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Steffen Libakken-Nielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mats Soli Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Andreas Brurud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kaja Moen Bratland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tina Shi Presteseter Hjarbo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Wenche Evensen Vang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-06-27",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-01-22",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FRISIKT VEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983456200/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 10813058.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -1056871.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -1136181.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 7361388.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2848401.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983456200",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983456200.",
+  "last_checked": "2026-10-17T07:48:13+00:00",
+  "changes": []
+}

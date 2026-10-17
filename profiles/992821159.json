@@ -1,0 +1,156 @@
+{
+  "orgnr": "992821159",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARBEIDSHJELPEN DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Agnes Mowinckels gate 6, 5008, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-05-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Leie ut rimelig arbeidskraft til profesjonelle og private kunder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Even Hestad Vie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Even Hestad Vie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Jo Eivind Berge Stang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Roy Sævik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Roy Sævik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Even Hestad Vie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jo Eivind Berge Stang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:27+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992821159. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:27+00:00",
+  "changes": []
+}

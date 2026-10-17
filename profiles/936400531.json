@@ -1,0 +1,198 @@
+{
+  "orgnr": "936400531",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARNSTEIN ARNEBERGS VEI 30 BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Arnstein Arnebergs vei 30, 1366, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Heimstaden Norway AS, Sognsveien 9C, 0450, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-09-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:49+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "HEIMSTADEN NORWAY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Alexander Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
+      "source_date": "2026-07-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christoffer Øvereng Haugan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
+      "source_date": "2026-07-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kai Sjøvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
+      "source_date": "2026-07-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
+      "source_date": "2025-10-21",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 8672295.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 5507491.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2588071.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 61329964.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -148826784.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936400531",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:50+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936400531.",
+  "last_checked": "2026-10-17T07:48:50+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "919710373",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRELEHOLMEN VANN OG AVLØP SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Østre Lone lier 65, 4642, SØGNE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-09-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Anlegge, drifte og administrere vann- og avløpsanlegg med tilhørende installasjoner for foretakets medlemmer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Alexander Aamodt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373/roller",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Klungland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373/roller",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vidar Aamodt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373/roller",
+      "source_date": "2017-11-06",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919710373. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:49+00:00",
+  "changes": []
+}

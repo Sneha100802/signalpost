@@ -1,0 +1,240 @@
+{
+  "orgnr": "987989297",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BLUENORD ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Vollgate 3, 0158, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bluenord.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2005-01-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Direkte og indirekte eierskap og deltakelse i selskaper og virksomheter innenfor leting, produksjon og salg av olje og gass og andre aktiviteter som står i forbindelse med dette, samt ved aksjetegning eller på annen måte å delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": "2005-03-12",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Euan Campbell Shirlaw",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2022-01-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Glen Ole Rødland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Færøvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christian Brækken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Peter Douglas Coleman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Janice Margaret Brown",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elisabeth Francoise Proust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2026-05-20",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2008-05-06",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ENORA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "TMF NORWAY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1039000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 280000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 112000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3355000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 768000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987989297",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987989297.",
+  "last_checked": "2026-10-17T07:48:45+00:00",
+  "changes": []
+}

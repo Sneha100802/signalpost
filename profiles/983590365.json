@@ -1,0 +1,135 @@
+{
+  "orgnr": "983590365",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARNTZEN & LUND ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.380 Engroshandel med andre næringsmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Mannsverk 4, 5094, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-08-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel med konsumvarer til restauranter og kafeer m.v. og virksomhet som er beslektet med dette ogsa deltakelse i selskaper med samme eller lignende formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Benedicte Skålnes Arntzen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365/roller",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jan-Dagfinn Lund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365/roller",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Thomas Lund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365/roller",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Erik Andreas Arntzen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365/roller",
+      "source_date": "2001-08-18",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983590365. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:54+00:00",
+  "changes": []
+}

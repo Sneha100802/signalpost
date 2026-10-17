@@ -1,0 +1,191 @@
+{
+  "orgnr": "995451697",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "+2 INTERIØR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.130 Interiørdesignvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Olaf Helsets vei 5, 0694, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "Www.pluss2.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Interiør, innredning samt andre produkter og tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": "2010-04-28",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Charlotte Selmer Gravdahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697/roller",
+      "source_date": "2011-03-08",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Charlotte Selmer Gravdahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697/roller",
+      "source_date": "2021-12-14",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "MPR REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697/roller",
+      "source_date": "2022-07-14",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECIT INTUNOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995451697/roller",
+      "source_date": "2022-06-22",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 7364644.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 348705.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 254140.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 6881359.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4686212.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995451697",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995451697.",
+  "last_checked": "2026-10-17T07:47:35+00:00",
+  "changes": []
+}

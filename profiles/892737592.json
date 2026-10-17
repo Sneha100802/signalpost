@@ -1,0 +1,170 @@
+{
+  "orgnr": "892737592",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BODØMARKAS VENNER SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hundestedveien 1, 8003, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1987-02-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Arbeide for Bodøs befolkning gjennom å ivareta Bodømarka som fritids- og rekreasjonsområde.  Det er orgnaisasjonens mål å medvirke til å gjøre Bodømarka lett tilgjengelig og attraktiv ved å: . Vedlikeholde og eventuelt utvide det varierte sti- og løypenettet . Tilrettelegge for aktiviteter og opplevelser i marka.  Dette gjøres gjennom å utplassere hvilebenker, sette opp gapahuker, anlegge bålplasser o.l på egnede steder. I dette punktet inngår også vedlikehold samt opprettholdelse av utsikter ved disse stedene.   Disse mål må oppnås gjennom samarbeid med grunneiere, kommunale myndigheter og andre interesser i Bodømarka.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": "2009-10-15",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jens Viggo Limstrand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2018-08-13",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Morten Selnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Willy Sandmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bente Albrigtsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Solveig Annie Martinussen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rolf Kåre Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ida Torsteinsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Rolf Helge Schjem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Lars Norum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
+      "source_date": "2024-06-05",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 892737592. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:41+00:00",
+  "changes": []
+}

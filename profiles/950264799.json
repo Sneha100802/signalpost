@@ -1,0 +1,282 @@
+{
+  "orgnr": "950264799",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "COOP VESTVIKEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gamle Ringeriksvei 39, 1357, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 660,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1972-05-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å forsyne medlemmene med gode og hensiktsmessige varer og tjenester til konkurransedyktig pris og kvalitet. Samvirkelaget skal videre tjene som en interesseorganisasjon for medlemmene, der disse gjennom sin innflytelse i de valgte organer, kan søke å ivareta sine intersser som forbrukere. Samvirkelagene skal utøve aktivt eierskap i Coop Norge.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Wenche Wahlstrøm Løvland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2013-11-16",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Inge Hilde Kitterød",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jon Norvald Evensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Svein Arne Lilleløkken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kenneth Waage",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Merethe Caspersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Svein Eigil Løkås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Dag Morten Iversen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Irene Anita Wara",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anders Harald Kristoffersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eli Haga-Bauer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Elisabeth Agneta Lindén Moen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Daniel Matthias Walter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Miroslav Bobas-Tomic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tina Dorthea Frank Fosse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eigil Rognan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2024-10-08",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BLOM & FOSSAN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950264799/roller",
+      "source_date": "2025-11-13",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1757796363.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 41711072.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 35159768.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 829836610.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 499957263.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950264799",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    }
+  ],
+  "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950264799.",
+  "last_checked": "2026-10-17T07:49:04+00:00",
+  "changes": []
+}

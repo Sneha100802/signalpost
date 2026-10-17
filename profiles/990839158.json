@@ -1,0 +1,177 @@
+{
+  "orgnr": "990839158",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "MIDØY SAMDRIFT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "01.420 Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nesoddvegen 12, 6475, MIDSUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2007-01-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Felles melk- og kjøttproduksjon for best mulig rasjonell og økonomisk utnyttelse av deltakernes egne og forpakta jordbruksarealer, samt eventuelle eiendommer som blir kjøpt og/eller forpakta av Samdrifta. Ved enstemmig vedtak i møte kan også forproduksjon drives felles. Samdrifta skal gi muligheter til ordnede arbeidsforhold, fritid og ferie for deltakerne. Samdrifta kan utføre enhver virksomhet som er nataurlig knyttet til landbruket. Mjølkeproduksjon skal føregå i Søre Midøy Samdrift si driftsbygning. Det skal skrivast eigen avtale mellom Midøy Samdrift og Søre Midøy Samdrift om leige av driftsbygning og rettar som Søre Midøøy Samdrift har på eigarane sine bruk, Kjøptproduksjon på storfe kan drivast i medlemmene sine driftsbygningar. Det skal gjerast eigen avtale om bruk av medlemmene sine driftsbygningar.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": "2007-02-19",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Charlotte Lervik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ågne Stormyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Odd Helge Gangstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Magne Eldar Bjørnerem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Charlotte Lervik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Charlotte Lervik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ågne Stormyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Odd Helge Gangstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Magne Eldar Bjørnerem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2026-02-25",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
+      "source_date": "2019-04-04",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990839158. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:02+00:00",
+  "changes": []
+}

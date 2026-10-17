@@ -1,0 +1,191 @@
+{
+  "orgnr": "935373832",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2SST STAVANGER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Oddahagen 36, 4031, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Hundvinsvegen 124, 5956, HUNDVIN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-04-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Er å selge varer og tjenester innen godstransport på  vei, og monteringstjenester - og annet som naturlig sammenfaller med  dette - samt deltakelse i andre selskaper, investeringer og  nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Robin Vevle Steen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832/roller",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Robin Vevle Steen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832/roller",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Preben Rene Sylta",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832/roller",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jason-Johannes Meyer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935373832/roller",
+      "source_date": "2025-04-14",
+      "retrieved_at": "2026-10-17T07:46:55+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2280821.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 265436.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 208470.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 754520.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 231970.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935373832",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:56+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935373832.",
+  "last_checked": "2026-10-17T07:46:56+00:00",
+  "changes": []
+}

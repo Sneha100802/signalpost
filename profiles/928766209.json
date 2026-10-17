@@ -1,0 +1,177 @@
+{
+  "orgnr": "928766209",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BODØ GYN DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "86.221 Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sjøgata 1, 8006, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-02-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Privatpraktiserende spesialistlegevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Irina Poliakova Eide",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209/roller",
+      "source_date": "2022-10-24",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "BODØ GYNEKOLOGISKE KLINIKK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209/roller",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "GYNEKOLOG HELLAND AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209/roller",
+      "source_date": "2022-02-18",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928766209/roller",
+      "source_date": "2023-09-30",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928766209",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1412823.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928766209",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928766209",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 713529.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928766209",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928766209",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928766209.",
+  "last_checked": "2026-10-17T07:48:36+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "936978843",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "100BIRDIES AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.190 Sportsaktiviteter ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hundsundveien 23, 1367, SNARØYA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-01-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Profesjonell virksomhet innen konkurransegolf, med veiledning innen idrett.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Henric Sigvard Bjelke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843/roller",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Henric Sigvard Bjelke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843/roller",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Bjelke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843/roller",
+      "source_date": "2026-01-16",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936978843. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:53+00:00",
+  "changes": []
+}

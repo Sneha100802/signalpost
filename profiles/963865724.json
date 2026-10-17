@@ -1,0 +1,275 @@
+{
+  "orgnr": "963865724",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORCONSULT ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.121 Byggeteknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vestfjordgaten 4, 1338, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.norconsult.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1991-11-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive rådgivende ingeniør- og arkitektvirksomhet og beslektet virksomhet, utføre konsernfunksjoner og eie og investere i aksjer, herunder å gi strategisk og finansiell støtte til datterselskaper. Selskapet kan også engasjere seg i andre aktiviteter knyttet til å nå disse målene. Virksomheten kan utøves av selskapet selv, av datterselskaper, gjennom deltakelse i andre selskaper eller i samarbeid med andre.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Egil Olav Hogna",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2020-11-27",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Nils Morten Huseby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mari Thjømøe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Petter Nesvåg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karl Erik Kjelstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annette Sandra Angelica Kuru",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Birgitte Engebretsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Helge Hesjedal Wiberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Oskar Hove Zimmer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sarah Christina Olsson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Sigri Rosø Pladsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Åsulv Glærum Reppesgård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Sigrid Bergseng Lakså",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Carlos Luis Rangles Alvarez",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Rasmus Boysen Feddersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2026-07-15",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
+      "source_date": "2019-06-25",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 11411000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 857000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 654000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9399000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3113000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    }
+  ],
+  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724.",
+  "last_checked": "2026-10-17T07:49:07+00:00",
+  "changes": []
+}

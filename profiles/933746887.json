@@ -1,0 +1,107 @@
+{
+  "orgnr": "933746887",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A M HEGGE IDENTITETSUTVIKLING PSYKOTRAUMETERAPI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "86.930 Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kantarellgrenda 33, 1352, KOLSÅS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:44+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Astrid Mette Hegge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887/roller",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:45+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Astrid Mette Hegge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933746887/roller",
+      "source_date": "2024-07-05",
+      "retrieved_at": "2026-10-17T07:47:45+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933746887. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:45+00:00",
+  "changes": []
+}

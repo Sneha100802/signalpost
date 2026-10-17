@@ -1,0 +1,184 @@
+{
+  "orgnr": "925071269",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOUSAIDI BEMANNING OG ADMINISTRASJON SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Olsvikveien 38A, 5184, OLSVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-06-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Sjåførutleie, administrasjon, regnskap og alt som hører innunder dette. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten fra foretaket som leverandører av tjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": "2020-07-04",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kurt Normann Ulveseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269/roller",
+      "source_date": "2020-11-11",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kurt Normann Ulveseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269/roller",
+      "source_date": "2020-11-02",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ramia Bousaidi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269/roller",
+      "source_date": "2020-11-02",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Karin Irene Ulveseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269/roller",
+      "source_date": "2020-11-02",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 313866.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -17032.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -27088.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 93615.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -105376.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925071269",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925071269.",
+  "last_checked": "2026-10-17T07:47:29+00:00",
+  "changes": []
+}

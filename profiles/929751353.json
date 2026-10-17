@@ -1,0 +1,170 @@
+{
+  "orgnr": "929751353",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "04 INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "77.390 Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Daniel Asmare, Oskar Braatens gate 25, 0474, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-07-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av varer og tjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Daniel Hansen Asmare",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353/roller",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Daniel Hansen Asmare",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929751353/roller",
+      "source_date": "2022-09-27",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 127000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -5627.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -69797.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 164810.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 119247.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929751353",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929751353.",
+  "last_checked": "2026-10-17T07:50:39+00:00",
+  "changes": []
+}

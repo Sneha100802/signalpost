@@ -1,0 +1,219 @@
+{
+  "orgnr": "950181389",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOLSTAD WAM ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Grønland 70A, 3045, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-12-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg, utleie, drift og utvikling av fast eiendom.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Randi Synnøve Christensen Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2024-03-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Rolf Øyvind Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2024-03-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Trudi Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2024-03-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "MILLE OKK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2024-03-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "UC HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2024-03-04",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ulf Terje Christensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2022-05-24",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Randi Synnøve Christensen Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2022-05-24",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erling Langeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2022-05-24",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Atle Christian Terum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2022-05-24",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "KAPISOL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950181389",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -16887.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950181389",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -8197.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950181389",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 851375.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950181389",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 851375.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950181389",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:59+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950181389.",
+  "last_checked": "2026-10-17T07:46:59+00:00",
+  "changes": []
+}

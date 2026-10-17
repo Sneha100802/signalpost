@@ -1,0 +1,135 @@
+{
+  "orgnr": "937263686",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "22 GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "96.210 Frisering og barbering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vestre Strandgate 24B, 4611, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Selge varer og tjenester innen skjønnhetspleie - og annet som naturlig sammenfaller med dette - samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:23+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "David Nateland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686/roller",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annel Praso",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686/roller",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aris Praso",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686/roller",
+      "source_date": "2026-02-27",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VITAL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937263686/roller",
+      "source_date": "2026-03-24",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937263686. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:24+00:00",
+  "changes": []
+}

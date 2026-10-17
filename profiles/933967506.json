@@ -1,0 +1,233 @@
+{
+  "orgnr": "933967506",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKATFIRMAET WOLD & CO DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Torget 2, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 160 Sentrum, 6401, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.wold.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2024-08-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive advokatvirksomhet og annen virksomhet som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:29+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Erik Nikolai Wexels Wold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2024-08-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Erik Nikolai Wexels Wold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Astrid Bolstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Mads Lind Jenset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ingrid Heggdal Larsen Høgby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Heidi Fredly",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Henning Eik Tomren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-02-23",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2025-10-07",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ADMENTO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
+      "source_date": "2026-04-20",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 18926338.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -115583.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8317433.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 5678375.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:30+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933967506.",
+  "last_checked": "2026-10-17T07:47:30+00:00",
+  "changes": []
+}

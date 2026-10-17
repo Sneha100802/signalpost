@@ -1,0 +1,177 @@
+{
+  "orgnr": "997504933",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BYGGTRADE LIMITED NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Tyrihansveien 24, 4638, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Øygarden 7, 4790, LILLESAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Richard Hæg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Harald Hæg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
+      "source_date": "2017-10-14",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ACCOUNTERA AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
+      "source_date": "2025-06-26",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "BYGGTRADE LIMITED",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
+      "source_date": "2011-10-29",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 936000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 77424.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 77722.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1507335.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -51042.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997504933",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:08+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997504933.",
+  "last_checked": "2026-10-17T07:47:08+00:00",
+  "changes": []
+}

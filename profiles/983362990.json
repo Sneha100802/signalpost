@@ -1,0 +1,156 @@
+{
+  "orgnr": "983362990",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GRIP DAGEN STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "88.102 Dagaktivitetstilbud tilpasset målgrupper",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "3050, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/OleChristian Verheul, Smetten 3, 3050, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.gripdagen.org",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-01-11",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": "2001-07-10",
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:45+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Mette Løvaas Gjerde",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
+      "source_date": "2003-10-28",
+      "retrieved_at": "2026-10-17T07:48:46+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Christian Verheul",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
+      "source_date": "2015-09-16",
+      "retrieved_at": "2026-10-17T07:48:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eyleen Angela Karlsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
+      "source_date": "2015-09-16",
+      "retrieved_at": "2026-10-17T07:48:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mette Løvaas Gjerde",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
+      "source_date": "2015-09-16",
+      "retrieved_at": "2026-10-17T07:48:46+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "VIKEN KOMMUNEREVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
+      "source_date": "2003-09-22",
+      "retrieved_at": "2026-10-17T07:48:46+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:46+00:00",
+  "changes": []
+}

@@ -1,0 +1,219 @@
+{
+  "orgnr": "975341380",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOLIGSTIFTELSEN NTNU OG SINTEF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Strindvegen 4, 7034, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 4760 Torgarden, 7465, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1954-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Oppføring, administrasjon og drift av boliger for midlertidige/korttidsansatte i vitenskapelig stilling ved NTNU og SINTEF.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": "1995-09-07",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Fred Horghagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2022-07-19",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET TOBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2023-11-02",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Gøril Kvernmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nina Salberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lilian Sunde Ødegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Kristian Hestnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "E.K. REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2024-01-29",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975341380/roller",
+      "source_date": "2023-12-13",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 12762954.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1805818.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2045534.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 46546440.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 27219338.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975341380",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975341380.",
+  "last_checked": "2026-10-17T07:49:15+00:00",
+  "changes": []
+}

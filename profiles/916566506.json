@@ -1,0 +1,142 @@
+{
+  "orgnr": "916566506",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACMP NORGE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.120 Aktiviteter i yrkessammenslutninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Agnes Beathe Steen Fosse, Granåsen 49A, 1362, HOSLE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.linkedin.com/groups/8416588",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2016-01-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": "2016-02-05",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Agnes Beathe Lindeman Steen Fosse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
+      "source_date": "2025-05-20",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Svein Andre Lesto",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
+      "source_date": "2025-05-20",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hilde Rød",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
+      "source_date": "2025-05-20",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hans Henrik Grøm-Wilkens",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
+      "source_date": "2025-05-20",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Johan Fredrik Thaulow",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
+      "source_date": "2025-05-20",
+      "retrieved_at": "2026-10-17T07:51:03+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916566506. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:03+00:00",
+  "changes": []
+}

@@ -1,0 +1,184 @@
+{
+  "orgnr": "922370788",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "0102 MANAGEMENT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gyldenløves gate 34, 4614, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Erlend Buflaten, Gyldenløves gate 34, 4614, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-02-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Management av artister og andre aktører innenfor musikk og kultur.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Erlend Buflaten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788/roller",
+      "source_date": "2019-03-14",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Erlend Buflaten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788/roller",
+      "source_date": "2022-02-11",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "GERHARD & SØNN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788/roller",
+      "source_date": "2019-05-09",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 481807.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -164648.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -162877.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 488458.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 140672.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922370788",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922370788.",
+  "last_checked": "2026-10-17T07:51:01+00:00",
+  "changes": []
+}

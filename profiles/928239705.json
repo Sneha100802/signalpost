@@ -1,0 +1,212 @@
+{
+  "orgnr": "928239705",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKKORD ROGALAND- MÅLEKONTOR FOR BYGGFAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.200 Aktiviteter i arbeidstakerorganisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Løkkeveien 22, 4008, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-03-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Forstå den forretningsmessige drift av målekontoret med oppmåling av akkordarbeid og tilknyttet virksomhet som nærmere beskrevet i §3 nedenfor.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:28+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Marek Bogucki",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2024-01-19",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Marek Bogucki",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Rosland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørnar Edon Kvan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eddy Henningsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Øyvind Andre Thomassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ivar Norby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2026-08-03",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISJON VEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
+      "source_date": "2022-04-07",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 435839.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -18385.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -7717.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 606383.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 600388.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928239705",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928239705.",
+  "last_checked": "2026-10-17T07:49:29+00:00",
+  "changes": []
+}

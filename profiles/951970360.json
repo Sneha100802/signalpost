@@ -1,0 +1,212 @@
+{
+  "orgnr": "951970360",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BIRKELUND BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Krambugata 7, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/Boligbyggelaget TOBB, Postboks 2424 Torgard, 7005, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1986-06-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:35+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET TOBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2015-06-10",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Arne Skogmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2024-05-25",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristine Margrethe Steen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2024-05-25",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lene Pauline Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2024-05-25",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eldrid Bengård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2024-05-25",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "IN REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "1993-06-09",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET TOBB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951970360/roller",
+      "source_date": "2015-06-10",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 602400.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 9778.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -48544.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4004179.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2047455.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/951970360",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:36+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 951970360.",
+  "last_checked": "2026-10-17T07:50:36+00:00",
+  "changes": []
+}

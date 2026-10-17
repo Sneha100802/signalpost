@@ -1,0 +1,177 @@
+{
+  "orgnr": "925208213",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1001 EVENTYR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.110 Industri-, produkt- og motedesignvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Utsikten 7, 4026, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-06-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Selge tjenester og varer innen design, utvikling, innovasjon og rådgivning innen petroleum, marinteknikk, akvakultur og prosjektledelse, og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tord Ludvigsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213/roller",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tord Ludvigsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213/roller",
+      "source_date": "2020-06-17",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "LEIF KIELSEN REGNSKAPSKONTOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213/roller",
+      "source_date": "2026-03-09",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 130125.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 55864.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 55864.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 229256.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 136629.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925208213",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:09+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925208213.",
+  "last_checked": "2026-10-17T07:47:09+00:00",
+  "changes": []
+}

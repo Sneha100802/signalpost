@@ -1,0 +1,226 @@
+{
+  "orgnr": "983485731",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKATENE STORGATA 2 ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "69.100 Juridisk tjenesteyting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Storgata 2, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.advs2.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-06-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utføre kontortjenester for advokater i kontorfellesskap.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": "2001-07-03",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Per Espen Eid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Håvard Fremstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "ADVOKAT CAMILLA KVAKSRUD AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "ADVOKAT HANNE LILLEBY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Håvard Fremstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Espen Eid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Camilla Pernille Kvaksrud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne Lilleby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2019-07-11",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SKREIA REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
+      "source_date": "2024-03-21",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 991724.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -524.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 516447.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 13946.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983485731",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:04+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983485731.",
+  "last_checked": "2026-10-17T07:49:04+00:00",
+  "changes": []
+}

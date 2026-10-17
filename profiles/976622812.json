@@ -1,0 +1,184 @@
+{
+  "orgnr": "976622812",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BO-GODT KJERRINGØY SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "8093, KJERRINGØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1972-06-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bygge og drive boliger/leiligheter med service for eldre og uføre i Kjerringøy med alder +55 år. Styret kan i spesielle tilfeller fravike alder.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": "1996-08-06",
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:52+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ivar Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2020-09-21",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Camilla Wickstrøm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frank Harry Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elisabeth Søfting",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trine Mariann Engmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Iris-Karine Lyngmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Øivind Jean Mathisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arild Nohr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Gunn Marit Hernes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Grethe Jakobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ØKORÅD SALTEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
+      "source_date": "2004-01-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976622812. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:53+00:00",
+  "changes": []
+}

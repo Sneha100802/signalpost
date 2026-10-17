@@ -1,0 +1,107 @@
+{
+  "orgnr": "982334683",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AZG AUSBEIN UND ZERLEGE SERVICE SARL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "10.130 Produksjon av kjøtt- og fjørfevarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Boner AS, Postboks 9103, 4696, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:00+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "BONER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683/roller",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Hans-Petter Gørgen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683/roller",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "AZG AUSBEIN- UND ZERLEGE SERVICE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683/roller",
+      "source_date": "2000-09-04",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982334683. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:01+00:00",
+  "changes": []
+}

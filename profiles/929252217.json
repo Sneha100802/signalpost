@@ -1,0 +1,163 @@
+{
+  "orgnr": "929252217",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALTERA INFRASTRUCTURE GROUP LTD. NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.100 Kontortjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Løkkeveien 107, 4007, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 50 Sentrum, 4001, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "David Alexander Vik Smith",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217/roller",
+      "source_date": "2023-08-02",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217/roller",
+      "source_date": "2024-05-31",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALTERA INFRASTRUCTURE GROUP LTD.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929252217/roller",
+      "source_date": "2022-06-28",
+      "retrieved_at": "2026-10-17T07:46:50+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 18040000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1499000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 3985000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 37856000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 20272000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929252217",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:51+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929252217.",
+  "last_checked": "2026-10-17T07:46:51+00:00",
+  "changes": []
+}

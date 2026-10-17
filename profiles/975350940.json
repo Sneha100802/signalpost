@@ -1,0 +1,254 @@
+{
+  "orgnr": "975350940",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "LERØY SEAFOOD GROUP ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "03.211 Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og brakkvann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Thormøhlens gate 51B, 5006, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 7600, 5020, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.leroy.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 249,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-04-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Fiskeri, havbruk, foredling, salg og distribusjon innen sjømatnæringen og tilknyttet industri og virksomhet. Slik virksomhet kan drives enten direkte eller gjennom deltakelse i andre selskaper med tilsvarende eller liknende formål, samt alt hva hermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": "1995-09-13",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Henning Kolbjørn Beltestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2010-04-07",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Arne Møgster",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Britt Kathrine Drivenes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Didrik Oskar Munch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karoline Møgster",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Are Dragesund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linda Kidøy Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Silje Elin Grunnaleite Butt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjarne Egil Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor-Ivar Ingebrigtsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2024-06-12",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
+      "source_date": "2004-07-20",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 34409477000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1059154000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 367035000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 40711624000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 19943222000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    }
+  ],
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940.",
+  "last_checked": "2026-10-17T07:48:56+00:00",
+  "changes": []
+}

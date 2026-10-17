@@ -1,0 +1,142 @@
+{
+  "orgnr": "986846298",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABC-WEB DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.200 Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Cort Adelers gate 17, 0254, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2422 Solli, 0201, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.abc-web.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-04-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling og salg av it- og internetttjenester, medvirke i andre seskaper innen samme virksomhet, samt alt som hører naturlig til dette.  ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Mathis André Fenne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Mathis André Fenne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Rudi Lauritz Rørstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
+      "source_date": "2004-06-01",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986846298. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:23+00:00",
+  "changes": []
+}

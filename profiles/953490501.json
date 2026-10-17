@@ -1,0 +1,233 @@
+{
+  "orgnr": "953490501",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL TUNHEIM BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kinoveien 3 A, 1337, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o ABBL, Postboks 385, 1301, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.abbl.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1955-11-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2009-01-17",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Wenche Mjaaseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Paul Bjerke Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Liv Solstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eivind Jonatann Løken Petersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Wenche Marie Valdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Arne Eyvind Bratsberg Aas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Elisabeth Janet Paasche Grimstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2024-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "1990-09-10",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
+      "source_date": "2004-06-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953490501",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 824508.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953490501",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 4466.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953490501",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 671422.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953490501",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -2168116.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953490501",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953490501.",
+  "last_checked": "2026-10-17T07:48:33+00:00",
+  "changes": []
+}

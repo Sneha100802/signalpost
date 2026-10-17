@@ -1,0 +1,177 @@
+{
+  "orgnr": "985294615",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ROMSDALS FISKEVEGNS GAVEFOND STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": "2003-02-11",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": "2003-02-11",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": "2003-02-11",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Kristian Røsok, Torget 1, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": "2003-02-11",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-12-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": "2003-02-11",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristian Røsok",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
+      "source_date": "2022-07-14",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Roald Løseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
+      "source_date": "2022-07-14",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eva Rød",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
+      "source_date": "2022-07-14",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Berit Røsok Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
+      "source_date": "2022-07-14",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985294615",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -141478.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985294615",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -119449.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985294615",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 337460.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985294615",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 325039.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985294615",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985294615.",
+  "last_checked": "2026-10-17T07:47:55+00:00",
+  "changes": []
+}

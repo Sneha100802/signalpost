@@ -1,0 +1,121 @@
+{
+  "orgnr": "819302332",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. NORDSTRAND SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Karen Johanne Strømstad, Åssiden terrasse 32A, 1160, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1915-05-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Rolf Riisnæs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332/roller",
+      "source_date": "2017-07-17",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anders Brage Mikkelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332/roller",
+      "source_date": "2026-01-06",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karen Johanne Strømstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332/roller",
+      "source_date": "2026-01-06",
+      "retrieved_at": "2026-10-17T07:47:42+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 819302332. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:43+00:00",
+  "changes": []
+}

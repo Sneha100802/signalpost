@@ -1,0 +1,163 @@
+{
+  "orgnr": "969957973",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BÆRUM GRUNNEIERLAG FOR JAKT FISKE OG VILTSTELL SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.292 Fritidsvirksomhet ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Jostein Tandberg, Frogner-Tandbergveien 52, 1340, SKUI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1952-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Samle alle grunneiere i Bærum for i fellesskap og i samarbeide med Norges Bondelag å søke å fremme, utnytte og ellers ivareta medlemmenes interesser i jakt, fiske og fangst.  Laget skal også arbeide for god jaktkultur, bedre forståelse og aktelse for dyrelivet, naturfredning og skogvern.  I sitt arbeid skal laget ved praktiske tiltak søke å nyttiggjøre seg de resultater forskningen vinner med hensyn til vilt- og fiskepleie og forøvrig treffe nødvendige tiltak til opphjelp av vilt og fiskebestanden.  Laget skal blant annet regulere beskatningen ved jakt, fangst og fiske i forhold til vilt- og fiskebestande, dele inn sitt område i jakt- og fiskeområder ved borleie eller ved salg av jakt- og/eller fiskekort, utnytte medlemmnenes jakt, fangst og fiskerettigheter, sørge for nødvendig oppsyn, bekjempe rovdyrplagen, fastsette reglement for bruk av hund, gevær med mer..",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristian Holo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Kirkerud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jostein Tandberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aksel Anton Molle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Bakken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Johan Peter Amb",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anniken Katrine Grorud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AAM REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
+      "source_date": "2024-06-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 969957973. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:14+00:00",
+  "changes": []
+}

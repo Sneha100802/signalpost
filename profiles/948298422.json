@@ -1,0 +1,219 @@
+{
+  "orgnr": "948298422",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ASKER OG BÆRUM TAXI SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "52.211 Drift av gods- og transportsentraler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Solvikveien 9, 1365, BLOMMENHOLM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1984-02-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Formidle taxitjenester i eget løyve- og kjøreområde, på en slik måte at publikum får best mulig service.  Ivareta medlemmenes interesser på best mulig måte alene eller i samarbeid med andre liknende foretak/oganisasjoner.  Det være seg økonomisk, sosialt eller samferdselspolitikk.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Sajjad Haider",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tavarodin Timar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ismail Abdirahman Haji",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Waseem Mohammad Butt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Muhammad Adnaan Khan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Omar Ali Alzobeidy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Abdul Ghaffar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2026-08-26",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "IHS REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2018-02-21",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948298422/roller",
+      "source_date": "2025-12-03",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1795298.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 268392.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 149539.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 13545762.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 9735442.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948298422",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948298422.",
+  "last_checked": "2026-10-17T07:49:32+00:00",
+  "changes": []
+}

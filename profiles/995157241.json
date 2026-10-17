@@ -1,0 +1,163 @@
+{
+  "orgnr": "995157241",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALTERNATIVT FORUM MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Synnøve Berget, Orrevegen 16, 6425, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.alternativtforum-molde.org",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-03-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": "2010-02-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristine Berget",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Erling Linberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Synnøve Berget",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marit Opdahl Fladset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linn Hege Andersen Håseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Merethe Fuhr Løseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Liv Bente Eidseter Tangen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annette Jorna Holmen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:51:18+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995157241. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:18+00:00",
+  "changes": []
+}

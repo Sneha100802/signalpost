@@ -1,0 +1,191 @@
+{
+  "orgnr": "913255828",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABC-MØBLER HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Petter Engens vei 2, 8071, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 4161 Jensvoll, 8089, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-02-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Deltakelse og investeringer i andre virksomheter og investeringer i verdipapirer, samt det som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Karl Viggo Hunstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marianne Hunstad Benjaminsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mette Hunstad Askmann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
+      "source_date": "2014-02-18",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "MR REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
+      "source_date": "2025-09-22",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913255828",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -50750.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913255828",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1082775.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913255828",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4293017.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913255828",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2955299.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913255828",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913255828.",
+  "last_checked": "2026-10-17T07:47:56+00:00",
+  "changes": []
+}

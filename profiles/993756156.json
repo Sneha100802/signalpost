@@ -1,0 +1,142 @@
+{
+  "orgnr": "993756156",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "10.TRONDHEIM SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Frydenbergvegen 23, 7050, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "website",
+      "value": "10.trondheim.speidergruppe.org/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1928-06-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": "2009-02-17",
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:11+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anna Maren Fjermestad Fyhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gøril Risan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Hjeldnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anna Maren Fjermestad Fyhn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Langeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:47:12+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993756156. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:12+00:00",
+  "changes": []
+}

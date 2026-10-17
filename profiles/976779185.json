@@ -1,0 +1,128 @@
+{
+  "orgnr": "976779185",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AUTOMATIKK-SYSTEMER ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.597 Annen undervisning ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Dyre Halses gate 6, 7042, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1996-09-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kurs- og informasjonsvirksomhet innen Elektro-automasjon.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": "1996-10-03",
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Karl Henrik Thesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185/roller",
+      "source_date": "1996-10-08",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Karl Henrik Thesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185/roller",
+      "source_date": "1996-10-08",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Sidsel Thesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976779185/roller",
+      "source_date": "1996-10-08",
+      "retrieved_at": "2026-10-17T07:47:41+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976779185. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:42+00:00",
+  "changes": []
+}

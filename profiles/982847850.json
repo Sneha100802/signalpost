@@ -1,0 +1,205 @@
+{
+  "orgnr": "982847850",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANTON ENGENSVEI 1 ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Anton Engens vei 3, 3050, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 340, 3051, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-12-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg og utleie av fast eiendom og hva dermed står i forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Michele Mathisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2013-06-26",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Michele Mathisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2006-09-25",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "PELIKAN INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2006-09-25",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Michele Mathisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2016-10-28",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "IR REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECIT FORRETNINGSPARTNER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
+      "source_date": "2025-03-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6163051.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2157743.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1543267.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 72381490.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 56158652.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982847850",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982847850.",
+  "last_checked": "2026-10-17T07:49:50+00:00",
+  "changes": []
+}

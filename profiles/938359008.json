@@ -1,0 +1,114 @@
+{
+  "orgnr": "938359008",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRIGHTSITE DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bråtan 30, 3022, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-08-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling, design, drift og vedlikehold av nettsider og digitale løsninger for næringsdrivende og offentlige virksomheter, samt tilknyttede tjenester som rådgivning, hosting, søkemotoroptimalisering og digital markedsføring, og alt som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Emre Cetin",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Adrian Cinius Lippert Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938359008. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:31+00:00",
+  "changes": []
+}

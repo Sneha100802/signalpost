@@ -1,0 +1,149 @@
+{
+  "orgnr": "925473081",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKTIV LIV FOR INNVANDRERE I NORGE ALFIN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Trondhjemsvegen 5, 2821, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-07-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tadalla Weriku Birmadji",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2020-08-12",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Cleophas Sebazungu",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Zahra Dehqani",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ileni Demise Zewude",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Liberatha Mutuyimana",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tadalla Weriku Birmadji",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FRISIKT VEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
+      "source_date": "2026-03-13",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925473081. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:44+00:00",
+  "changes": []
+}

@@ -1,0 +1,205 @@
+{
+  "orgnr": "979238479",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EBS GARASJELAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "52.212 Drift av parkeringsplasser og parkeringshus",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Eiksveien 58, 1361, ØSTERÅS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1961-01-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bygge, drive og vedlikeholde garasjer for sameiere i Eiksmarka Boligsameie på gnr 34, bnr 19 i Bærum kommune.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": "1997-11-10",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kjell Lindrupsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2013-04-15",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kjell Lindrupsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-10-30",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Katie Jane Allison Lossius",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-10-30",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rolf Lervik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-10-30",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Erik Herman Knudtzon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-10-30",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Samir Hadzalic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-10-30",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET USBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979238479/roller",
+      "source_date": "2024-12-16",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 126518.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 37364.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 30696.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 311177.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 144125.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979238479",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979238479.",
+  "last_checked": "2026-10-17T07:48:35+00:00",
+  "changes": []
+}

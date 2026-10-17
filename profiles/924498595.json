@@ -1,0 +1,191 @@
+{
+  "orgnr": "924498595",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "24 SHAPE UP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.130 Treningssentervirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Madlakrossen 25, 4042, HAFRSFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-01-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drift av treningssenter, samt utleie av lokaler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": "2020-01-28",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Victoria Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595/roller",
+      "source_date": "2022-07-05",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Dan Andree Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595/roller",
+      "source_date": "2022-06-18",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Victoria Gundersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595/roller",
+      "source_date": "2022-06-18",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "SOLVIK-OLSEN REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595/roller",
+      "source_date": "2020-06-15",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "HLS REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924498595/roller",
+      "source_date": "2023-01-30",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3862284.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -618837.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -553061.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3963169.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 646341.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924498595",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:22+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924498595.",
+  "last_checked": "2026-10-17T07:48:22+00:00",
+  "changes": []
+}

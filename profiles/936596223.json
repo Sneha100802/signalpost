@@ -1,0 +1,114 @@
+{
+  "orgnr": "936596223",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALVOREX GRUPP OÜ NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kesakanni 3, EE-51011 TARTU",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Morten Risstad, Jonsvannsveien 17, 7052, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Aleksei Meitern",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223/roller",
+      "source_date": "2026-02-09",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALVOREX GRUPP OÜ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936596223/roller",
+      "source_date": "2025-12-08",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936596223. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:31+00:00",
+  "changes": []
+}

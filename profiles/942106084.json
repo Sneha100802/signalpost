@@ -1,0 +1,128 @@
+{
+  "orgnr": "942106084",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BREDESEN & VÆRØY TRANSPORT",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "49.410 Godstransport på vei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Solbjør, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "SOLBJØR 1, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1986-07-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive transport av varer samt virksomhet forbundet med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:13+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jan Erik Værøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084/roller",
+      "source_date": "1990-04-05",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Erling Bredesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942106084/roller",
+      "source_date": "1990-04-05",
+      "retrieved_at": "2026-10-17T07:49:14+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 942106084. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:14+00:00",
+  "changes": []
+}

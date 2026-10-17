@@ -1,0 +1,191 @@
+{
+  "orgnr": "971481722",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AGDER BEDRIFTSHELSETJENESTE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "86.992 Forebyggende helsearbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Østre Strandgate 75, 4608, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utføre bedriftshelsetjeneste for de tilsluttede bedrifter etter bestemmelser i Arbeidsmiljøloven og gjeldende forskrifter for bedriftshelsetjenester.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Beate Marianne Vikhals",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2013-01-24",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Elin Vatne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tove Rosseland Homme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Beate Marianne Vikhals",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Beathe Engen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Kolrud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jens Tollerød",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Karen Sindland Stangenes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Bjørn Øyvind Tønnessen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISJONSFIRMA ELIASSEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2023-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "REME REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
+      "source_date": "2006-08-29",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971481722. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:33+00:00",
+  "changes": []
+}

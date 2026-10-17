@@ -1,0 +1,128 @@
+{
+  "orgnr": "917298173",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "KALVØYA AVLØP SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Torgny Strømme, Kystveien 512, 4639, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2016-05-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å etablere, anlegge, eie, vedlikeholde og drifte et avløpsanlegg for medlemmene på Kalvøya og Tjuvholmen i Kristiansand kommune, ivareta medlemmenes interesser og behov i denne forbindelse, og annet som står naturlig i forbindelse med dette. Avløpsanlegget omfatter sjøledning fra tilkoplingspunkt til Randøyene Avløp SA sitt anlegg i sørlige del av Skippergata og frem til ilandføring ved den enkelte medlems eiendom på Kalvøya/Tjuvholmen. Foretakets vedlikeholds- og driftsansvar omfatter felles installasjoner og tiltak frem til ilandføring ved den enkelte eiendom. Foretaket deltar også med sin andel i vedlikehold av Randøyene Avløp SA sitt anlegg fra foretakets tilkoplingspunkt i sørlige del av Skippergata og fram til offentlig anlegg i Kongshavn. Lokal infrastruktur på den enkelte eiendom, herunder stikkledninger m/koplinger frem til foretakets anlegg, varmekabler, pumper og lignende lokale tiltak omfattes ikke av foretakets drifts- og vedlikeholdsansvar. Foretaket skal imidlertid inngå kollektiv serviceavtale for medlemmenes pumper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": "2016-06-28",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Øystein Hæraas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173/roller",
+      "source_date": "2024-09-19",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christian Zachariassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173/roller",
+      "source_date": "2024-09-19",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Torgny Strømme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917298173/roller",
+      "source_date": "2024-09-19",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917298173. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:46+00:00",
+  "changes": []
+}

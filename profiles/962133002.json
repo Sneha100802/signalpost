@@ -1,0 +1,226 @@
+{
+  "orgnr": "962133002",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOLIGSTIFTELSEN I TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Sparebank 1 Regnskapshuset SMN, Søndre gate 4, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Krambugata 2, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.boligstiftelsenitrondheim.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1972-09-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": "1995-09-20",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kathrine Emilie Standal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2022-04-04",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Harald Bjørlykke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Arnfinnsøn Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linn Marita Bauck",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mette Harriet Berntsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karin Høyland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "TRONDHEIM KOMMUNEREVISJON",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2014-06-17",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
+      "source_date": "2016-09-22",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 51055340.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 4534985.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 18100372.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 378117643.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 368823395.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002.",
+  "last_checked": "2026-10-17T07:50:07+00:00",
+  "changes": []
+}

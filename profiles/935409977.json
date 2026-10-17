@@ -1,0 +1,177 @@
+{
+  "orgnr": "935409977",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BORGEN NÆRINGSEIENDOM ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Borgen Gruppen AS, Schwensens gate 7, 0170, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Borgen Gruppen AS, Bjerkelundsveien 78H, 1357, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-04-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjøp, salg, utvikling, forvaltning, drift og utleie av næringseiendom og hva som står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Christian Vinjar Eid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977/roller",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "BORGEN GRUPPEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977/roller",
+      "source_date": "2025-04-25",
+      "retrieved_at": "2026-10-17T07:51:01+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -189929.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -190174.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1905870.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -190174.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935409977",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:02+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935409977.",
+  "last_checked": "2026-10-17T07:51:02+00:00",
+  "changes": []
+}

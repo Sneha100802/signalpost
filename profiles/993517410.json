@@ -1,0 +1,128 @@
+{
+  "orgnr": "993517410",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1991 INTERACTIVE ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sandviksveien 3A, 5036, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2009-01-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Produksjon av interaktiv digital underholdning til ulike plattformer som iPhone, Playstation Portable og Playstation 3.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Frode Brændø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Hans Lukas Illøkken Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
+      "source_date": "2009-01-13",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Frode Brændø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
+      "source_date": "2026-09-07",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993517410. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:06+00:00",
+  "changes": []
+}

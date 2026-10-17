@@ -1,0 +1,149 @@
+{
+  "orgnr": "925619779",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "INDIEFORFATTERNE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.111 Skapende kunstnerisk virksomhet innenfor litteratur",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Nils Kristian Hansen, Wolframveien 122, 4629, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.indieforfatterne.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å gjøre det enklere å være indie-forfatter i Norge. Foretaket skal drive faglig rådgivning og -støtte for medlemmene gjennom å gi informasjon om de som kan tilby tjenester som redaktør, språkvask, korrektur, illustrasjoner, grafikk, ombrekking, markedsføring og produksjon på forskjellige flater, trykking, nettsider, regnskap og andre støtteordninger etter behov. Foretaket vil stå for å arrangere aktiviteter for å fremme medlemmenes interesser, som messer, faglige forum, nettmøter o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": "2020-09-22",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørn Borg Kjølseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
+      "source_date": "2026-03-03",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Brynjulf Sørensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
+      "source_date": "2026-03-03",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Polifka",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
+      "source_date": "2026-03-03",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Pål Dyrnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
+      "source_date": "2026-03-03",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nils Kristian Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
+      "source_date": "2026-03-03",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925619779. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:33+00:00",
+  "changes": []
+}

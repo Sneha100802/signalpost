@@ -1,0 +1,226 @@
+{
+  "orgnr": "980785882",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALSTAD TERRASSE BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Alstadtoppen 22, 8072, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 214, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "website",
+      "value": "WWW.NOBL.NO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1999-04-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": "1999-06-12",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2021-02-04",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tor Vidar Kallesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thor-Arne Lie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monica Evaldsdatter Dahlskjær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Davidsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tarjei Lillegaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "FAUSKE REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2025-09-03",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980785882/roller",
+      "source_date": "2013-07-09",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 5470482.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 3500753.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 814430.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 55626963.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -13822984.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980785882",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:16+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980785882.",
+  "last_checked": "2026-10-17T07:49:16+00:00",
+  "changes": []
+}

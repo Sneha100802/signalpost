@@ -1,0 +1,128 @@
+{
+  "orgnr": "920228038",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "51K ARTERIET",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.690 Detaljhandel med kulturvarer ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Myrbakken 1, 4621, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 8084 Vågsbygd, 4675, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-12-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Naysa Jhojhana Andrade Carias",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038/roller",
+      "source_date": "2018-02-02",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Naysa Jhojhana Andrade Carias",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Agata Katarzyna Sander",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920228038/roller",
+      "source_date": "2026-01-17",
+      "retrieved_at": "2026-10-17T07:48:17+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920228038. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:18+00:00",
+  "changes": []
+}

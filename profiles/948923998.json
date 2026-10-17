@@ -1,0 +1,233 @@
+{
+  "orgnr": "948923998",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL KOPPERUD III BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øvre Torvgate 28, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1227, 2806, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1967-06-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "1999-03-02",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lina Vangstuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eirik Moltu",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Steinslien",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anders Hellum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Bjørn Steinset",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Unni Lindberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hajra Sinkovec",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-09-24",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2025-11-14",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948923998/roller",
+      "source_date": "2026-06-18",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1905312.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 368822.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 137174.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3835510.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -1783800.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/948923998",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:36+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948923998.",
+  "last_checked": "2026-10-17T07:49:36+00:00",
+  "changes": []
+}

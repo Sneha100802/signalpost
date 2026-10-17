@@ -1,0 +1,142 @@
+{
+  "orgnr": "887147612",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HOSTAD EIENDOM ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Mette Hostad, Sørstien 6, 6411, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-07-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og forvalte fast eiendom og kapital.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Mette Karin Hostad Sylte",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612/roller",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Per Christian Hostad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612/roller",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mette Karin Hostad Sylte",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612/roller",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Christian Hostad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612/roller",
+      "source_date": "2004-08-19",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612/roller",
+      "source_date": "2015-01-02",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 887147612. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:17+00:00",
+  "changes": []
+}

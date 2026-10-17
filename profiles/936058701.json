@@ -1,0 +1,121 @@
+{
+  "orgnr": "936058701",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AR AUTOMATED DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "73.110 Reklamebyråvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sildekroken 26, 4083, HUNDVÅG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-08-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å hjelpe andre bedrifter med å skaffe flere kunder gjennom cold outbound og annen virksomhet som naturlig faller innenfor dette formålet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Amandus Aarreberg Rannekleiv",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Fabian Aarreberg Rannekleiv",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936058701/roller",
+      "source_date": "2025-08-29",
+      "retrieved_at": "2026-10-17T07:50:55+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936058701. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:56+00:00",
+  "changes": []
+}

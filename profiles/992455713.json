@@ -1,0 +1,149 @@
+{
+  "orgnr": "992455713",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFGHANSK ISLAMISKE KULTURELL FORENING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": "2008-11-13",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": "2008-11-13",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": "2008-11-13",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Durudveien 48, 1344, HASLUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": "2008-11-13",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-01-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": "2008-11-13",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mohammad Ishaaq Amanzai",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ajmal Attak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Abdul Khalil Sultany",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Deyana Sultany",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anisa Rahimi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Enayatullah Omar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Maira Omar Timraz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992455713/roller",
+      "source_date": "2026-09-25",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992455713. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:57+00:00",
+  "changes": []
+}

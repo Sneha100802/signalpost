@@ -1,0 +1,177 @@
+{
+  "orgnr": "977473691",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANGUS SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.110 Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vogts gate 53, 0477, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1996-09-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2018",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Angus SA skal fremme medlemmenes særlige faglige interesser. Angus SA skal drive felles markedsføring med vekt på profilering av kvalitet, service og profesjonalitet. Det enkelte medlem står selv fritt til å drive egne markedsføringskampanjer. Angus SA skal gjennomføre intern opplæring av medarbeiderne i medlemsbedrifter. Angus SA skal fungere som et forum hvor dets medlemmer kan samarbeide om medlemmenes produktutvikling. Angus SA skal forhandle med leverandører med sikte på å etablere gunstige felles innkjøpsvilkår for dets medlemmer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": "1997-04-23",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Cesilie Sæbø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691/roller",
+      "source_date": "2024-06-06",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Monica Myrland Oliversen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691/roller",
+      "source_date": "2024-06-06",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Daniel Slakter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691/roller",
+      "source_date": "2024-06-06",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2018-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 150000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 32858.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 32896.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 94380.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 94380.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977473691",
+      "source_date": "2018-12-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977473691.",
+  "last_checked": "2026-10-17T07:49:22+00:00",
+  "changes": []
+}

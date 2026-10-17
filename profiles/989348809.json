@@ -1,0 +1,198 @@
+{
+  "orgnr": "989348809",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2 SAKSER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "96.210 Frisering og barbering",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vragesløyfen 163, 4625, FLEKKERØY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2006-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Frisørvirksomhet - salg og behandling. Selskapet kan engasjere seg i andre virksomheter med lignende formål, samt øvrig virksomhet som styret finner formålstjenlig, direkte ved å gå inn som ansvarlig deltager eller indirekte ved kjøp av aksjer eller andeler.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": "2006-01-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Silje Helland Richardsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2010-05-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Laila Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2010-05-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Silje Helland Richardsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2010-05-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Håvard Richardsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2010-05-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Trond Schjetne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2010-05-15",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "O M REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989348809/roller",
+      "source_date": "2019-06-12",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2788225.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -133426.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -132999.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 483099.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 60733.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989348809",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989348809.",
+  "last_checked": "2026-10-17T07:51:17+00:00",
+  "changes": []
+}

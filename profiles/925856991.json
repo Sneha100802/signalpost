@@ -1,0 +1,198 @@
+{
+  "orgnr": "925856991",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANNE-KATHRINE OG JAHN ROBERT MICAELSENS MINNESTIFTELSE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Olav Nygards veg 30, 7023, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Storgata 9, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-10-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Yte bidrag til sosiale og humanitære formål etter legatstyrets bestemmelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:36+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jahn Robert Micaelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2020-12-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Helge Aarseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2026-06-08",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tore Krogdal Micaelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2026-06-08",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kurt Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2026-06-08",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2020-10-29",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "REGN10 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925856991/roller",
+      "source_date": "2021-04-26",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925856991",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -2039730.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925856991",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 257111.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925856991",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 20448205.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925856991",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 20448205.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925856991",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925856991.",
+  "last_checked": "2026-10-17T07:48:37+00:00",
+  "changes": []
+}

@@ -1,0 +1,170 @@
+{
+  "orgnr": "954478696",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANS SJØSIDEN 2 HJEMMEL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Solheimsgaten 7C, 5058, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 7505, 5020, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-12-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investering og drift av fast eiendom, herunder eie av aksjer og andeler i selskaper som eier eller driver fast eiendom, samt øvrig virksomhet som måtte stå i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "ANS FJORDALLEEN 16 HJEMMEL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696/roller",
+      "source_date": "2019-09-25",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "DNB EIENDOMSHOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696/roller",
+      "source_date": "2019-09-25",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Gro Kristin Boge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696/roller",
+      "source_date": "2025-02-20",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tor Arild Bolstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696/roller",
+      "source_date": "2025-02-20",
+      "retrieved_at": "2026-10-17T07:50:50+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954478696",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954478696",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954478696",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954478696.",
+  "last_checked": "2026-10-17T07:50:51+00:00",
+  "changes": []
+}

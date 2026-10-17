@@ -1,0 +1,107 @@
+{
+  "orgnr": "980624196",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1 2 EXCELLENCE Morten Kaspar Gudmundseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.200 Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Øygardveien 113C, 1357, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.12x.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:09+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Morten Kaspar Gudmundseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196/roller",
+      "source_date": "1999-06-09",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980624196. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:12+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "990482047",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AVAX HOLDING SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "28.290 Produksjon av maskiner og utstyr til generell bruk ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Slater, Morells vei 1C, 0487, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2006-10-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Skape arbeidsplasser for medlemmene, gjennom å drive utviklings- og konsulentarbeid innen entreprenørvirksomhet og investeringer i eiendom med mer, samt forretningsdrift i Norge og utlandet. Virksomheten som drives gjennom laget skal være motivert ut fra tanken om solidaritet, global rettferdighet og viktigheten av tverrkulturell kommunikasjon for å overkomme konflikter lokalt så vel som globalt. Arbeidet som finner sted i laget vil være praktisk orientert.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": "2006-11-11",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tomm Slater",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047/roller",
+      "source_date": "2020-05-12",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Enger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047/roller",
+      "source_date": "2013-03-04",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tomm Slater",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047/roller",
+      "source_date": "2013-03-04",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Bente Slater",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047/roller",
+      "source_date": "2013-03-04",
+      "retrieved_at": "2026-10-17T07:47:56+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990482047. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:56+00:00",
+  "changes": []
+}

@@ -1,0 +1,282 @@
+{
+  "orgnr": "915419062",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "OKEA ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "06.200 Utvinning av naturgass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kongens gate 8, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 542,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2015-04-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Petroleums-virksomhet på norsk sokkel, inkludert utbygging og utvinning av olje og gass, og hva dermed står i forbindelse, samt ved aksjetegning eller på annen måte å delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": "2015-05-20",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Svein Jakob Liknes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2021-06-01",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Chaiwat Kovavisarach",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Michael William Fischer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rune Olav Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nichola Carol Gordon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jon Arnt Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Phatpuree Chinkulkitnivat",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elizabeth Anne Williamson-Holland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Pairoj Kaweeyanun",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sverre Nes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ragnhild Aas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Magne Bjellvåg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Olav Bjarne Roksvaag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eivind Sæterdal Bøyum",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Suzana Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-08-30",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2015-09-25",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "TMF NORWAY AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
+      "source_date": "2025-11-05",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 808101000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -34537000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -54669000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1815617000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 57199000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915419062",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:48+00:00"
+    }
+  ],
+  "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915419062.",
+  "last_checked": "2026-10-17T07:46:48+00:00",
+  "changes": []
+}

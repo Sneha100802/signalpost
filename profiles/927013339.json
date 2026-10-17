@@ -1,0 +1,205 @@
+{
+  "orgnr": "927013339",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN GRØNN DIAKONI - PLANT ET TRE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Roald Amundsens veg 1B, 2816, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.plant-et-tre.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-04-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "GRØNN DIAKONI vil arbeide for en bedre verden gjennom kunnskapsformidling og treplanting i Grønn Diakoniprogrammet. Målet er økt selvberging i de målgrupper stiftelsen samarbeider med.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Arne Smedstuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ola Simon Østtveit",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jørgen Henrik Pedersen Lollike",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Smedstuen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stein Øyvind Klynderud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "INTER REVISOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
+      "source_date": "2021-05-11",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2482730.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 66183.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 72486.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 702410.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 687393.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:02+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927013339.",
+  "last_checked": "2026-10-17T07:48:02+00:00",
+  "changes": []
+}

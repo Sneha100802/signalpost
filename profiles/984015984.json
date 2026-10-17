@@ -1,0 +1,226 @@
+{
+  "orgnr": "984015984",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BLÅKLOKKA BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Thalleveien 5-7, 8076, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 214, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2001-10-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": "2002-01-05",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2022-02-09",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Eivind Limstrand Jakobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marie Utz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Heidi Lovise Myrvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Vibeke Utz",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Bjørn-Olav Stensland Hoff",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Signe Ingeborg Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2023-06-27",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "TELL NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2026-01-12",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
+      "source_date": "2013-08-26",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3333768.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1685553.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1259982.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 29945008.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4619353.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984015984",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984015984.",
+  "last_checked": "2026-10-17T07:49:02+00:00",
+  "changes": []
+}

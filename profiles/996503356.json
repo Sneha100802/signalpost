@@ -1,0 +1,198 @@
+{
+  "orgnr": "996503356",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AVIDO NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Grete Brørs, Mjølnervegen 6D, 7035, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1610 Nardo, 7430, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Grete Brørs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Stig Østensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2018-01-04",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ketil Glørstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2018-01-04",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Grete Brørs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2018-01-04",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frank Vihovde Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2018-01-04",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PERGUS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2022-12-20",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "AVIDO CONSULTING LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
+      "source_date": "2011-02-21",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 9422086.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 3361435.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 2635386.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2627508.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 100009.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996503356",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:32+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996503356.",
+  "last_checked": "2026-10-17T07:50:32+00:00",
+  "changes": []
+}

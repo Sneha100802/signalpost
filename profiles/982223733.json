@@ -1,0 +1,163 @@
+{
+  "orgnr": "982223733",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2RE-2NE-R2 3KKSPILLTROLL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.690 Detaljhandel med kulturvarer ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Raschs vei 85, 1185, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o H.L. Schage AS, Gladengveien 3B, 0661, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.trekkspill.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-07-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Musikkutøvelse, kurs- og konsulentvirksomet, ikt-tjenester, handel med musikkinstrumenter og musikkrelaterte produkter, produksjon og utgivelse av musikkmedia og musikkrelaterte publikasjoner i trykt og elektronisk format, samt investering i og deltakelse i virksomhet som er forbundet med foranstående.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Tore Arnfinn Ødegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Tone Cecilie Hundere",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Roar Hensvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2000-07-27",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tore Arnfinn Ødegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tone Cecilie Hundere",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Roar Hensvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982223733/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:49:50+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982223733. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:50+00:00",
+  "changes": []
+}

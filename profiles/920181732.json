@@ -1,0 +1,282 @@
+{
+  "orgnr": "920181732",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ENERGY TRANSITION NORWAY SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Richard Johnsens gate 4, 4021, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Måltidets Hus, Postboks 8034, 4068, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2018-01-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Foretaket skal tilrettelegge og koordinere integrerte utviklings- og omstillingsprosjekter mellom industrielle og institusjonelle aktører innen energi sektoren. Foretaket skal etablere en samarbeidsplattform for å videreutvikle- og omstille eksisterende olje- og gass kompetanse motfremtidsrettede og bærekraftige energiløsninger. Foretaket skal stimulere, initiere og iverksette prosjekter på tvers av medlemmene ved å krysskoble aktørene for å skape videre vekst innen sektoren. Medlemmene skal engasjere seg i felles utviklingsprosjekter koordinert av foretaket til omstilling og videre-utvikling av medlemmenes kompetanse og kunnskaps kapital. Foretaket skal stimulere og koordinere kompetansen på tvers av samvirke til utvikling av nye radikale innovasjonsløsninger. Foretaket skal gjennom nye samhandlingsmodeller styrke markedsposisjonen for medlemmene gjennom økt verdiskapning. Foretetaket skal være en arena for gründere og SMB-er til å styrke muligheten og evnen til vekst gjennom tidlig integrering i utviklingsfasen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Egil Aanestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2018-01-29",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Tor Erling Arnesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Leif Johan Sevland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tom Huuse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Raunholt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Cathrin Østebø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Helge Helvig",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aina Margrethe Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Gjerdåker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Atle Rettedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ståle Tungesvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frank Emil Moen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anders Dirdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Maren Stangeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2026-10-06",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
+      "source_date": "2023-12-16",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 14205244.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2362303.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1796970.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 11421807.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 7844294.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920181732",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:51+00:00"
+    }
+  ],
+  "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920181732.",
+  "last_checked": "2026-10-17T07:50:51+00:00",
+  "changes": []
+}

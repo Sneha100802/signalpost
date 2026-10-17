@@ -1,0 +1,226 @@
+{
+  "orgnr": "987469471",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BADELANDENE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "93.110 Drift av idrettsanlegg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Olav Kyrres gate 6A, 0273, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Jakobslivegen 13A, 7058, CHARLOTTENLUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.badelandene.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-10-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bidra til utvikling av medlemmenes drift gjennom innkjøpsordninger, markedsføring, utveksling av erfaringer og kreative innspill for aktiviteter og bedre driftskonsepter, bidra til økt kompetanse og felles forståelse av sikkerhet i norske bade- og svømmeanlegg. Foretaket har ikke erverv til formål. Medlemmene forplikter seg til å være lojale mot de samarbeidsavtaler de inngår i gjennom Badelandene.no SA. Foretaket er eid og drevet av de deltakende medlemmene, i henhold til vedtektene og til de retningslinjer for drift som årsmøtet fatter.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": "2005-06-18",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Elsa Sara Kristina Forselius",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2023-03-15",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Svenn Robert Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Annikken Sandberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christine Aannerud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kent Monsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Henrik Stangnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CENTER REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2018-07-19",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BERGSTADENS REGNSKAPSKONTOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987469471/roller",
+      "source_date": "2024-07-15",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1627500.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -181828.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -170131.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 900190.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 857266.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/987469471",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987469471.",
+  "last_checked": "2026-10-17T07:47:02+00:00",
+  "changes": []
+}

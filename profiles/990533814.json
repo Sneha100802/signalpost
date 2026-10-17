@@ -1,0 +1,142 @@
+{
+  "orgnr": "990533814",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "110-FORUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": "2007-01-16",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": "2007-01-16",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": "2007-01-16",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vestre Strandgate 55, 4612, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": "2007-01-16",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-09-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": "2007-01-16",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christer Osen Skei",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jo Inge Westengen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frode Thomas Kvernland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marius Sandnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Øyvind Arntzen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sissel Stensvehagen Andreassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990533814/roller",
+      "source_date": "2026-01-24",
+      "retrieved_at": "2026-10-17T07:51:00+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990533814. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:00+00:00",
+  "changes": []
+}

@@ -1,0 +1,226 @@
+{
+  "orgnr": "984704801",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BEKKESTUA TORG ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bærumsveien 210, 1357, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o PHM Forvaltning AS, Gamle Drammensvei 40, 1369, STABEKK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-02-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive eiendommen Gnr 19 Bnr 20 i Bærum kommune, hertil drive virksomhet innenfor investering i fast eiendom og andre selskaper og hva som står i forbindelse med dette. Utleie av areler i eiendommen skjer til markedspris.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": "2002-07-20",
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:48+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "PHM FORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2025-01-24",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "TRUDVANGEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "BRØNNEN 13 AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "SETERSTUVEIEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Lund Haugen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Einar Frigland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sten Randers Fredriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2008-12-08",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PHM FORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2025-01-24",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ØKONOMIAVDELINGEN ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
+      "source_date": "2025-01-24",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6043524.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 4065158.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 3509244.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 6546307.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -4514119.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984704801",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:49+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984704801.",
+  "last_checked": "2026-10-17T07:49:49+00:00",
+  "changes": []
+}

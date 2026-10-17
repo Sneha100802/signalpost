@@ -1,0 +1,135 @@
+{
+  "orgnr": "885818552",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. BODØ SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Kristine Perander, Leitebakken 16, 8009, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.19mars1912.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1912-03-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": "2003-06-26",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kristine Perander",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552/roller",
+      "source_date": "2022-02-15",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristine Perander",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Oscar Eliassen Fink",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Terje Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/885818552/roller",
+      "source_date": "2026-04-23",
+      "retrieved_at": "2026-10-17T07:49:12+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 885818552. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:13+00:00",
+  "changes": []
+}

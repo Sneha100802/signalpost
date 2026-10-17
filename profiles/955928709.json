@@ -1,0 +1,135 @@
+{
+  "orgnr": "955928709",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANE DESIGN INTERIØRSERVICE ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.120 Grafisk design og visuell kommunikasjonsdesign",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Lokketovegen 10, 5136, MJØLKERÅEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 75, 5265, YTRE ARNA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1984-08-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Design og interiørservice innen møbel og bygge- bransjen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jan Dyrdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709/roller",
+      "source_date": "1990-04-05",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jan Dyrdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709/roller",
+      "source_date": "1990-04-05",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Sissel Margrethe Dyrdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709/roller",
+      "source_date": "1990-04-05",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955928709. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:51+00:00",
+  "changes": []
+}

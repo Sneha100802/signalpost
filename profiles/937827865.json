@@ -1,0 +1,121 @@
+{
+  "orgnr": "937827865",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "336/1 HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nøsterudveien 75, 3060, SVELVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-05-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Trond Kjeldås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865/roller",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trond Kjeldås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865/roller",
+      "source_date": "2026-06-04",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937827865. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:45+00:00",
+  "changes": []
+}

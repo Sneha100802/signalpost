@@ -1,0 +1,142 @@
+{
+  "orgnr": "996563278",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRISKEBAKKEN NORDRE BRYGGELAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Håveien, 3234, SANDEFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Espen Hagelund, Engene 64A, 3015, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1975-05-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eie, drive og vedlikeholde lagets fellesbrygge på Briskebakken.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": "2018-08-14",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Erik Gustavsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278/roller",
+      "source_date": "2023-03-31",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Jacob Gran",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278/roller",
+      "source_date": "2023-03-31",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Espen Hagelund",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278/roller",
+      "source_date": "2023-03-31",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Fredrik Bjørklund Granås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278/roller",
+      "source_date": "2023-03-31",
+      "retrieved_at": "2026-10-17T07:47:31+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996563278. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:31+00:00",
+  "changes": []
+}

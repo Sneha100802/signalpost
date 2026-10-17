@@ -1,0 +1,212 @@
+{
+  "orgnr": "977119391",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFTENPOSTENS PERSONALETS FEIRIEBOLIGER I SPANIA STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Akersgata 55, 0180, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1997-02-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Lars Harald Fevang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2017-07-19",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Christine Marie Engh",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Knut Nerell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Harald Fevang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Olav Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rune Gulliksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elsa Stigen Ringdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erik Sandbæk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2026-10-16",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977119391/roller",
+      "source_date": "2022-09-15",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1187558.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -2767.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2717829.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2287307.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977119391",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977119391.",
+  "last_checked": "2026-10-17T07:48:54+00:00",
+  "changes": []
+}

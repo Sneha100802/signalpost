@@ -1,0 +1,107 @@
+{
+  "orgnr": "889830492",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADMIRAL CORNELIUS CRUYS LAUG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": "2006-05-16",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": "2006-05-16",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": "2006-05-16",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Rødknapplia 23A, 4025, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": "2006-05-16",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-04-04",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": "2006-05-16",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Per Morten Pettersen Gitmark",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889830492/roller",
+      "source_date": "2006-06-15",
+      "retrieved_at": "2026-10-17T07:49:30+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 889830492. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:30+00:00",
+  "changes": []
+}

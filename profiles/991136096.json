@@ -1,0 +1,156 @@
+{
+  "orgnr": "991136096",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "24NET DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "62.100 Dataprogrammeringstjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gjettumkollen 26D, 1346, GJETTUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2007-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel med/produksjon av it løsninger og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:31+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bjørn Gunnar Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Frode Rislå",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Bjørn Gunnar Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Roy Henning Bang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørn Gunnar Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frode Rislå",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Roy Henning Bang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
+      "source_date": "2007-04-16",
+      "retrieved_at": "2026-10-17T07:49:32+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991136096. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:32+00:00",
+  "changes": []
+}

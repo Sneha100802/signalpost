@@ -1,0 +1,170 @@
+{
+  "orgnr": "930471046",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABELSEN INVEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gildeskålveien 48, 8003, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2022-11-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie aksjer og investere i virksomheter av enhver art, samt det som naturlig står i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Fredrik Abelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046/roller",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Fredrik Abelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930471046/roller",
+      "source_date": "2022-12-14",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -4690.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -4690.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 36305.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 13305.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930471046",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:59+00:00"
+    }
+  ],
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930471046.",
+  "last_checked": "2026-10-17T07:49:59+00:00",
+  "changes": []
+}

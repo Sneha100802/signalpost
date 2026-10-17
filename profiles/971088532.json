@@ -1,0 +1,191 @@
+{
+  "orgnr": "971088532",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BEKKELAGSHØGDA SAMFUNNSHUS SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jomfrustien 1, 1179, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/Bækkelagets Sportsklub, Postboks 44 Bekkelagshøgda, 1109, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "website",
+      "value": "bekkelagshuset.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1964-03-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Reise og drive et samfunnshus for og dermed å skaffe distriktets innbyggere et høvelig samlingssted med rom for møter, studierom, idrettslokaler, fritidsklubber, helesstadjon, barnehav etc.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Arne Huuse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2013-09-28",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ove Hobbesland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Huuse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Haakon Vestby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Morten Damlien",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Terje Haugseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Petter Gulbrandsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Even Klinkenberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jens Furuseth Naas-Bibow",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Thore Erik Knudsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:48:53+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:54+00:00",
+  "changes": []
+}

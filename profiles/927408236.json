@@ -1,0 +1,219 @@
+{
+  "orgnr": "927408236",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AFTENSKOLEN STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.593 Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Universitetsveien 19, 4630, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-06-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Aftenskolen i Agder og Rogaland skal fremme livslang læring ved å legge til rette for organiserte læringsaktiviteter ved siden av det formelle utdanningssystemet i Agder og Rogaland. Aftenskolen i Agder og Rogaland skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og møte behovene i samfunns- og arbeidslivet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": "2021-07-29",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Benjamin Wasmuth Grønvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2023-01-02",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anne Renate Hægeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingunn Marie Kvivik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Else Marie Rege Grannes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Bjørn Mikalsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Fridtjov Helland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Aina Skailand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISJON SØR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2025-01-07",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "OPK AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
+      "source_date": "2023-09-14",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6454325.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 568451.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 735846.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5695761.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4472317.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927408236",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927408236.",
+  "last_checked": "2026-10-17T07:48:29+00:00",
+  "changes": []
+}

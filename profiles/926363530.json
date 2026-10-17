@@ -1,0 +1,198 @@
+{
+  "orgnr": "926363530",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AF HÆHRE & ISACHSEN ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "42.110 Bygging av veier og motorveier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Billingstadsletta 83, 1396, BILLINGSTAD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 279, 1301, SANDVIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-12-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å utføre entreprenørarbeider som ulike entrepriser innenfor anleggssektoren, og alt som står i den forbindelse.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "HÆHRE ENTREPRENØR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "ISACHSEN ANLEGG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
+      "source_date": "2021-01-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Dan Robert Granerud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Vaadal Snipen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
+      "source_date": "2025-09-11",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
+      "source_date": "2024-08-22",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 814635503.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 50125147.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 59146021.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 344566964.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 130071553.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926363530",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:15+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926363530.",
+  "last_checked": "2026-10-17T07:49:15+00:00",
+  "changes": []
+}

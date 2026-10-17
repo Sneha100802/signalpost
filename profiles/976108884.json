@@ -1,0 +1,226 @@
+{
+  "orgnr": "976108884",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BISS FOUNDATION STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": "1996-02-20",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": "1996-02-20",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.201 Ordinær grunnskoleundervisning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": "1996-02-20",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gauselbakken 107, 4032, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": "1996-02-20",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 11,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1978-12-31",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": "1996-02-20",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anette Bull",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2019-09-17",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Cecilie Claviez",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Cathrin Wedul Sæter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Inger Johanne Stenberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mari Vedøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "John Peter Hernes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tor Albert Ersdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rune Aarsheim Halvorsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2026-10-07",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BDO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2020-10-02",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ADDVANT STAVANGER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
+      "source_date": "2023-11-30",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 78411868.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 7292967.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 14302491.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 150775956.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 136457088.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/976108884",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:03+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976108884.",
+  "last_checked": "2026-10-17T07:49:03+00:00",
+  "changes": []
+}

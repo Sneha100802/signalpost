@@ -1,0 +1,156 @@
+{
+  "orgnr": "992070609",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABILDSØ LEGEKONTOR DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "86.210 Allmennlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Smedbergveien 5, 1187, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2007-12-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive legesenter med alt som naturlig faller inn under dette, herunder leie av lokaler, ansettelse av hjelpepersonell, innkjøp av fellestjenester herunder forbruksmateriell med mer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": "2008-01-07",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kristin Haugen Gladsø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2022-09-10",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ellen Anita Fagerberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2022-09-10",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Andreas Løfors",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2022-09-10",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Ingunn Ajer Petterson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2022-09-10",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ellen Anita Fagerberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2025-12-06",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingunn Ajer Petterson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2025-12-06",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992070609/roller",
+      "source_date": "2023-09-30",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992070609. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:48+00:00",
+  "changes": []
+}

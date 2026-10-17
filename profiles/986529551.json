@@ -1,0 +1,219 @@
+{
+  "orgnr": "986529551",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKASTOR ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Oksenøyveien 10, 1366, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 124, 1325, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2004-01-29",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie eller drive industri- og annen tilknyttet virksomhet, forvaltning av kapital og andre funksjoner for konsernet, samt delta i eller overta annen virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": "2004-02-05",
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:13+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Karl Erik Kjelstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2017-12-28",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Frank Ove Reite",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2026-02-17",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lone Fønss Gjørup Schrøder",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2026-02-17",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eva Sagemo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2026-02-17",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Luis Antonio Gomes Araujo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2026-02-17",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Svein Oskar Stoknes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2026-02-17",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2022-08-29",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AMESTO ACCOUNTHOUSE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986529551/roller",
+      "source_date": "2018-12-03",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 390000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -16000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -158000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 6017000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 5335000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986529551",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:14+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986529551.",
+  "last_checked": "2026-10-17T07:48:14+00:00",
+  "changes": []
+}

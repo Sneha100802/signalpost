@@ -1,0 +1,142 @@
+{
+  "orgnr": "931396145",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "10TH PLANET BERGEN JIU JITSU - DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.510 Undervisning innenfor idrett og rekreasjon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Tidemands gate 11, 5005, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Damsgårdslien 54, 5161, LAKSEVÅG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "website",
+      "value": "10thpbergen.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Idrett og rekreasjon: Undervisning i Jiu Jitsu.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Espen Visnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145/roller",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kristian Stensrud-Olsvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145/roller",
+      "source_date": "2023-05-24",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AVAL AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145/roller",
+      "source_date": "2024-01-25",
+      "retrieved_at": "2026-10-17T07:49:47+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931396145. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:48+00:00",
+  "changes": []
+}

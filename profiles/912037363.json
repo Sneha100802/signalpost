@@ -1,0 +1,142 @@
+{
+  "orgnr": "912037363",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1 SØGNE SJØSPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": "2013-06-13",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": "2013-06-13",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": "2013-06-13",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Geir Fossgard Hamre, Stauslandstunet 59, 4640, SØGNE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": "2013-06-13",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1950-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": "2013-06-13",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Geir Fossgard Hamre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2024-06-24",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Geir Fossgard Hamre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Amalie Hamre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Lise Repstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Julianne Kleivan Holand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Suvatne Øvrebø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363/roller",
+      "source_date": "2026-04-14",
+      "retrieved_at": "2026-10-17T07:48:35+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912037363. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:35+00:00",
+  "changes": []
+}

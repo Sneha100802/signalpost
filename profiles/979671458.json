@@ -1,0 +1,135 @@
+{
+  "orgnr": "979671458",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRKUM BIL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "95.310 Reparasjon og vedlikehold av motorvogner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kirkebakken 31, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2080, 6401, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-02-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel med/produksjon av biler og bilpleie og produkter som naturlig hører sammen med dette, samt deltagelse i andre virksomheter innenfor sammen bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bjørn-Elling Falch Skjelvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458/roller",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Jim Bekkemellem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458/roller",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Bjørn-Elling Falch Skjelvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979671458/roller",
+      "source_date": "1998-03-19",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979671458. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:15+00:00",
+  "changes": []
+}

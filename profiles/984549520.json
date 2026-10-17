@@ -1,0 +1,212 @@
+{
+  "orgnr": "984549520",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABILDSØ GÅRD STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Enebakkveien 210A, 0680, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.abildso.org",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 21,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2002-03-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:04+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Asgeir Føyen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2002-06-29",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Helge Strømme",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Dybvig",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Richard Brett Stephenson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Eivind Malmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Asgeir Føyen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-08-18",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "LANGSETH REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
+      "source_date": "2026-03-26",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2024-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 12167467.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 3543979.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 4144552.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 24878835.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 23458687.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984549520",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:48:05+00:00"
+    }
+  ],
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984549520.",
+  "last_checked": "2026-10-17T07:48:05+00:00",
+  "changes": []
+}

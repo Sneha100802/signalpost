@@ -1,0 +1,247 @@
+{
+  "orgnr": "921896328",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AXACTOR ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.910 Inkasso- og kredittopplysningsvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Karenslyst allé 8, 0278, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.axactor.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 17,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1982-12-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive eller yte, direkte eller indirekte gjennom datterselskap eller investeringssamarbeid, inkassovirksomhet, finansielle og administrative tjenester, juridiske tjenester, faktureringstjenester, erverv av gjeld og annen investeringsvirksomhet, samt annen virksomhet i forbindelse med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": "2018-12-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Johnny Tsolis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2020-04-27",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Terje Mjøs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Leslee Freda Neiman",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christopher Carl Linkas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Brita Eilertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anette Willumsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eirik Westvig Rogstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Peder Strand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-20",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2024-08-21",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ASPIA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECIT INTUNOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:50:30+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 258393000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 125248000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 36030000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 1252407000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 367758000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:31+00:00"
+    }
+  ],
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328.",
+  "last_checked": "2026-10-17T07:50:31+00:00",
+  "changes": []
+}

@@ -1,0 +1,128 @@
+{
+  "orgnr": "836893212",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FYR OG FLYT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "96.230 Aktiviteter i dagspa, badstue og dampbad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Raufossvegen 572, 2827, HUNNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-01-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikling, kjøp, salg og utleie av forskjellige typer badstuer, herunder flytende badstuer på tilhenger, samt annen virksomhet som naturlig hører sammen med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Harald Borch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Simon Grubben Sæthermoen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Harald Borch",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 836893212. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:46:47+00:00",
+  "changes": []
+}

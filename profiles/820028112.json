@@ -1,0 +1,198 @@
+{
+  "orgnr": "820028112",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "SØRBYEN BARNEHAGE STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": "2018-01-17",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": "2018-01-17",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": "2018-01-17",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Gjennomfaret 4, 2818, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": "2018-01-17",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-13",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": "2018-01-17",
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:11+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Eva Lill Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2018-05-30",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Jakob Dyrnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mariane Thoresen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Janne Stensrud",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Olav Glimsdal Johansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tone Voldengen Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2026-01-07",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
+      "source_date": "2020-10-12",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820028112",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -55798.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820028112",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -55061.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820028112",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 117886.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820028112",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -161736.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/820028112",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:12+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 820028112.",
+  "last_checked": "2026-10-17T07:51:12+00:00",
+  "changes": []
+}

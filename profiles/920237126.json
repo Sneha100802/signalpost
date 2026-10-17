@@ -1,0 +1,289 @@
+{
+  "orgnr": "920237126",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ATEA ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Karvesvingen 5, 0579, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 6472 Etterstad, 0605, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.atea.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 10,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1967-12-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av datatbehandlingstjenester, salg av data- utstyr, systemer og hva dermed står i forbindelse, samt delta i andre selskaper med økonomisk formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:52+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Steinar Sønsteby",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2014-04-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Sven Madsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Jurs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lisbeth Toftkær Kvan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Saloume Djoudat",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Marius Hole",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Maria Nelly Holmedahl Flatland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Carl Espen Wollebekk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lone Schøtt Kunøe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Truls Berntsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Margrethe Farsjø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hanne Zakariassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristian Valaker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Arild Fevang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Leiv Jarle Larsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2006-05-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 37376000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1377000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 878000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 21341000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4541000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920237126",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    }
+  ],
+  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920237126.",
+  "last_checked": "2026-10-17T07:47:53+00:00",
+  "changes": []
+}

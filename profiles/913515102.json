@@ -1,0 +1,198 @@
+{
+  "orgnr": "913515102",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALLMENNINGEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.120 Aktiviteter i yrkessammenslutninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "St. Jakobs plass 9, 5008, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "website",
+      "value": "allmenningen.org",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-03-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Føretaket er ein sosial entreprise og skal drive kulturformidling. Verksemda har til føremål å fremje medlemane sine økonomiske, profesjonelle og sjølvrealiserende interesser gjennom den einskilde si deltaking i verksemda som skaparar, leverandørar og brukarar av varer og tenester, prosjektutviklarar og andre relevante roller. Verksemda kan drive forretningverksemd som relater til hovudføremålet. Verksemda skal vere ein arena for samarbeid, nettverksbygging og kreativitet, for tverrfagleg løysingsorientert tenking og arbeid. Verksemda skal gje medlemane ein plattform for å skape mogelegheit, livskvalitet og personleg utvikling og inntekt.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": "2014-05-15",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Ingvild Skodvin Prestegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
+      "source_date": "2019-02-27",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ingvild Skodvin Prestegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Britt Høyland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristin Skodvin Prestegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
+      "source_date": "2026-04-30",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
+      "source_date": "2018-10-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 349766.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1076.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 737.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 14005.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -6413.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:16+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913515102.",
+  "last_checked": "2026-10-17T07:50:16+00:00",
+  "changes": []
+}

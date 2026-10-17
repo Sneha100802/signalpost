@@ -1,0 +1,128 @@
+{
+  "orgnr": "995855992",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HALÅS SELLEVOLL PROFIL DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.120 Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Dragetvegen 160, 6457, BOLSØYA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-08-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Designe bilder og lignende til utsmykking og dekor.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Helge Halås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992/roller",
+      "source_date": "2010-10-13",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Helge Halås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992/roller",
+      "source_date": "2015-02-03",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Bente Sellevoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992/roller",
+      "source_date": "2015-02-03",
+      "retrieved_at": "2026-10-17T07:47:39+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995855992. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:39+00:00",
+  "changes": []
+}

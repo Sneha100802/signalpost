@@ -1,0 +1,100 @@
+{
+  "orgnr": "934212509",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "6IXSIXSIX CELESTINE SIGVARTSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.710 Detaljhandel med klær",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Claus Trondsens gate 10, 3014, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Célestine Louise Sigvartsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934212509/roller",
+      "source_date": "2024-10-04",
+      "retrieved_at": "2026-10-17T07:47:58+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 934212509. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:59+00:00",
+  "changes": []
+}

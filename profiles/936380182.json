@@ -1,0 +1,156 @@
+{
+  "orgnr": "936380182",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "NUOWEI CULTURE NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Room 101, No.72, Chenwei Industrial, Park, Bancheng Town, Sihong County,, Jiansu Province, CN-223900 SIHONG COUNTY",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Lyngvegen 29, 6429, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kristoffer Bringslid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182/roller",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "NUOWEI CULTURE (SUQUIAN) CO. LTD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936380182/roller",
+      "source_date": "2025-10-29",
+      "retrieved_at": "2026-10-17T07:47:15+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2114170.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 96897.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 65654.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3915132.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3836680.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936380182",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:16+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936380182.",
+  "last_checked": "2026-10-17T07:47:16+00:00",
+  "changes": []
+}

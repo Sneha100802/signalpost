@@ -1,0 +1,184 @@
+{
+  "orgnr": "930992852",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2KSOLUTION AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bjørnstjerne Bjørnsons gate 55, 3044, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o BHR FINANS & REGNSKAP AS, Kilgata 16, 3217, SANDEFJORD",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-02-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2024",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive innen salg av tjenester i byggebransjen, byggeteknisk konsulenttjenester og andre tjenester som naturlig faller sammen med dette. I tillegg skal selskapet drive med rekruttering og formidling av arbeidskraft.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": "2023-03-09",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Guntis Kovalevskis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852/roller",
+      "source_date": "2023-11-30",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Guntis Kovalevskis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852/roller",
+      "source_date": "2023-11-30",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BHR FINANS & REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930992852/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2024-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3204265.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 256896.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 192984.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 356362.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 204453.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930992852",
+      "source_date": "2024-12-31",
+      "retrieved_at": "2026-10-17T07:49:27+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930992852.",
+  "last_checked": "2026-10-17T07:49:27+00:00",
+  "changes": []
+}

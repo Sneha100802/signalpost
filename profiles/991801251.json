@@ -1,0 +1,107 @@
+{
+  "orgnr": "991801251",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "MARCIN PAWLOWSKI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o A. Hammerø AS, Julsundvegen 140, 6410, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "A. HAMMERØ AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251/roller",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Arnstein Hammerø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251/roller",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "MARCIN PAWLOWSKI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991801251/roller",
+      "source_date": "2007-10-27",
+      "retrieved_at": "2026-10-17T07:47:38+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991801251. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:38+00:00",
+  "changes": []
+}

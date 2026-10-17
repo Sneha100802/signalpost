@@ -1,0 +1,226 @@
+{
+  "orgnr": "995277905",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "WILH. WILHELMSEN HOLDING ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "52.220 Andre tjenester tilknyttet sjøtransport",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Strandveien 20, 1366, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 33, 1324, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.wilhelmsen.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 32,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-02-25",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive skipsfart, maritim servicevirksomhet, luftfart, industri, handel, finansvirksomhet, megling, agenturer og spedisjon, å eie eller drive fast eiendom, samt drive virksomhet beslektet med eller tilknyttet det nevnte. Dette kan skje direkte, eller indirekte ved garanti, aksjetegning eller på annen måte.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:48+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Thomas Wilhelmsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2010-10-16",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Carl Erik Steen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2024-05-04",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rebekka Glasser Herlofsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2024-05-04",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Karin Ulrika Laurin",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2024-05-04",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Morten Borge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2024-05-04",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thomas Fredrick Borgen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2024-05-04",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905/roller",
+      "source_date": "2010-03-11",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1231000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 105000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 671000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 4411000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 3275000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:49+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905.",
+  "last_checked": "2026-10-17T07:50:49+00:00",
+  "changes": []
+}

@@ -1,0 +1,121 @@
+{
+  "orgnr": "979743858",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2 CARAT GULL OG DIAMANTER ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.770 Detaljhandel med ur, klokker og smykker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Thereses gate 46, 0168, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-03-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Butikkhandel med gull/edelstener.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Joel Murad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858/roller",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Benjamin Murad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979743858/roller",
+      "source_date": "1998-05-04",
+      "retrieved_at": "2026-10-17T07:47:23+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979743858. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:23+00:00",
+  "changes": []
+}

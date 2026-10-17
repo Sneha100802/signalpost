@@ -1,0 +1,121 @@
+{
+  "orgnr": "985645329",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADNIC INVEST ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "55.200 Drift av vandrerhjem og ferieleiligheter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Biskop Jens Nilssøns gate 20C, 0659, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2003-04-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Skape inntekter til eierne gjennom utleie av hytte/ hytter som selskapet eier.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Anders Mikalsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329/roller",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Johan Niclas Samuelsson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329/roller",
+      "source_date": "2003-05-10",
+      "retrieved_at": "2026-10-17T07:48:48+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985645329. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:49+00:00",
+  "changes": []
+}

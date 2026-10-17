@@ -1,0 +1,226 @@
+{
+  "orgnr": "953437686",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL HUNDVEBAKKE BURETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Elvevegen 13, 6800, FØRDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 7280, 5020, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1975-10-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOB BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2015-05-28",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kåre Holsæter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jørn André Espeseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mariell Skildheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Audun Friborg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Heidi Vatsø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kenneth Nielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2026-06-09",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "TELL NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2025-12-11",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOB BBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
+      "source_date": "2014-02-06",
+      "retrieved_at": "2026-10-17T07:50:56+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3436550.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1354561.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 706719.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 16121912.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -4922954.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/953437686",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:57+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953437686.",
+  "last_checked": "2026-10-17T07:50:57+00:00",
+  "changes": []
+}

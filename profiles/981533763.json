@@ -1,0 +1,142 @@
+{
+  "orgnr": "981533763",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJERGA SAMDRIFT DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bjerga, 4187, OMBO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Kjell Nes, Jørstadvågen 20, 4187, OMBO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1999-10-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Nynorsk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å drive sams mjølke- og kjøtproduksjon på storfe. Samdrifta skal gje høve til ordna arbeidstilhøve, fritid og ferie for medlemmene. Samdrifta kan utføre verksemd som er naturlig knyta til landbruksnæringa.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Kjell Nes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763/roller",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Erling Ueland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763/roller",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Eli Grindhaug Nes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763/roller",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Linda Kjørmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763/roller",
+      "source_date": "2000-02-10",
+      "retrieved_at": "2026-10-17T07:48:24+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981533763. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:24+00:00",
+  "changes": []
+}

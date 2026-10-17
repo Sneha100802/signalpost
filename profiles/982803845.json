@@ -1,0 +1,142 @@
+{
+  "orgnr": "982803845",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACANTUS HANDEL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.631 Detaljhandel med sportsvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ekebergveien 292K, 1166, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-12-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel og konsulentvirksomhet av ethvert slag, samt hva hermed står i forbindelse, herunder deltagelse i andre selskaper og foretagender med lignende virksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": "2001-01-19",
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:34+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Harry Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
+      "source_date": "2001-01-25",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Harry Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
+      "source_date": "2001-01-25",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Anne Brit Elisabeth Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
+      "source_date": "2001-01-25",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Harry Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
+      "source_date": "2001-01-25",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Brit Elisabeth Bråten",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
+      "source_date": "2001-01-25",
+      "retrieved_at": "2026-10-17T07:47:35+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982803845. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:35+00:00",
+  "changes": []
+}

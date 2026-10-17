@@ -1,0 +1,135 @@
+{
+  "orgnr": "916910533",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABELLUND GARASJELAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Treskeveien 14B, 0681, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1967-03-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Ivareta medlemmenes interesser i forhold til drift og vedlikehold av deres garasjer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": "2017-04-06",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Fridtjof Bernhard Sæther",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Atle Strøm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Knut Arne Karlsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Åge-Georg Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916910533/roller",
+      "source_date": "2026-08-15",
+      "retrieved_at": "2026-10-17T07:50:41+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916910533. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:41+00:00",
+  "changes": []
+}

@@ -1,0 +1,121 @@
+{
+  "orgnr": "979606389",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALLUM & VERLO ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "55.100 Drift av hoteller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hjelmelandsgata 65, 4012, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-01-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive overnatting og bevertning, herunder kafedrift, samt å delta i annen næringsvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": "1998-03-20",
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:54+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Inger Johanne Bruland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389/roller",
+      "source_date": "1999-06-15",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Unni Verlo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389/roller",
+      "source_date": "1999-06-15",
+      "retrieved_at": "2026-10-17T07:47:55+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979606389. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:56+00:00",
+  "changes": []
+}

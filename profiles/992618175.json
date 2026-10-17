@@ -1,0 +1,205 @@
+{
+  "orgnr": "992618175",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BOHUS ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.470 Engroshandel med husholdnings-, kontor- og butikkmøbler, gulvtepper og belysningsutstyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Karenslyst allé 11, 0278, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-04-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Kjededrift, import, salg samt investeringsvirksomhet og annen virksomhet i naturlig sammenheng med dette, i egen regi eller som deltaker i andre selskaper.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": "2008-04-30",
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:46+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "John Müller Thomasgaard",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2023-11-02",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Erik Volden",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Kristian Sagvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjersti Helen Krokeide Hobøl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arve Olaf Nymoen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stine Rolstad Brenna",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
+      "source_date": "2015-05-05",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3117763000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 192095000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 80993000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3963559000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 1072689000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992618175",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992618175.",
+  "last_checked": "2026-10-17T07:46:47+00:00",
+  "changes": []
+}

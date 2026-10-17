@@ -1,0 +1,100 @@
+{
+  "orgnr": "932530309",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "4FOR DELIVERY FORYSIAK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": "2023-11-27",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": "2023-11-27",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "53.200 Andre post- og budtjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": "2023-11-27",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Smøråsvegen 162, 5238, RÅDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": "2023-11-27",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": "2023-11-27",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Jakub Pawel Forysiak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932530309/roller",
+      "source_date": "2024-10-31",
+      "retrieved_at": "2026-10-17T07:47:10+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932530309. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:11+00:00",
+  "changes": []
+}

@@ -1,0 +1,233 @@
+{
+  "orgnr": "950554290",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "STIFTELSEN AUKRA BOLIGSELSKAP",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.200 Utleie av egen eller leid fast eiendom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Strandgata 5, 6415, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2036, 6402, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-11-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "1520 Kommunalt eide aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å skaffe boliger (evt. servicebygg) ved oppføring eller erverv, samt drift av bolighus for utleie uten eget økonomisk formål.   Formålet er videre å leie ut fortrinnsvis til personer som i en viss livsfase ikke har inntekter til å kjøpe egen bolig, men senere kan være i stand til dette.   Stiftelsen har også som formål å skaffe boliger (evt. servicebygg) ved oppføring eller erverv for utleie til eldre og pensjonister, samt drift av bolighus for utleie uten eget økonomisk formål.   Stiftelsen kan i tillegg leie ut boliger til juridiske personer, der det ikke er knyttet forutsetning til leieforholdet fra långiver og/eller tilskuddsgiver.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Gro Elin Bjørnarheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2025-06-24",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2025-06-24",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Odd Jørgen Nilssen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Katrine Rindarøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eva Esborg Vaagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Rita Rognskog",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Knut Oterhals",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Svein Ivar Byttingsvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-06-10",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950554290/roller",
+      "source_date": "2004-06-09",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2698983.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 1252921.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 646725.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 26124229.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 13026243.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/950554290",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950554290.",
+  "last_checked": "2026-10-17T07:49:43+00:00",
+  "changes": []
+}

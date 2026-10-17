@@ -1,0 +1,128 @@
+{
+  "orgnr": "938176949",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "180 DEGREES CONSULTING OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Nydalsveien 37, 0484, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2026-07-24",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Aizhan Taalaibek",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kiara Daniel",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anna Vass",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lee Angela Amor Base Quizon",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938176949/roller",
+      "source_date": "2026-08-04",
+      "retrieved_at": "2026-10-17T07:50:01+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938176949. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:01+00:00",
+  "changes": []
+}

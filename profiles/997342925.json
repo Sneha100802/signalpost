@@ -1,0 +1,128 @@
+{
+  "orgnr": "997342925",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AROS MARINE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.920 Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Liepu g. 54, LT-92106 Klaipeda",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Bjørnstjerne Bjørnsons gate 55, 3044, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.arosmarine.com",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "UAB CONTUS NORGE NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
+      "source_date": "2019-01-11",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Giedrius Valainis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
+      "source_date": "2020-03-16",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "CONTUS ØKONOMI AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
+      "source_date": "2020-12-17",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "UAB AROS MARINE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
+      "source_date": "2011-09-22",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997342925. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:51:18+00:00",
+  "changes": []
+}

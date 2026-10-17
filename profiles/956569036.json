@@ -1,0 +1,219 @@
+{
+  "orgnr": "956569036",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AL HOVDESKOGEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Torggate 5/7, 3015, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1035 Bragernes, 3001, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.nbbo.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1973-08-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2024-04-19",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anne Berit Lauvlid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Thorunn Bjerke",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andreas Gulliksen-Halvorsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gerd Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjell Grøstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Karsten Raaen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2026-10-02",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ØSTLANDSKE REVISORER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2021-09-01",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/956569036/roller",
+      "source_date": "2011-02-01",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/956569036",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -551747.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/956569036",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 20709069.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/956569036",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 6294777.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/956569036",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:44+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 956569036.",
+  "last_checked": "2026-10-17T07:49:44+00:00",
+  "changes": []
+}

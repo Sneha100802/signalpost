@@ -1,0 +1,163 @@
+{
+  "orgnr": "993231223",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3 LEGER DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "86.210 Allmennlegetjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Indre Arna-vegen 175, 5261, INDRE ARNA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 5,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2008-10-06",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2013",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Legevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": "2008-10-27",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Alexander Torkildsen Fosshaug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2026-04-11",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Marie Krohn-Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2024-06-10",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Charlotte Meyer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2024-06-10",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Alexander Torkildsen Fosshaug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2024-06-10",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Alf David Antoni Myklebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2024-06-10",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AZETS INSIGHT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
+      "source_date": "2026-06-05",
+      "retrieved_at": "2026-10-17T07:48:56+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993231223. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:56+00:00",
+  "changes": []
+}

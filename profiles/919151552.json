@@ -1,0 +1,142 @@
+{
+  "orgnr": "919151552",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FOSTERLÅGVEGEN SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Idrettsvegen 9, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-04-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bygge og vedlikeholde en skogbilveg fra Storgussiåsenvegen over gnr 10 bnr 1 Gussiås i Nessset kommune, gnr 12 brn 2 og 3 i Sandnes i Gjemnes kommune og gnr 11 bnr 4 Kjerringli i Gjemnes kommune. Veglaget har som formål å redusere andelseiernes kostnader til uttransport av tømmer og å gjøre skog i vegens nytteområde tilgjengelig for aktiv skogforvaltning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kent Stian Gussiås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552/roller",
+      "source_date": "2017-07-24",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kent Stian Gussiås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552/roller",
+      "source_date": "2021-03-15",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Olbjørn Kvernberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552/roller",
+      "source_date": "2021-03-15",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stig Olav Angvik Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552/roller",
+      "source_date": "2021-03-15",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ADMENTO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919151552/roller",
+      "source_date": "2026-04-20",
+      "retrieved_at": "2026-10-17T07:48:41+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919151552. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:42+00:00",
+  "changes": []
+}

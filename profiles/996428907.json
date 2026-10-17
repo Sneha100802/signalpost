@@ -1,0 +1,163 @@
+{
+  "orgnr": "996428907",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AKERSELVA KULTUR SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hausmanns gate 34, 0182, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.akerselvakultur",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2010-11-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive utadrettet kulturvirksomhet med en hovedvekt på rytmisk musikk, samt ivarata medlemmenes interesser via egen arbeidsinnsats som utøver av alle tjenester/oppgaver for realisering av foretakets formål.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Alexis Podgorny",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Øyvind Brungot Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linda Nikolaisen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Joanna Victoria Kessen Sverdrup",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole Mikal Yong Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Nicolai Gulowsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Maia Josefine Birkeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996428907/roller",
+      "source_date": "2011-06-18",
+      "retrieved_at": "2026-10-17T07:47:51+00:00"
+    }
+  ],
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996428907. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:52+00:00",
+  "changes": []
+}

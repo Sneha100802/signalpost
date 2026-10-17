@@ -1,0 +1,142 @@
+{
+  "orgnr": "948975270",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GLS RECORD ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "77.220 Utleie og leasing av andre husholdningsvarer og varer til personlig bruk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Torvgate 1, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-09-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive virksomhet innen kassett og platekopiering samt annen virksomhet forbundet med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Arild Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270/roller",
+      "source_date": "1989-01-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Egil Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270/roller",
+      "source_date": "1989-01-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Arild Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270/roller",
+      "source_date": "1989-01-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Egil Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270/roller",
+      "source_date": "1989-01-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arild Berg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948975270/roller",
+      "source_date": "1989-01-14",
+      "retrieved_at": "2026-10-17T07:49:58+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948975270. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:59+00:00",
+  "changes": []
+}

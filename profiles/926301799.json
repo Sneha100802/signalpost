@@ -1,0 +1,100 @@
+{
+  "orgnr": "926301799",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ABSOLUT DESIGN ANDERSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.120 Grafisk design og visuell kommunikasjonsdesign",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Hyttebakken 29, 8011, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Ann Heidi Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926301799/roller",
+      "source_date": "2020-12-28",
+      "retrieved_at": "2026-10-17T07:49:29+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926301799. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:30+00:00",
+  "changes": []
+}

@@ -1,0 +1,114 @@
+{
+  "orgnr": "933685497",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "APPLIED MANAGEMENT GROUP APS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.400 Formidlingstjenester tilknyttet forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nørregade 39A, st., DK-3300 FREDRIKSVÆRK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o AM Group NUF, Øvrelia 7, 5231, PARADIS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Marte Havnen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497/roller",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BDT VIKEN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497/roller",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "APPLIED MANAGEMENT GROUP APS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933685497/roller",
+      "source_date": "2024-07-16",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933685497. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:47+00:00",
+  "changes": []
+}

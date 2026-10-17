@@ -1,0 +1,198 @@
+{
+  "orgnr": "980156176",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANGEL NÆRINGSBYGG DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Travbanevegen 2, 7061, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-09-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Oppføring av nybygg, utleie og drift av fast eiendom og alt hva hermed står i forbindelse, samt gjennom aksjetegning eller på annen måte delta i annen virksomhet. Selskapet skal i tillegg kunne tilby konsulentbistand, bygge- og entreprenørvirksomhet tilknyttet lokalene som leies ut av selskapet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": "1998-10-07",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "KOTENG HOLDING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2021-06-30",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "A/S TRÅIKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2021-06-30",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Aurora Koteng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Imre Andreas Koteng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ivar Johannes Koteng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2026-01-26",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "DELOITTE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
+      "source_date": "2012-09-26",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 44198567.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 26916810.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 22562550.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 288742363.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 148298491.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980156176",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980156176.",
+  "last_checked": "2026-10-17T07:51:17+00:00",
+  "changes": []
+}

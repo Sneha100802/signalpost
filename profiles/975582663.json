@@ -1,0 +1,135 @@
+{
+  "orgnr": "975582663",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "7 KRISTIANSAND SJØSPEIDERGRUPPE AV NORGES SPEIDERFORBUND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ærfuglveien 13C, 4623, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.syvende.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1939-04-27",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": "1996-03-05",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Erik Heggland Vigsnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir Skuland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Ravnevand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Steen Nielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975582663/roller",
+      "source_date": "2026-01-20",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975582663. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:30+00:00",
+  "changes": []
+}

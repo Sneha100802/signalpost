@@ -1,0 +1,205 @@
+{
+  "orgnr": "936902790",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANKOMSTEN BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Forneburingen 252, 1364, FORNEBU",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/OBOS Eiendomsforvaltning AS, Postboks 393 Alnabru, 0614, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-12-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "OBOS EIENDOMSFORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Rikke Welle-Watne Jordbræk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Erik Huseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingrid Marie Bager Sundmark",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-10-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "OBOS EIENDOMSFORVALTNING AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936902790/roller",
+      "source_date": "2026-01-05",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 12.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 565015.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 565012.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936902790",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    }
+  ],
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936902790.",
+  "last_checked": "2026-10-17T07:50:47+00:00",
+  "changes": []
+}

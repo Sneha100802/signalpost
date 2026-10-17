@@ -1,0 +1,114 @@
+{
+  "orgnr": "988646334",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. FJØSANGER SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Ragnar Pettersen, Ny-Paradis 23, 5230, PARADIS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.fjosanger.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1921-09-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": "2005-09-15",
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:52+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ragnar Pettersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334/roller",
+      "source_date": "2008-11-26",
+      "retrieved_at": "2026-10-17T07:50:53+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988646334. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:53+00:00",
+  "changes": []
+}

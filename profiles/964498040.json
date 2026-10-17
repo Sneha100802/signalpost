@@ -1,0 +1,142 @@
+{
+  "orgnr": "964498040",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALI BABA INTERNATIONAL DA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med delt ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Neumanns gate 6, 5015, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Ulvhøyen 30, 5134, FLAKTVEIT",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-06-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drift av snackbar.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Maurice Issa Majlaton",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040/roller",
+      "source_date": "1996-11-16",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Magni Jorun Skjelvan Majlaton",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040/roller",
+      "source_date": "1996-11-16",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Maurice Issa Majlaton",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040/roller",
+      "source_date": "1996-11-16",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "role:Deltaker med delt ansvar",
+      "value": "Atef Khalil Ibrahim El Tayeb",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040/roller",
+      "source_date": "1996-11-16",
+      "retrieved_at": "2026-10-17T07:47:07+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964498040. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:08+00:00",
+  "changes": []
+}

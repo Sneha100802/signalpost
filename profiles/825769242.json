@@ -1,0 +1,177 @@
+{
+  "orgnr": "825769242",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "08 OSLO MARITIME AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "71.129 Annen teknisk konsulentvirksomhet",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Maridalsveien 267D, 0872, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2020-09-14",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Tilby konsulenttjenester innen maritim sektor og investering i verdipapirer.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Hans-Christian Opsann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242/roller",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Hans-Christian Opsann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242/roller",
+      "source_date": "2020-10-09",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BJUG A. BORGUND AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/825769242/roller",
+      "source_date": "2021-01-29",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 717079.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 612986.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 550388.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3133571.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 2974093.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/825769242",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:43+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 825769242.",
+  "last_checked": "2026-10-17T07:50:43+00:00",
+  "changes": []
+}

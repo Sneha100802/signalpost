@@ -1,0 +1,219 @@
+{
+  "orgnr": "937895321",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "SPAREBANK 1 SØR-NORGE ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "64.190 Banker og kredittforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Christen Tranes gate 35, 4007, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 250, 4068, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.sr-bank.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 1537,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1976-10-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "3200 Banker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive virksomhet som bank, herunder fremme sparing ved å ta imot innskudd fra en ubestemt krets av kunder, levere finansielle tjenester til publikum, næringsliv og offentlig sektor, og å forvalte på en trygg måte de midler den rår over i samsvar med de lovregler som til enhver tid gjelder for selskapets virksomhet. Selskapet kan dessuten yte investeringstjenester innenfor de til enhver tid gitte konsesjoner.   Selskapet kan for øvrig innenfor rammen av den lovgivning som til enhver tid gjelder, utføre alle forretninger og tjenester som naturlig er forbundet med det å drive bank- og investeringstjenestevirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:21+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Inge Reinertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2024-09-17",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Helge Leiro Baastad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Heine Wang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Maria Tho",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trine Sæther Romuld",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Camilla Aldona Cakste Tepfers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjetil Skjæveland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne Myhre Gravdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eirik Prebent Elholm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Reni Liland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kristian Torød Flakstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2026-05-04",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "PRICEWATERHOUSECOOPERS AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
+      "source_date": "2004-07-12",
+      "retrieved_at": "2026-10-17T07:47:22+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937895321. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:22+00:00",
+  "changes": []
+}

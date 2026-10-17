@@ -1,0 +1,233 @@
+{
+  "orgnr": "977518369",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANKERHAGEN BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Observatoriegata 6, 0254, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.barnehagen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 15,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1997-04-09",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage i Frogner bydel i Oslo kommune.  ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": "1997-05-12",
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:12+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Tihana Delalic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-10-01",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Thor Erik Norbom",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Magnus Hatlestad Hovland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stian Alm Valland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Johan Jansen Noreik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Camilla Bjerke Rødal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Thea Åhsbom Kristiansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2026-06-19",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "HØILUND REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2023-05-10",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
+      "source_date": "2024-12-12",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 10788899.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 77633.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 34606.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2911356.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 492907.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977518369.",
+  "last_checked": "2026-10-17T07:50:13+00:00",
+  "changes": []
+}

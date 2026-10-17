@@ -1,0 +1,128 @@
+{
+  "orgnr": "961544424",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BAGERIET HÆGELAND OG LARSEN ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "10.710 Produksjon av brød og ferske konditorvarer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Hægeland, Ytre Åros 30B, 4640, SØGNE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1991-03-26",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive handelsvirksomhet vedrørende bakerivarer, konditorvarer, salg av melkeprodukter og tils- varende meierivarer, samt det som naturlig hører til et bakeriutsalg.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Solveig Irene Hægeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424/roller",
+      "source_date": "1992-01-28",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Rune Hægeland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424/roller",
+      "source_date": "1992-01-28",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KONSULENTFIRMA TST Tommy S Tolfsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424/roller",
+      "source_date": "1999-04-29",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961544424. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:47+00:00",
+  "changes": []
+}

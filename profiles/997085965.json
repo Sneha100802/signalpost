@@ -1,0 +1,107 @@
+{
+  "orgnr": "997085965",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "NORPOL EXPONTS MICHAL JAGODZINSICI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.340 Maler- og glassarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Bjørnsons gate 2B, 2821, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "MMC EIENDOM AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965/roller",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Kai-Robert Mikaelsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965/roller",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "NORPOL EXPORTS MICHAL JAGODZINSKI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997085965/roller",
+      "source_date": "2011-09-13",
+      "retrieved_at": "2026-10-17T07:47:59+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997085965. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:00+00:00",
+  "changes": []
+}

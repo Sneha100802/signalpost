@@ -1,0 +1,184 @@
+{
+  "orgnr": "977154235",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ANNA OG JOHAN VAKSDALS LEGAT FOR UNGE FORRETNINGSFOLK STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Jonsvollsgaten 2, 5011, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Sparebanken Norge v/Bjørn Haukedal, Postboks 7999, 5020, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-01-20",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": "1997-03-17",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Bjørn Haukedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gerhard Benedict Runshaug",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elin Therese Paulsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235/roller",
+      "source_date": "2025-12-02",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "SIGMA REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977154235/roller",
+      "source_date": "2013-08-01",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 941731.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 878752.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 892324.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8068620.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 7568620.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977154235",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977154235.",
+  "last_checked": "2026-10-17T07:49:46+00:00",
+  "changes": []
+}

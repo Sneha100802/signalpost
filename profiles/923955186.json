@@ -1,0 +1,100 @@
+{
+  "orgnr": "923955186",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A-TAKST CATO ALEXANDER HOLMSEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Enkeltpersonforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "74.990 All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Storgaten 77, 3060, SVELVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8200 Personlig næringsdrivende",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "role:Innehaver",
+      "value": "Cato Alexander Holmsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923955186/roller",
+      "source_date": "2019-11-27",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    }
+  ],
+  "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923955186. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:49+00:00",
+  "changes": []
+}

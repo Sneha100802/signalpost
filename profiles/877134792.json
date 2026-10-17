@@ -1,0 +1,184 @@
+{
+  "orgnr": "877134792",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ADVOKAT ROLF SANDBERG REBERG OG ELLEN M REBERGS LEGAT TIL FORSKNING AV PARKINSONS SYKDOM STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Anne Kjersti Husbyn, Furuveien 14B, 1356, BEKKESTUA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1986-12-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": "1997-02-24",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Jens Emil Rynning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2005-12-10",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Anne Kjersti Husbyn",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2014-07-21",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Dietrichs",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2014-07-21",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elisabeth Gulowsen Celius",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2014-07-21",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISJONSFIRMAET FLATTUM & CO AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2012-06-04",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877134792/roller",
+      "source_date": "2025-12-01",
+      "retrieved_at": "2026-10-17T07:49:05+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877134792",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -736720.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877134792",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -621304.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877134792",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2966015.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877134792",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 343615.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877134792",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 877134792.",
+  "last_checked": "2026-10-17T07:49:06+00:00",
+  "changes": []
+}

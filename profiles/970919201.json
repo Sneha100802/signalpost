@@ -1,0 +1,240 @@
+{
+  "orgnr": "970919201",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BODØ TAXI SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "49.330 Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Plassen 1, 8006, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bodotaxi.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 23,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-03-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å organisere, administrere og formidle kjøreoppdrag for medlemmene med utgangspunkt i Bodø løyvedistrikt og med Bodø som stasjoneringssted, samt markedsføre medlemmenes transporttilbud og for øvrig å ivareta og fremme medlemmenes yrkesmessige, faglige og økonomiske interesser i enhver forbindelse, herunder delta i selskap med lignende formål. Selskapet kan drive transportvirksomhet i egen regi, etter årsmøtets beslutning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Fredrik Martinussen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2024-07-09",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Fredrik Martinussen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir Vangen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ivar Haugene",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jon Pär-Magnus Solberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Erling Andreassen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Habtom Redae Weldekidan",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Lars Erik Jamtli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-07-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "BODØ REVISJONSKONTOR AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2026-04-10",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970919201/roller",
+      "source_date": "2025-10-02",
+      "retrieved_at": "2026-10-17T07:49:40+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 13118472.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 50333.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -21357.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 5883777.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4106299.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/970919201",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:41+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 970919201.",
+  "last_checked": "2026-10-17T07:49:41+00:00",
+  "changes": []
+}

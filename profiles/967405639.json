@@ -1,0 +1,219 @@
+{
+  "orgnr": "967405639",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BARNEHAGESTIFTELSEN AURORA STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Sluppenvegen 12E, 7037, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.aurorastiftelsen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-04-05",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Utvikle og drive bedriftsbarnehager i Trondheim for SINTEF. Dette gjelder Aurora Baldershage barnehage AS, Aurora Regnbuen barnehage AS og Aurora Sluppen barnehage AS.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Liv Kristina Uhlin-Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2024-03-01",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Randi Ann Fagerholt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2025-09-18",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elise Midthun",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2025-09-18",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Maria Nicte Polanco Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2025-09-18",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Waldal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2025-09-18",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Sahar Babri",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2025-09-18",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
+      "source_date": "2010-05-27",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 3827350.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 492222.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 827189.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 18861185.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 18262711.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/967405639",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:58+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 967405639.",
+  "last_checked": "2026-10-17T07:46:58+00:00",
+  "changes": []
+}

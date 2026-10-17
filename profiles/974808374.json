@@ -1,0 +1,114 @@
+{
+  "orgnr": "974808374",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ACCENTURE (SVEITS)",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": "1995-08-11",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": "1995-08-11",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "78.200 Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": "1995-08-11",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Fraumunsterstrasse 16, CH-8001 ZURICH",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": "1995-08-11",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "v/ Mobility, c/o Accenture AS, Postboks 363, 1326, LYSAKER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": "1995-08-11",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Alejandra Edith Pedernera",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "ACCENTURE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374/roller",
+      "source_date": "2025-05-10",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ACCENTURE AG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374/roller",
+      "source_date": "2010-10-20",
+      "retrieved_at": "2026-10-17T07:50:38+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974808374. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:39+00:00",
+  "changes": []
+}

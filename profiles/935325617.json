@@ -1,0 +1,107 @@
+{
+  "orgnr": "935325617",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALPIWORK SP. Z O.O. NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "33.120 Reparasjon og vedlikehold av maskiner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "ul. 1 Maja nr 30 - 40, lok. 33, miejsc. ZGIERZ, PL-95-100 ZGIERZ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Advokatfirmaet Magnus Legal AS, Postboks 904 Sentrum, 5808, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:28+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "Øivind Henrik Von Mehren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617/roller",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "ALPIWORK SP. Z O.O.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935325617/roller",
+      "source_date": "2025-04-26",
+      "retrieved_at": "2026-10-17T07:48:29+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935325617. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:29+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "918598189",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "HEARTBREAKER RECORDS SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "59.200 Produksjon og utgivelse av musikk- og lydopptak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Mari Tufte Juvik, Sølvreven 69, 3033, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.heartbreakerrecords.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-06-19",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Næringsvirksomhet innen produksjon og utgivelse av musikk- og lydopptak. Foretaket kan også drive annen virksomhet relatert til hovedformålet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": "2017-07-12",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Mari Tufte Juvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Espen Prestegård Klausen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lasse Motrøen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918598189/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918598189. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:34+00:00",
+  "changes": []
+}

@@ -1,0 +1,142 @@
+{
+  "orgnr": "935511054",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BYGG MUR EKSPERT ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.990 Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Drammensveien 93, 3050, MJØNDALEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-05-21",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Murarbeid, flislegging og puss innen bygg- og anleggsbransjen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Adnan Islam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Esad Ljaic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Adnan Islam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Esad Ljaic",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
+      "source_date": "2025-05-28",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "REGNSKAPSFØRER1 AUTORISERT",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
+      "source_date": "2026-04-16",
+      "retrieved_at": "2026-10-17T07:46:49+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935511054. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:46:49+00:00",
+  "changes": []
+}

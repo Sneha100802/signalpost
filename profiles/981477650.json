@@ -1,0 +1,198 @@
+{
+  "orgnr": "981477650",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "A CASA TUA ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "56.110 Drift av restauranter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Ullevålsveien 61, 0171, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.artepazza.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-01-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2017",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Handel, import, produksjon og servering, herunder restaurantdrift og catering av mat og produkter som naturlig faller sammen med dette, samt å delta i andre virksomheter innenfor samme bransje. Bed & breakfast. Import av kaffe.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": "2000-01-24",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Kate Andersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650/roller",
+      "source_date": "2014-10-16",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Renzo Biagi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650/roller",
+      "source_date": "2004-10-25",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Kate Andersson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650/roller",
+      "source_date": "2004-10-25",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "JO REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981477650/roller",
+      "source_date": "2025-08-06",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2017-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 6576405.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 162584.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 156639.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 766148.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -498258.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/981477650",
+      "source_date": "2017-12-31",
+      "retrieved_at": "2026-10-17T07:49:35+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981477650.",
+  "last_checked": "2026-10-17T07:49:35+00:00",
+  "changes": []
+}

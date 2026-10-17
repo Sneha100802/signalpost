@@ -1,0 +1,219 @@
+{
+  "orgnr": "919967072",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CLOUDBERRY CLEAN ENERGY ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "35.122 Produksjon av elektrisitet fra vindkraft",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Frøyas gate 15, 0273, OSLO",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 17,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2017-11-10",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive investeringsvirksomhet i energisektoren, herunder utvikle og drive produksjon av fornybar energi og virksomhet som naturlig er forbundet med dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Anders Jørgen Lenborg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2017-11-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kjell-Erik Østdahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nicolai Nordstrand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Alexandra Stokkeland Koefoed",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mads Andersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ragnhild Marta Wiborg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ERNST & YOUNG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2020-08-04",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "ECHAS REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
+      "source_date": "2018-01-15",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 571000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 8000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 85000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9433000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 5427000000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919967072",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:49+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919967072.",
+  "last_checked": "2026-10-17T07:47:49+00:00",
+  "changes": []
+}

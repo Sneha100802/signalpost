@@ -1,0 +1,240 @@
+{
+  "orgnr": "980423034",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DRONNINGÅSEN BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Husabergbakken 40A, 4032, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.dronningaasen.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 51,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1998-09-03",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": "1999-02-03",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Linda Marie Næsheim Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2009-04-25",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Erik Haavik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Linda Marie Næsheim Dahl",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Tone Helstrup Olsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arne Birkemo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Erik Høidal Kvåle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Henrikke Gård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eleanor Vivian Bell",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-08",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2026-05-02",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "PBL REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
+      "source_date": "2012-05-14",
+      "retrieved_at": "2026-10-17T07:50:39+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 26972569.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -305611.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -169117.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 10105533.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4999789.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980423034",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:50:40+00:00"
+    }
+  ],
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980423034.",
+  "last_checked": "2026-10-17T07:50:40+00:00",
+  "changes": []
+}

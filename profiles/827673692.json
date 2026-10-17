@@ -1,0 +1,177 @@
+{
+  "orgnr": "827673692",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FIFTH ELEMENT CONSULTING CORPORATION LIMITED NUF",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Adjunkt Dørums gate 15, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jan Helge Sand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692/roller",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Helge Sand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692/roller",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "DALSBØ REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "MERVERDI AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692/roller",
+      "source_date": "2026-04-24",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "FIFTH ELEMENT CONSULTING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827673692/roller",
+      "source_date": "2021-09-25",
+      "retrieved_at": "2026-10-17T07:51:16+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2023-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 133117.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 126347.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 98111.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 275208.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 98111.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827673692",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:17+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 827673692.",
+  "last_checked": "2026-10-17T07:51:17+00:00",
+  "changes": []
+}

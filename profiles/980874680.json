@@ -1,0 +1,226 @@
+{
+  "orgnr": "980874680",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "DUSAVIK BARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gjerdeveien 144, 4028, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "website",
+      "value": "dusavik.barnehage.no/",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 23,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1999-06-22",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Virksomheten har et ikke-økonomisk formål. Foretaketskal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": "1999-08-24",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Frøydis Lindaas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2020-09-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lillian Nesse Vea",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2026-07-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristine Larsen Malmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2026-07-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Lohne Morken",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2026-07-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne Hillestad Wold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2026-07-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Hans Martin Lofnes Leistad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2026-07-06",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CROWE STAVANGER REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2014-11-10",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "KALLESTEN REVISJON OG REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980874680/roller",
+      "source_date": "2001-11-12",
+      "retrieved_at": "2026-10-17T07:49:06+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 13438049.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -498410.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -215576.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 9833988.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 7855798.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/980874680",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:07+00:00"
+    }
+  ],
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980874680.",
+  "last_checked": "2026-10-17T07:49:07+00:00",
+  "changes": []
+}

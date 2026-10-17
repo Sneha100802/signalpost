@@ -1,0 +1,219 @@
+{
+  "orgnr": "944696547",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BJØRNDALSLIA BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Storbjørnen 3, 8029, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 214, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1987-04-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:39+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2016-06-17",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Karin Margrethe Ljunggren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjetil Korsnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jeanette Christine Ingebrigtsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Stian Malvin Møllerhaug Sæbø",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Mariell Furnes",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "TELL NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-01-09",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "BOLIGBYGGELAGET NOBL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
+      "source_date": "2026-05-07",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 5678088.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 2608021.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 1768324.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 67510834.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 13040562.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944696547",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:40+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 944696547.",
+  "last_checked": "2026-10-17T07:48:40+00:00",
+  "changes": []
+}

@@ -1,0 +1,135 @@
+{
+  "orgnr": "988148091",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BERGEN ØKOLOGISKE LANDSBY SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Randi Benedikte Brodersen, Pinnelien 9, 5053, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bergenokologiskelandsby.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2005-03-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å fremme kunnskap om og interesse for økologiske landsbyer i videste forstand i Bergens-området. Initiere og støtte prosjekter som har til formål å skaffe egne boliger basert på permakulturelle prinsipper organisert som økologiske landsbyer, grender, gruppetun eller lignende for lagets medlemmer, og fremme aktiviteter som naturlig hører sammen med dette. Fremme lagets interesser i kommuneplaner og annet planarbeid i Bergens-området.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": "2005-05-02",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Randi Benedikte Brodersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091/roller",
+      "source_date": "2025-04-22",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjetil Lygre",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091/roller",
+      "source_date": "2025-04-22",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristian Flo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091/roller",
+      "source_date": "2025-04-22",
+      "retrieved_at": "2026-10-17T07:50:47+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:48+00:00",
+  "changes": []
+}

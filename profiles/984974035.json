@@ -1,0 +1,233 @@
+{
+  "orgnr": "984974035",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BODØ BY'S VEL STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Dronningens gate 23, 8006, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 319, 8001, BODØ",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.bodoe.kommune.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1895-09-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": "2006-02-08",
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Odd Emil Ingebrigtsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjell Hugvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lena Breivik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ingunn Pauline Skogmo-Nordvang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Håkon Andreas Liland Møller",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Anna Margrethe Welle",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kyrre Kolvik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Bente Haukås",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Tommy Wisth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ida Gudding Johnsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2024-05-03",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "SALTEN KOMMUNEREVISJON IKS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
+      "source_date": "2006-02-09",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984974035",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -277890.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984974035",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -227834.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984974035",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 975106.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984974035",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 915107.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984974035",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:34+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984974035.",
+  "last_checked": "2026-10-17T07:48:34+00:00",
+  "changes": []
+}

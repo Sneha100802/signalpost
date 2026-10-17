@@ -1,0 +1,198 @@
+{
+  "orgnr": "913376064",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "4640 SØGNE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.390 Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "address",
+      "value": "v/Terje Pettersen, Tangvallveien 1, 4640, SØGNE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-01-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2023",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Bidra til økt verdiskaping for medlemmene, og stimulere til økt produksjon av matprodukter basert på lokale råvarer gjennom: a. Å legge til rette for samarbeid mellom medlemmene i Samvirkeorganisasjonen b. Synliggjøring av samarbeidet og nettverket utad c. Forvaltning og markedsføring av det felles varemerket 4640 SØGNE. d. Markedsføring av produkter fra medlemmene. e. Å være et lønnsomt og faglig sterkt produsentnettverk for medlemmene.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Terje Øydne Pettersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2014-07-03",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Terje Øydne Pettersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Trine Lohne",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Gudbrand Nome Try",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Vidar Jacobsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lise Lunde",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
+      "source_date": "2026-02-02",
+      "retrieved_at": "2026-10-17T07:51:14+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2023-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 37500.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 15523.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 10225.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 0.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 6000.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913376064",
+      "source_date": "2023-12-31",
+      "retrieved_at": "2026-10-17T07:51:15+00:00"
+    }
+  ],
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913376064.",
+  "last_checked": "2026-10-17T07:51:15+00:00",
+  "changes": []
+}

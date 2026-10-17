@@ -1,0 +1,219 @@
+{
+  "orgnr": "971474203",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EIKEBO FORELDRELAGSBARNEHAGE SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Niels Leuchs vei 40, 1359, EIKSMARKA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 26,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1988-01-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å eie og drive barnehage på Eiksmarka i Bærum til beste for medlemmene. Foretaket skal fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Formålet er ikke kapitalavkasning til medlemmene, da avkastningen blir stående i virksomheten. Barnehagen skal drives i samsvar med de til enhver gjeldende lover, forskrifter, vedtekter, fastsatt budsjett og årsplan for barnehagens pedagogiske virksomhet. Barnehagen skal sikre barn under opplæringspliktig alder gode utviklings- og aktivitetsmuligheter i nær forståelse og samarbeid med barnas hjem.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Cecilie Park Undhjem",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2011-06-27",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Martin Kjendlie",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hanne Josephsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Petter Danielsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Iver Berge Vikøren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Caroline Glott",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-07-08",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "ABC REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2016-01-11",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "HOVDEN CONSULT AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
+      "source_date": "2026-03-10",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 8798656.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 194076.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 192355.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 2703191.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 558671.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971474203",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:53+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971474203.",
+  "last_checked": "2026-10-17T07:47:53+00:00",
+  "changes": []
+}

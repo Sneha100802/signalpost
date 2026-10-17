@@ -1,0 +1,142 @@
+{
+  "orgnr": "998337143",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BREKKENE VEGLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Morviklien 25D, 5124, MORVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2012-03-23",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Ferdigstille arbeidene på veistrekningen fra kryss Morviklien til kryss Morvikbrekkene. SA skal forestå det løpende vedlikehold, herunder snørydding/salting/strøing av strekningen.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": "2012-06-20",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lindy Karina Skulbru",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
+      "source_date": "2025-04-29",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Andre Bosse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
+      "source_date": "2025-04-29",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Catrine Vik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
+      "source_date": "2025-04-29",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Andre Ånneland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
+      "source_date": "2025-04-29",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Terje Myrmel",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
+      "source_date": "2025-04-29",
+      "retrieved_at": "2026-10-17T07:50:29+00:00"
+    }
+  ],
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998337143. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:29+00:00",
+  "changes": []
+}

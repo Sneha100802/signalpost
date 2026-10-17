@@ -1,0 +1,128 @@
+{
+  "orgnr": "815911342",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "1. DRAMMEN SPEIDERGRUPPE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": "2015-10-26",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Forening/lag/innretning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": "2015-10-26",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "94.992 Aktiviteter i andre medlemsorganisasjoner ellers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": "2015-10-26",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "address",
+      "value": "C/O Silje Bjørge, Rebbansbakken 6, 3018, DRAMMEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": "2015-10-26",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1921-01-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": "2015-10-26",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Silje Rødset Bjørge",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342/roller",
+      "source_date": "2024-04-27",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Nils Bjarne Sverreson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342/roller",
+      "source_date": "2024-04-27",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ragnhild Anette Sandvold",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342/roller",
+      "source_date": "2024-04-27",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Christian Noreng",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342/roller",
+      "source_date": "2024-04-27",
+      "retrieved_at": "2026-10-17T07:50:13+00:00"
+    }
+  ],
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 815911342. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:14+00:00",
+  "changes": []
+}

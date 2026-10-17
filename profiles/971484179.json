@@ -1,0 +1,233 @@
+{
+  "orgnr": "971484179",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ALVEJORDET STEINERBARNEHAGE STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Andreas Kjærs vei 77, 4615, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 15,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1989-01-02",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": "1995-02-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Sissel Langgård Gilberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2000-04-04",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Lillian Drange",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Beate Bergly Skaue",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lise Dedenroth Dragseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Martin August Vinje Besteland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Axel Federico Garbers",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Nancy Beate Smith",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Skjalg Steinar Graasvold Bjørkevoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Maryam Cleopatra Lothe-Malik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2026-09-28",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "REVISORGRUPPEN  AGDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2023-11-20",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "VIEW GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
+      "source_date": "2023-02-27",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 7947181.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 228180.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 179879.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 3723543.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -130721.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971484179",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:48:10+00:00"
+    }
+  ],
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971484179.",
+  "last_checked": "2026-10-17T07:48:10+00:00",
+  "changes": []
+}

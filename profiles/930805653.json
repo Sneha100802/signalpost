@@ -1,0 +1,184 @@
+{
+  "orgnr": "930805653",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "2ND HAND AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "47.910 Formidlingstjenester tilknyttet detaljhandel med bredt vareutvalg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Solveig Klausen, Erling Høviks veg 17A, 7059, JAKOBSLI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 8,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2023-01-18",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av brukte klær, leker og utstyr.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:01+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Solveig Iren Klausen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653/roller",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Solveig Iren Klausen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653/roller",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Terje Løvmo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653/roller",
+      "source_date": "2023-02-09",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 2490689.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 256090.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 174406.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 959638.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 159240.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930805653",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:02+00:00"
+    }
+  ],
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930805653.",
+  "last_checked": "2026-10-17T07:49:02+00:00",
+  "changes": []
+}

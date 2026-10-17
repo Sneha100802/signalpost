@@ -1,0 +1,135 @@
+{
+  "orgnr": "971161566",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3K KULTUR KOMER INTERKONTINENTAL ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nedre Fjellsmauet 2, 5018, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 1267, 5811, BERGEN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1994-08-12",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Eksport/import virksomhet og yte rådgivning.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Raul Isaias Lopez Aedo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566/roller",
+      "source_date": "1994-11-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Gonzalo Torres Veloso",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566/roller",
+      "source_date": "1994-11-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Oscar Fernandor Retamal Hernandez",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566/roller",
+      "source_date": "1994-11-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Raul Isaias Lopez Aedo",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971161566/roller",
+      "source_date": "1994-11-01",
+      "retrieved_at": "2026-10-17T07:48:37+00:00"
+    }
+  ],
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971161566. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:37+00:00",
+  "changes": []
+}

@@ -1,0 +1,156 @@
+{
+  "orgnr": "827006092",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EREVIK VANN- OG AVLØPSLAG SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Kristoffer Soma, Fjellsenden 8, 4026, STAVANGER",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2021-05-01",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å etablere, anlegge, eie, vedlikeholde og drifte ledningsnett for vann og avløp for lagets medlemmer og ivareta medlemmenes behov og interesser. Formålet omfatter også andre nødvendige arbeider tilknyttet virksomheten. Når det private ledningsnettet for vann og avløp er bygget ut, skal laget ivareta driften, administrere vedlikehold og fastsette vilkår for nye eiendommer som ønsker å knytte seg til ledningsnettet. Laget skal kunne overdra det private ledningsnettet til andre lag og/eller slå seg sammen med andre lag i tilstøtende områder med samme formål, når dette er formålstjenlig for medlemmene. Avslutningen av selskapets utbygging av fellesnett skal gå ved det enkelte medlems hytte/bolig, nærmere bestemt pumpekum. Selskapet skal stå som eier av det private vann- og avløpsnettet fra og med utslippsledning med hovedledninger og stikkledninger og tilhørende tekniske anlegg til og med pumpekum/- kvern og vanntilkopling ved hytte/bolig.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": "2021-07-22",
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Ole Christian Endresen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Frode Ottesen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Rolf Terje Kvam",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ørjan Hagen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Torbjørn Bøe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kristoffer Todnem Soma",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2023-08-25",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "INFOREGN AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827006092/roller",
+      "source_date": "2022-05-30",
+      "retrieved_at": "2026-10-17T07:48:55+00:00"
+    }
+  ],
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 827006092. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:55+00:00",
+  "changes": []
+}

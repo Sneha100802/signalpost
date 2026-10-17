@@ -1,0 +1,191 @@
+{
+  "orgnr": "936649025",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "ARNEGÅRDSVEIEN 23 BORETTSLAG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "97.001 Aktiviteter i borettslag og boligsameier",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Ok Invest Holding AS, Grini Næringspark 4B, 1361, ØSTERÅS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2025-10-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "8300 Borettslag o.l.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Borettslag",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Forretningsfører",
+      "value": "HØNEFOSS BOLIG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025/roller",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Odd Kåre Markegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025/roller",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jens Christian Markegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025/roller",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Odd Arne Markegård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025/roller",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "FRAM REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936649025/roller",
+      "source_date": "2025-11-25",
+      "retrieved_at": "2026-10-17T07:47:01+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 1485660.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": 937732.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 173433.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 19014538.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 54244.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936649025",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:47:02+00:00"
+    }
+  ],
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936649025.",
+  "last_checked": "2026-10-17T07:47:02+00:00",
+  "changes": []
+}

@@ -1,0 +1,121 @@
+{
+  "orgnr": "975965058",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BAUER HOCKEY NORGE, FILIAL AV BAUER HOCKEY AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "46.420 Engroshandel med klær og skotøy",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Nellickevägen 24, SE-412 63 GÖTEBORG",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Aider AS, Vestre Strandgate 67, 4612, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:48:30+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058/roller",
+      "source_date": "2023-12-18",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Farnoosh Farhangian",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058/roller",
+      "source_date": "2025-01-07",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "AIDER AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058/roller",
+      "source_date": "2023-12-16",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "BAUER HOCKEY AB",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058/roller",
+      "source_date": "1995-12-29",
+      "retrieved_at": "2026-10-17T07:48:31+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975965058. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:48:31+00:00",
+  "changes": []
+}

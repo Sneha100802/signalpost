@@ -1,0 +1,219 @@
+{
+  "orgnr": "914864445",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BN BANK ASA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Allmennaksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "64.190 Banker og kredittforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Kongens gate 2, 7011, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 2415 Torgarden, 7005, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 145,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1961-09-15",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "3200 Banker",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Drive virksomhet som bank innenfor rammen av den lovgivning som til enhver tid gjelder. Selskapet kan utføre alle forretninger og tjenester som vanlig eller naturlig er forbundet med bankvirksomhet.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": "1995-03-12",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Svein Tore Samdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2018-12-10",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Trond Søraas",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eirik Børve Monsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Inger Marie Stordal Eriksen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Geir-Egil Bolstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Jan Friestad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Turid Grotmoll",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Arild Bjørn Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Astrid Undheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Eli Anette Svardal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Ivar Jacklin Egeberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Kari Pedersen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2026-05-21",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
+      "source_date": "2014-06-25",
+      "retrieved_at": "2026-10-17T07:47:27+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914864445. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:28+00:00",
+  "changes": []
+}

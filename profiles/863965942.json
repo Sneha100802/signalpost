@@ -1,0 +1,121 @@
+{
+  "orgnr": "863965942",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "JAGONJAS ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Gotfred Lies plass 1, 6415, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1992-04-07",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Salg av utstyr for dyr.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": "1995-02-19",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Ole Johnny Jensen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942/roller",
+      "source_date": "2024-04-23",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Odd Steinar Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942/roller",
+      "source_date": "2024-04-23",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "KPMG AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/863965942/roller",
+      "source_date": "2020-10-07",
+      "retrieved_at": "2026-10-17T07:47:36+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 863965942. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:37+00:00",
+  "changes": []
+}

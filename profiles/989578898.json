@@ -1,0 +1,149 @@
+{
+  "orgnr": "989578898",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRØDRENE LYSGÅRD TAK & FASADE ANS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Ansvarlig selskap med solidarisk ansvar",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "43.340 Maler- og glassarbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Østre Totenveg 100, 2816, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Postboks 715, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2006-03-08",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2300 Personlige foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Alt av utvendig maling. Taktekking/fasade. Utvendig snekkring. Alt av utvendig blikkerslagerarbeid. Alt av innvendig snekkring, maling. Salg av brann-redningsstiger, samt andre stiger og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:20+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Richard Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Daniel Lysgård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Deltaker med fullt ansvar",
+      "value": "Richard Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
+      "source_date": "2006-06-28",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Daniel Lysgård",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Richard Nilsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
+      "source_date": "2026-01-31",
+      "retrieved_at": "2026-10-17T07:49:22+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989578898. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:22+00:00",
+  "changes": []
+}

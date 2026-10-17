@@ -1,0 +1,114 @@
+{
+  "orgnr": "927674149",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "FIFTH ELEMENT CONSULTING CORPORATION HOLDING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "00.000 Uoppgitt",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Adjunkt Dørums gate 15, 6413, MOLDE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Jan Helge Sand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149/roller",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Jan Helge Sand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149/roller",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "DALSBØ REGNSKAP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149/roller",
+      "source_date": "2026-02-20",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "FIFTH ELEMENT CONSULTING",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927674149/roller",
+      "source_date": "2021-10-16",
+      "retrieved_at": "2026-10-17T07:47:33+00:00"
+    }
+  ],
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927674149. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:47:33+00:00",
+  "changes": []
+}

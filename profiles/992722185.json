@@ -1,0 +1,149 @@
+{
+  "orgnr": "992722185",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "EIDSØRA VASSVERK SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "36.000 Uttak fra kilde, rensing og distribusjon av vann",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Eidsøra, 6460, EIDSVÅG I ROMSDAL",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "1995-06-30",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Anlegge, drifte og forsyne medlemmene med drikkevann. Anlegget består av to seperate brønner/annlegg (Eidsøra 1 og 2) men med felles forpliktelser, drift og styre.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": "2013-11-26",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Gunnar Atle Sæter",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Alexander Barsten Ranheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Olai Svensli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Simen Martinius Tømte Bruseth",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lars Tore Eidsør",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Geir Havdal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
+      "source_date": "2026-02-03",
+      "retrieved_at": "2026-10-17T07:50:28+00:00"
+    }
+  ],
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992722185. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:29+00:00",
+  "changes": []
+}

@@ -1,0 +1,219 @@
+{
+  "orgnr": "982805570",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "AURORA VERKSTED SA",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Samvirkeforetak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "88.993 Arbeidstrening og varig tilrettelagt arbeid",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Durudveien 33, 1344, HASLUM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "website",
+      "value": "www.aurora-verksted.no",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 47,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2000-11-28",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "7000 Ideelle organisasjoner",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Å fremme medlemmenes yrkesmessige interesser ved å utvikle en kunnskaps og kreativitetsvirksomhet med ideelt formål. Aurora Verksted SA skaper og tilbyr integrerte, individuelt tilpassede, tilrettelagte arbeidsplasser for mennesker som faller utenom det ordinære arbeidsliv. Produksjonen er hovedsakelig innen kunst, kunsthåndverk og design.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": "2001-01-03",
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:45+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Trine Dreyer",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2026-07-07",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Kristin Howlid Weisser",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2024-04-02",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Elisabeth Arntzen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2024-04-02",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Daniel Zerai Feshaye",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2024-04-02",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Mimi Swang",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2024-04-02",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Ingrid Tellefsen Relling",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2024-04-02",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "AMICA REVISJON AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570/roller",
+      "source_date": "2020-07-14",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 35260540.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -1158785.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -894707.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 27286544.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 6493593.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:49:46+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570.",
+  "last_checked": "2026-10-17T07:49:46+00:00",
+  "changes": []
+}

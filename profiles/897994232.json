@@ -1,0 +1,107 @@
+{
+  "orgnr": "897994232",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "CHRISTIAN SCHUMANN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": "2012-02-23",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": "2012-02-23",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "41.000 Oppføring av bygninger",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": "2012-02-23",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "Angelamfi Hitra AS, Postboks 39084, 7443, TRONDHEIM",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": "2012-02-23",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Norsk repr. for utenl. enhet",
+      "value": "BAUMS NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232/roller",
+      "source_date": "2013-11-27",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "value": "Olav Hygen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232/roller",
+      "source_date": "2013-11-27",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "CHRISTIAN SCHUMANN",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897994232/roller",
+      "source_date": "2012-02-23",
+      "retrieved_at": "2026-10-17T07:50:07+00:00"
+    }
+  ],
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 897994232. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:50:07+00:00",
+  "changes": []
+}

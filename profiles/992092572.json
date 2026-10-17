@@ -1,0 +1,121 @@
+{
+  "orgnr": "992092572",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "BRF FRITID 3",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Norskregistrert utenlandsk foretak",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "82.990 Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "address",
+      "value": "c/o Hans Erik Krogstad, Tallgatan 8 A, SE-840 60 BRÄCKE",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "postal_address",
+      "value": "c/o Hans Erik Krogstad, Espvegen 71, 7083, LEINSTRAND",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:49:10+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Hans Erik Krogstad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
+      "source_date": "2018-10-12",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Per Johan Trangmyr",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
+      "source_date": "2018-10-12",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Kjell Strand",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
+      "source_date": "2018-10-12",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "value": "BOSTADSRÄTTSFÖRENINGEN FRITID 3",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
+      "source_date": "2008-01-15",
+      "retrieved_at": "2026-10-17T07:49:11+00:00"
+    }
+  ],
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992092572. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T07:49:11+00:00",
+  "changes": []
+}

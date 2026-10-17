@@ -1,0 +1,219 @@
+{
+  "orgnr": "913437497",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "GJØVIKREGIONEN INTERNATIONAL SCHOOL STI",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Stiftelse",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "85.201 Ordinær grunnskoleundervisning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Studievegen 17, 2815, GJØVIK",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "employees",
+      "value": 48,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2014-03-17",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Etablere og senere drifte en internasjonal barne- og ungdomsskole i henhold til gjeldende regelverk, og med status som friskole med offentlig tilskudd i henhold til gjeldende lovverk. Undervisningen skal tilrettelegges slik at elevene får en internasjonal skolegang gjennom en anerkjent internasjonal læreplan.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": "2014-04-15",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "James Robert Eide-Harwood",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-06-24",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Finn Erik Hurlen Lystad",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ola Langedal",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Guro Wang Øverli",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Lonnie Lynn Myklebust",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Nina Rossen Haavi",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2025-05-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Revisor",
+      "value": "CEDRA NORGE AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2026-01-12",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "role:Regnskapsfører",
+      "value": "FRISIKT VEST AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
+      "source_date": "2021-12-09",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 34354624.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -1238648.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": -1231289.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 8483195.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": 4100117.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913437497",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:47+00:00"
+    }
+  ],
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913437497.",
+  "last_checked": "2026-10-17T07:46:47+00:00",
+  "changes": []
+}

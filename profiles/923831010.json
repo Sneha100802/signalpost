@@ -1,0 +1,177 @@
+{
+  "orgnr": "923831010",
+  "found": true,
+  "facts": [
+    {
+      "field": "name",
+      "value": "3BL GROUP AS",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "legal_form",
+      "value": "Aksjeselskap",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "industry",
+      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "address",
+      "value": "Vestre Strandgate 12, 4610, KRISTIANSAND S",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "founded",
+      "value": "2019-10-16",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "value": true,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "last_annual_accounts_year",
+      "value": "2025",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "language_form",
+      "value": "Bokmål",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "sector",
+      "value": "2100 Private aksjeselskaper mv.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "purpose",
+      "value": "Management, konsulentvirksomhet, eventvirksomhet, coaching, drift av kontorlokaler, og kjøp og salg av aksjer samt virksomhet som naturlig faller inn under dette.",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": "2019-11-16",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "value": false,
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "value": "Bjørn Andreas Mong",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
+      "source_date": "2022-12-22",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "value": "Øyvind Egaas Stenberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
+      "source_date": "2026-02-07",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Bjørn Andreas Mong",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
+      "source_date": "2026-02-07",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "accounts_period_end",
+      "value": "2025-12-31",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "revenue_nok",
+      "value": 33110.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "operating_result_nok",
+      "value": -41606.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "net_result_nok",
+      "value": 28769.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "total_assets_nok",
+      "value": 126670.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    },
+    {
+      "field": "equity_nok",
+      "value": -264563.0,
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923831010",
+      "source_date": "2025-12-31",
+      "retrieved_at": "2026-10-17T07:46:57+00:00"
+    }
+  ],
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923831010.",
+  "last_checked": "2026-10-17T07:46:57+00:00",
+  "changes": []
+}
