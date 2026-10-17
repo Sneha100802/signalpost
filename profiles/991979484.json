@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BUTIKK 7114 SJØHUSET ANS",
+      "value": "BUTIKK 7114 SJÃ˜HUSET ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991979484",
       "source_date": "2007-12-01",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt pÃ¥ nÃ¦rings- og nytelsesmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991979484",
       "source_date": "2007-12-01",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991979484",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øyvind Lerøen",
+      "value": "Ã˜yvind LerÃ¸en",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991979484/roller",
       "source_date": "2007-12-01",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991979484. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:14+00:00",
+  "last_checked": "2026-10-17T10:05:28+00:00",
   "changes": []
 }

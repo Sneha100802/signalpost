@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
       "source_date": "2020-11-06",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drifte og videreutvikle markedsføringssamarbeidet knyttet til merkevaren 07000, etablere franchiseavtaler med transportselskaper, samt virksomhet i tilknytning til dette.",
+      "value": "Drifte og videreutvikle markedsfÃ¸ringssamarbeidet knyttet til merkevaren 07000, etablere franchiseavtaler med transportselskaper, samt virksomhet i tilknytning til dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196",
       "source_date": "2020-11-06",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Nils Børge Øvstedal",
+      "value": "Nils BÃ¸rge Ã˜vstedal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196/roller",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øyvind Hjartåker Steen",
+      "value": "Ã˜yvind HjartÃ¥ker Steen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196/roller",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Annelin Rød",
+      "value": "Annelin RÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925922196/roller",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925922196.",
-  "last_checked": "2026-10-17T07:49:48+00:00",
+  "last_checked": "2026-10-17T10:08:01+00:00",
   "changes": []
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:55+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Skape arbeidsplasser for medlemmene, gjennom å drive utviklings- og konsulentarbeid innen entreprenørvirksomhet og investeringer i eiendom med mer, samt forretningsdrift i Norge og utlandet. Virksomheten som drives gjennom laget skal være motivert ut fra tanken om solidaritet, global rettferdighet og viktigheten av tverrkulturell kommunikasjon for å overkomme konflikter lokalt så vel som globalt. Arbeidet som finner sted i laget vil være praktisk orientert.",
+      "value": "Skape arbeidsplasser for medlemmene, gjennom Ã¥ drive utviklings- og konsulentarbeid innen entreprenÃ¸rvirksomhet og investeringer i eiendom med mer, samt forretningsdrift i Norge og utlandet. Virksomheten som drives gjennom laget skal vÃ¦re motivert ut fra tanken om solidaritet, global rettferdighet og viktigheten av tverrkulturell kommunikasjon for Ã¥ overkomme konflikter lokalt sÃ¥ vel som globalt. Arbeidet som finner sted i laget vil vÃ¦re praktisk orientert.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990482047",
       "source_date": "2006-11-11",
       "retrieved_at": "2026-10-17T07:47:55+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990482047. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:56+00:00",
+  "last_checked": "2026-10-17T09:58:33+00:00",
   "changes": []
 }

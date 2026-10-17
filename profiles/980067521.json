@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "47.761 Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+      "value": "47.761 Detaljhandel med blomster, planter, gjÃ¸dsel og plantevernmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980067521",
       "source_date": "1998-09-14",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980067521",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Blomsterutsalg med tilhørende varegrupper.",
+      "value": "Blomsterutsalg med tilhÃ¸rende varegrupper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980067521",
       "source_date": "1998-09-14",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Irene Øverstad",
+      "value": "Irene Ã˜verstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980067521/roller",
       "source_date": "1998-09-14",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Irene Øverstad",
+      "value": "Irene Ã˜verstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980067521/roller",
       "source_date": "1998-09-14",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980067521. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:25+00:00",
+  "last_checked": "2026-10-17T10:00:02+00:00",
   "changes": []
 }

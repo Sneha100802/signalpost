@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
     },
     {
       "field": "address",
-      "value": "v/Bjørnar Strandbakk, Øvre veg 353, 2836, BIRI",
+      "value": "v/BjÃ¸rnar Strandbakk, Ã˜vre veg 353, 2836, BIRI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å redusere andelseiernes kostnader til uttransport av tømmer og å gjøre skog i vegens nytteområde tilgjengelig for aktiv skogforvaltning.",
+      "value": "Ã… redusere andelseiernes kostnader til uttransport av tÃ¸mmer og Ã¥ gjÃ¸re skog i vegens nytteomrÃ¥de tilgjengelig for aktiv skogforvaltning.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørnar Strandbakke",
+      "value": "BjÃ¸rnar Strandbakke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427/roller",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:47:18+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørnar Strandbakke",
+      "value": "BjÃ¸rnar Strandbakke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919476427/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:18+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919476427. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:18+00:00",
+  "last_checked": "2026-10-17T09:57:06+00:00",
   "changes": []
 }

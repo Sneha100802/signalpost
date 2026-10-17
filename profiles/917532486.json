@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BANDGRUPPA NTNU - GJØVIK",
+      "value": "BANDGRUPPA NTNU - GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917532486",
       "source_date": "2016-08-04",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917532486",
       "source_date": "2016-08-04",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
     },
     {
       "field": "address",
-      "value": "Teknologivegen 22, 2815, GJØVIK",
+      "value": "Teknologivegen 22, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917532486",
       "source_date": "2016-08-04",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917532486",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917532486.",
-  "last_checked": "2026-10-17T07:49:47+00:00",
+  "last_checked": "2026-10-17T10:07:55+00:00",
   "changes": []
 }

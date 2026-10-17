@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "3D CONSULT GØRAN LORAAS",
+      "value": "3D CONSULT GÃ˜RAN LORAAS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924955708",
       "source_date": "2020-04-21",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Søbstadvegen 41, 7088, HEIMDAL",
+      "value": "SÃ¸bstadvegen 41, 7088, HEIMDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924955708",
       "source_date": "2020-04-21",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924955708",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:36+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924955708",
       "source_date": "2020-04-21",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Gøran Loraas",
+      "value": "GÃ¸ran Loraas",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924955708/roller",
       "source_date": "2020-04-21",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924955708. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:36+00:00",
+  "last_checked": "2026-10-17T10:01:24+00:00",
   "changes": []
 }

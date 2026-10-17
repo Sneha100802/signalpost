@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "STIFTELSEN GRØNN DIAKONI - PLANT ET TRE",
+      "value": "STIFTELSEN GRÃ˜NN DIAKONI - PLANT ET TRE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
       "source_date": "2021-05-11",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
       "source_date": "2021-05-11",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
       "field": "address",
-      "value": "Roald Amundsens veg 1B, 2816, GJØVIK",
+      "value": "Roald Amundsens veg 1B, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
       "source_date": "2021-05-11",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "GRØNN DIAKONI vil arbeide for en bedre verden gjennom kunnskapsformidling og treplanting i Grønn Diakoniprogrammet. Målet er økt selvberging i de målgrupper stiftelsen samarbeider med.",
+      "value": "GRÃ˜NN DIAKONI vil arbeide for en bedre verden gjennom kunnskapsformidling og treplanting i GrÃ¸nn Diakoniprogrammet. MÃ¥let er Ã¸kt selvberging i de mÃ¥lgrupper stiftelsen samarbeider med.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339",
       "source_date": "2021-05-11",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ola Simon Østtveit",
+      "value": "Ola Simon Ã˜sttveit",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Henrik Pedersen Lollike",
+      "value": "JÃ¸rgen Henrik Pedersen Lollike",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stein Øyvind Klynderud",
+      "value": "Stein Ã˜yvind Klynderud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927013339/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -197,9 +197,74 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927013339",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.plant-et-tre.no/om-oss/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:47+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@plant-et-tre.no",
+      "source_url": "https://www.plant-et-tre.no/om-oss/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:47+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Stiftelsen GrÃ¸nn Diakoni â€“ Plant et Tre jobber for miljÃ¸et ved Ã¥ drive gjenbruksbutikker i Norge, samt treplantings- og brÃ¸nn-prosjekter i utviklingsland.",
+      "source_url": "https://www.plant-et-tre.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:57+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "brukte ting"
+      ],
+      "source_url": "https://www.plant-et-tre.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:57+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927013339.",
-  "last_checked": "2026-10-17T07:48:02+00:00",
-  "changes": []
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927013339.",
+  "last_checked": "2026-10-17T09:58:57+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen GrÃ¸nn Diakoni â€“ Plant et Tre jobber for miljÃ¸et ved Ã¥ drive gjenbruksbutikker i Norge, samt treplantings- og brÃ¸nn-prosjekter i utviklingsland."
+      ],
+      "at": "2026-10-17T09:58:57+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@plant-et-tre.no"
+      ],
+      "at": "2026-10-17T09:58:57+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "brukte ting"
+        ]
+      ],
+      "at": "2026-10-17T09:58:57+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:58:57+00:00"
+    }
+  ]
 }

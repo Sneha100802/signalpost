@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive mediehus, informasjons- og forlagsvirksomhet, samt trykkeridrift og annen beslektet næringsvirksomhet. Selskapet kan for å realisere formålet foreta investeringer, herunder i andre selskaper samt eiendommer.",
+      "value": "Ã… drive mediehus, informasjons- og forlagsvirksomhet, samt trykkeridrift og annen beslektet nÃ¦ringsvirksomhet. Selskapet kan for Ã¥ realisere formÃ¥let foreta investeringer, herunder i andre selskaper samt eiendommer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145",
       "source_date": "2008-05-07",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -151,14 +151,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Thale Susanne Kuvås Solberg",
+      "value": "Thale Susanne KuvÃ¥s Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
       "source_date": "2026-10-14",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ragnar Kårhus",
+      "value": "Ragnar KÃ¥rhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
       "source_date": "2026-10-14",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -179,7 +179,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Annette Margareta Björkman",
+      "value": "Annette Margareta BjÃ¶rkman",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
       "source_date": "2026-10-14",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -241,7 +241,7 @@
       "retrieved_at": "2026-10-17T07:48:53+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "DELOITTE SERVICES AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992614145/roller",
       "source_date": "2024-06-17",
@@ -288,9 +288,25 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/992614145",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.polarismedia.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:03:10+00:00"
     }
   ],
-  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145.",
-  "last_checked": "2026-10-17T07:48:54+00:00",
-  "changes": []
+  "explanation": "42 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:04:44+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:04:44+00:00"
+    }
+  ]
 }

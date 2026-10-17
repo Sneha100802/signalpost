@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343",
       "source_date": "1997-03-17",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
     },
     {
       "field": "address",
-      "value": "Muséplassen 1, 5007, BERGEN",
+      "value": "MusÃ©plassen 1, 5007, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343",
       "source_date": "1997-03-17",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åsil Bøthun",
+      "value": "Ã…sil BÃ¸thun",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øyvind Frette",
+      "value": "Ã˜yvind Frette",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -158,14 +158,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørn Runar Tryggestad Jacobsen",
+      "value": "JÃ¸rn Runar Tryggestad Jacobsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Torbjørn Stenstvedt Torsheim",
+      "value": "TorbjÃ¸rn Stenstvedt Torsheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -193,7 +193,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Synnøve Kristine Nepstad Bendixsen",
+      "value": "SynnÃ¸ve Kristine Nepstad Bendixsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940787343/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -284,6 +284,6 @@
     }
   ],
   "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940787343.",
-  "last_checked": "2026-10-17T07:50:37+00:00",
+  "last_checked": "2026-10-17T10:11:21+00:00",
   "changes": []
 }

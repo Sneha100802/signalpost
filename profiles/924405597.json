@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924405597",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -113,9 +113,25 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924405597/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://ace-taekwondo.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:14+00:00"
     }
   ],
-  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924405597. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:49+00:00",
-  "changes": []
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924405597. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T09:56:18+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:56:18+00:00"
+    }
+  ]
 }

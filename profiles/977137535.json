@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977137535",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
       "field": "address",
-      "value": "Ovenbakken 10, 1361, ØSTERÅS",
+      "value": "Ovenbakken 10, 1361, Ã˜STERÃ…S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977137535",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977137535",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Palle Ydstebø",
+      "value": "Palle YdstebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977137535/roller",
       "source_date": "2024-03-14",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åse Fjogstad",
+      "value": "Ã…se Fjogstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977137535/roller",
       "source_date": "2024-03-14",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977137535.",
-  "last_checked": "2026-10-17T07:49:01+00:00",
+  "last_checked": "2026-10-17T10:04:47+00:00",
   "changes": []
 }

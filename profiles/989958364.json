@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "86.960 Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+      "value": "86.960 Aktiviteter innenfor tradisjonell, komplementÃ¦r og alternativ medisin",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989958364",
       "source_date": "2006-06-26",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
       "field": "address",
-      "value": "Ringvegen 8B, 2816, GJØVIK",
+      "value": "Ringvegen 8B, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989958364",
       "source_date": "2006-06-26",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989958364",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie og drive praksis og kontor for kiropraktor. I tillegg skal selskapet kunne eie aksjer i andre selskaper, foreta investeringer, finansielle plasseringer, og alt som står i forbindelse med dette.",
+      "value": "Ã… eie og drive praksis og kontor for kiropraktor. I tillegg skal selskapet kunne eie aksjer i andre selskaper, foreta investeringer, finansielle plasseringer, og alt som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989958364",
       "source_date": "2006-06-26",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ACCOUNTOR VALDRES OG LAND AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989958364/roller",
       "source_date": "2025-01-30",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989958364.",
-  "last_checked": "2026-10-17T07:49:30+00:00",
+  "last_checked": "2026-10-17T10:06:15+00:00",
   "changes": []
 }

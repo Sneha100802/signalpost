@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BO-GODT KJERRINGØY SA",
+      "value": "BO-GODT KJERRINGÃ˜Y SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
       "source_date": "1996-08-06",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "8093, KJERRINGØY",
+      "value": "8093, KJERRINGÃ˜Y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
       "source_date": "1996-08-06",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bygge og drive boliger/leiligheter med service for eldre og uføre i Kjerringøy med alder +55 år. Styret kan i spesielle tilfeller fravike alder.",
+      "value": "Bygge og drive boliger/leiligheter med service for eldre og ufÃ¸re i KjerringÃ¸y med alder +55 Ã¥r. Styret kan i spesielle tilfeller fravike alder.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812",
       "source_date": "1996-08-06",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Camilla Wickstrøm",
+      "value": "Camilla WickstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Elisabeth Søfting",
+      "value": "Elisabeth SÃ¸fting",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øivind Jean Mathisen",
+      "value": "Ã˜ivind Jean Mathisen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -171,14 +171,14 @@
       "retrieved_at": "2026-10-17T07:48:53+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKORÅD SALTEN AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KORÃ…D SALTEN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976622812/roller",
       "source_date": "2004-01-24",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976622812. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:53+00:00",
+  "last_checked": "2026-10-17T10:03:03+00:00",
   "changes": []
 }

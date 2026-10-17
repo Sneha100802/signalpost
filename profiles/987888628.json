@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BAE SYSTEMS HÄGGLUNDS AB NUF",
+      "value": "BAE SYSTEMS HÃ„GGLUNDS AB NUF",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
       "source_date": "2005-03-08",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "46.140 Agenturhandel med maskiner, produksjonsutstyr, båter og luftfartøy",
+      "value": "46.140 Agenturhandel med maskiner, produksjonsutstyr, bÃ¥ter og luftfartÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
       "source_date": "2005-03-08",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
     },
     {
       "field": "address",
-      "value": "Studievegen 2, 2815, GJØVIK",
+      "value": "Studievegen 2, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
       "source_date": "2005-03-08",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 475  c/o Visma Services, Norge AS, 2803, GJØVIK",
+      "value": "Postboks 475  c/o Visma Services, Norge AS, 2803, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
       "source_date": "2005-03-08",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:21+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:22+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AZETS INSIGHT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
       "source_date": "2005-08-20",
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Oppl om foretaket i hjemlandet",
-      "value": "BAE SYSTEMS HÄGGLUNDS AB",
+      "value": "BAE SYSTEMS HÃ„GGLUNDS AB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987888628/roller",
       "source_date": "2005-03-08",
       "retrieved_at": "2026-10-17T07:48:22+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987888628.",
-  "last_checked": "2026-10-17T07:48:22+00:00",
+  "last_checked": "2026-10-17T09:59:41+00:00",
   "changes": []
 }

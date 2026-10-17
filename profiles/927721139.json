@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927721139",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Jakob Feldbæk Gusevik Wredstrøm",
+      "value": "Jakob FeldbÃ¦k Gusevik WredstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927721139/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ole Jørn Thuen Borum",
+      "value": "Ole JÃ¸rn Thuen Borum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927721139/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927721139.",
-  "last_checked": "2026-10-17T07:47:12+00:00",
+  "last_checked": "2026-10-17T09:56:54+00:00",
   "changes": []
 }

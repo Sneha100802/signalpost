@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "06.100 Utvinning av råolje",
+      "value": "06.100 Utvinning av rÃ¥olje",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å utvikle, produsere og markedsføre ulike former for energi, avledede produkter og tjenester, samt annen virksomhet. Virksomheten kan også drives gjennom deltakelse i eller i samarbeid med andre selskaper.",
+      "value": "Ã… utvikle, produsere og markedsfÃ¸re ulike former for energi, avledede produkter og tjenester, samt annen virksomhet. Virksomheten kan ogsÃ¥ drives gjennom deltakelse i eller i samarbeid med andre selskaper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Finn Bjørn Ruyter",
+      "value": "Finn BjÃ¸rn Ruyter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
       "source_date": "2026-09-04",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hilde Møllerstad",
+      "value": "Hilde MÃ¸llerstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923609016/roller",
       "source_date": "2026-09-04",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -274,9 +274,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923609016",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.equinor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:08:34+00:00"
+    },
+    {
+      "field": "email",
+      "value": "safetyandenvironment@equinor.com",
+      "source_url": "https://www.equinor.com/about-us/contact-us",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:08:35+00:00"
     }
   ],
-  "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923609016.",
-  "last_checked": "2026-10-17T07:49:57+00:00",
-  "changes": []
+  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923609016. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:09:42+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "safetyandenvironment@equinor.com"
+      ],
+      "at": "2026-10-17T10:09:42+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:09:42+00:00"
+    }
+  ]
 }

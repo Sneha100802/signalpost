@@ -1,16 +1,5 @@
-#!/usr/bin/env python3
-"""
-Signalpost baseline: Norwegian company-info agent.
-
-Usage:
-  python signalpost.py discover --count 1200 --out orgnrs.txt   # collect org numbers
-  python signalpost.py run --input orgnrs.txt --out profiles/   # build/update profiles
-
-Dependencies: pip install httpx
-NOTE: endpoints/field names below follow Brreg's public API docs as I know them;
-verify against https://data.brreg.no/enhetsregisteret/api/docs before submitting.
-"""
-import argparse, asyncio, hashlib, json, os, re, sys
+﻿
+import argparse, asyncio, hashlib, json, os, re, sys, time
 from html import unescape
 from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
@@ -70,7 +59,7 @@ PROVIDERS = {
     "gemini": {
         "url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
         "key": "GEMINI_API_KEY",
-        "model": os.getenv("GEMINI_MODEL", "gemini-3-flash"),  # confirm exact Flash model name in AI Studio
+        "model": os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),  # default if GEMINI_MODEL env var isn't set
     },
     # Optional fallback (free mode, no card): used only if MISTRAL_API_KEY is set.
     "mistral": {
@@ -102,30 +91,71 @@ def match_company(text: str, legal_name: str, orgnr: str):
     return None
 
 
+# Free LLM tiers allow only a few requests per minute, so calls are spaced out and 429s are retried.
+LLM_MIN_INTERVAL = float(os.getenv("LLM_MIN_INTERVAL", "6.5"))   # seconds between LLM calls
+LLM_RETRY_SLEEP = float(os.getenv("LLM_RETRY_SLEEP", "10"))      # base wait after a 429
+_llm_lock = asyncio.Lock()
+_llm_last = 0.0
+
+
+async def _throttle():
+    """Global spacer: only one LLM call starts per LLM_MIN_INTERVAL seconds, however many companies run at once."""
+    global _llm_last
+    async with _llm_lock:
+        wait = LLM_MIN_INTERVAL - (time.monotonic() - _llm_last)
+        if wait > 0:
+            await asyncio.sleep(wait)
+        _llm_last = time.monotonic()
+
+
+def parse_llm_json(txt: str) -> dict:
+    """Take everything from the first { to the last }, so fences or chatter around the JSON don't break parsing."""
+    i, j = txt.find("{"), txt.rfind("}")
+    return json.loads(txt[i:j + 1]) if i != -1 and j > i else {}
+
+
 async def llm_extract(client, page_text: str, legal_name: str, orgnr: str) -> dict:
-    """One LLM call per company on VERIFIED page text. Returns {} on any failure."""
+    """One LLM call per company on VERIFIED page text. Returns {} on failure (set SIGNALPOST_DEBUG=1 to see why)."""
+    debug = os.getenv("SIGNALPOST_DEBUG") == "1"
     first = os.getenv("LLM_PROVIDER", "gemini")
-    order = [first] + [p for p in PROVIDERS if p != first]   # fall back to the other provider on rate limits
+    order = [first] + [p for p in PROVIDERS if p != first]   # fall back to the other provider
     prompt = (
         f"Company: {legal_name} (org no. {orgnr}). From the page text below return ONLY a JSON object with "
         '"description" (one sentence, what the company does) and "products" (list of up to 5 short strings). '
-        "Use null for anything not stated on the page. Do not guess.\n\n" + page_text[:8000]  # cap = cheap + fewer 429s
+        "Use null for anything not stated on the page. Do not guess.\n\n" + page_text[:8000]
     )
     for name in order:
         cfg = PROVIDERS[name]
         key = os.getenv(cfg["key"])
         if not key:
-            continue  # provider not configured
-        try:
-            r = await client.post(cfg["url"], headers={"Authorization": f"Bearer {key}"}, timeout=60,
-                                  json={"model": cfg["model"], "temperature": 0,
-                                        "messages": [{"role": "user", "content": prompt}]})
-            r.raise_for_status()
-            txt = r.json()["choices"][0]["message"]["content"].strip()
-            txt = re.sub(r"^```(?:json)?|```$", "", txt).strip()  # strip markdown fences if the model adds them
-            return json.loads(txt)
-        except Exception:
-            continue  # 429 / bad JSON: try the next provider
+            if debug and name == first:
+                print(f"[LLM {name}] no {cfg['key']} set in this terminal", file=sys.stderr)
+            continue
+        for attempt in range(3):                              # retry rate limits before giving up on this provider
+            await _throttle()
+            try:
+                r = await client.post(cfg["url"], headers={"Authorization": f"Bearer {key}"}, timeout=60,
+                                      json={"model": cfg["model"], "temperature": 0,
+                                            "messages": [{"role": "user", "content": prompt}]})
+                if r.status_code == 429:
+                    if debug:
+                        print(f"[LLM {name}/{cfg['model']}] 429 rate limit, retry {attempt + 1}/3", file=sys.stderr)
+                    await asyncio.sleep(LLM_RETRY_SLEEP * (attempt + 1))
+                    continue
+                if r.status_code != 200:
+                    if debug:
+                        print(f"[LLM {name}/{cfg['model']}] HTTP {r.status_code}: {r.text[:300]}", file=sys.stderr)
+                    break                                     # model/key problem: retrying won't help
+                data = parse_llm_json(r.json()["choices"][0]["message"]["content"])
+                if data:
+                    return data
+                if debug:
+                    print(f"[LLM {name}] reply had no JSON object", file=sys.stderr)
+                break
+            except Exception as ex:
+                if debug:
+                    print(f"[LLM {name}] {type(ex).__name__}: {ex}", file=sys.stderr)
+                break
     return {}
 
 
@@ -193,7 +223,7 @@ async def fetch_site(client, raw_url: str, legal_name: str, orgnr: str):
         facts.append(fact("description", data["description"], home))
     if data.get("products"):
         facts.append(fact("products", data["products"], home))
-    return facts, (None if data else "LLM extraction unavailable (no key or rate limit)")
+    return facts, (None if data else "LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1)")
 
 
 def accounts_facts(acc, a_url):
@@ -341,7 +371,11 @@ def merge_with_previous(new: dict, path: Path) -> dict:
     new["changes"] = []
     if not path.exists() or not new.get("found"):
         return new
-    old = json.loads(path.read_text())
+    raw = path.read_bytes()
+    try:
+        old = json.loads(raw.decode("utf-8"))
+    except UnicodeDecodeError:                       # profile written by an earlier run on Windows (cp1252)
+        old = json.loads(raw.decode("cp1252"))
     old_by_key = {fkey(f): f for f in old.get("facts", [])}
     for f in new["facts"]:
         o = old_by_key.get(fkey(f))
@@ -361,7 +395,7 @@ def merge_with_previous(new: dict, path: Path) -> dict:
 
 async def run(input_file, out_dir):
     out = Path(out_dir); out.mkdir(parents=True, exist_ok=True)
-    orgnrs = [l.strip() for l in Path(input_file).read_text().splitlines() if l.strip()]
+    orgnrs = [l.strip() for l in Path(input_file).read_text(encoding="utf-8-sig").splitlines() if l.strip()]  # utf-8-sig tolerates a BOM from PowerShell
     sem = asyncio.Semaphore(CONCURRENCY)
     done = 0
 
@@ -380,9 +414,9 @@ async def run(input_file, out_dir):
                                 prof = {"orgnr": n, "found": False, "explanation": f"Fetch failed: {ex!r}"}
                             await asyncio.sleep(2 ** attempt)
                     prof = merge_with_previous(prof, out / f"{n}.json")
-            (out / f"{n}.json").write_text(json.dumps(prof, ensure_ascii=False, indent=2))
+            (out / f"{n}.json").write_text(json.dumps(prof, ensure_ascii=False, indent=2), encoding="utf-8")
             done += 1
-            if done % 50 == 0:
+            if done % 10 == 0 or done == len(orgnrs):   # show progress even on small retry runs
                 print(f"{done}/{len(orgnrs)}", file=sys.stderr)
         await asyncio.gather(*(one(n) for n in orgnrs))
     print(f"Wrote {len(orgnrs)} profiles to {out}")
@@ -414,7 +448,7 @@ async def discover(count, out_file):
             nums = list(dict.fromkeys(nums))
             page += 1
     random.shuffle(nums)
-    Path(out_file).write_text("\n".join(nums[:count]))
+    Path(out_file).write_text("\n".join(nums[:count]), encoding="utf-8")
     print(f"Saved {min(count, len(nums))} org numbers to {out_file}")
 
 

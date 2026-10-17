@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Gøril Risan",
+      "value": "GÃ¸ril Risan",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156/roller",
       "source_date": "2025-09-11",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:47:12+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993756156. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:12+00:00",
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993756156. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:57:11+00:00",
   "changes": []
 }

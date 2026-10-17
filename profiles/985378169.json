@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elveveien 10, 8009, BODØ",
+      "value": "Elveveien 10, 8009, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985378169",
       "source_date": "2003-03-18",
       "retrieved_at": "2026-10-17T07:47:34+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985378169",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:34+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985378169. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:35+00:00",
+  "last_checked": "2026-10-17T09:57:41+00:00",
   "changes": []
 }

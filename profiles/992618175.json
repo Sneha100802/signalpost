@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.470 Engroshandel med husholdnings-, kontor- og butikkmøbler, gulvtepper og belysningsutstyr",
+      "value": "46.470 Engroshandel med husholdnings-, kontor- og butikkmÃ¸bler, gulvtepper og belysningsutstyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
       "source_date": "2008-04-30",
       "retrieved_at": "2026-10-17T07:46:46+00:00"
     },
     {
       "field": "address",
-      "value": "Karenslyst allé 11, 0278, OSLO",
+      "value": "Karenslyst allÃ© 11, 0278, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
       "source_date": "2008-04-30",
       "retrieved_at": "2026-10-17T07:46:46+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:46+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "John Müller Thomasgaard",
+      "value": "John MÃ¼ller Thomasgaard",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
       "source_date": "2023-11-02",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kjersti Helen Krokeide Hobøl",
+      "value": "Kjersti Helen Krokeide HobÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992618175/roller",
       "source_date": "2026-06-22",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992618175.",
-  "last_checked": "2026-10-17T07:46:47+00:00",
+  "last_checked": "2026-10-17T09:56:06+00:00",
   "changes": []
 }

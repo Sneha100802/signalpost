@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BORØYA AVLØPSLAG SA",
+      "value": "BORÃ˜YA AVLÃ˜PSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812",
       "source_date": "2016-08-30",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "37.000 Oppsamling og behandling av avløpsvann",
+      "value": "37.000 Oppsamling og behandling av avlÃ¸psvann",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812",
       "source_date": "2016-08-30",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "address",
-      "value": "Linnegrøvan 28, 4640, SØGNE",
+      "value": "LinnegrÃ¸van 28, 4640, SÃ˜GNE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812",
       "source_date": "2016-08-30",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Anlegge, drifte og administrere avløpsanlegg med tilhørende installasjoner for foretakets medlemmer.",
+      "value": "Anlegge, drifte og administrere avlÃ¸psanlegg med tilhÃ¸rende installasjoner for foretakets medlemmer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812",
       "source_date": "2016-08-30",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -129,8 +129,8 @@
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "REVISJON SØR AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "REVISJON SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917412812/roller",
       "source_date": "2024-02-20",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917412812.",
-  "last_checked": "2026-10-17T07:50:46+00:00",
+  "last_checked": "2026-10-17T10:12:17+00:00",
   "changes": []
 }

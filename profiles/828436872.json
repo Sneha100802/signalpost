@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADRIAN GRØNDAHL",
+      "value": "ADRIAN GRÃ˜NDAHL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828436872",
       "source_date": "2021-12-23",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828436872",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:48+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828436872",
       "source_date": "2021-12-23",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Adrian Sagvold Grøndahl",
+      "value": "Adrian Sagvold GrÃ¸ndahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828436872/roller",
       "source_date": "2021-12-23",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 828436872. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:49+00:00",
+  "last_checked": "2026-10-17T09:58:18+00:00",
   "changes": []
 }

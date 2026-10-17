@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988450553",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive handel med/produksjon av medisinsk materiell og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.  ",
+      "value": "Drive handel med/produksjon av medisinsk materiell og produkter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988450553",
       "source_date": "2005-07-30",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Per Åke Eriksson",
+      "value": "Per Ã…ke Eriksson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988450553/roller",
       "source_date": "2005-07-30",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Per Åke Eriksson",
+      "value": "Per Ã…ke Eriksson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988450553/roller",
       "source_date": "2018-05-29",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Per Åke Eriksson",
+      "value": "Per Ã…ke Eriksson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988450553/roller",
       "source_date": "2005-07-30",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988450553. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:51+00:00",
+  "last_checked": "2026-10-17T10:03:00+00:00",
   "changes": []
 }

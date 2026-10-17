@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993230898",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:08+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og utleie av fast eiendom og båt, kjøp og salg av aksjer, samt det som naturlig står i forbindelse med dette, herunder å delta i andre selskap med lignende virksomhet.",
+      "value": "KjÃ¸p, salg og utleie av fast eiendom og bÃ¥t, kjÃ¸p og salg av aksjer, samt det som naturlig stÃ¥r i forbindelse med dette, herunder Ã¥ delta i andre selskap med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993230898",
       "source_date": "2008-10-22",
       "retrieved_at": "2026-10-17T07:51:08+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:51:08+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REGN10 AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993230898/roller",
       "source_date": "2017-05-24",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993230898.",
-  "last_checked": "2026-10-17T07:51:08+00:00",
+  "last_checked": "2026-10-17T10:14:05+00:00",
   "changes": []
 }

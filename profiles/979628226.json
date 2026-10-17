@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ASKER OG BÆRUMS BUDSTIKKE STIFTELSE",
+      "value": "ASKER OG BÃ†RUMS BUDSTIKKE STIFTELSE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979628226",
       "source_date": "1998-02-17",
       "retrieved_at": "2026-10-17T07:50:06+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979628226",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:06+00:00"
@@ -137,21 +137,21 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Nordal Røtnes",
+      "value": "BjÃ¸rn Nordal RÃ¸tnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979628226/roller",
       "source_date": "2026-07-07",
       "retrieved_at": "2026-10-17T07:50:06+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Trude Blåsmo",
+      "value": "Trude BlÃ¥smo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979628226/roller",
       "source_date": "2026-07-07",
       "retrieved_at": "2026-10-17T07:50:06+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Trine Kristin Østlyngen",
+      "value": "Trine Kristin Ã˜stlyngen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979628226/roller",
       "source_date": "2026-07-07",
       "retrieved_at": "2026-10-17T07:50:06+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979628226.",
-  "last_checked": "2026-10-17T07:50:06+00:00",
+  "last_checked": "2026-10-17T10:09:02+00:00",
   "changes": []
 }

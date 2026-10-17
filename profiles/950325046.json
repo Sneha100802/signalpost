@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046/roller",
       "source_date": "2020-09-10",
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Gry Jøkling",
+      "value": "Gry JÃ¸kling",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046/roller",
       "source_date": "2026-05-26",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Christian Grønvold",
+      "value": "Christian GrÃ¸nvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046/roller",
       "source_date": "2026-05-26",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Frida Elisabeth Nesheim Nordstrøm",
+      "value": "Frida Elisabeth Nesheim NordstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046/roller",
       "source_date": "2026-05-26",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950325046/roller",
       "source_date": "2020-09-10",
@@ -228,6 +228,6 @@
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950325046.",
-  "last_checked": "2026-10-17T07:49:49+00:00",
+  "last_checked": "2026-10-17T10:08:02+00:00",
   "changes": []
 }

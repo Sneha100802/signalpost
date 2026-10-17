@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915345204",
       "source_date": "2015-06-15",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
     },
     {
       "field": "address",
-      "value": "Liljekroken 32, 3050, MJØNDALEN",
+      "value": "Liljekroken 32, 3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915345204",
       "source_date": "2015-06-15",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915345204",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Espen Prestegård Klausen",
+      "value": "Espen PrestegÃ¥rd Klausen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915345204/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lasse Motrøen",
+      "value": "Lasse MotrÃ¸en",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915345204/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915345204. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:51+00:00",
+  "last_checked": "2026-10-17T10:03:01+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GAMHÅGEN SA",
+      "value": "GAMHÃ…GEN SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
       "source_date": "2023-06-01",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Haugstuveien 5, 8010, BODØ",
+      "value": "Haugstuveien 5, 8010, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
       "source_date": "2023-06-01",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvaltning, drift og utvikling av eiendom knyttet til gårds og bruksnummer 71/1 Gamhaug i Fauske kommune. Fremme medlemmenes økonomiske interesser gjennom aktiv utvikling og langsiktig drift og forvaltning av eiendommens naturressurser.",
+      "value": "Forvaltning, drift og utvikling av eiendom knyttet til gÃ¥rds og bruksnummer 71/1 Gamhaug i Fauske kommune. Fremme medlemmenes Ã¸konomiske interesser gjennom aktiv utvikling og langsiktig drift og forvaltning av eiendommens naturressurser.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075",
       "source_date": "2023-06-01",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ørjan Andre Jordbru",
+      "value": "Ã˜rjan Andre Jordbru",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
       "source_date": "2023-06-01",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Anika Aakerøy Jordbru",
+      "value": "Anika AakerÃ¸y Jordbru",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931398075/roller",
       "source_date": "2023-06-01",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931398075.",
-  "last_checked": "2026-10-17T07:48:04+00:00",
+  "last_checked": "2026-10-17T09:58:58+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive felles løsning for drift og lagring av data samt delta i andre selskaper med samme type virksomhet.",
+      "value": "Ã… drive felles lÃ¸sning for drift og lagring av data samt delta i andre selskaper med samme type virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757",
       "source_date": "2017-06-10",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ivar Asbjørn Thorvik",
+      "value": "Ivar AsbjÃ¸rn Thorvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757/roller",
       "source_date": "2026-04-22",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -123,20 +123,20 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Hermod Riibe",
+      "value": "JÃ¸rgen Hermod Riibe",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757/roller",
       "source_date": "2017-06-10",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ivar Asbjørn Thorvik",
+      "value": "Ivar AsbjÃ¸rn Thorvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757/roller",
       "source_date": "2017-06-10",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REGN10 AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919116757/roller",
       "source_date": "2025-02-11",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919116757.",
-  "last_checked": "2026-10-17T07:47:47+00:00",
+  "last_checked": "2026-10-17T09:58:13+00:00",
   "changes": []
 }

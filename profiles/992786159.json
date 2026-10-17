@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Strømsbuveien 7H, 4836, ARENDAL",
+      "value": "StrÃ¸msbuveien 7H, 4836, ARENDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992786159",
       "source_date": "2008-06-30",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o BOSØR BBL, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "c/o BOSÃ˜R BBL, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992786159",
       "source_date": "2008-06-30",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992786159",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992786159/roller",
       "source_date": "2025-10-23",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -178,8 +178,8 @@
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992786159/roller",
       "source_date": "2025-10-20",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:48:51+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992786159.",
-  "last_checked": "2026-10-17T07:48:51+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992786159. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:02:59+00:00",
   "changes": []
 }

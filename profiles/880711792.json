@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792",
       "source_date": "1999-05-12",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
       "field": "address",
-      "value": "Eplehagan 1, 3050, MJØNDALEN",
+      "value": "Eplehagan 1, 3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792",
       "source_date": "1999-05-12",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 127, 3051, MJØNDALEN",
+      "value": "Postboks 127, 3051, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792",
       "source_date": "1999-05-12",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Formålet er ikke kapitalavkastning til medlemmene. Eventuelt årsoverskudd skal godskrives egenkapitalen i foretaket.",
+      "value": "Ã… eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket. FormÃ¥let er ikke kapitalavkastning til medlemmene. Eventuelt Ã¥rsoverskudd skal godskrives egenkapitalen i foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792",
       "source_date": "1999-05-12",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -179,13 +179,13 @@
     },
     {
       "field": "role:Revisor",
-      "value": "ØSTLANDSKE REVISORER AS",
+      "value": "Ã˜STLANDSKE REVISORER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792/roller",
       "source_date": "2003-12-23",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880711792/roller",
       "source_date": "2007-01-11",
@@ -232,9 +232,55 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/880711792",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://eplehagan.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:18+00:00"
+    },
+    {
+      "field": "email",
+      "value": "tonje@eplehagan.no",
+      "source_url": "https://eplehagan.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:18+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Eplehagan Barnehage SA is a kindergarten located in MjÃ¸ndalen.",
+      "source_url": "https://eplehagan.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:29+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880711792.",
-  "last_checked": "2026-10-17T07:47:48+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880711792.",
+  "last_checked": "2026-10-17T09:58:29+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Eplehagan Barnehage SA is a kindergarten located in MjÃ¸ndalen."
+      ],
+      "at": "2026-10-17T09:58:29+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "tonje@eplehagan.no"
+      ],
+      "at": "2026-10-17T09:58:29+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:58:29+00:00"
+    }
+  ]
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Løkkeveien 57, 4008, STAVANGER",
+      "value": "LÃ¸kkeveien 57, 4008, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884",
       "source_date": "2006-08-29",
       "retrieved_at": "2026-10-17T07:49:34+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:34+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive advokatvirksomhet og annen virksomhet som står i naturlig sammenheng med dette.",
+      "value": "Drive advokatvirksomhet og annen virksomhet som stÃ¥r i naturlig sammenheng med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884",
       "source_date": "2006-08-29",
       "retrieved_at": "2026-10-17T07:49:34+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Kurt Asbjørn Elvevoll",
+      "value": "Kurt AsbjÃ¸rn Elvevoll",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2026-02-17",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Stian Trones Bråstein",
+      "value": "Stian Trones BrÃ¥stein",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2026-02-17",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
@@ -151,21 +151,21 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Ørjan Eskeland",
+      "value": "Ã˜rjan Eskeland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2026-02-17",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Kurt Asbjørn Elvevoll",
+      "value": "Kurt AsbjÃ¸rn Elvevoll",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2026-02-17",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Lena Maria Nessen Øvstebø",
+      "value": "Lena Maria Nessen Ã˜vstebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2026-02-17",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:49:35+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990153884/roller",
       "source_date": "2018-04-26",
@@ -225,9 +225,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990153884",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:35+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.adius.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:06:30+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@adius.no",
+      "source_url": "https://www.adius.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:06:30+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990153884.",
-  "last_checked": "2026-10-17T07:49:35+00:00",
-  "changes": []
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990153884. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:07:53+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@adius.no"
+      ],
+      "at": "2026-10-17T10:07:53+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:07:53+00:00"
+    }
+  ]
 }

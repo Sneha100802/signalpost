@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.380 Engroshandel med andre næringsmidler",
+      "value": "46.380 Engroshandel med andre nÃ¦ringsmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634",
       "source_date": "2017-01-26",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
     },
     {
       "field": "address",
-      "value": "Gaustadalléen 21, 0349, OSLO",
+      "value": "GaustadallÃ©en 21, 0349, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634",
       "source_date": "2017-01-26",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp og salg, herunder import og eksport av handelsvarer, produktutvikling, samt eierskap i bedrifter med tilsvarende virksomhet.",
+      "value": "KjÃ¸p og salg, herunder import og eksport av handelsvarer, produktutvikling, samt eierskap i bedrifter med tilsvarende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634",
       "source_date": "2017-01-26",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Pedersen",
+      "value": "BjÃ¸rn Pedersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634/roller",
       "source_date": "2026-07-07",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -171,14 +171,14 @@
       "retrieved_at": "2026-10-17T07:49:42+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634/roller",
       "source_date": "2026-09-17",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "WELLINGTON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634/roller",
       "source_date": "2026-09-17",
@@ -225,9 +225,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918280634",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.dellia.com/en",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:07:09+00:00"
+    },
+    {
+      "field": "email",
+      "value": "transparency@dellia.com",
+      "source_url": "https://www.dellia.com/en",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:07:09+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918280634.",
-  "last_checked": "2026-10-17T07:49:42+00:00",
-  "changes": []
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918280634. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:08:27+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "transparency@dellia.com"
+      ],
+      "at": "2026-10-17T10:08:27+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:08:27+00:00"
+    }
+  ]
 }

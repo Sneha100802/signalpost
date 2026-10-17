@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950639822",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950639822/roller",
       "source_date": "2018-03-07",
@@ -158,14 +158,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Knut Torbjørn Seines",
+      "value": "Knut TorbjÃ¸rn Seines",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950639822/roller",
       "source_date": "2026-04-16",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Jens Sønsteby Tobiassen",
+      "value": "Jens SÃ¸nsteby Tobiassen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950639822/roller",
       "source_date": "2026-04-16",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950639822/roller",
       "source_date": "2010-04-29",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950639822.",
-  "last_checked": "2026-10-17T07:50:12+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950639822. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:09:19+00:00",
   "changes": []
 }

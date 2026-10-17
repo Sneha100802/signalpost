@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Seljevegen 28, 2818, GJØVIK",
+      "value": "Seljevegen 28, 2818, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934341015",
       "source_date": "2024-10-25",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934341015",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:11+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie aksjer i andre selskaper, kapitalforvaltning, og investere i verdipapirer.",
+      "value": "Ã… eie aksjer i andre selskaper, kapitalforvaltning, og investere i verdipapirer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934341015",
       "source_date": "2024-10-25",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jane Gunnarsdatter Stenbråten",
+      "value": "Jane Gunnarsdatter StenbrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934341015/roller",
       "source_date": "2024-10-25",
       "retrieved_at": "2026-10-17T07:49:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AZETS INSIGHT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934341015/roller",
       "source_date": "2024-10-25",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 934341015.",
-  "last_checked": "2026-10-17T07:49:12+00:00",
+  "last_checked": "2026-10-17T10:05:13+00:00",
   "changes": []
 }

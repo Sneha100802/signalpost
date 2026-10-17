@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AKTIV SANDBLÅSING DA",
+      "value": "AKTIV SANDBLÃ…SING DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986135456",
       "source_date": "2003-10-28",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "43.350 Annen ferdiggjøring av bygninger",
+      "value": "43.350 Annen ferdiggjÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986135456",
       "source_date": "2003-10-28",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986135456",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Sandblåsing, maling og annen virksomhet i forbindelse med dette.",
+      "value": "SandblÃ¥sing, maling og annen virksomhet i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986135456",
       "source_date": "2003-10-28",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986135456. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:52+00:00",
+  "last_checked": "2026-10-17T10:08:17+00:00",
   "changes": []
 }

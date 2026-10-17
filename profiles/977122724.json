@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "address",
-      "value": "Forskningsavdelingen, Bærum sykehus, Sogneprest Munthe-Kaas vei 100, 1346, GJETTUM",
+      "value": "Forskningsavdelingen, BÃ¦rum sykehus, Sogneprest Munthe-Kaas vei 100, 1346, GJETTUM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/ Trygve Berge, forskningsavdeling, Vestre Viken HF, Bærum sykehus, Postboks 800, 3004, DRAMMEN",
+      "value": "v/ Trygve Berge, forskningsavdeling, Vestre Viken HF, BÃ¦rum sykehus, Postboks 800, 3004, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håkon Ihle-Hansen",
+      "value": "HÃ¥kon Ihle-Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
       "source_date": "2026-03-16",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "NORD SERVICES AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977122724/roller",
       "source_date": "2004-06-19",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977122724.",
-  "last_checked": "2026-10-17T07:47:24+00:00",
+  "last_checked": "2026-10-17T09:57:20+00:00",
   "changes": []
 }

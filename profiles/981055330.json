@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
       "source_date": "1999-09-14",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Rune Sellgren",
+      "value": "BjÃ¸rn Rune Sellgren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981055330/roller",
       "source_date": "2022-06-27",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981055330.",
-  "last_checked": "2026-10-17T07:50:27+00:00",
+  "last_checked": "2026-10-17T10:10:24+00:00",
   "changes": []
 }

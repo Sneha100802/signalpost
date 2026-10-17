@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvikling, kjøp, salg og utleie av forskjellige typer badstuer, herunder flytende badstuer på tilhenger, samt annen virksomhet som naturlig hører sammen med dette.",
+      "value": "Utvikling, kjÃ¸p, salg og utleie av forskjellige typer badstuer, herunder flytende badstuer pÃ¥ tilhenger, samt annen virksomhet som naturlig hÃ¸rer sammen med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Simon Grubben Sæthermoen",
+      "value": "Simon Grubben SÃ¦thermoen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/836893212/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 836893212. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:47+00:00",
+  "last_checked": "2026-10-17T09:56:06+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Per Helgesens vei 43A, 8013, BODØ",
+      "value": "Per Helgesens vei 43A, 8013, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936536565",
       "source_date": "2025-11-07",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936536565",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investering i aksjer og andre verdipapirer, samt det som står naturlig i forbindelse med dette.",
+      "value": "Investering i aksjer og andre verdipapirer, samt det som stÃ¥r naturlig i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936536565",
       "source_date": "2025-11-07",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936536565.",
-  "last_checked": "2026-10-17T07:47:39+00:00",
+  "last_checked": "2026-10-17T09:57:50+00:00",
   "changes": []
 }

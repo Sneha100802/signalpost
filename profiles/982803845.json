@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:34+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel og konsulentvirksomhet av ethvert slag, samt hva hermed står i forbindelse, herunder deltagelse i andre selskaper og foretagender med lignende virksomhet.",
+      "value": "Handel og konsulentvirksomhet av ethvert slag, samt hva hermed stÃ¥r i forbindelse, herunder deltagelse i andre selskaper og foretagender med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845",
       "source_date": "2001-01-19",
       "retrieved_at": "2026-10-17T07:47:34+00:00"
@@ -102,41 +102,41 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Harry Bråten",
+      "value": "Harry BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
       "source_date": "2001-01-25",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Harry Bråten",
+      "value": "Harry BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
       "source_date": "2001-01-25",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Anne Brit Elisabeth Bråten",
+      "value": "Anne Brit Elisabeth BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
       "source_date": "2001-01-25",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Harry Bråten",
+      "value": "Harry BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
       "source_date": "2001-01-25",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Brit Elisabeth Bråten",
+      "value": "Anne Brit Elisabeth BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982803845/roller",
       "source_date": "2001-01-25",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982803845. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:35+00:00",
+  "last_checked": "2026-10-17T09:57:41+00:00",
   "changes": []
 }

@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926410652",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investeringsvirksomhet og deltakelse i andre selskaper, herunder å erverve, avhende, operere og investere i selskaper, samt å tilby tjenester og delta i aktivitet som naturlig står i forbindelse med dette.",
+      "value": "Investeringsvirksomhet og deltakelse i andre selskaper, herunder Ã¥ erverve, avhende, operere og investere i selskaper, samt Ã¥ tilby tjenester og delta i aktivitet som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926410652",
       "source_date": "2021-01-19",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Einar Jørgen Greve",
+      "value": "Einar JÃ¸rgen Greve",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926410652/roller",
       "source_date": "2022-06-15",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Glen Ole Rødland",
+      "value": "Glen Ole RÃ¸dland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926410652/roller",
       "source_date": "2022-06-15",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926410652/roller",
       "source_date": "2023-12-16",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926410652.",
-  "last_checked": "2026-10-17T07:50:33+00:00",
+  "last_checked": "2026-10-17T10:11:02+00:00",
   "changes": []
 }

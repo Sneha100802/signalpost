@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Sjåførutleie, administrasjon, regnskap og alt som hører innunder dette. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten fra foretaket som leverandører av tjenester.",
+      "value": "SjÃ¥fÃ¸rutleie, administrasjon, regnskap og alt som hÃ¸rer innunder dette. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten fra foretaket som leverandÃ¸rer av tjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925071269",
       "source_date": "2020-07-04",
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925071269.",
-  "last_checked": "2026-10-17T07:47:29+00:00",
+  "last_checked": "2026-10-17T09:57:27+00:00",
   "changes": []
 }

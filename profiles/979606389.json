@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive overnatting og bevertning, herunder kafedrift, samt å delta i annen næringsvirksomhet.",
+      "value": "Drive overnatting og bevertning, herunder kafedrift, samt Ã¥ delta i annen nÃ¦ringsvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979606389",
       "source_date": "1998-03-20",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979606389. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:56+00:00",
+  "last_checked": "2026-10-17T09:58:33+00:00",
   "changes": []
 }

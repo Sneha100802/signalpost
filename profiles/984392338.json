@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984392338",
       "source_date": "2002-04-22",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
     },
     {
       "field": "address",
-      "value": "Hasligrenda 41, 2839, ØVRE SNERTINGDAL",
+      "value": "Hasligrenda 41, 2839, Ã˜VRE SNERTINGDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984392338",
       "source_date": "2002-04-22",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984392338",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Torjus Røste",
+      "value": "Torjus RÃ¸ste",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984392338/roller",
       "source_date": "2026-05-12",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Marit Lundgård Sveum",
+      "value": "Marit LundgÃ¥rd Sveum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984392338/roller",
       "source_date": "2026-05-12",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984392338.",
-  "last_checked": "2026-10-17T07:49:43+00:00",
+  "last_checked": "2026-10-17T10:07:12+00:00",
   "changes": []
 }

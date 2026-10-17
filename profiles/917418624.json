@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "2S TILLER & NÆSS MALERSERVICE - JOMFRUSLETTFJELL HYTTESERVICE AS",
+      "value": "2S TILLER & NÃ†SS MALERSERVICE - JOMFRUSLETTFJELL HYTTESERVICE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624",
       "source_date": "2016-07-04",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "C/O Lars Anders Tiller, Tranberglia 10, 2819, GJØVIK",
+      "value": "C/O Lars Anders Tiller, Tranberglia 10, 2819, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624",
       "source_date": "2016-07-04",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive malerarbeid, håndverkstjenester, konsulenttjenester og hva som naturlig hører inn under dette.",
+      "value": "Drive malerarbeid, hÃ¥ndverkstjenester, konsulenttjenester og hva som naturlig hÃ¸rer inn under dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624",
       "source_date": "2016-07-04",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Pål Kristian Næss Tiller",
+      "value": "PÃ¥l Kristian NÃ¦ss Tiller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624/roller",
       "source_date": "2016-07-04",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "RØSTE REGNSKAP AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "RÃ˜STE REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917418624/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917418624.",
-  "last_checked": "2026-10-17T07:51:05+00:00",
+  "last_checked": "2026-10-17T10:13:58+00:00",
   "changes": []
 }

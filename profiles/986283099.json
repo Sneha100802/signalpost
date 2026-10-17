@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADOPSJONSFORUM TRØNDELAG",
+      "value": "ADOPSJONSFORUM TRÃ˜NDELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986283099",
       "source_date": "2003-12-03",
       "retrieved_at": "2026-10-17T07:49:25+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986283099",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:25+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mari Iversen Ødegård",
+      "value": "Mari Iversen Ã˜degÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986283099/roller",
       "source_date": "2026-01-22",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
     }
   ],
-  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986283099. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:26+00:00",
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986283099. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:05:57+00:00",
   "changes": []
 }

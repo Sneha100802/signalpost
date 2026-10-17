@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Agnes Beathe Steen Fosse, Granåsen 49A, 1362, HOSLE",
+      "value": "c/o Agnes Beathe Steen Fosse, GranÃ¥sen 49A, 1362, HOSLE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
       "source_date": "2016-02-05",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hilde Rød",
+      "value": "Hilde RÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
       "source_date": "2025-05-20",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hans Henrik Grøm-Wilkens",
+      "value": "Hans Henrik GrÃ¸m-Wilkens",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506/roller",
       "source_date": "2025-05-20",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916566506. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:03+00:00",
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916566506. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:13:44+00:00",
   "changes": []
 }

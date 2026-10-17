@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.322 Engroshandel med fisk, skalldyr og bløtdyr",
+      "value": "46.322 Engroshandel med fisk, skalldyr og blÃ¸tdyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
       "source_date": "2001-02-07",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
     },
     {
       "field": "address",
-      "value": "Myrullveien 32, 8027, BODØ",
+      "value": "Myrullveien 32, 8027, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
       "source_date": "2001-02-07",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bård Inge Hansen",
+      "value": "BÃ¥rd Inge Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
       "source_date": "2001-02-07",
       "retrieved_at": "2026-10-17T07:51:12+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bård Inge Hansen",
+      "value": "BÃ¥rd Inge Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
       "source_date": "2001-02-07",
       "retrieved_at": "2026-10-17T07:51:12+00:00"
@@ -137,13 +137,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bård Inge Hansen",
+      "value": "BÃ¥rd Inge Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982894840/roller",
       "source_date": "2026-01-31",
       "retrieved_at": "2026-10-17T07:51:12+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982894840. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:12+00:00",
+  "last_checked": "2026-10-17T10:14:12+00:00",
   "changes": []
 }

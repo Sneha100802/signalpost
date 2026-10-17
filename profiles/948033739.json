@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2023-06-20",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lise Veronica Mørch",
+      "value": "Lise Veronica MÃ¸rch",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -144,48 +144,48 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øystein Sørmark",
+      "value": "Ã˜ystein SÃ¸rmark",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pernille Sørlie",
+      "value": "Pernille SÃ¸rlie",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tobias Fåne",
+      "value": "Tobias FÃ¥ne",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Benjamin Mørch",
+      "value": "Benjamin MÃ¸rch",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Joralf Magne Sundøy",
+      "value": "Joralf Magne SundÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2025-04-05",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Revisor",
-      "value": "ØSTLANDSKE REVISORER AS",
+      "value": "Ã˜STLANDSKE REVISORER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2001-01-24",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033739/roller",
       "source_date": "2009-02-09",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948033739.",
-  "last_checked": "2026-10-17T07:48:49+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948033739. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:02:55+00:00",
   "changes": []
 }

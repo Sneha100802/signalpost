@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835290522",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -87,8 +87,8 @@
       "retrieved_at": "2026-10-17T07:47:22+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Øivind Henrik Von Mehren",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Ã˜ivind Henrik Von Mehren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/835290522/roller",
       "source_date": "2025-04-15",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 835290522. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:23+00:00",
+  "last_checked": "2026-10-17T09:57:17+00:00",
   "changes": []
 }

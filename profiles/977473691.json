@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.110 Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "value": "94.110 Aktiviteter i nÃ¦ringslivs- og arbeidsgiverorganisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
       "source_date": "1997-04-23",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -67,21 +67,21 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:20+00:00"
     },
     {
       "field": "sector",
-      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
       "source_date": "1997-04-23",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
     },
     {
       "field": "purpose",
-      "value": "Angus SA skal fremme medlemmenes særlige faglige interesser. Angus SA skal drive felles markedsføring med vekt på profilering av kvalitet, service og profesjonalitet. Det enkelte medlem står selv fritt til å drive egne markedsføringskampanjer. Angus SA skal gjennomføre intern opplæring av medarbeiderne i medlemsbedrifter. Angus SA skal fungere som et forum hvor dets medlemmer kan samarbeide om medlemmenes produktutvikling. Angus SA skal forhandle med leverandører med sikte på å etablere gunstige felles innkjøpsvilkår for dets medlemmer.",
+      "value": "Angus SA skal fremme medlemmenes sÃ¦rlige faglige interesser. Angus SA skal drive felles markedsfÃ¸ring med vekt pÃ¥ profilering av kvalitet, service og profesjonalitet. Det enkelte medlem stÃ¥r selv fritt til Ã¥ drive egne markedsfÃ¸ringskampanjer. Angus SA skal gjennomfÃ¸re intern opplÃ¦ring av medarbeiderne i medlemsbedrifter. Angus SA skal fungere som et forum hvor dets medlemmer kan samarbeide om medlemmenes produktutvikling. Angus SA skal forhandle med leverandÃ¸rer med sikte pÃ¥ Ã¥ etablere gunstige felles innkjÃ¸psvilkÃ¥r for dets medlemmer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691",
       "source_date": "1997-04-23",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Cesilie Sæbø",
+      "value": "Cesilie SÃ¦bÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977473691/roller",
       "source_date": "2024-06-06",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977473691.",
-  "last_checked": "2026-10-17T07:49:22+00:00",
+  "last_checked": "2026-10-17T10:05:43+00:00",
   "changes": []
 }

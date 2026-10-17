@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:48:54+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Viggo Hallgren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
       "source_date": "2025-07-09",
@@ -116,21 +116,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Nils Ole Bae Brandtzæg",
+      "value": "Nils Ole Bae BrandtzÃ¦g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
       "source_date": "2025-07-09",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Dorte Dahl Grønnevet",
+      "value": "Dorte Dahl GrÃ¸nnevet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
       "source_date": "2025-07-09",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anders Sætherø",
+      "value": "Anders SÃ¦therÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/958056931/roller",
       "source_date": "2025-07-09",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 958056931.",
-  "last_checked": "2026-10-17T07:48:55+00:00",
+  "last_checked": "2026-10-17T10:03:17+00:00",
   "changes": []
 }

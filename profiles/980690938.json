@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980690938",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Speakertjenester og andre tjenester ved arrangement, samt virksomhet som kan gi økonomisk bidrag til firmaet.",
+      "value": "Speakertjenester og andre tjenester ved arrangement, samt virksomhet som kan gi Ã¸konomisk bidrag til firmaet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980690938",
       "source_date": "1999-05-11",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980690938. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:44+00:00",
+  "last_checked": "2026-10-17T10:02:07+00:00",
   "changes": []
 }

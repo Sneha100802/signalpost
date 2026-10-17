@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915452310",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:45+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive i helsebransjen og levere kiropraktor- og fysioterapitjenester. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres samarbeid knyttet til felles utgifter som husleie, betalingsterminal, journalsystemer, forbruksmateriell og markedsføring.",
+      "value": "Drive i helsebransjen og levere kiropraktor- og fysioterapitjenester. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres samarbeid knyttet til felles utgifter som husleie, betalingsterminal, journalsystemer, forbruksmateriell og markedsfÃ¸ring.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915452310",
       "source_date": "2015-06-17",
       "retrieved_at": "2026-10-17T07:47:45+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Jørgen Røshol",
+      "value": "JÃ¸rgen RÃ¸shol",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915452310/roller",
       "source_date": "2015-06-17",
       "retrieved_at": "2026-10-17T07:47:45+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:47:45+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915452310/roller",
       "source_date": "2022-06-20",
@@ -192,7 +192,7 @@
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915452310.",
-  "last_checked": "2026-10-17T07:47:46+00:00",
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915452310. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:13+00:00",
   "changes": []
 }

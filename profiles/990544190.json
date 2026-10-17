@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990544190",
       "source_date": "2006-12-02",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990544190",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990544190. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:01+00:00",
+  "last_checked": "2026-10-17T09:58:41+00:00",
   "changes": []
 }

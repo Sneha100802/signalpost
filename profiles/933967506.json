@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive advokatvirksomhet og annen virksomhet som naturlig står i forbindelse med dette.",
+      "value": "Drive advokatvirksomhet og annen virksomhet som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506",
       "source_date": "2024-08-23",
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Ingrid Heggdal Larsen Høgby",
+      "value": "Ingrid Heggdal Larsen HÃ¸gby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
       "source_date": "2026-02-23",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:47:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933967506/roller",
       "source_date": "2026-04-20",
@@ -225,9 +225,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933967506",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.wold.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:29+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@wold.no",
+      "source_url": "https://www.wold.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:29+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Advokatfirmaet Wold & Co DA yter rettslig bistand og prosedyretjenester overfor bedrifter og privatpersoner.",
+      "source_url": "https://www.wold.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:39+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Rettslig bistand",
+        "Prosedyre for domstoler",
+        "Bistand ved transaksjoner",
+        "Selskapsrett",
+        "Kontraktsrett"
+      ],
+      "source_url": "https://www.wold.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:39+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933967506.",
-  "last_checked": "2026-10-17T07:47:30+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933967506.",
+  "last_checked": "2026-10-17T09:57:39+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Advokatfirmaet Wold & Co DA yter rettslig bistand og prosedyretjenester overfor bedrifter og privatpersoner."
+      ],
+      "at": "2026-10-17T09:57:39+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@wold.no"
+      ],
+      "at": "2026-10-17T09:57:39+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Rettslig bistand",
+          "Prosedyre for domstoler",
+          "Bistand ved transaksjoner",
+          "Selskapsrett",
+          "Kontraktsrett"
+        ]
+      ],
+      "at": "2026-10-17T09:57:39+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:57:39+00:00"
+    }
+  ]
 }

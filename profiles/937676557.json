@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "37.000 Oppsamling og behandling av avløpsvann",
+      "value": "37.000 Oppsamling og behandling av avlÃ¸psvann",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937676557",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937676557",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretaket skal etablere, eie og forvalte felles avløpsanlegg for følgende eiendommer i Eleonoras vei: Eleonoras vei 21 (gnr. 82 bnr. 112), 3031 Drammen Eleonoras vei 34 (gnr. 82 bnr. 71), 3031 Drammen Eleonoras vei 37 (gnr. 82bnr. 67), 3031 Drammen Eleonoras vei 42 (gnr. 82 bnr. 51), 3031 Drammen.  Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i foretakets virksomhet. Foretaket drives uten formål om økonomisk utbytte til medlemmene. Eventuelt overskudd skal forbli i foretaket og benyttes til drift, vedlikehold eller investeringer i foretakets anlegg.",
+      "value": "Foretaket skal etablere, eie og forvalte felles avlÃ¸psanlegg for fÃ¸lgende eiendommer i Eleonoras vei: Eleonoras vei 21 (gnr. 82 bnr. 112), 3031 Drammen Eleonoras vei 34 (gnr. 82 bnr. 71), 3031 Drammen Eleonoras vei 37 (gnr. 82bnr. 67), 3031 Drammen Eleonoras vei 42 (gnr. 82 bnr. 51), 3031 Drammen.  Foretaket har til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i foretakets virksomhet. Foretaket drives uten formÃ¥l om Ã¸konomisk utbytte til medlemmene. Eventuelt overskudd skal forbli i foretaket og benyttes til drift, vedlikehold eller investeringer i foretakets anlegg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937676557",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937676557. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:34+00:00",
+  "last_checked": "2026-10-17T10:06:26+00:00",
   "changes": []
 }

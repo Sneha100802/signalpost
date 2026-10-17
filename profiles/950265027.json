@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL BYGGELEVERANDØRENS BORETTSLAG",
+      "value": "AL BYGGELEVERANDÃ˜RENS BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Øvre Torvgate 28, 2815, GJØVIK",
+      "value": "Ã˜vre Torvgate 28, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:01+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 1227, 2806, GJØVIK",
+      "value": "Postboks 1227, 2806, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:47:01+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "GJÃ˜VIK OG OMEGN BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027/roller",
       "source_date": "1999-08-25",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Elva Maria Larusdottir Neråsen",
+      "value": "Elva Maria Larusdottir NerÃ¥sen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -171,8 +171,8 @@
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "GJÃ˜VIK OG OMEGN BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950265027/roller",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950265027.",
-  "last_checked": "2026-10-17T07:47:02+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950265027. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:56:30+00:00",
   "changes": []
 }

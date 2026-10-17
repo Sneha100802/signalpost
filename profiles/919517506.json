@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GRØNDALSVEGEN VEGLAG SA",
+      "value": "GRÃ˜NDALSVEGEN VEGLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Terje Høystakli, 6453, KLEIVE",
+      "value": "c/o Terje HÃ¸ystakli, 6453, KLEIVE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte og drive Grøndalsvegen i samsvar med vedtekter §§ 1-15 som er stadfestet i Nordmøre Jordskifterett i sak 1500-2207-0008, 25. november 2011.",
+      "value": "Forvalte og drive GrÃ¸ndalsvegen i samsvar med vedtekter Â§Â§ 1-15 som er stadfestet i NordmÃ¸re Jordskifterett i sak 1500-2207-0008, 25. november 2011.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -109,28 +109,28 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Terje Høystakli",
+      "value": "Terje HÃ¸ystakli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506/roller",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ole Holsbø",
+      "value": "Ole HolsbÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506/roller",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Nerli",
+      "value": "BjÃ¸rn Nerli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506/roller",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øystein Kåre Øverli",
+      "value": "Ã˜ystein KÃ¥re Ã˜verli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919517506/roller",
       "source_date": "2017-09-26",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919517506. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:43+00:00",
+  "last_checked": "2026-10-17T10:12:09+00:00",
   "changes": []
 }

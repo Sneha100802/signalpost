@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "1. GODVIK SJØSPEIDERGRUPPE",
+      "value": "1. GODVIK SJÃ˜SPEIDERGRUPPE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101",
       "source_date": "2014-01-18",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anita Røyneberg Alvheim",
+      "value": "Anita RÃ¸yneberg Alvheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101/roller",
       "source_date": "2023-10-30",
       "retrieved_at": "2026-10-17T07:48:57+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ann-Kristin Bjørge",
+      "value": "Ann-Kristin BjÃ¸rge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101/roller",
       "source_date": "2023-10-30",
       "retrieved_at": "2026-10-17T07:48:57+00:00"
@@ -141,9 +141,61 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101/roller",
       "source_date": "2023-10-30",
       "retrieved_at": "2026-10-17T07:48:57+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://1-godvik-sjo.webnode.page/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:03:34+00:00"
+    },
+    {
+      "field": "description",
+      "value": "1. Godvik SjÃ¸speidergruppe is a newly established sea scout group offering outdoor life, friendship, and challenges for children from 3rd to 10th grade.",
+      "source_url": "https://1-godvik-sjo.webnode.page/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:41+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Speiding",
+        "Friluftsliv"
+      ],
+      "source_url": "https://1-godvik-sjo.webnode.page/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:41+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912992101. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:57+00:00",
-  "changes": []
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912992101. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:18:41+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:05:03+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Godvik SjÃ¸speidergruppe is a newly established sea scout group offering outdoor life, friendship, and challenges for children from 3rd to 10th grade."
+      ],
+      "at": "2026-10-17T10:18:41+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Speiding",
+          "Friluftsliv"
+        ]
+      ],
+      "at": "2026-10-17T10:18:41+00:00"
+    }
+  ]
 }

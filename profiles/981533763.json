@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "value": "01.410 Melkeproduksjon pÃ¥ storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
       "source_date": "2000-02-10",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Kjell Nes, Jørstadvågen 20, 4187, OMBO",
+      "value": "c/o Kjell Nes, JÃ¸rstadvÃ¥gen 20, 4187, OMBO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
       "source_date": "2000-02-10",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive sams mjølke- og kjøtproduksjon på storfe. Samdrifta skal gje høve til ordna arbeidstilhøve, fritid og ferie for medlemmene. Samdrifta kan utføre verksemd som er naturlig knyta til landbruksnæringa.",
+      "value": "Ã… drive sams mjÃ¸lke- og kjÃ¸tproduksjon pÃ¥ storfe. Samdrifta skal gje hÃ¸ve til ordna arbeidstilhÃ¸ve, fritid og ferie for medlemmene. Samdrifta kan utfÃ¸re verksemd som er naturlig knyta til landbruksnÃ¦ringa.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763",
       "source_date": "2000-02-10",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Linda Kjørmo",
+      "value": "Linda KjÃ¸rmo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981533763/roller",
       "source_date": "2000-02-10",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981533763. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:24+00:00",
+  "last_checked": "2026-10-17T10:00:05+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL KÅSEN BURETTSLAG",
+      "value": "AL KÃ…SEN BURETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:38+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699/roller",
       "source_date": "2017-05-15",
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Solveig Borghild Mjåtveit",
+      "value": "Solveig Borghild MjÃ¥tveit",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699/roller",
       "source_date": "2026-05-27",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952704699/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952704699.",
-  "last_checked": "2026-10-17T07:49:39+00:00",
+  "last_checked": "2026-10-17T10:06:42+00:00",
   "changes": []
 }

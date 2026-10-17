@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "4640 SØGNE SA",
+      "value": "4640 SÃ˜GNE SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
       "source_date": "2014-07-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.390 Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
+      "value": "46.390 Engroshandel med bredt utvalg av nÃ¦rings- og nytelsesmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
       "source_date": "2014-07-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
     },
     {
       "field": "address",
-      "value": "v/Terje Pettersen, Tangvallveien 1, 4640, SØGNE",
+      "value": "v/Terje Pettersen, Tangvallveien 1, 4640, SÃ˜GNE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
       "source_date": "2014-07-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bidra til økt verdiskaping for medlemmene, og stimulere til økt produksjon av matprodukter basert på lokale råvarer gjennom: a. Å legge til rette for samarbeid mellom medlemmene i Samvirkeorganisasjonen b. Synliggjøring av samarbeidet og nettverket utad c. Forvaltning og markedsføring av det felles varemerket 4640 SØGNE. d. Markedsføring av produkter fra medlemmene. e. Å være et lønnsomt og faglig sterkt produsentnettverk for medlemmene.",
+      "value": "Bidra til Ã¸kt verdiskaping for medlemmene, og stimulere til Ã¸kt produksjon av matprodukter basert pÃ¥ lokale rÃ¥varer gjennom: a. Ã… legge til rette for samarbeid mellom medlemmene i Samvirkeorganisasjonen b. SynliggjÃ¸ring av samarbeidet og nettverket utad c. Forvaltning og markedsfÃ¸ring av det felles varemerket 4640 SÃ˜GNE. d. MarkedsfÃ¸ring av produkter fra medlemmene. e. Ã… vÃ¦re et lÃ¸nnsomt og faglig sterkt produsentnettverk for medlemmene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064",
       "source_date": "2014-07-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Terje Øydne Pettersen",
+      "value": "Terje Ã˜ydne Pettersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
       "source_date": "2014-07-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Terje Øydne Pettersen",
+      "value": "Terje Ã˜ydne Pettersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913376064/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913376064.",
-  "last_checked": "2026-10-17T07:51:15+00:00",
+  "last_checked": "2026-10-17T10:14:18+00:00",
   "changes": []
 }

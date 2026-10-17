@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "1068 RECORDS JONAS SÆRVOLD",
+      "value": "1068 RECORDS JONAS SÃ†RVOLD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
     },
     {
       "field": "address",
-      "value": "Lindebergåsen 24J, 1068, OSLO",
+      "value": "LindebergÃ¥sen 24J, 1068, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:24+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -88,20 +88,20 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Jonas Særvold",
+      "value": "Jonas SÃ¦rvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245/roller",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:25+00:00"
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jonas Særvold",
+      "value": "Jonas SÃ¦rvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922695245/roller",
       "source_date": "2019-05-02",
       "retrieved_at": "2026-10-17T07:49:25+00:00"
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922695245. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:26+00:00",
+  "last_checked": "2026-10-17T10:05:51+00:00",
   "changes": []
 }

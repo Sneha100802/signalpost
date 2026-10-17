@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "c/o Beddingen Kulturhus, Tolder Holmers vei 4, 8003, BODØ",
+      "value": "c/o Beddingen Kulturhus, Tolder Holmers vei 4, 8003, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996760324",
       "source_date": "2011-06-21",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 5551, 8085, BODØ",
+      "value": "Postboks 5551, 8085, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996760324",
       "source_date": "2011-06-21",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996760324",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Marie Bjørgeengen",
+      "value": "Anne Marie BjÃ¸rgeengen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996760324/roller",
       "source_date": "2026-08-21",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "BODØ REVISJONSKONTOR AS",
+      "value": "BODÃ˜ REVISJONSKONTOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996760324/roller",
       "source_date": "2023-03-07",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -204,9 +204,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996760324",
       "source_date": "2021-12-31",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.adlibjazzklubb.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:06:36+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@adlibjazzklubb.no",
+      "source_url": "https://www.adlibjazzklubb.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:06:36+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996760324.",
-  "last_checked": "2026-10-17T07:49:38+00:00",
-  "changes": []
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996760324. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:07:59+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@adlibjazzklubb.no"
+      ],
+      "at": "2026-10-17T10:07:59+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:07:59+00:00"
+    }
+  ]
 }

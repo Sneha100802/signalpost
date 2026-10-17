@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998663458",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Cafedrift i Svelvik sentrum. Bedriften har ordinær cafedrift på dagtid mandag til lørdag, samt utvidet åpningstid fredag og lørdag med alle rettigheter.",
+      "value": "Cafedrift i Svelvik sentrum. Bedriften har ordinÃ¦r cafedrift pÃ¥ dagtid mandag til lÃ¸rdag, samt utvidet Ã¥pningstid fredag og lÃ¸rdag med alle rettigheter.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998663458",
       "source_date": "2012-07-31",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998663458. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:08+00:00",
+  "last_checked": "2026-10-17T10:09:09+00:00",
   "changes": []
 }

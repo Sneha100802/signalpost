@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987766344",
       "source_date": "2005-01-22",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
       "field": "address",
-      "value": "Gjønneshagen 3, 1357, BEKKESTUA",
+      "value": "GjÃ¸nneshagen 3, 1357, BEKKESTUA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987766344",
       "source_date": "2005-01-22",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987766344",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987766344",
       "source_date": "2005-01-22",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TEMA REGNSKAP OSLO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987766344/roller",
       "source_date": "2020-03-06",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987766344. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:45+00:00",
+  "last_checked": "2026-10-17T10:02:16+00:00",
   "changes": []
 }

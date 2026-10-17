@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL BJØRNEKOLLEN BORETTSLAG",
+      "value": "AL BJÃ˜RNEKOLLEN BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Asker og Bærum Boligbyggelag AL, Postboks 385, 1301, SANDVIKA",
+      "value": "c/o Asker og BÃ¦rum Boligbyggelag AL, Postboks 385, 1301, SANDVIKA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:48:29+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094/roller",
       "source_date": "2009-07-01",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kaya Mariken Østlyngen Tonn",
+      "value": "Kaya Mariken Ã˜stlyngen Tonn",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094/roller",
       "source_date": "2026-06-02",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -185,8 +185,8 @@
       "retrieved_at": "2026-10-17T07:48:29+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955079094/roller",
       "source_date": "2015-03-18",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:48:30+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955079094.",
-  "last_checked": "2026-10-17T07:48:30+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955079094. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:00:46+00:00",
   "changes": []
 }

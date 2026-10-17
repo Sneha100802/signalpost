@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "value": "94.910 Aktiviteter i religiÃ¸se organisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013",
       "source_date": "1996-03-05",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Elizabeth de Sousa Vrybloed, Nordstrandveien 58A, 8012, BODØ",
+      "value": "c/o Elizabeth de Sousa Vrybloed, Nordstrandveien 58A, 8012, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013",
       "source_date": "1996-03-05",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Elizabeth Shikoswe Hougsnæs",
+      "value": "Elizabeth Shikoswe HougsnÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristine Trulsrud Røren",
+      "value": "Kristine Trulsrud RÃ¸ren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Randi Hønsvall Holm",
+      "value": "Randi HÃ¸nsvall Holm",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975601013/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:28+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975601013. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:29+00:00",
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975601013. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:06:10+00:00",
   "changes": []
 }

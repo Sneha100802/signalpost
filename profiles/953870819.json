@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL GYLDENLØVESGT 32 BORETTSLAG",
+      "value": "AL GYLDENLÃ˜VESGT 32 BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Sørlandet Boligbyggelag, Rådhusgata 14, 4611, KRISTIANSAND S",
+      "value": "c/o SÃ¸rlandet Boligbyggelag, RÃ¥dhusgata 14, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -108,8 +108,8 @@
       "retrieved_at": "2026-10-17T07:48:29+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
       "source_date": "2010-04-13",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Adrian Brogård Hjelkrem",
+      "value": "Adrian BrogÃ¥rd Hjelkrem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
       "source_date": "2025-09-03",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -150,8 +150,8 @@
       "retrieved_at": "2026-10-17T07:48:29+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953870819/roller",
       "source_date": "2012-03-24",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953870819.",
-  "last_checked": "2026-10-17T07:48:30+00:00",
+  "last_checked": "2026-10-17T10:00:47+00:00",
   "changes": []
 }

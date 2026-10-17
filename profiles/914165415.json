@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914165415",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -94,15 +94,15 @@
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Ann-Britt Heléne Johansson",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Ann-Britt HelÃ©ne Johansson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914165415/roller",
       "source_date": "2014-11-05",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ann-Britt Heléne Johansson",
+      "value": "Ann-Britt HelÃ©ne Johansson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914165415/roller",
       "source_date": "2026-01-14",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914165415. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:42+00:00",
+  "last_checked": "2026-10-17T09:57:59+00:00",
   "changes": []
 }

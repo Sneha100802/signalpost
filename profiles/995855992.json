@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "HALÅS SELLEVOLL PROFIL DA",
+      "value": "HALÃ…S SELLEVOLL PROFIL DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
       "source_date": "2010-10-13",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Dragetvegen 160, 6457, BOLSØYA",
+      "value": "Dragetvegen 160, 6457, BOLSÃ˜YA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
       "source_date": "2010-10-13",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Helge Halås",
+      "value": "Helge HalÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992/roller",
       "source_date": "2010-10-13",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Helge Halås",
+      "value": "Helge HalÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995855992/roller",
       "source_date": "2015-02-03",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995855992. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:39+00:00",
+  "last_checked": "2026-10-17T09:57:52+00:00",
   "changes": []
 }

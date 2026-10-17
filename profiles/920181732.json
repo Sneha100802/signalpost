@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Måltidets Hus, Postboks 8034, 4068, STAVANGER",
+      "value": "MÃ¥ltidets Hus, Postboks 8034, 4068, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
       "source_date": "2018-01-29",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretaket skal tilrettelegge og koordinere integrerte utviklings- og omstillingsprosjekter mellom industrielle og institusjonelle aktører innen energi sektoren. Foretaket skal etablere en samarbeidsplattform for å videreutvikle- og omstille eksisterende olje- og gass kompetanse motfremtidsrettede og bærekraftige energiløsninger. Foretaket skal stimulere, initiere og iverksette prosjekter på tvers av medlemmene ved å krysskoble aktørene for å skape videre vekst innen sektoren. Medlemmene skal engasjere seg i felles utviklingsprosjekter koordinert av foretaket til omstilling og videre-utvikling av medlemmenes kompetanse og kunnskaps kapital. Foretaket skal stimulere og koordinere kompetansen på tvers av samvirke til utvikling av nye radikale innovasjonsløsninger. Foretaket skal gjennom nye samhandlingsmodeller styrke markedsposisjonen for medlemmene gjennom økt verdiskapning. Foretetaket skal være en arena for gründere og SMB-er til å styrke muligheten og evnen til vekst gjennom tidlig integrering i utviklingsfasen.",
+      "value": "Foretaket skal tilrettelegge og koordinere integrerte utviklings- og omstillingsprosjekter mellom industrielle og institusjonelle aktÃ¸rer innen energi sektoren. Foretaket skal etablere en samarbeidsplattform for Ã¥ videreutvikle- og omstille eksisterende olje- og gass kompetanse motfremtidsrettede og bÃ¦rekraftige energilÃ¸sninger. Foretaket skal stimulere, initiere og iverksette prosjekter pÃ¥ tvers av medlemmene ved Ã¥ krysskoble aktÃ¸rene for Ã¥ skape videre vekst innen sektoren. Medlemmene skal engasjere seg i felles utviklingsprosjekter koordinert av foretaket til omstilling og videre-utvikling av medlemmenes kompetanse og kunnskaps kapital. Foretaket skal stimulere og koordinere kompetansen pÃ¥ tvers av samvirke til utvikling av nye radikale innovasjonslÃ¸sninger. Foretaket skal gjennom nye samhandlingsmodeller styrke markedsposisjonen for medlemmene gjennom Ã¸kt verdiskapning. Foretetaket skal vÃ¦re en arena for grÃ¼ndere og SMB-er til Ã¥ styrke muligheten og evnen til vekst gjennom tidlig integrering i utviklingsfasen.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732",
       "source_date": "2018-01-29",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Cathrin Østebø",
+      "value": "Anne Cathrin Ã˜stebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -179,7 +179,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lars Gjerdåker",
+      "value": "Lars GjerdÃ¥ker",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -193,7 +193,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ståle Tungesvik",
+      "value": "StÃ¥le Tungesvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:50:51+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920181732/roller",
       "source_date": "2023-12-16",
@@ -277,6 +277,6 @@
     }
   ],
   "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920181732.",
-  "last_checked": "2026-10-17T07:50:51+00:00",
+  "last_checked": "2026-10-17T10:12:35+00:00",
   "changes": []
 }

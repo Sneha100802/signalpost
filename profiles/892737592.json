@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BODØMARKAS VENNER SA",
+      "value": "BODÃ˜MARKAS VENNER SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
       "source_date": "2009-10-15",
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Hundestedveien 1, 8003, BODØ",
+      "value": "Hundestedveien 1, 8003, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
       "source_date": "2009-10-15",
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Arbeide for Bodøs befolkning gjennom å ivareta Bodømarka som fritids- og rekreasjonsområde.  Det er orgnaisasjonens mål å medvirke til å gjøre Bodømarka lett tilgjengelig og attraktiv ved å: . Vedlikeholde og eventuelt utvide det varierte sti- og løypenettet . Tilrettelegge for aktiviteter og opplevelser i marka.  Dette gjøres gjennom å utplassere hvilebenker, sette opp gapahuker, anlegge bålplasser o.l på egnede steder. I dette punktet inngår også vedlikehold samt opprettholdelse av utsikter ved disse stedene.   Disse mål må oppnås gjennom samarbeid med grunneiere, kommunale myndigheter og andre interesser i Bodømarka.",
+      "value": "Arbeide for BodÃ¸s befolkning gjennom Ã¥ ivareta BodÃ¸marka som fritids- og rekreasjonsomrÃ¥de.  Det er orgnaisasjonens mÃ¥l Ã¥ medvirke til Ã¥ gjÃ¸re BodÃ¸marka lett tilgjengelig og attraktiv ved Ã¥: . Vedlikeholde og eventuelt utvide det varierte sti- og lÃ¸ypenettet . Tilrettelegge for aktiviteter og opplevelser i marka.  Dette gjÃ¸res gjennom Ã¥ utplassere hvilebenker, sette opp gapahuker, anlegge bÃ¥lplasser o.l pÃ¥ egnede steder. I dette punktet inngÃ¥r ogsÃ¥ vedlikehold samt opprettholdelse av utsikter ved disse stedene.   Disse mÃ¥l mÃ¥ oppnÃ¥s gjennom samarbeid med grunneiere, kommunale myndigheter og andre interesser i BodÃ¸marka.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592",
       "source_date": "2009-10-15",
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Rolf Kåre Jensen",
+      "value": "Rolf KÃ¥re Jensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/892737592/roller",
       "source_date": "2024-06-05",
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 892737592. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:41+00:00",
+  "last_checked": "2026-10-17T10:11:57+00:00",
   "changes": []
 }

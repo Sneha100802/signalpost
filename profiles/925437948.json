@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925437948",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Direkte eller indirekte drive produksjon, markedsføring og salg av kundetilpassede emballasjeløsninger og isolasjonsmateriell og annen tilhørende virksomhet samt å utføre tjenester hovedsakelig tilknyttet administrasjon og finans innen konsernet.",
+      "value": "Direkte eller indirekte drive produksjon, markedsfÃ¸ring og salg av kundetilpassede emballasjelÃ¸sninger og isolasjonsmateriell og annen tilhÃ¸rende virksomhet samt Ã¥ utfÃ¸re tjenester hovedsakelig tilknyttet administrasjon og finans innen konsernet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925437948",
       "source_date": "2020-08-06",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Andreas Mjølner Akselsen",
+      "value": "Andreas MjÃ¸lner Akselsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925437948/roller",
       "source_date": "2026-06-02",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -228,6 +228,6 @@
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925437948.",
-  "last_checked": "2026-10-17T07:49:32+00:00",
+  "last_checked": "2026-10-17T10:06:25+00:00",
   "changes": []
 }

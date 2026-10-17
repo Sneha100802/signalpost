@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Nygårdsgaten 13, 5015, BERGEN",
+      "value": "NygÃ¥rdsgaten 13, 5015, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854/roller",
       "source_date": "2018-09-10",
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "John Bjørnsen Tungen",
+      "value": "John BjÃ¸rnsen Tungen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854/roller",
       "source_date": "2026-08-13",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Synnøve Kirkebø",
+      "value": "SynnÃ¸ve KirkebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854/roller",
       "source_date": "2026-08-13",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Erik Frøderberg Standnes",
+      "value": "Erik FrÃ¸derberg Standnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854/roller",
       "source_date": "2026-08-13",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955330854/roller",
       "source_date": "2018-09-10",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955330854.",
-  "last_checked": "2026-10-17T07:50:39+00:00",
+  "last_checked": "2026-10-17T10:11:36+00:00",
   "changes": []
 }

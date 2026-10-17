@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "03.211 Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og brakkvann",
+      "value": "03.211 Produksjon av fisk, blÃ¸tdyr, krepsdyr og pigghuder i sjÃ¸ og brakkvann",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Produksjon, foredling, salg og distribusjon av sjømat og produkter som benyttes i sjømatproduksjon, enten direkte eller gjennom aksjeeie, deltakelse i andre selskaper og alt som dermed er forbundet.",
+      "value": "Produksjon, foredling, salg og distribusjon av sjÃ¸mat og produkter som benyttes i sjÃ¸matproduksjon, enten direkte eller gjennom aksjeeie, deltakelse i andre selskaper og alt som dermed er forbundet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lisbet Karin Nærø",
+      "value": "Lisbet Karin NÃ¦rÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
       "source_date": "2026-06-17",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -221,7 +221,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Øystein Teigland Hunstad",
+      "value": "Ã˜ystein Teigland Hunstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
       "source_date": "2026-06-17",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -234,14 +234,14 @@
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PROGRESSO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
       "source_date": "2023-01-04",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AZETS INSIGHT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964118191/roller",
       "source_date": "2023-01-04",
@@ -288,9 +288,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964118191",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://mowi.com/contact/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:28+00:00"
+    },
+    {
+      "field": "email",
+      "value": "norway@mowi.com",
+      "source_url": "https://mowi.com/contact/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:28+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Mowi is a seafood provider within the retail, horeca and industry segments specialising in salmon farming and seafood products.",
+      "source_url": "https://mowi.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:46+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Whole fish",
+        "Plain or marinated fillets and steaks",
+        "Hot- and cold-smoked salmon",
+        "Burgers",
+        "Tartars"
+      ],
+      "source_url": "https://mowi.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:46+00:00"
     }
   ],
-  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964118191.",
-  "last_checked": "2026-10-17T07:46:58+00:00",
-  "changes": []
+  "explanation": "45 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964118191.",
+  "last_checked": "2026-10-17T09:56:46+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Mowi is a seafood provider within the retail, horeca and industry segments specialising in salmon farming and seafood products."
+      ],
+      "at": "2026-10-17T09:56:46+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "norway@mowi.com"
+      ],
+      "at": "2026-10-17T09:56:46+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Whole fish",
+          "Plain or marinated fillets and steaks",
+          "Hot- and cold-smoked salmon",
+          "Burgers",
+          "Tartars"
+        ]
+      ],
+      "at": "2026-10-17T09:56:46+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:56:46+00:00"
+    }
+  ]
 }

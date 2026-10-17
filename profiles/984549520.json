@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ABILDSØ GÅRD STI",
+      "value": "ABILDSÃ˜ GÃ…RD STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
       "source_date": "2002-06-29",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Asgeir Føyen",
+      "value": "Asgeir FÃ¸yen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
       "source_date": "2002-06-29",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Helge Strømme",
+      "value": "Helge StrÃ¸mme",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
       "source_date": "2026-08-18",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Asgeir Føyen",
+      "value": "Asgeir FÃ¸yen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984549520/roller",
       "source_date": "2026-08-18",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:48:05+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984549520.",
-  "last_checked": "2026-10-17T07:48:05+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984549520. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:59:03+00:00",
   "changes": []
 }

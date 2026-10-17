@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992257687",
       "source_date": "2008-02-11",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992257687",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med varer og tjenester, eierskap til og forvaltning av ideer, konsepter og rettigheter til slike, samt alt som hermed står i forbindelse. Videre kan selskapet kjøpe og selge aksjer og verdipapirer, fast eiendom samt leie ut fast eiendom. Selskapet kan også delta i andre selskap med liknende formål.",
+      "value": "Handel med varer og tjenester, eierskap til og forvaltning av ideer, konsepter og rettigheter til slike, samt alt som hermed stÃ¥r i forbindelse. Videre kan selskapet kjÃ¸pe og selge aksjer og verdipapirer, fast eiendom samt leie ut fast eiendom. Selskapet kan ogsÃ¥ delta i andre selskap med liknende formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992257687",
       "source_date": "2008-02-11",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MERKANT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992257687/roller",
       "source_date": "2012-10-22",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992257687.",
-  "last_checked": "2026-10-17T07:50:14+00:00",
+  "last_checked": "2026-10-17T10:09:23+00:00",
   "changes": []
 }

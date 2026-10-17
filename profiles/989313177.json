@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Strømmveien 497, 3060, SVELVIK",
+      "value": "StrÃ¸mmveien 497, 3060, SVELVIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989313177",
       "source_date": "2006-02-01",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989313177",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utleie av båtplasser i småbåtanlegg.",
+      "value": "Utleie av bÃ¥tplasser i smÃ¥bÃ¥tanlegg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989313177",
       "source_date": "2006-02-01",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Christian Bøhmer",
+      "value": "Christian BÃ¸hmer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989313177/roller",
       "source_date": "2006-02-01",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PILAR REGNSKAP SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989313177/roller",
       "source_date": "2025-08-29",
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989313177. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:48+00:00",
+  "last_checked": "2026-10-17T09:56:07+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Roald Amundsens veg 1B, 2816, GJØVIK",
+      "value": "Roald Amundsens veg 1B, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "En tverrkirkelig hjelpeorganisasjon med troen på bibelske verdier som beste forutsetning for god samfunnsutvikling og varige positive forandringer. Med arkjennelsen at mennesker har åndelige, sosiale, mentale og fysiske behov vil evangeliet gi grunnlag for en ny start. Det gjelder fra individet til familien og hele samfunn. Hjelpearbeid og rehabilitering går hånd i hånd med kristen forkynnelse og undervisning.",
+      "value": "En tverrkirkelig hjelpeorganisasjon med troen pÃ¥ bibelske verdier som beste forutsetning for god samfunnsutvikling og varige positive forandringer. Med arkjennelsen at mennesker har Ã¥ndelige, sosiale, mentale og fysiske behov vil evangeliet gi grunnlag for en ny start. Det gjelder fra individet til familien og hele samfunn. Hjelpearbeid og rehabilitering gÃ¥r hÃ¥nd i hÃ¥nd med kristen forkynnelse og undervisning.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ola Simon Østtveit",
+      "value": "Ola Simon Ã˜sttveit",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Henrik Pedersen Lollike",
+      "value": "JÃ¸rgen Henrik Pedersen Lollike",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håvald Slåtten",
+      "value": "HÃ¥vald SlÃ¥tten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TOTEN REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974248816/roller",
       "source_date": "1999-03-01",
@@ -232,9 +232,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974248816",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://nystart.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:02:15+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@nystart.org",
+      "source_url": "https://nystart.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:02:15+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974248816.",
-  "last_checked": "2026-10-17T07:48:44+00:00",
-  "changes": []
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974248816. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:03:25+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@nystart.org"
+      ],
+      "at": "2026-10-17T10:03:25+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:03:25+00:00"
+    }
+  ]
 }

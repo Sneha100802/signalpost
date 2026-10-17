@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:39+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
       "source_date": "2022-08-19",
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kai Rune Sæther",
+      "value": "Kai Rune SÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -144,14 +144,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Aage Sæther",
+      "value": "Aage SÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Marit Galåen",
+      "value": "Marit GalÃ¥en",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -192,7 +192,7 @@
       "retrieved_at": "2026-10-17T07:49:40+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/855003252/roller",
       "source_date": "2019-11-09",
@@ -242,6 +242,6 @@
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 855003252.",
-  "last_checked": "2026-10-17T07:49:40+00:00",
+  "last_checked": "2026-10-17T10:06:57+00:00",
   "changes": []
 }

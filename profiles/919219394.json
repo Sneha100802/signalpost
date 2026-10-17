@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919219394",
       "source_date": "2017-06-29",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919219394",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919219394",
       "source_date": "2017-06-29",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Asbjørn Petter Olsen",
+      "value": "AsbjÃ¸rn Petter Olsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919219394/roller",
       "source_date": "2017-06-29",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919219394. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:53+00:00",
+  "last_checked": "2026-10-17T10:12:39+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Ole Johan Sandvær, Vikenstranda 8, 2816, GJØVIK",
+      "value": "c/o Ole Johan SandvÃ¦r, Vikenstranda 8, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
       "source_date": "2023-06-29",
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ole Johan Sandvær",
+      "value": "Ole Johan SandvÃ¦r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
       "source_date": "2026-02-19",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Birgit Marie Bjørndal Liodden",
+      "value": "Birgit Marie BjÃ¸rndal Liodden",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931457047/roller",
       "source_date": "2026-02-19",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931457047. Gaps: Regnskapsregisteret's newest filing ends 2023-12-31, but Enhetsregisteret lists accounts filed for 2025.",
-  "last_checked": "2026-10-17T07:47:06+00:00",
+  "last_checked": "2026-10-17T09:56:42+00:00",
   "changes": []
 }

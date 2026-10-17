@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "FJELLBØ VANN- OG RENSEANLEGG SAMVIRKELAG",
+      "value": "FJELLBÃ˜ VANN- OG RENSEANLEGG SAMVIRKELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
       "source_date": "2020-02-07",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Sjølystveien 46, 4610, KRISTIANSAND S",
+      "value": "SjÃ¸lystveien 46, 4610, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
       "source_date": "2020-02-07",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drifte og utvikle dette felles vann- og avløpsanlegg for hytteieiendommer tilhørende Fjellbø Hyttelag og omkringliggende hytter som kobler seg på dette. Foretaket har som formål å fremme medlemmenes økonomiske og praktiske interesser i vann- og avløpsanlegget gjennom deres deltakelse i samvirkelaget.",
+      "value": "Drifte og utvikle dette felles vann- og avlÃ¸psanlegg for hytteieiendommer tilhÃ¸rende FjellbÃ¸ Hyttelag og omkringliggende hytter som kobler seg pÃ¥ dette. Foretaket har som formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske og praktiske interesser i vann- og avlÃ¸psanlegget gjennom deres deltakelse i samvirkelaget.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567",
       "source_date": "2020-02-07",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Erik Wigstøl",
+      "value": "Erik WigstÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
       "source_date": "2020-02-07",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Torstein Søren Robstad",
+      "value": "Torstein SÃ¸ren Robstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924453567/roller",
       "source_date": "2020-02-07",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924453567. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:39+00:00",
+  "last_checked": "2026-10-17T10:11:38+00:00",
   "changes": []
 }

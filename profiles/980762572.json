@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
       "source_date": "1999-09-29",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Knut Inge Nossen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980762572/roller",
       "source_date": "2023-07-18",
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980762572.",
-  "last_checked": "2026-10-17T07:51:04+00:00",
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980762572. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:13:51+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ruseløkkveien 26, 0251, OSLO",
+      "value": "RuselÃ¸kkveien 26, 0251, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961095026",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -74,21 +74,21 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961095026",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
       "field": "sector",
-      "value": "4900 Øvrige finansielle foretak unntatt forsikring",
+      "value": "4900 Ã˜vrige finansielle foretak unntatt forsikring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961095026",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
       "field": "purpose",
-      "value": "Selskapets formål er gjennom datterselskaper å drive investeringstjenester, forvaltningstjenester, meglervirksomhet og salg og distribusjon av finansielle produkter, investeringer i andre selskaper med samme virksomhet, og alt hva hermed står i forbindelse.",
+      "value": "Selskapets formÃ¥l er gjennom datterselskaper Ã¥ drive investeringstjenester, forvaltningstjenester, meglervirksomhet og salg og distribusjon av finansielle produkter, investeringer i andre selskaper med samme virksomhet, og alt hva hermed stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961095026",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961095026.",
-  "last_checked": "2026-10-17T07:49:30+00:00",
+  "last_checked": "2026-10-17T10:06:16+00:00",
   "changes": []
 }

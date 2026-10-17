@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Holum Karlstrøm",
+      "value": "JÃ¸rgen Holum KarlstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630/roller",
       "source_date": "2005-02-07",
       "retrieved_at": "2026-10-17T07:50:05+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987774630. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:06+00:00",
+  "last_checked": "2026-10-17T10:09:01+00:00",
   "changes": []
 }

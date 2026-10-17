@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Odderøyveien 80, 4610, KRISTIANSAND S",
+      "value": "OdderÃ¸yveien 80, 4610, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937943210",
       "source_date": "2026-07-14",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -67,14 +67,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937943210",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:08+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937943210",
       "source_date": "2026-07-14",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:48:08+00:00"
     }
   ],
-  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937943210. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:08+00:00",
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937943210. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:59:10+00:00",
   "changes": []
 }

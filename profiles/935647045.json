@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "John David Frisk Strömberg",
+      "value": "John David Frisk StrÃ¶mberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935647045/roller",
       "source_date": "2026-04-30",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935647045. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:15+00:00",
+  "last_checked": "2026-10-17T10:05:33+00:00",
   "changes": []
 }

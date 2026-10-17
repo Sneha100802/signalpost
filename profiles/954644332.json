@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Asker og Bærum Boligbyggelag AL, Postboks 385, 1301, SANDVIKA",
+      "value": "c/o Asker og BÃ¦rum Boligbyggelag AL, Postboks 385, 1301, SANDVIKA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954644332",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954644332",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954644332/roller",
       "source_date": "2018-03-13",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -225,9 +225,55 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/954644332",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://rykkinn1.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:25+00:00"
+    },
+    {
+      "field": "email",
+      "value": "styret@rykkinn1.no",
+      "source_url": "https://rykkinn1.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:25+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Rykkinn borettslag 1 is a housing cooperative that manages and maintains residential blocks, common areas, and shared facilities for its residents.",
+      "source_url": "https://rykkinn1.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:39+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954644332.",
-  "last_checked": "2026-10-17T07:47:50+00:00",
-  "changes": []
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954644332.",
+  "last_checked": "2026-10-17T09:58:39+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Rykkinn borettslag 1 is a housing cooperative that manages and maintains residential blocks, common areas, and shared facilities for its residents."
+      ],
+      "at": "2026-10-17T09:58:39+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "styret@rykkinn1.no"
+      ],
+      "at": "2026-10-17T09:58:39+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:58:39+00:00"
+    }
+  ]
 }

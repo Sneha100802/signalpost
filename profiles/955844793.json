@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:51+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, rehabilitering, salg og utleie av fast eiendom, samt alt som naturlig står i forbindelse med dette.",
+      "value": "KjÃ¸p, rehabilitering, salg og utleie av fast eiendom, samt alt som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:46:51+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Øyvind Antonsen",
+      "value": "Ã˜yvind Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2006-09-04",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øyvind Antonsen",
+      "value": "Ã˜yvind Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2014-03-10",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Turid Forås Antonsen",
+      "value": "Turid ForÃ¥s Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2014-03-10",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
@@ -137,34 +137,34 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øyvind Antonsen",
+      "value": "Ã˜yvind Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2006-09-04",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørg Antonsen",
+      "value": "BjÃ¸rg Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2006-09-04",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Turid Forås Antonsen",
+      "value": "Turid ForÃ¥s Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2006-09-04",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REGNSKAPSHUSET BORG AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2026-02-26",
       "retrieved_at": "2026-10-17T07:46:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SKY FINANS AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955844793/roller",
       "source_date": "2026-02-26",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955844793.",
-  "last_checked": "2026-10-17T07:46:53+00:00",
+  "last_checked": "2026-10-17T09:56:12+00:00",
   "changes": []
 }

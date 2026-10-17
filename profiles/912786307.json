@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Brattørgata 7, 7010, TRONDHEIM",
+      "value": "BrattÃ¸rgata 7, 7010, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912786307",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912786307",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SOLIDITET AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912786307/roller",
       "source_date": "2025-12-22",
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912786307.",
-  "last_checked": "2026-10-17T07:49:38+00:00",
+  "last_checked": "2026-10-17T10:06:36+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929289188",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eierskap av aksjer i andre selskaper, og alt som står i naturlig forbindelse med dette.",
+      "value": "Eierskap av aksjer i andre selskaper, og alt som stÃ¥r i naturlig forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929289188",
       "source_date": "2022-06-02",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:48:27+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "EMINENT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929289188/roller",
       "source_date": "2025-01-21",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929289188.",
-  "last_checked": "2026-10-17T07:48:28+00:00",
+  "last_checked": "2026-10-17T10:00:37+00:00",
   "changes": []
 }

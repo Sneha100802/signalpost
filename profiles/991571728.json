@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
       "source_date": "2007-08-14",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å bygge og vedlikeholde skogsbilveg fra Kalandseidet til Almeland.",
+      "value": "Ã… bygge og vedlikeholde skogsbilveg fra Kalandseidet til Almeland.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728",
       "source_date": "2007-08-14",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Terje Nesse",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
       "source_date": "2013-02-06",
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Olav Børsheim",
+      "value": "Olav BÃ¸rsheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
       "source_date": "2023-08-31",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Erik Nesse",
+      "value": "BjÃ¸rn Erik Nesse",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
       "source_date": "2023-08-31",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT FORRETNINGSPARTNER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991571728/roller",
       "source_date": "2022-06-18",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991571728. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:37+00:00",
+  "last_checked": "2026-10-17T10:11:25+00:00",
   "changes": []
 }

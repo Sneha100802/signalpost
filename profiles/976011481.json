@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "50.201 Utenriks sjøfart med gods",
+      "value": "50.201 Utenriks sjÃ¸fart med gods",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481",
       "source_date": "1996-01-18",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o  Torbjørn Skogsrød,  Årøråket, 10, 6421, MOLDE",
+      "value": "c/o  TorbjÃ¸rn SkogsrÃ¸d,  Ã…rÃ¸rÃ¥ket, 10, 6421, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481",
       "source_date": "1996-01-18",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utleie og charter av båt, samt deltagelse i selskaper med økonomiske formål.",
+      "value": "Utleie og charter av bÃ¥t, samt deltagelse i selskaper med Ã¸konomiske formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481",
       "source_date": "1996-01-18",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Torbjørn Skogsrød",
+      "value": "TorbjÃ¸rn SkogsrÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481/roller",
       "source_date": "1996-02-24",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -123,20 +123,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Steinar Hagebø",
+      "value": "Steinar HagebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481/roller",
       "source_date": "2009-03-21",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Torbjørn Skogsrød",
+      "value": "TorbjÃ¸rn SkogsrÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976011481/roller",
       "source_date": "2009-03-21",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976011481. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:03+00:00",
+  "last_checked": "2026-10-17T10:13:41+00:00",
   "changes": []
 }

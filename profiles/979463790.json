@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BUSKEN RØR DA",
+      "value": "BUSKEN RÃ˜R DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979463790",
       "source_date": "1997-12-19",
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "43.221 Rørleggerarbeid",
+      "value": "43.221 RÃ¸rleggerarbeid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979463790",
       "source_date": "1997-12-19",
       "retrieved_at": "2026-10-17T07:47:41+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Harry Christensen, Herstrømlund 8, 3058, SOLBERGMOEN",
+      "value": "c/o Harry Christensen, HerstrÃ¸mlund 8, 3058, SOLBERGMOEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979463790",
       "source_date": "1997-12-19",
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979463790",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Rørleggervirksomhet.",
+      "value": "RÃ¸rleggervirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979463790",
       "source_date": "1997-12-19",
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979463790. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:42+00:00",
+  "last_checked": "2026-10-17T09:58:00+00:00",
   "changes": []
 }

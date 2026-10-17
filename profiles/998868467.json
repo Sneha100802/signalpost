@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Granåsbakken 7, 2827, HUNNDALEN",
+      "value": "GranÃ¥sbakken 7, 2827, HUNNDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998868467",
       "source_date": "2012-09-22",
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998868467",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp/salg og utleie av eiendom.",
+      "value": "KjÃ¸p/salg og utleie av eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998868467",
       "source_date": "2012-09-22",
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:51:13+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT LILLEHAMMER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998868467/roller",
       "source_date": "2015-10-01",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998868467.",
-  "last_checked": "2026-10-17T07:51:14+00:00",
+  "last_checked": "2026-10-17T10:14:16+00:00",
   "changes": []
 }

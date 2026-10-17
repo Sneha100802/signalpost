@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ANØY INVEST DA",
+      "value": "ANÃ˜Y INVEST DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993444677",
       "source_date": "2008-12-18",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -60,14 +60,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993444677",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
       "field": "sector",
-      "value": "4900 Øvrige finansielle foretak unntatt forsikring",
+      "value": "4900 Ã˜vrige finansielle foretak unntatt forsikring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993444677",
       "source_date": "2008-12-18",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993444677/roller",
       "source_date": "2026-10-12",
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993444677. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:26+00:00",
+  "last_checked": "2026-10-17T10:10:19+00:00",
   "changes": []
 }

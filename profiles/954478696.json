@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ANS SJØSIDEN 2 HJEMMEL",
+      "value": "ANS SJÃ˜SIDEN 2 HJEMMEL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investering og drift av fast eiendom, herunder eie av aksjer og andeler i selskaper som eier eller driver fast eiendom, samt øvrig virksomhet som måtte stå i forbindelse med dette.",
+      "value": "Investering og drift av fast eiendom, herunder eie av aksjer og andeler i selskaper som eier eller driver fast eiendom, samt Ã¸vrig virksomhet som mÃ¥tte stÃ¥ i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954478696",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954478696.",
-  "last_checked": "2026-10-17T07:50:51+00:00",
+  "last_checked": "2026-10-17T10:12:33+00:00",
   "changes": []
 }

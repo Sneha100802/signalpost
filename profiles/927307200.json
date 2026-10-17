@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Høgskoleringen 3, 7034, TRONDHEIM",
+      "value": "HÃ¸gskoleringen 3, 7034, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927307200",
       "source_date": "2021-09-21",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927307200",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:34+00:00"
@@ -95,14 +95,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Celina Berhane Sørtveit",
+      "value": "Celina Berhane SÃ¸rtveit",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927307200/roller",
       "source_date": "2021-09-21",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Celina Berhane Sørtveit",
+      "value": "Celina Berhane SÃ¸rtveit",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927307200/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927307200. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:34+00:00",
+  "last_checked": "2026-10-17T10:11:11+00:00",
   "changes": []
 }

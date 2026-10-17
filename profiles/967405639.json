@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/967405639/roller",
       "source_date": "2010-05-27",
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 967405639.",
-  "last_checked": "2026-10-17T07:46:58+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 967405639. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:56:22+00:00",
   "changes": []
 }

@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive industri- og teknologiutvikling, investeringsvirksomhet samt yte konsulenttjenester.",
+      "value": "Ã… drive industri- og teknologiutvikling, investeringsvirksomhet samt yte konsulenttjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457",
       "source_date": "2014-12-16",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:34+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914620457/roller",
       "source_date": "2025-12-02",
@@ -218,9 +218,25 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/914620457",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.capsoltechnologies.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:11:11+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457.",
-  "last_checked": "2026-10-17T07:50:34+00:00",
-  "changes": []
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:12:32+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:12:32+00:00"
+    }
+  ]
 }

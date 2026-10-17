@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
       "source_date": "1997-05-12",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -158,27 +158,27 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Camilla Bjerke Rødal",
+      "value": "Camilla Bjerke RÃ¸dal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
       "source_date": "2026-06-19",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Thea Åhsbom Kristiansen",
+      "value": "Thea Ã…hsbom Kristiansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
       "source_date": "2026-06-19",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
       "field": "role:Revisor",
-      "value": "HØILUND REVISJON AS",
+      "value": "HÃ˜ILUND REVISJON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
       "source_date": "2023-05-10",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369/roller",
       "source_date": "2024-12-12",
@@ -225,9 +225,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://barnehagen.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:23+00:00"
+    },
+    {
+      "field": "email",
+      "value": "tihana.delalic@barnehagen.no",
+      "source_url": "https://barnehagen.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:23+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977518369.",
-  "last_checked": "2026-10-17T07:50:13+00:00",
-  "changes": []
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977518369. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:10:38+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "tihana.delalic@barnehagen.no"
+      ],
+      "at": "2026-10-17T10:10:38+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:10:38+00:00"
+    }
+  ]
 }

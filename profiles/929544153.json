@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Wergelands gate 9B, 2821, GJØVIK",
+      "value": "Wergelands gate 9B, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
       "source_date": "2022-08-04",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Thomas Lønstad",
+      "value": "Thomas LÃ¸nstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
       "source_date": "2026-01-19",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -123,13 +123,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ørjan Stenersen",
+      "value": "Ã˜rjan Stenersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929544153/roller",
       "source_date": "2026-01-19",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929544153. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:52+00:00",
+  "last_checked": "2026-10-17T10:12:38+00:00",
   "changes": []
 }

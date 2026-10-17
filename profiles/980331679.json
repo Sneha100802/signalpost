@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980331679",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Arrangere oppdateringskurs innen økonomiske fag, revisjonsfag, IT-fag og andre universitetslag, i samarbeid med UiA Insututt for 0konomi. Samvirkeforetaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av kurstjenester fra foretaket. Foretakets formål er ikke kapitalavkastning til medlemmene.",
+      "value": "Arrangere oppdateringskurs innen Ã¸konomiske fag, revisjonsfag, IT-fag og andre universitetslag, i samarbeid med UiA Insututt for 0konomi. Samvirkeforetaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av kurstjenester fra foretaket. Foretakets formÃ¥l er ikke kapitalavkastning til medlemmene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980331679",
       "source_date": "1999-03-08",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980331679. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:03+00:00",
+  "last_checked": "2026-10-17T09:58:54+00:00",
   "changes": []
 }

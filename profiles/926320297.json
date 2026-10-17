@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926320297",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:23+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:23+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "KJELDSBERG BOLIGFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926320297/roller",
       "source_date": "2025-05-20",
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Evy Synnøve Sæther",
+      "value": "Evy SynnÃ¸ve SÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926320297/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:50:24+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anders Hoås",
+      "value": "Anders HoÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926320297/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:50:24+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:24+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "KJELDSBERG BOLIGFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926320297/roller",
       "source_date": "2023-01-25",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926320297.",
-  "last_checked": "2026-10-17T07:50:24+00:00",
+  "last_checked": "2026-10-17T10:10:05+00:00",
   "changes": []
 }

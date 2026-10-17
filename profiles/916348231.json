@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Motorsenteret, Årøsetervegen 2, 6422, MOLDE",
+      "value": "Motorsenteret, Ã…rÃ¸setervegen 2, 6422, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231",
       "source_date": "2016-02-09",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ståle Jakob Valø",
+      "value": "StÃ¥le Jakob ValÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231/roller",
       "source_date": "2016-02-09",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ståle Jakob Valø",
+      "value": "StÃ¥le Jakob ValÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231/roller",
       "source_date": "2026-01-15",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -123,27 +123,27 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Per Ørsal",
+      "value": "Per Ã˜rsal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231/roller",
       "source_date": "2026-01-15",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hans-Jørgen Aarø",
+      "value": "Hans-JÃ¸rgen AarÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231/roller",
       "source_date": "2026-01-15",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Wilhelm Coucheron Aamot Hovsløkken",
+      "value": "Wilhelm Coucheron Aamot HovslÃ¸kken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916348231/roller",
       "source_date": "2026-01-15",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916348231. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:02+00:00",
+  "last_checked": "2026-10-17T10:08:49+00:00",
   "changes": []
 }

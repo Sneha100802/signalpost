@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Øvre Nygards veg 3, 2827, HUNNDALEN",
+      "value": "Ã˜vre Nygards veg 3, 2827, HUNNDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919308680",
       "source_date": "2017-07-18",
       "retrieved_at": "2026-10-17T07:50:57+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919308680",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:57+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919308680",
       "source_date": "2017-07-18",
       "retrieved_at": "2026-10-17T07:50:57+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919308680. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:58+00:00",
+  "last_checked": "2026-10-17T10:12:48+00:00",
   "changes": []
 }

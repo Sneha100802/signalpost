@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429",
       "source_date": "1997-02-23",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/Molde domkirke, Rådhusplassen 1, 6413, MOLDE",
+      "value": "v/Molde domkirke, RÃ¥dhusplassen 1, 6413, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429",
       "source_date": "1997-02-23",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ole Andreas Øverland",
+      "value": "Ole Andreas Ã˜verland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429/roller",
       "source_date": "2023-05-02",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tanja Katarina Thalén",
+      "value": "Tanja Katarina ThalÃ©n",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429/roller",
       "source_date": "2023-05-02",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ståle Johan Aklestad",
+      "value": "StÃ¥le Johan Aklestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977117429/roller",
       "source_date": "2023-05-02",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977117429.",
-  "last_checked": "2026-10-17T07:48:47+00:00",
+  "last_checked": "2026-10-17T10:02:37+00:00",
   "changes": []
 }

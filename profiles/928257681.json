@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BASSELØKKA BORETTSLAG",
+      "value": "BASSELÃ˜KKA BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928257681",
       "source_date": "2021-12-01",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928257681",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:06+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928257681/roller",
       "source_date": "2025-09-03",
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tord Sørgård",
+      "value": "Tord SÃ¸rgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928257681/roller",
       "source_date": "2026-07-31",
       "retrieved_at": "2026-10-17T07:48:07+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:48:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928257681/roller",
       "source_date": "2025-09-03",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928257681.",
-  "last_checked": "2026-10-17T07:48:07+00:00",
+  "last_checked": "2026-10-17T09:59:08+00:00",
   "changes": []
 }

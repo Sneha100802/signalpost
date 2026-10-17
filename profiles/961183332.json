@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Aylin Tügsüz",
+      "value": "Aylin TÃ¼gsÃ¼z",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
       "source_date": "2026-09-30",
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:49:29+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961183332/roller",
       "source_date": "2009-08-11",
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:49:29+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961183332.",
-  "last_checked": "2026-10-17T07:49:29+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961183332. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:06:15+00:00",
   "changes": []
 }

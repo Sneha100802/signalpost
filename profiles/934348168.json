@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934348168",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:49:42+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ACCENTURE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934348168/roller",
       "source_date": "2025-02-17",
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 934348168. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:43+00:00",
+  "last_checked": "2026-10-17T10:07:10+00:00",
   "changes": []
 }

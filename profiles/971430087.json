@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "FOLKETS HUS BODØ SA",
+      "value": "FOLKETS HUS BODÃ˜ SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Prinsens gate 115, 8005, BODØ",
+      "value": "Prinsens gate 115, 8005, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive virksomhet innen møte-, kontor-, og samlingslokaler. Foretaket kan også drive annen virksomhet relatert til hovedformålet. Foretaket har til formål å fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandør av ovennevnte lokaler.",
+      "value": "Drive virksomhet innen mÃ¸te-, kontor-, og samlingslokaler. Foretaket kan ogsÃ¥ drive annen virksomhet relatert til hovedformÃ¥let. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandÃ¸r av ovennevnte lokaler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åse Marie Birkeli",
+      "value": "Ã…se Marie Birkeli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -178,8 +178,8 @@
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "FLYT ØKONOMI AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "FLYT Ã˜KONOMI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971430087/roller",
       "source_date": "2024-08-24",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -228,6 +228,6 @@
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971430087.",
-  "last_checked": "2026-10-17T07:47:44+00:00",
+  "last_checked": "2026-10-17T09:58:05+00:00",
   "changes": []
 }

@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998881846",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og forvaltning av eiendom, eie og forvalte aksjer og andre selskapsandeler, samt tilhørende virksomhet.",
+      "value": "KjÃ¸p, salg og forvaltning av eiendom, eie og forvalte aksjer og andre selskapsandeler, samt tilhÃ¸rende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998881846",
       "source_date": "2012-10-04",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Mads Lønsethagen",
+      "value": "Mads LÃ¸nsethagen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998881846/roller",
       "source_date": "2012-10-04",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Mads Lønsethagen",
+      "value": "Mads LÃ¸nsethagen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998881846/roller",
       "source_date": "2022-08-17",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:50+00:00"
     }
   ],
-  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998881846.",
-  "last_checked": "2026-10-17T07:49:50+00:00",
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998881846. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:08:07+00:00",
   "changes": []
 }

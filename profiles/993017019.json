@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "value": "01.410 Melkeproduksjon pÃ¥ storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
       "source_date": "2008-10-01",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive felles for-, melk- og kjøttproduksjon for best mulig rasjonell utnytting av deltakernes egne jordbruksareal samt eventuelt forpakta areal. I tillegg kan samdrifta etablere annen virksomhet som direkte knytter seg til landbruksnæringa.",
+      "value": "Drive felles for-, melk- og kjÃ¸ttproduksjon for best mulig rasjonell utnytting av deltakernes egne jordbruksareal samt eventuelt forpakta areal. I tillegg kan samdrifta etablere annen virksomhet som direkte knytter seg til landbruksnÃ¦ringa.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019",
       "source_date": "2008-10-01",
       "retrieved_at": "2026-10-17T07:48:36+00:00"
@@ -122,14 +122,14 @@
       "retrieved_at": "2026-10-17T07:48:37+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BØNDENES REGNSKAPSLAG SA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BÃ˜NDENES REGNSKAPSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993017019/roller",
       "source_date": "2008-10-01",
       "retrieved_at": "2026-10-17T07:48:37+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993017019. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:37+00:00",
+  "last_checked": "2026-10-17T10:01:25+00:00",
   "changes": []
 }

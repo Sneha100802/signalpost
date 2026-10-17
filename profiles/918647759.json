@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918647759",
       "source_date": "2017-07-13",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
     },
     {
       "field": "address",
-      "value": "Åsrovegen 156, 2837, BIRISTRAND",
+      "value": "Ã…srovegen 156, 2837, BIRISTRAND",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918647759",
       "source_date": "2017-07-13",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918647759",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:48+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Vedlikeholde en skogsbilveg fra Kullmyrbotn over Ankerlidammen til Fåberg grense. Veglaget har som formål å redusere andelseiernes kostnader til uttransport av tømmer og å gjøre skog i vegens nytteområde tilgjengelig for aktiv skogforvaltning.",
+      "value": "Vedlikeholde en skogsbilveg fra Kullmyrbotn over Ankerlidammen til FÃ¥berg grense. Veglaget har som formÃ¥l Ã¥ redusere andelseiernes kostnader til uttransport av tÃ¸mmer og Ã¥ gjÃ¸re skog i vegens nytteomrÃ¥de tilgjengelig for aktiv skogforvaltning.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918647759",
       "source_date": "2017-07-13",
       "retrieved_at": "2026-10-17T07:47:48+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918647759. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:49+00:00",
+  "last_checked": "2026-10-17T09:58:21+00:00",
   "changes": []
 }

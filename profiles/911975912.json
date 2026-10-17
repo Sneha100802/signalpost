@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911975912",
       "source_date": "2013-06-17",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911975912",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Leveranse av administrative tjenester for fysioterapivirksomhet og legevirksomhet. Foretakets formål er å fremme medlemmenes økonomiske interesser ved at disse deltar i foretakets virksomhet ved kjøp av varer og tjenester til administrasjon av egen legevirksomhet eller fysioterapivirksomhet.",
+      "value": "Leveranse av administrative tjenester for fysioterapivirksomhet og legevirksomhet. Foretakets formÃ¥l er Ã¥ fremme medlemmenes Ã¸konomiske interesser ved at disse deltar i foretakets virksomhet ved kjÃ¸p av varer og tjenester til administrasjon av egen legevirksomhet eller fysioterapivirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911975912",
       "source_date": "2013-06-17",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911975912. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:19+00:00",
+  "last_checked": "2026-10-17T09:59:32+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "010 IDÉLAB HENRIK ALFHEIM",
+      "value": "010 IDÃ‰LAB HENRIK ALFHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424",
       "source_date": "2021-11-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424",
       "source_date": "2021-11-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     },
     {
       "field": "address",
-      "value": "Skådalsveien 1C, 0781, OSLO",
+      "value": "SkÃ¥dalsveien 1C, 0781, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424",
       "source_date": "2021-11-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424",
       "source_date": "2021-11-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928148424. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:42+00:00",
+  "last_checked": "2026-10-17T09:58:01+00:00",
   "changes": []
 }

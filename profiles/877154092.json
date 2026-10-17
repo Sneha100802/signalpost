@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877154092",
       "source_date": "1997-03-17",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Per Kristian Sebak, Damsgårdsveien 40, 5058, BERGEN",
+      "value": "c/o Per Kristian Sebak, DamsgÃ¥rdsveien 40, 5058, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877154092",
       "source_date": "1997-03-17",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/877154092",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -183,9 +183,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/877154092",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.laksovprisen.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:16+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Amalie Laksov (f. Scheer) Minnefond til vern om menneskerettighetene is a memorial foundation that awards the Laksov Prize to honor individuals and organizations for their work in protecting and advancing human rights.",
+      "source_url": "https://www.laksovprisen.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:24+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 877154092.",
-  "last_checked": "2026-10-17T07:47:47+00:00",
-  "changes": []
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 877154092.",
+  "last_checked": "2026-10-17T09:58:24+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Amalie Laksov (f. Scheer) Minnefond til vern om menneskerettighetene is a memorial foundation that awards the Laksov Prize to honor individuals and organizations for their work in protecting and advancing human rights."
+      ],
+      "at": "2026-10-17T09:58:24+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:58:24+00:00"
+    }
+  ]
 }

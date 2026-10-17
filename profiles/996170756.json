@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:05+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og utleie av eiendom. I tillegg har selskapet som formål å drive med konsulent- og rådgivningsoppdrag innen økonomi og administrasjon.",
+      "value": "KjÃ¸p, salg og utleie av eiendom. I tillegg har selskapet som formÃ¥l Ã¥ drive med konsulent- og rÃ¥dgivningsoppdrag innen Ã¸konomi og administrasjon.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756",
       "source_date": "2010-11-11",
       "retrieved_at": "2026-10-17T07:51:05+00:00"
@@ -109,20 +109,20 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Occiery Dørheim",
+      "value": "Occiery DÃ¸rheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
       "source_date": "2021-09-22",
       "retrieved_at": "2026-10-17T07:51:05+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Occiery Dørheim",
+      "value": "Occiery DÃ¸rheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
       "source_date": "2021-09-22",
       "retrieved_at": "2026-10-17T07:51:05+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "STAVANGER REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996170756/roller",
       "source_date": "2022-01-17",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996170756.",
-  "last_checked": "2026-10-17T07:51:06+00:00",
+  "last_checked": "2026-10-17T10:13:59+00:00",
   "changes": []
 }

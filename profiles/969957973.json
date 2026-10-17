@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BÆRUM GRUNNEIERLAG FOR JAKT FISKE OG VILTSTELL SA",
+      "value": "BÃ†RUM GRUNNEIERLAG FOR JAKT FISKE OG VILTSTELL SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Samle alle grunneiere i Bærum for i fellesskap og i samarbeide med Norges Bondelag å søke å fremme, utnytte og ellers ivareta medlemmenes interesser i jakt, fiske og fangst.  Laget skal også arbeide for god jaktkultur, bedre forståelse og aktelse for dyrelivet, naturfredning og skogvern.  I sitt arbeid skal laget ved praktiske tiltak søke å nyttiggjøre seg de resultater forskningen vinner med hensyn til vilt- og fiskepleie og forøvrig treffe nødvendige tiltak til opphjelp av vilt og fiskebestanden.  Laget skal blant annet regulere beskatningen ved jakt, fangst og fiske i forhold til vilt- og fiskebestande, dele inn sitt område i jakt- og fiskeområder ved borleie eller ved salg av jakt- og/eller fiskekort, utnytte medlemmnenes jakt, fangst og fiskerettigheter, sørge for nødvendig oppsyn, bekjempe rovdyrplagen, fastsette reglement for bruk av hund, gevær med mer..",
+      "value": "Samle alle grunneiere i BÃ¦rum for i fellesskap og i samarbeide med Norges Bondelag Ã¥ sÃ¸ke Ã¥ fremme, utnytte og ellers ivareta medlemmenes interesser i jakt, fiske og fangst.  Laget skal ogsÃ¥ arbeide for god jaktkultur, bedre forstÃ¥else og aktelse for dyrelivet, naturfredning og skogvern.  I sitt arbeid skal laget ved praktiske tiltak sÃ¸ke Ã¥ nyttiggjÃ¸re seg de resultater forskningen vinner med hensyn til vilt- og fiskepleie og forÃ¸vrig treffe nÃ¸dvendige tiltak til opphjelp av vilt og fiskebestanden.  Laget skal blant annet regulere beskatningen ved jakt, fangst og fiske i forhold til vilt- og fiskebestande, dele inn sitt omrÃ¥de i jakt- og fiskeomrÃ¥der ved borleie eller ved salg av jakt- og/eller fiskekort, utnytte medlemmnenes jakt, fangst og fiskerettigheter, sÃ¸rge for nÃ¸dvendig oppsyn, bekjempe rovdyrplagen, fastsette reglement for bruk av hund, gevÃ¦r med mer..",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:51:13+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:51:14+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AAM REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/969957973/roller",
       "source_date": "2024-06-03",
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 969957973. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:14+00:00",
+  "last_checked": "2026-10-17T10:14:16+00:00",
   "changes": []
 }

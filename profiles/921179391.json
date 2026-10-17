@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
       "source_date": "2018-07-26",
       "retrieved_at": "2026-10-17T07:51:08+00:00"
     },
     {
       "field": "address",
-      "value": "Ruseløkkveien 26, 0251, OSLO",
+      "value": "RuselÃ¸kkveien 26, 0251, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
       "source_date": "2018-07-26",
       "retrieved_at": "2026-10-17T07:51:08+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:08+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Eirin Traasdahl Mårvik",
+      "value": "Eirin Traasdahl MÃ¥rvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
       "source_date": "2022-06-28",
       "retrieved_at": "2026-10-17T07:51:09+00:00"
@@ -157,14 +157,14 @@
       "retrieved_at": "2026-10-17T07:51:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ABG BUSINESS MANAGEMENT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
       "source_date": "2024-04-11",
       "retrieved_at": "2026-10-17T07:51:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921179391/roller",
       "source_date": "2024-04-11",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921179391.",
-  "last_checked": "2026-10-17T07:51:09+00:00",
+  "last_checked": "2026-10-17T10:14:08+00:00",
   "changes": []
 }

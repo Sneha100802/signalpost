@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL ØVRE SØRGJERDET BORETTSLAG",
+      "value": "AL Ã˜VRE SÃ˜RGJERDET BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:10+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898/roller",
       "source_date": "2025-11-15",
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Synne Hoff Sjøbakk",
+      "value": "Synne Hoff SjÃ¸bakk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898/roller",
       "source_date": "2026-07-14",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jo Vegar Unsgård",
+      "value": "Jo Vegar UnsgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898/roller",
       "source_date": "2026-07-14",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Marte Nesvik Tøndel",
+      "value": "Marte Nesvik TÃ¸ndel",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898/roller",
       "source_date": "2026-07-14",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:47:11+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955454898/roller",
       "source_date": "2019-11-09",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955454898.",
-  "last_checked": "2026-10-17T07:47:11+00:00",
+  "last_checked": "2026-10-17T09:56:51+00:00",
   "changes": []
 }

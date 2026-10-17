@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøpe inn, utvikle (derunder utbygge) og forvalte eiendommen Nedre Storg. 14, gnr. 114 bnr. 675 i Drammen kommune.",
+      "value": "KjÃ¸pe inn, utvikle (derunder utbygge) og forvalte eiendommen Nedre Storg. 14, gnr. 114 bnr. 675 i Drammen kommune.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952468979",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952468979. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:13+00:00",
+  "last_checked": "2026-10-17T10:09:21+00:00",
   "changes": []
 }

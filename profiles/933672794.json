@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "EVJESUNDET VANN OG AVLØP DRIFTSFORETAK SA",
+      "value": "EVJESUNDET VANN OG AVLÃ˜P DRIFTSFORETAK SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Bjørnenga 48, 1364, FORNEBU",
+      "value": "BjÃ¸rnenga 48, 1364, FORNEBU",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretakets formål er å eie, drifte og administrere felles privat vann- og avløpsanlegg med tilhørende tekniske installasjoner for eiere av fritidseiendommer i områdene Stangerholmen og Klommetangen i Moss kommune som er medlem av samvirket. Det er videre foretakets formål, når VA-anlegget er bygget ferdig og klargjort for å settes i drift, å overta eierskapet til dette fra det særskilte foretaket, Evjesundet Vann og Avløp Utbygging SA. Samvirket har også til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av vann- og avløpstjenester fra samvirket. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stående i samvirket eller fordelt blant medlemmene på grunnlag av deres andel i omsetningen med foretaket.",
+      "value": "Foretakets formÃ¥l er Ã¥ eie, drifte og administrere felles privat vann- og avlÃ¸psanlegg med tilhÃ¸rende tekniske installasjoner for eiere av fritidseiendommer i omrÃ¥dene Stangerholmen og Klommetangen i Moss kommune som er medlem av samvirket. Det er videre foretakets formÃ¥l, nÃ¥r VA-anlegget er bygget ferdig og klargjort for Ã¥ settes i drift, Ã¥ overta eierskapet til dette fra det sÃ¦rskilte foretaket, Evjesundet Vann og AvlÃ¸p Utbygging SA. Samvirket har ogsÃ¥ til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av vann- og avlÃ¸pstjenester fra samvirket. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stÃ¥ende i samvirket eller fordelt blant medlemmene pÃ¥ grunnlag av deres andel i omsetningen med foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BACKOFFICE4U  AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933672794/roller",
       "source_date": "2025-06-25",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933672794. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:01+00:00",
+  "last_checked": "2026-10-17T10:08:48+00:00",
   "changes": []
 }

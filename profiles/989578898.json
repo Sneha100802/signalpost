@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BRØDRENE LYSGÅRD TAK & FASADE ANS",
+      "value": "BRÃ˜DRENE LYSGÃ…RD TAK & FASADE ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
       "source_date": "2006-06-28",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Østre Totenveg 100, 2816, GJØVIK",
+      "value": "Ã˜stre Totenveg 100, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
       "source_date": "2006-06-28",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 715, 2815, GJØVIK",
+      "value": "Postboks 715, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
       "source_date": "2006-06-28",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Alt av utvendig maling. Taktekking/fasade. Utvendig snekkring. Alt av utvendig blikkerslagerarbeid. Alt av innvendig snekkring, maling. Salg av brann-redningsstiger, samt andre stiger og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Alt av utvendig maling. Taktekking/fasade. Utvendig snekkring. Alt av utvendig blikkerslagerarbeid. Alt av innvendig snekkring, maling. Salg av brann-redningsstiger, samt andre stiger og produkter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898",
       "source_date": "2006-06-28",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Daniel Lysgård",
+      "value": "Daniel LysgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
       "source_date": "2006-06-28",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Daniel Lysgård",
+      "value": "Daniel LysgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989578898/roller",
       "source_date": "2026-01-31",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989578898. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:22+00:00",
+  "last_checked": "2026-10-17T10:05:41+00:00",
   "changes": []
 }

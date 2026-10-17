@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "value": "01.410 Melkeproduksjon pÃ¥ storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
       "source_date": "1999-07-07",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive felles melkeproduksjon for best mulig rasjonell drift og økonomisk utnyttelse for partene, ved hovedsaklig å utnytte eksisterende kapasitet. I tillegg til melkeproduksjon kan partene etablere annen virksomhet som direkte knytter seg til landbruksnæringen. Etableres det samdrift om annen virksomhet i tillegg til selve melkeproduksjon med grovforproduksjon, bør det utarbeides tilleggsavtale/-vedtekter for dette.",
+      "value": "Drive felles melkeproduksjon for best mulig rasjonell drift og Ã¸konomisk utnyttelse for partene, ved hovedsaklig Ã¥ utnytte eksisterende kapasitet. I tillegg til melkeproduksjon kan partene etablere annen virksomhet som direkte knytter seg til landbruksnÃ¦ringen. Etableres det samdrift om annen virksomhet i tillegg til selve melkeproduksjon med grovforproduksjon, bÃ¸r det utarbeides tilleggsavtale/-vedtekter for dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302",
       "source_date": "1999-07-07",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øystein Snuggerud",
+      "value": "Ã˜ystein Snuggerud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880736302/roller",
       "source_date": "2000-09-20",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880736302. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:27+00:00",
+  "last_checked": "2026-10-17T09:57:24+00:00",
   "changes": []
 }

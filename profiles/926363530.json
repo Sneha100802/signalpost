@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AF HÆHRE & ISACHSEN ANS",
+      "value": "AF HÃ†HRE & ISACHSEN ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
       "source_date": "2021-01-11",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å utføre entreprenørarbeider som ulike entrepriser innenfor anleggssektoren, og alt som står i den forbindelse.",
+      "value": "Ã… utfÃ¸re entreprenÃ¸rarbeider som ulike entrepriser innenfor anleggssektoren, og alt som stÃ¥r i den forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530",
       "source_date": "2021-01-11",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "HÆHRE ENTREPRENØR AS",
+      "value": "HÃ†HRE ENTREPRENÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926363530/roller",
       "source_date": "2021-01-11",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926363530.",
-  "last_checked": "2026-10-17T07:49:15+00:00",
+  "last_checked": "2026-10-17T10:05:32+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ANGEL NÆRINGSBYGG DA",
+      "value": "ANGEL NÃ†RINGSBYGG DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
       "source_date": "1998-10-07",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
       "source_date": "1998-10-07",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Oppføring av nybygg, utleie og drift av fast eiendom og alt hva hermed står i forbindelse, samt gjennom aksjetegning eller på annen måte delta i annen virksomhet. Selskapet skal i tillegg kunne tilby konsulentbistand, bygge- og entreprenørvirksomhet tilknyttet lokalene som leies ut av selskapet.",
+      "value": "OppfÃ¸ring av nybygg, utleie og drift av fast eiendom og alt hva hermed stÃ¥r i forbindelse, samt gjennom aksjetegning eller pÃ¥ annen mÃ¥te delta i annen virksomhet. Selskapet skal i tillegg kunne tilby konsulentbistand, bygge- og entreprenÃ¸rvirksomhet tilknyttet lokalene som leies ut av selskapet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176",
       "source_date": "1998-10-07",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "A/S TRÅIKA",
+      "value": "A/S TRÃ…IKA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980156176/roller",
       "source_date": "2021-06-30",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980156176.",
-  "last_checked": "2026-10-17T07:51:17+00:00",
+  "last_checked": "2026-10-17T10:14:22+00:00",
   "changes": []
 }

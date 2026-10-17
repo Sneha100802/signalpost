@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ACCENTURE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631/roller",
       "source_date": "2024-09-03",
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985850631. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:28+00:00",
+  "last_checked": "2026-10-17T10:10:29+00:00",
   "changes": []
 }

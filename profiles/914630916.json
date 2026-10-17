@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914630916",
       "source_date": "2015-01-28",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
     },
     {
       "field": "address",
-      "value": "Kongens gate 18, 8006, BODØ",
+      "value": "Kongens gate 18, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914630916",
       "source_date": "2015-01-28",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 43, 8001, BODØ",
+      "value": "Postboks 43, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914630916",
       "source_date": "2015-01-28",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914630916",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "BODØ REVISJONSKONTOR AS",
+      "value": "BODÃ˜ REVISJONSKONTOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914630916/roller",
       "source_date": "2019-02-27",
       "retrieved_at": "2026-10-17T07:48:04+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914630916.",
-  "last_checked": "2026-10-17T07:48:04+00:00",
+  "last_checked": "2026-10-17T09:58:59+00:00",
   "changes": []
 }

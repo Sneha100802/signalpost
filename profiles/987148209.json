@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Øyaveien 41,43,45,47,49,51,, 53,55,57,59, 8373, BALLSTAD",
+      "value": "Ã˜yaveien 41,43,45,47,49,51,, 53,55,57,59, 8373, BALLSTAD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209",
       "source_date": "2004-08-26",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209",
       "source_date": "2004-08-26",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209/roller",
       "source_date": "2004-08-26",
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ivar Frøystein Huse",
+      "value": "Ivar FrÃ¸ystein Huse",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209/roller",
       "source_date": "2025-12-18",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øystein Arctander Rist",
+      "value": "Ã˜ystein Arctander Rist",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209/roller",
       "source_date": "2025-12-18",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987148209/roller",
       "source_date": "2013-09-30",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987148209.",
-  "last_checked": "2026-10-17T07:47:50+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987148209. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:29+00:00",
   "changes": []
 }

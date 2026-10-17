@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918897194",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:09+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918897194",
       "source_date": "2017-04-24",
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Bjørn Aksel Hensvold",
+      "value": "BjÃ¸rn Aksel Hensvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918897194/roller",
       "source_date": "2017-04-24",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918897194. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:10+00:00",
+  "last_checked": "2026-10-17T09:56:48+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "41 BODØ",
+      "value": "41 BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931379860",
       "source_date": "2023-05-10",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Aleksander Haabeth Holand, Bruksenhetsnummer HO310, Fridtjof Nansens vei 5, 8003, BODØ",
+      "value": "c/o Aleksander Haabeth Holand, Bruksenhetsnummer HO310, Fridtjof Nansens vei 5, 8003, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931379860",
       "source_date": "2023-05-10",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931379860",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931379860. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:03+00:00",
+  "last_checked": "2026-10-17T09:56:36+00:00",
   "changes": []
 }

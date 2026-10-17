@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "47.830 Detaljhandel med motorsykler og tilhørende deler og utstyr",
+      "value": "47.830 Detaljhandel med motorsykler og tilhÃ¸rende deler og utstyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300",
       "source_date": "2016-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     },
     {
       "field": "address",
-      "value": "Ringvegen 13B, 2816, GJØVIK",
+      "value": "Ringvegen 13B, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300",
       "source_date": "2016-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie aksjer i andre selskaper, samt hva herved står i forbindelse",
+      "value": "Eie aksjer i andre selskaper, samt hva herved stÃ¥r i forbindelse",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300",
       "source_date": "2016-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Per Harald Øyhus",
+      "value": "Per Harald Ã˜yhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300/roller",
       "source_date": "2016-10-06",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TALLENT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917819300/roller",
       "source_date": "2016-10-06",
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917819300.",
-  "last_checked": "2026-10-17T07:48:02+00:00",
+  "last_checked": "2026-10-17T09:58:44+00:00",
   "changes": []
 }

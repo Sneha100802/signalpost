@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive formidlingsvirksomhet innenfor kultur, kunst og samfunn, samt bidra til økt engasjement og kunnskap gjennom ulike prosjekter, arrangementer og samarbeid.",
+      "value": "Drive formidlingsvirksomhet innenfor kultur, kunst og samfunn, samt bidra til Ã¸kt engasjement og kunnskap gjennom ulike prosjekter, arrangementer og samarbeid.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433",
       "source_date": "2025-11-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Tone Waagbø Hille",
+      "value": "Tone WaagbÃ¸ Hille",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433/roller",
       "source_date": "2025-11-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Tone Waagbø Hille",
+      "value": "Tone WaagbÃ¸ Hille",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936507433/roller",
       "source_date": "2025-11-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936507433.",
-  "last_checked": "2026-10-17T07:50:40+00:00",
+  "last_checked": "2026-10-17T10:11:48+00:00",
   "changes": []
 }

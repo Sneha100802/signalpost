@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "NERÅS MJØLK DA",
+      "value": "NERÃ…S MJÃ˜LK DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "value": "01.410 Melkeproduksjon pÃ¥ storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
     },
     {
       "field": "address",
-      "value": "Nerås, 6470, ERESFJORD",
+      "value": "NerÃ¥s, 6470, ERESFJORD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive felles melk- og kjøttproduksjon for best muilg rasjonell utnytting av deltakernes ressursgrunnlag.",
+      "value": "Ã… drive felles melk- og kjÃ¸ttproduksjon for best muilg rasjonell utnytting av deltakernes ressursgrunnlag.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -102,34 +102,34 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Børge Rød",
+      "value": "BÃ¸rge RÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555/roller",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Børge Rød",
+      "value": "BÃ¸rge RÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555/roller",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Aslak Nerås",
+      "value": "Aslak NerÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555/roller",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BØNDENES REGNSKAPSLAG SA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BÃ˜NDENES REGNSKAPSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913251555/roller",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913251555. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:39+00:00",
+  "last_checked": "2026-10-17T09:57:51+00:00",
   "changes": []
 }

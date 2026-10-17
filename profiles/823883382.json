@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Ole Kristian Løberg, Plutobakken 26, 3055, KROKSTADELVA",
+      "value": "c/o Ole Kristian LÃ¸berg, Plutobakken 26, 3055, KROKSTADELVA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
       "source_date": "2020-04-23",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Musikkseminar, kurs og fremførelse av egenkomponert musikk.",
+      "value": "Musikkseminar, kurs og fremfÃ¸relse av egenkomponert musikk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382",
       "source_date": "2020-04-23",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ole-Kristian Løvberg",
+      "value": "Ole-Kristian LÃ¸vberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
       "source_date": "2020-04-23",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Ole-Kristian Løvberg",
+      "value": "Ole-Kristian LÃ¸vberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/823883382/roller",
       "source_date": "2020-04-23",
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 823883382. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:06+00:00",
+  "last_checked": "2026-10-17T09:56:43+00:00",
   "changes": []
 }

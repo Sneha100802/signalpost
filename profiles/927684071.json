@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "90.202 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
+      "value": "90.202 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927684071",
       "source_date": "2022-01-31",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
     },
     {
       "field": "address",
-      "value": "Oberstløytnant Omdals vei 10, 4630, KRISTIANSAND S",
+      "value": "OberstlÃ¸ytnant Omdals vei 10, 4630, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927684071",
       "source_date": "2022-01-31",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927684071",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:22+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927684071",
       "source_date": "2022-01-31",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927684071. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:23+00:00",
+  "last_checked": "2026-10-17T09:57:17+00:00",
   "changes": []
 }

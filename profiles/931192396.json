@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:37+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396/roller",
       "source_date": "2025-11-15",
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Flågen Bergendahl",
+      "value": "Anne FlÃ¥gen Bergendahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bård Knutzen",
+      "value": "BÃ¥rd Knutzen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Jorunn Halkjær",
+      "value": "Jorunn HalkjÃ¦r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:47:38+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931192396/roller",
       "source_date": "2023-04-13",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931192396.",
-  "last_checked": "2026-10-17T07:47:38+00:00",
+  "last_checked": "2026-10-17T09:57:48+00:00",
   "changes": []
 }

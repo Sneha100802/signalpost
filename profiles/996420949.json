@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretaket skal drive tjenestevirksomhet innen informasjons- og kommunikasjonsteknologi og økonomi og forretningsdrift, og publisering av kunnskap knyttet til dette. Foretaket har til formål å fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandører av varer eller tjenester, innkjøpere, el. brukere. Virksomhetens avkastning, bortsett fra en normal forretnin av innskutt kapital, blir enten stående i virksomheten eller fordelt blant medlemmene på grunnlag av deres andel i verdiskapningen, herunder administrasjon, produktutviklingen eller omsetningen med foretaket.",
+      "value": "Foretaket skal drive tjenestevirksomhet innen informasjons- og kommunikasjonsteknologi og Ã¸konomi og forretningsdrift, og publisering av kunnskap knyttet til dette. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som leverandÃ¸rer av varer eller tjenester, innkjÃ¸pere, el. brukere. Virksomhetens avkastning, bortsett fra en normal forretnin av innskutt kapital, blir enten stÃ¥ende i virksomheten eller fordelt blant medlemmene pÃ¥ grunnlag av deres andel i verdiskapningen, herunder administrasjon, produktutviklingen eller omsetningen med foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996420949",
       "source_date": "2011-02-15",
       "retrieved_at": "2026-10-17T07:50:40+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:41+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996420949.",
-  "last_checked": "2026-10-17T07:50:41+00:00",
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996420949. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:11:59+00:00",
   "changes": []
 }

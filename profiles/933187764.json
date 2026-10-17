@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive virksomhet, herunder utvikle og produsere, investere i og/eller eie rettigheter innen produksjon av hydrogenfyllestasjoner eller andre relaterte områder, og alt som står i forbindelse med dette.",
+      "value": "Drive virksomhet, herunder utvikle og produsere, investere i og/eller eie rettigheter innen produksjon av hydrogenfyllestasjoner eller andre relaterte omrÃ¥der, og alt som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764",
       "source_date": "2024-03-19",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Jon Andre Løkke",
+      "value": "Jon Andre LÃ¸kke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
       "source_date": "2026-09-30",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Vibeke Strømme",
+      "value": "Vibeke StrÃ¸mme",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
       "source_date": "2026-09-30",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Allan Bødskov Andersen",
+      "value": "Allan BÃ¸dskov Andersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
       "source_date": "2026-09-30",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "KPMG ACCOUNTING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933187764/roller",
       "source_date": "2024-07-24",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933187764.",
-  "last_checked": "2026-10-17T07:50:56+00:00",
+  "last_checked": "2026-10-17T10:12:45+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Astrid Reinertsen, Bergåsveien 21, 3057, SOLBERGELVA",
+      "value": "c/o Astrid Reinertsen, BergÃ¥sveien 21, 3057, SOLBERGELVA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918415858",
       "source_date": "2017-03-22",
       "retrieved_at": "2026-10-17T07:47:14+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918415858",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:14+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tom Ottar Døviken",
+      "value": "Tom Ottar DÃ¸viken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918415858/roller",
       "source_date": "2026-02-23",
       "retrieved_at": "2026-10-17T07:47:15+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørg Endresen Kallåk",
+      "value": "BjÃ¸rg Endresen KallÃ¥k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918415858/roller",
       "source_date": "2026-02-23",
       "retrieved_at": "2026-10-17T07:47:15+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918415858. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:16+00:00",
+  "last_checked": "2026-10-17T09:57:02+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Folkets Hus, Prinsens gate 115, 8005, BODØ",
+      "value": "Folkets Hus, Prinsens gate 115, 8005, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794",
       "source_date": "2007-12-15",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Sigrid Bjørlo",
+      "value": "Sigrid BjÃ¸rlo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794/roller",
       "source_date": "2025-04-25",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -143,14 +143,45 @@
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIHUSET FAUSKE AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIHUSET FAUSKE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794/roller",
       "source_date": "2025-08-20",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://4h.no/nordland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:13:56+00:00"
+    },
+    {
+      "field": "email",
+      "value": "4hnordland@4h.no",
+      "source_url": "https://4h.no/nordland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:13:57+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:05+00:00",
-  "changes": []
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:15:01+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "4hnordland@4h.no"
+      ],
+      "at": "2026-10-17T10:15:01+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:15:01+00:00"
+    }
+  ]
 }

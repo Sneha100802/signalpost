@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Kristian Røsok, Torget 1, 6413, MOLDE",
+      "value": "c/o Kristian RÃ¸sok, Torget 1, 6413, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
       "source_date": "2003-02-11",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -102,28 +102,28 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kristian Røsok",
+      "value": "Kristian RÃ¸sok",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
       "source_date": "2022-07-14",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Roald Løseth",
+      "value": "Roald LÃ¸seth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
       "source_date": "2022-07-14",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Eva Rød",
+      "value": "Eva RÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
       "source_date": "2022-07-14",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Berit Røsok Dahl",
+      "value": "Berit RÃ¸sok Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985294615/roller",
       "source_date": "2022-07-14",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985294615.",
-  "last_checked": "2026-10-17T07:47:55+00:00",
+  "last_checked": "2026-10-17T09:58:32+00:00",
   "changes": []
 }

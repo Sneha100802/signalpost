@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.420 Engroshandel med klær og skotøy",
+      "value": "46.420 Engroshandel med klÃ¦r og skotÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
       "source_date": "1995-12-29",
       "retrieved_at": "2026-10-17T07:48:30+00:00"
     },
     {
       "field": "address",
-      "value": "Nellickevägen 24, SE-412 63 GÖTEBORG",
+      "value": "NellickevÃ¤gen 24, SE-412 63 GÃ–TEBORG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
       "source_date": "1995-12-29",
       "retrieved_at": "2026-10-17T07:48:30+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:30+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965058/roller",
       "source_date": "2023-12-16",
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975965058. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:31+00:00",
+  "last_checked": "2026-10-17T10:00:55+00:00",
   "changes": []
 }

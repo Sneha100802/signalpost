@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "v/Bosør, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "v/BosÃ¸r, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -115,29 +115,29 @@
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213/roller",
       "source_date": "2010-05-22",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Stine Høiby",
+      "value": "Stine HÃ¸iby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213/roller",
       "source_date": "2026-05-06",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tor Arne Varøy",
+      "value": "Tor Arne VarÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213/roller",
       "source_date": "2026-05-06",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Christian Håvardstad",
+      "value": "BjÃ¸rn Christian HÃ¥vardstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213/roller",
       "source_date": "2026-05-06",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:48:17+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960033213/roller",
       "source_date": "2012-03-24",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 960033213.",
-  "last_checked": "2026-10-17T07:48:17+00:00",
+  "last_checked": "2026-10-17T09:59:28+00:00",
   "changes": []
 }

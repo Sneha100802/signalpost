@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og bÃ¥ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
       "source_date": "2026-03-24",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:28+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MTA GROUP 2 AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
       "source_date": "2026-03-24",
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Oppl om foretaket i hjemlandet",
-      "value": "AJC GROUP SPÒLKA Z OGRANICZONA",
+      "value": "AJC GROUP SPÃ’LKA Z OGRANICZONA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937307152/roller",
       "source_date": "2026-03-24",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937307152. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:29+00:00",
+  "last_checked": "2026-10-17T10:06:07+00:00",
   "changes": []
 }

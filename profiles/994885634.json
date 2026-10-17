@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokm�l",
+      "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994885634",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -120,9 +120,67 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994885634/roller",
       "source_date": "2026-01-24",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://3e1.kmspeider.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:08+00:00"
+    },
+    {
+      "field": "description",
+      "value": "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, weekly meetings, trips, camps, and leadership development for children and youth.",
+      "source_url": "https://3e1.kmspeider.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:18+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Speidermøter",
+        "Speiderturer",
+        "Speiderleir",
+        "Lederutvikling",
+        "Friluftsaktiviteter"
+      ],
+      "source_url": "https://3e1.kmspeider.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:18+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994885634. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:47+00:00",
-  "changes": []
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994885634. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T09:56:18+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, weekly meetings, trips, camps, and leadership development for children and youth."
+      ],
+      "at": "2026-10-17T09:56:18+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Speidermøter",
+          "Speiderturer",
+          "Speiderleir",
+          "Lederutvikling",
+          "Friluftsaktiviteter"
+        ]
+      ],
+      "at": "2026-10-17T09:56:18+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:56:18+00:00"
+    }
+  ]
 }

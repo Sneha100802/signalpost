@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie, drifte og vedlikeholde et felles vann- og avløpsanlegg - heretter kalt hovednettet - for foretakets medlemmer i stikkveien Brunvallveien 56-72 i Larvik kommune, samt ivareta medlemmenes interesser og behov i denne forbindelse.",
+      "value": "Eie, drifte og vedlikeholde et felles vann- og avlÃ¸psanlegg - heretter kalt hovednettet - for foretakets medlemmer i stikkveien Brunvallveien 56-72 i Larvik kommune, samt ivareta medlemmenes interesser og behov i denne forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749",
       "source_date": "2021-07-28",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ole-Gunnar Øhren",
+      "value": "Ole-Gunnar Ã˜hren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927339749/roller",
       "source_date": "2026-08-15",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927339749. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:01+00:00",
+  "last_checked": "2026-10-17T09:58:42+00:00",
   "changes": []
 }

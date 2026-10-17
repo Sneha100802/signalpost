@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
       "source_date": "2018-08-14",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "address",
-      "value": "Håveien, 3234, SANDEFJORD",
+      "value": "HÃ¥veien, 3234, SANDEFJORD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
       "source_date": "2018-08-14",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie, drive og vedlikeholde lagets fellesbrygge på Briskebakken.",
+      "value": "Ã… eie, drive og vedlikeholde lagets fellesbrygge pÃ¥ Briskebakken.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278",
       "source_date": "2018-08-14",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Fredrik Bjørklund Granås",
+      "value": "Fredrik BjÃ¸rklund GranÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996563278/roller",
       "source_date": "2023-03-31",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996563278. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
+  "last_checked": "2026-10-17T09:57:30+00:00",
   "changes": []
 }

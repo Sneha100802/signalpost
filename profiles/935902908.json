@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Fredensborgveien 124A, 8005, BODØ",
+      "value": "Fredensborgveien 124A, 8005, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935902908",
       "source_date": "2025-09-16",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935902908",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935902908. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:18+00:00",
+  "last_checked": "2026-10-17T09:59:29+00:00",
   "changes": []
 }

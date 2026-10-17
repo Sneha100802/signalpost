@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927020629",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:41+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Anders Hjelbak Rønningen",
+      "value": "Anders Hjelbak RÃ¸nningen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927020629/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Karen Grøttheim Algaard",
+      "value": "Karen GrÃ¸ttheim Algaard",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927020629/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hanne-Sofie Skogen Strømberg",
+      "value": "Hanne-Sofie Skogen StrÃ¸mberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927020629/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -179,7 +179,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Sigrid Siksjø",
+      "value": "Sigrid SiksjÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927020629/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -270,6 +270,6 @@
     }
   ],
   "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927020629.",
-  "last_checked": "2026-10-17T07:50:42+00:00",
+  "last_checked": "2026-10-17T10:12:07+00:00",
   "changes": []
 }

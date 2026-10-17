@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Line Kildal, Lundsgate 23, 2815, GJØVIK",
+      "value": "c/o Line Kildal, Lundsgate 23, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917592926",
       "source_date": "2016-08-22",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917592926",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forretningsmessige tjenesteyting, eierskap og utleie av eiendom og virksomhet som står i forbindelse med dette.",
+      "value": "Forretningsmessige tjenesteyting, eierskap og utleie av eiendom og virksomhet som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917592926",
       "source_date": "2016-08-22",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917592926. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:51+00:00",
+  "last_checked": "2026-10-17T10:02:58+00:00",
   "changes": []
 }

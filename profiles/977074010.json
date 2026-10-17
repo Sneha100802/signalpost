@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:59+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:48:59+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VISMA ENTERPRISE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
       "source_date": "2025-08-07",
@@ -141,9 +141,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977074010/roller",
       "source_date": "1997-01-15",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://danskebank.no/bedrift",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:04:03+00:00"
+    },
+    {
+      "field": "email",
+      "value": "06030@danskebank.no",
+      "source_url": "https://danskebank.no/bedrift/kundeservice/kontakt-oss-bedrift",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:04:03+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977074010. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:00+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977074010. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:05:31+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "06030@danskebank.no"
+      ],
+      "at": "2026-10-17T10:05:31+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:05:31+00:00"
+    }
+  ]
 }

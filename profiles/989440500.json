@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BILLEDKUNSTNEREN HÅKON BLEKENS STIFTELSE",
+      "value": "BILLEDKUNSTNEREN HÃ…KON BLEKENS STIFTELSE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500",
       "source_date": "2006-03-09",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500",
       "source_date": "2006-03-09",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Gorm Sølve Gaare Lyng",
+      "value": "Gorm SÃ¸lve Gaare Lyng",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500/roller",
       "source_date": "2026-09-21",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øivind Lorentz Storm Bjerke",
+      "value": "Ã˜ivind Lorentz Storm Bjerke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500/roller",
       "source_date": "2026-09-21",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Steffen Granøyen Rogstad",
+      "value": "Steffen GranÃ¸yen Rogstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989440500/roller",
       "source_date": "2026-09-21",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989440500.",
-  "last_checked": "2026-10-17T07:50:53+00:00",
+  "last_checked": "2026-10-17T10:12:40+00:00",
   "changes": []
 }

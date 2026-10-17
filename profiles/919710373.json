@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GRELEHOLMEN VANN OG AVLØP SA",
+      "value": "GRELEHOLMEN VANN OG AVLÃ˜P SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
       "source_date": "2017-11-06",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Østre Lone lier 65, 4642, SØGNE",
+      "value": "Ã˜stre Lone lier 65, 4642, SÃ˜GNE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
       "source_date": "2017-11-06",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Anlegge, drifte og administrere vann- og avløpsanlegg med tilhørende installasjoner for foretakets medlemmer.",
+      "value": "Anlegge, drifte og administrere vann- og avlÃ¸psanlegg med tilhÃ¸rende installasjoner for foretakets medlemmer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919710373",
       "source_date": "2017-11-06",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919710373. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:49+00:00",
+  "last_checked": "2026-10-17T10:02:43+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "1. KOLSÅS SPEIDERGRUPPE",
+      "value": "1. KOLSÃ…S SPEIDERGRUPPE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913858867",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Speiderhuset, Rødskiferveien 25, 1352, KOLSÅS",
+      "value": "Speiderhuset, RÃ¸dskiferveien 25, 1352, KOLSÃ…S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913858867",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Axel Ask-Bolstad, Gullhaugveien 106, 1354, BÆRUMS VERK",
+      "value": "c/o Axel Ask-Bolstad, Gullhaugveien 106, 1354, BÃ†RUMS VERK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913858867",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913858867",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913858867. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:06+00:00",
+  "last_checked": "2026-10-17T09:59:05+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Frøyas gate 15, 0273, OSLO",
+      "value": "FrÃ¸yas gate 15, 0273, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
       "source_date": "2017-11-24",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Anders Jørgen Lenborg",
+      "value": "Anders JÃ¸rgen Lenborg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
       "source_date": "2017-11-24",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kjell-Erik Østdahl",
+      "value": "Kjell-Erik Ã˜stdahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
       "source_date": "2026-04-24",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECHAS REVISJON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919967072/roller",
       "source_date": "2018-01-15",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919967072.",
-  "last_checked": "2026-10-17T07:47:49+00:00",
+  "last_checked": "2026-10-17T09:58:22+00:00",
   "changes": []
 }

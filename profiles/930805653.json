@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Solveig Klausen, Erling Høviks veg 17A, 7059, JAKOBSLI",
+      "value": "c/o Solveig Klausen, Erling HÃ¸viks veg 17A, 7059, JAKOBSLI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
       "source_date": "2023-02-09",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg av brukte klær, leker og utstyr.",
+      "value": "Salg av brukte klÃ¦r, leker og utstyr.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653",
       "source_date": "2023-02-09",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Terje Løvmo",
+      "value": "Terje LÃ¸vmo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930805653/roller",
       "source_date": "2023-02-09",
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930805653.",
-  "last_checked": "2026-10-17T07:49:02+00:00",
+  "last_checked": "2026-10-17T10:04:47+00:00",
   "changes": []
 }

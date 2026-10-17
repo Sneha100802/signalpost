@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AFRY ADVANSIA PERSONALKLUBB BODØ",
+      "value": "AFRY ADVANSIA PERSONALKLUBB BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935792215",
       "source_date": "2025-08-25",
       "retrieved_at": "2026-10-17T07:50:59+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Dronningens gate 23, 8006, BODØ",
+      "value": "Dronningens gate 23, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935792215",
       "source_date": "2025-08-25",
       "retrieved_at": "2026-10-17T07:50:59+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935792215",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:59+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håvard Breivik",
+      "value": "HÃ¥vard Breivik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935792215/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935792215. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:00+00:00",
+  "last_checked": "2026-10-17T10:13:23+00:00",
   "changes": []
 }

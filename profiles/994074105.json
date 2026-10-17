@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994074105",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:04+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT BUSINESS PARTNER PLUSS AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994074105/roller",
       "source_date": "2010-06-01",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994074105. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:05+00:00",
+  "last_checked": "2026-10-17T09:56:40+00:00",
   "changes": []
 }

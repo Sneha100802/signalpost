@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Stiftelsens formål er å gi aktive rehabiliteringstilbud for å bedre pasientenes funksjonsnivå, bidra til å hindre tilbakefall av sykdom/skade og bedre muligheten for god livskvalitet og egenomsorg.",
+      "value": "Stiftelsens formÃ¥l er Ã¥ gi aktive rehabiliteringstilbud for Ã¥ bedre pasientenes funksjonsnivÃ¥, bidra til Ã¥ hindre tilbakefall av sykdom/skade og bedre muligheten for god livskvalitet og egenomsorg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jostein Blikås",
+      "value": "Jostein BlikÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
       "source_date": "2026-05-05",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Marianne Wahlstrøm",
+      "value": "Marianne WahlstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
       "source_date": "2026-05-12",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pål Johan Vanberg",
+      "value": "PÃ¥l Johan Vanberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
       "source_date": "2026-05-12",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:48:32+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "NIVAL AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/871426902/roller",
       "source_date": "2024-12-11",
@@ -225,9 +225,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/871426902",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.godthaab.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:04+00:00"
+    },
+    {
+      "field": "email",
+      "value": "resepsjon@godthaab.no",
+      "source_url": "https://www.godthaab.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:04+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Godthaab Helse og Rehabilitering offers health and rehabilitation services, including treatments for conditions such as injury, heart disease, rheumatic diseases, and complex medical conditions.",
+      "source_url": "https://www.godthaab.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:15+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Brudd- og slitasjeskader",
+        "Hjertesykdommer",
+        "Reumatologiske sykdommer",
+        "Komplekst/sammensatt sykdomsbilde",
+        "Kvinnehelse"
+      ],
+      "source_url": "https://www.godthaab.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:15+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871426902.",
-  "last_checked": "2026-10-17T07:48:32+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871426902.",
+  "last_checked": "2026-10-17T10:18:15+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "resepsjon@godthaab.no"
+      ],
+      "at": "2026-10-17T10:02:14+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:02:14+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Godthaab Helse og Rehabilitering offers health and rehabilitation services, including treatments for conditions such as injury, heart disease, rheumatic diseases, and complex medical conditions."
+      ],
+      "at": "2026-10-17T10:18:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Brudd- og slitasjeskader",
+          "Hjertesykdommer",
+          "Reumatologiske sykdommer",
+          "Komplekst/sammensatt sykdomsbilde",
+          "Kvinnehelse"
+        ]
+      ],
+      "at": "2026-10-17T10:18:15+00:00"
+    }
+  ]
 }

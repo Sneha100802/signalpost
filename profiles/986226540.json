@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "FAMILIENE KIØSTERUD OG LYCHES LEGAT TIL STØTTE FOR ØKONOMISK VANSKELIGSTILTE I DRAMMEN OG TIL INGENIØRER/ARKITEKTER VED TEKNISKE HØYSKOLER STI",
+      "value": "FAMILIENE KIÃ˜STERUD OG LYCHES LEGAT TIL STÃ˜TTE FOR Ã˜KONOMISK VANSKELIGSTILTE I DRAMMEN OG TIL INGENIÃ˜RER/ARKITEKTER VED TEKNISKE HÃ˜YSKOLER STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
       "source_date": "2004-02-04",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
       "source_date": "2004-02-04",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Anne Louise Bråten",
+      "value": "Anne Louise BrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
       "source_date": "2025-03-21",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Lise Lervåg",
+      "value": "Anne Lise LervÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
       "source_date": "2025-03-21",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:47:17+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986226540/roller",
       "source_date": "2025-12-02",
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986226540. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:17+00:00",
+  "last_checked": "2026-10-17T09:57:04+00:00",
   "changes": []
 }

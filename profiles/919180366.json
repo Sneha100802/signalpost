@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BODØ FOTTERAPISENTER DA",
+      "value": "BODÃ˜ FOTTERAPISENTER DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919180366",
       "source_date": "2017-06-23",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Dronningens gate 18, 8006, BODØ",
+      "value": "Dronningens gate 18, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919180366",
       "source_date": "2017-06-23",
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919180366",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:17+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919180366.",
-  "last_checked": "2026-10-17T07:48:19+00:00",
+  "last_checked": "2026-10-17T09:59:31+00:00",
   "changes": []
 }

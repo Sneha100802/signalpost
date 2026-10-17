@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Ulvhøyen 30, 5134, FLAKTVEIT",
+      "value": "UlvhÃ¸yen 30, 5134, FLAKTVEIT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964498040",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964498040. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:08+00:00",
+  "last_checked": "2026-10-17T09:56:45+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "79.121 Aktiviteter utført av utflukts- og eventarrangører",
+      "value": "79.121 Aktiviteter utfÃ¸rt av utflukts- og eventarrangÃ¸rer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990143331",
       "source_date": "2006-11-11",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
     },
     {
       "field": "address",
-      "value": "Sivert Nielsens gate 63, 8007, BODØ",
+      "value": "Sivert Nielsens gate 63, 8007, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990143331",
       "source_date": "2006-11-11",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990143331",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Gøran Fardin Aamodt",
+      "value": "GÃ¸ran Fardin Aamodt",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990143331/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:49:47+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:47+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990143331/roller",
       "source_date": "2016-11-07",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990143331.",
-  "last_checked": "2026-10-17T07:49:47+00:00",
+  "last_checked": "2026-10-17T10:07:58+00:00",
   "changes": []
 }

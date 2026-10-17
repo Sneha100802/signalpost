@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "FLÅSÆTRA VANN OG AVLØP SA",
+      "value": "FLÃ…SÃ†TRA VANN OG AVLÃ˜P SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918053808",
       "source_date": "2017-02-23",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918053808",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Organisere drift av vannforsyningsanlegg og gråvannsanlegg for hytteeierne ved Flåsætra, 2 hytteeiere ved Heldalsvegen og 5 hytteeiere i Minilla-feltet på Nerskogen i Rennebu kommune.",
+      "value": "Organisere drift av vannforsyningsanlegg og grÃ¥vannsanlegg for hytteeierne ved FlÃ¥sÃ¦tra, 2 hytteeiere ved Heldalsvegen og 5 hytteeiere i Minilla-feltet pÃ¥ Nerskogen i Rennebu kommune.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918053808",
       "source_date": "2017-02-23",
       "retrieved_at": "2026-10-17T07:49:20+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918053808. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:22+00:00",
+  "last_checked": "2026-10-17T10:05:39+00:00",
   "changes": []
 }

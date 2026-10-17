@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og bÃ¥ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
       "source_date": "2010-12-07",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:33+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Gaute Yddal Vestbøstad",
+      "value": "Gaute Yddal VestbÃ¸stad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996234444/roller",
       "source_date": "2025-05-14",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996234444. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:34+00:00",
+  "last_checked": "2026-10-17T10:11:04+00:00",
   "changes": []
 }

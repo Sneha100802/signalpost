@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952199625",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:11+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:50:11+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "TRIO EIENDOMSSERVICE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952199625/roller",
       "source_date": "2009-12-22",
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Olaf Strømme",
+      "value": "Olaf StrÃ¸mme",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952199625/roller",
       "source_date": "2026-03-02",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Inger Marie Opøien",
+      "value": "Inger Marie OpÃ¸ien",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952199625/roller",
       "source_date": "2026-03-02",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TRIO EIENDOMSSERVICE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952199625/roller",
       "source_date": "2009-12-01",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952199625.",
-  "last_checked": "2026-10-17T07:50:12+00:00",
+  "last_checked": "2026-10-17T10:09:17+00:00",
   "changes": []
 }

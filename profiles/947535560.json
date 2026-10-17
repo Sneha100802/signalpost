@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Årøsetervegen 30, 6422, MOLDE",
+      "value": "Ã…rÃ¸setervegen 30, 6422, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive blikkenslagerforretning samt alt som står i forbindelse med dette,herunder deltakelse i andre selskaper med lignende virksomhet.",
+      "value": "Drive blikkenslagerforretning samt alt som stÃ¥r i forbindelse med dette,herunder deltakelse i andre selskaper med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørnar Vikhagen",
+      "value": "BjÃ¸rnar Vikhagen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
       "source_date": "2008-02-09",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørnar Vikhagen",
+      "value": "BjÃ¸rnar Vikhagen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
       "source_date": "2008-02-09",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947535560/roller",
       "source_date": "2018-05-15",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947535560.",
-  "last_checked": "2026-10-17T07:49:58+00:00",
+  "last_checked": "2026-10-17T10:08:35+00:00",
   "changes": []
 }

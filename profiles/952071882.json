@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Haakon VII Gate 37 A-B, 39 A-B, 8003, BODØ",
+      "value": "Haakon VII Gate 37 A-B, 39 A-B, 8003, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882/roller",
       "source_date": "2015-10-30",
@@ -151,14 +151,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Astrid Tovås",
+      "value": "Astrid TovÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882/roller",
       "source_date": "2020-07-10",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Gørild Høibakk",
+      "value": "GÃ¸rild HÃ¸ibakk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882/roller",
       "source_date": "2020-07-10",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952071882/roller",
       "source_date": "2013-10-08",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952071882.",
-  "last_checked": "2026-10-17T07:49:58+00:00",
+  "last_checked": "2026-10-17T10:08:33+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992088451",
       "source_date": "2007-12-20",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992088451",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Alexander Paludan Wærsten",
+      "value": "Alexander Paludan WÃ¦rsten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992088451/roller",
       "source_date": "2007-12-20",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "EMINENTIA REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992088451/roller",
       "source_date": "2014-11-25",
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992088451. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:40+00:00",
+  "last_checked": "2026-10-17T10:06:58+00:00",
   "changes": []
 }

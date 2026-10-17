@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984091982",
       "source_date": "2002-01-16",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     },
     {
       "field": "address",
-      "value": "Brattvoll platå 33, 4658, TVEIT",
+      "value": "Brattvoll platÃ¥ 33, 4658, TVEIT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984091982",
       "source_date": "2002-01-16",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984091982",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984091982/roller",
       "source_date": "2026-10-12",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984091982. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:04+00:00",
+  "last_checked": "2026-10-17T10:13:46+00:00",
   "changes": []
 }

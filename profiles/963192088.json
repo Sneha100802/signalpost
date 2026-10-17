@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BOMILJØ ØSTERVÅG ANS",
+      "value": "BOMILJÃ˜ Ã˜STERVÃ…G ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Detaljhandel innen kjøkkenutstyr, gaver og glass.",
+      "value": "Detaljhandel innen kjÃ¸kkenutstyr, gaver og glass.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -102,27 +102,27 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Tone Øglænd",
+      "value": "Tone Ã˜glÃ¦nd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088/roller",
       "source_date": "1992-02-20",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Tone Øglænd",
+      "value": "Tone Ã˜glÃ¦nd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088/roller",
       "source_date": "1992-02-20",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Haakon Øglænd",
+      "value": "Haakon Ã˜glÃ¦nd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963192088/roller",
       "source_date": "1992-02-20",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963192088. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:53+00:00",
+  "last_checked": "2026-10-17T10:12:39+00:00",
   "changes": []
 }

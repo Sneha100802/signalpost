@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980151352",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:46:59+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980151352/roller",
       "source_date": "2009-05-26",
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Øyvind Bjørndal Fagerhus",
+      "value": "Ã˜yvind BjÃ¸rndal Fagerhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980151352/roller",
       "source_date": "2026-04-27",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980151352/roller",
       "source_date": "2010-05-01",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:47:01+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980151352.",
-  "last_checked": "2026-10-17T07:47:01+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980151352. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:56:27+00:00",
   "changes": []
 }

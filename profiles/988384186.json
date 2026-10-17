@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988384186",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988384186/roller",
       "source_date": "2025-05-07",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Magnhild Molund Husøy",
+      "value": "Magnhild Molund HusÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988384186/roller",
       "source_date": "2025-05-07",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:50:03+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET TOBB",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988384186/roller",
       "source_date": "2022-05-12",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988384186.",
-  "last_checked": "2026-10-17T07:50:03+00:00",
+  "last_checked": "2026-10-17T10:08:55+00:00",
   "changes": []
 }

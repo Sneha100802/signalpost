@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GJØVIK AVLØSERLAG SA",
+      "value": "GJÃ˜VIK AVLÃ˜SERLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Rådhuset, 2810, GJØVIK",
+      "value": "RÃ¥dhuset, 2810, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Gjøvik Kommune, Postboks 630, 2810, GJØVIK",
+      "value": "c/o GjÃ¸vik Kommune, Postboks 630, 2810, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Skaffe avløsning slik at medlemmene får regelmessig fritid, avlastning i onnetider og avløsning under sykdom m.m. Laget kan også administrere/koordinere andre former for samarbeidstiltak som kan være med å forbedre medlemmenes driftsresultat, arbeidssituasjon og velferd. Det kan også være naturlig å yte andre tjenester som styrker landbruket eller være utviklende for nærmiljøet.",
+      "value": "Skaffe avlÃ¸sning slik at medlemmene fÃ¥r regelmessig fritid, avlastning i onnetider og avlÃ¸sning under sykdom m.m. Laget kan ogsÃ¥ administrere/koordinere andre former for samarbeidstiltak som kan vÃ¦re med Ã¥ forbedre medlemmenes driftsresultat, arbeidssituasjon og velferd. Det kan ogsÃ¥ vÃ¦re naturlig Ã¥ yte andre tjenester som styrker landbruket eller vÃ¦re utviklende for nÃ¦rmiljÃ¸et.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Elise Mæhlum",
+      "value": "Elise MÃ¦hlum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738/roller",
       "source_date": "2012-06-18",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håvard Skjellaug",
+      "value": "HÃ¥vard Skjellaug",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971299738/roller",
       "source_date": "2026-03-24",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971299738.",
-  "last_checked": "2026-10-17T07:48:46+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971299738. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:02:25+00:00",
   "changes": []
 }

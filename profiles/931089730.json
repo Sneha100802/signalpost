@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931089730",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som leverandører av varer/tjenester til foretaket.",
+      "value": "Ã… fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som leverandÃ¸rer av varer/tjenester til foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931089730",
       "source_date": "2023-03-23",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjarne Lutnæs Olafsen",
+      "value": "Bjarne LutnÃ¦s Olafsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931089730/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931089730.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
+  "last_checked": "2026-10-17T09:57:28+00:00",
   "changes": []
 }

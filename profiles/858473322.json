@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Prestegårdsveien 11C, 1369, STABEKK",
+      "value": "PrestegÃ¥rdsveien 11C, 1369, STABEKK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/858473322",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 481, 1323, HØVIK",
+      "value": "Postboks 481, 1323, HÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/858473322",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/858473322",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Laila Hægh",
+      "value": "Laila HÃ¦gh",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/858473322/roller",
       "source_date": "1990-09-25",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 858473322. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:04+00:00",
+  "last_checked": "2026-10-17T10:13:50+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918829806",
       "source_date": "2017-04-07",
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918829806",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anna Durendahl Sønslien",
+      "value": "Anna Durendahl SÃ¸nslien",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918829806/roller",
       "source_date": "2024-11-19",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918829806. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:33+00:00",
+  "last_checked": "2026-10-17T10:11:03+00:00",
   "changes": []
 }

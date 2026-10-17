@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "value": "94.910 Aktiviteter i religiÃ¸se organisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921637802",
       "source_date": "2019-01-14",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921637802",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:50:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SKYURA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921637802/roller",
       "source_date": "2026-01-27",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921637802.",
-  "last_checked": "2026-10-17T07:50:39+00:00",
+  "last_checked": "2026-10-17T10:11:40+00:00",
   "changes": []
 }

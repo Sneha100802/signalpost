@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.403 Undervisning ved andre høgskoler",
+      "value": "85.403 Undervisning ved andre hÃ¸gskoler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853",
       "source_date": "1997-03-18",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pål Stolt-Nielsen Reksten",
+      "value": "PÃ¥l Stolt-Nielsen Reksten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
       "source_date": "2025-11-10",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åsa Marina Bauer",
+      "value": "Ã…sa Marina Bauer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
       "source_date": "2025-11-10",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946051853.",
-  "last_checked": "2026-10-17T07:48:50+00:00",
+  "last_checked": "2026-10-17T10:02:55+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "47.762 Detaljhandel med kjæledyr og varer til kjæledyr",
+      "value": "47.762 Detaljhandel med kjÃ¦ledyr og varer til kjÃ¦ledyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597",
       "source_date": "1998-11-09",
       "retrieved_at": "2026-10-17T07:50:48+00:00"
     },
     {
       "field": "address",
-      "value": "Rådyrkroken 11, 3032, DRAMMEN",
+      "value": "RÃ¥dyrkroken 11, 3032, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597",
       "source_date": "1998-11-09",
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med diverse postordreprodukter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Handel med diverse postordreprodukter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597",
       "source_date": "1998-11-09",
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "John Arne Elvesæther",
+      "value": "John Arne ElvesÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597/roller",
       "source_date": "1998-11-09",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "John Arne Elvesæther",
+      "value": "John Arne ElvesÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980230597/roller",
       "source_date": "1998-11-09",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980230597. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:49+00:00",
+  "last_checked": "2026-10-17T10:12:20+00:00",
   "changes": []
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829925192",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:45+00:00"
@@ -87,8 +87,8 @@
       "retrieved_at": "2026-10-17T07:50:45+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Christian Lyngholm Fjeldsøe",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Christian Lyngholm FjeldsÃ¸e",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829925192/roller",
       "source_date": "2022-12-14",
       "retrieved_at": "2026-10-17T07:50:45+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 829925192. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:46+00:00",
+  "last_checked": "2026-10-17T10:12:14+00:00",
   "changes": []
 }

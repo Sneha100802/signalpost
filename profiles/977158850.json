@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977158850",
       "source_date": "1997-03-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977158850",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Magne Alf Ødegård",
+      "value": "Magne Alf Ã˜degÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977158850/roller",
       "source_date": "2025-08-19",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LEGATCONSULT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977158850/roller",
       "source_date": "2010-12-21",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977158850.",
-  "last_checked": "2026-10-17T07:47:32+00:00",
+  "last_checked": "2026-10-17T09:57:31+00:00",
   "changes": []
 }

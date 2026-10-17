@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive investerings- og forvaltningsvirksomhet, herunder deltakelse i andre selskaper, erverv av aksjer og andre selskapsandeler, samt erverv og drift av fast eiendom, samt all hertil hørende virksomhet.",
+      "value": "Ã… drive investerings- og forvaltningsvirksomhet, herunder deltakelse i andre selskaper, erverv av aksjer og andre selskapsandeler, samt erverv og drift av fast eiendom, samt all hertil hÃ¸rende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Pål Feen Larsen",
+      "value": "PÃ¥l Feen Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
       "source_date": "2019-06-14",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Glen Ole Rødland",
+      "value": "Glen Ole RÃ¸dland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
       "source_date": "2023-06-29",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Wenche Kjølås",
+      "value": "Wenche KjÃ¸lÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
       "source_date": "2023-06-29",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jacob Andreas Møller",
+      "value": "Jacob Andreas MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920639674/roller",
       "source_date": "2023-06-29",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920639674.",
-  "last_checked": "2026-10-17T07:47:14+00:00",
+  "last_checked": "2026-10-17T09:56:59+00:00",
   "changes": []
 }

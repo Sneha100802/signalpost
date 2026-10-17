@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:52+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Tilby vedlikehold og reparasjoner av landbruksredskap, anleggsmaskiner og alt som står i naturlig forbindelse med dette.",
+      "value": "Tilby vedlikehold og reparasjoner av landbruksredskap, anleggsmaskiner og alt som stÃ¥r i naturlig forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862",
       "source_date": "2019-04-15",
       "retrieved_at": "2026-10-17T07:49:52+00:00"
@@ -115,14 +115,14 @@
       "retrieved_at": "2026-10-17T07:49:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BØNDENES REGNSKAPSLAG SA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BÃ˜NDENES REGNSKAPSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922629862/roller",
       "source_date": "2019-04-15",
       "retrieved_at": "2026-10-17T07:49:52+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922629862. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:53+00:00",
+  "last_checked": "2026-10-17T10:08:20+00:00",
   "changes": []
 }

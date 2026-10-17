@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Sjøgangen 5, 7010, TRONDHEIM",
+      "value": "SjÃ¸gangen 5, 7010, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990727007",
       "source_date": "2007-01-15",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990727007",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selv, gjennom hel- eller deleide selskaper eller ved å samarbeide med andre selskaper, å forestå investeringsvirksomhet, herunder investeringer i aksjer, obligasjoner, selskapsandeler, utlånsvirksomhet, fast eiendom og annen virksomhet beslektet med dette.",
+      "value": "Selv, gjennom hel- eller deleide selskaper eller ved Ã¥ samarbeide med andre selskaper, Ã¥ forestÃ¥ investeringsvirksomhet, herunder investeringer i aksjer, obligasjoner, selskapsandeler, utlÃ¥nsvirksomhet, fast eiendom og annen virksomhet beslektet med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990727007",
       "source_date": "2007-01-15",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Stig Wærnes",
+      "value": "Stig WÃ¦rnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990727007/roller",
       "source_date": "2026-09-24",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ingrid Kristine Høstmælingen",
+      "value": "Ingrid Kristine HÃ¸stmÃ¦lingen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990727007/roller",
       "source_date": "2026-06-08",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -225,9 +225,25 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990727007",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://bevest.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:17+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990727007.",
-  "last_checked": "2026-10-17T07:48:08+00:00",
-  "changes": []
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990727007. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:00:34+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:00:34+00:00"
+    }
+  ]
 }

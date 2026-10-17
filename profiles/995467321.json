@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.160 Agenturhandel med tekstiler, klær, pelsskinn, skotøy og lærvarer",
+      "value": "46.160 Agenturhandel med tekstiler, klÃ¦r, pelsskinn, skotÃ¸y og lÃ¦rvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995467321",
       "source_date": "2010-05-12",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
       "field": "address",
-      "value": "Onsala Danska väg 17, 439 94 Onsala",
+      "value": "Onsala Danska vÃ¤g 17, 439 94 Onsala",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995467321",
       "source_date": "2010-05-12",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995467321",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995467321.",
-  "last_checked": "2026-10-17T07:48:34+00:00",
+  "last_checked": "2026-10-17T10:01:13+00:00",
   "changes": []
 }

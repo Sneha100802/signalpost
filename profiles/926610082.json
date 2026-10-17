@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "17. MAI KOMITE VÅGSBYGD",
+      "value": "17. MAI KOMITE VÃ…GSBYGD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926610082",
       "source_date": "2021-04-22",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Karin Møll Abrahamsen, Hyllelia 16B, 4622, KRISTIANSAND S",
+      "value": "c/o Karin MÃ¸ll Abrahamsen, Hyllelia 16B, 4622, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926610082",
       "source_date": "2021-04-22",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926610082",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -95,14 +95,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Karin Møll Abrahamsen",
+      "value": "Karin MÃ¸ll Abrahamsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926610082/roller",
       "source_date": "2022-06-16",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hege Eirin Engestøl",
+      "value": "Hege Eirin EngestÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926610082/roller",
       "source_date": "2022-06-16",
       "retrieved_at": "2026-10-17T07:48:21+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 926610082. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:21+00:00",
+  "last_checked": "2026-10-17T09:59:39+00:00",
   "changes": []
 }

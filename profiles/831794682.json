@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:48:42+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682/roller",
       "source_date": "2018-06-25",
@@ -130,21 +130,21 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Gunnar Bjørn Rekdal",
+      "value": "Gunnar BjÃ¸rn Rekdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682/roller",
       "source_date": "2024-06-08",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åslaug Asperheim",
+      "value": "Ã…slaug Asperheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682/roller",
       "source_date": "2024-06-08",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mariell Bolli Eidsæther",
+      "value": "Mariell Bolli EidsÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682/roller",
       "source_date": "2024-06-08",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:48:42+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/831794682/roller",
       "source_date": "2018-01-23",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 831794682.",
-  "last_checked": "2026-10-17T07:48:43+00:00",
+  "last_checked": "2026-10-17T10:02:01+00:00",
   "changes": []
 }

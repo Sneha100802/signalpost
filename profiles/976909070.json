@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mehmet Erkøk",
+      "value": "Mehmet ErkÃ¸k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
       "source_date": "2014-11-05",
       "retrieved_at": "2026-10-17T07:49:41+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:49:41+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ARTIA REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976909070/roller",
       "source_date": "2025-06-01",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976909070.",
-  "last_checked": "2026-10-17T07:49:41+00:00",
+  "last_checked": "2026-10-17T10:07:03+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt pÃ¥ nÃ¦rings- og nytelsesmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942731914",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
       "field": "address",
-      "value": "Snarøyveien 148, 1367, SNARØYA",
+      "value": "SnarÃ¸yveien 148, 1367, SNARÃ˜YA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942731914",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942731914",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:49:05+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "WEFILE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942731914/roller",
       "source_date": "2022-12-09",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 942731914. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:05+00:00",
+  "last_checked": "2026-10-17T10:04:55+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "01.190 Dyrking av ettårige vekster ellers",
+      "value": "01.190 Dyrking av ettÃ¥rige vekster ellers",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979674864",
       "source_date": "1998-04-01",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
     },
     {
       "field": "address",
-      "value": "Dalborgvegen 119, 2817, GJØVIK",
+      "value": "Dalborgvegen 119, 2817, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979674864",
       "source_date": "1998-04-01",
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979674864",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:15+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979674864. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:16+00:00",
+  "last_checked": "2026-10-17T10:05:36+00:00",
   "changes": []
 }

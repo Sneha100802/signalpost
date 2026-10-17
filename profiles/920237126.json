@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:52+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg av datatbehandlingstjenester, salg av data- utstyr, systemer og hva dermed står i forbindelse, samt delta i andre selskaper med økonomisk formål.",
+      "value": "Salg av datatbehandlingstjenester, salg av data- utstyr, systemer og hva dermed stÃ¥r i forbindelse, samt delta i andre selskaper med Ã¸konomisk formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:52+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Steinar Sønsteby",
+      "value": "Steinar SÃ¸nsteby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
       "source_date": "2014-04-03",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lisbeth Toftkær Kvan",
+      "value": "Lisbeth ToftkÃ¦r Kvan",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
       "source_date": "2024-05-03",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -186,7 +186,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lone Schøtt Kunøe",
+      "value": "Lone SchÃ¸tt KunÃ¸e",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
       "source_date": "2024-05-03",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -200,7 +200,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Margrethe Farsjø",
+      "value": "Margrethe FarsjÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
       "source_date": "2024-05-03",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -283,7 +283,7 @@
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     }
   ],
-  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920237126.",
-  "last_checked": "2026-10-17T07:47:53+00:00",
+  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920237126. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:58:32+00:00",
   "changes": []
 }

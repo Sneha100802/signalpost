@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985087601",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:37+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985087601. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:38+00:00",
+  "last_checked": "2026-10-17T10:01:27+00:00",
   "changes": []
 }

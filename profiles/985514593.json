@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "David Rødland",
+      "value": "David RÃ¸dland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985514593/roller",
       "source_date": "2026-06-17",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985514593. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:16+00:00",
+  "last_checked": "2026-10-17T09:57:04+00:00",
   "changes": []
 }

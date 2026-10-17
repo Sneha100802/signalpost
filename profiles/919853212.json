@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Sindragötu 5, IS-400 ISAFJÖROUR",
+      "value": "SindragÃ¶tu 5, IS-400 ISAFJÃ–ROUR",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919853212",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:48:41+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Skaginn 3X AS, Sjøgata 21, 8006, BODØ",
+      "value": "c/o Skaginn 3X AS, SjÃ¸gata 21, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919853212",
       "source_date": "2017-11-18",
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919853212",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919853212. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:42+00:00",
+  "last_checked": "2026-10-17T10:01:58+00:00",
   "changes": []
 }

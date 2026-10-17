@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918026258",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:26+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å levere musikalske tjenester primært i form av konserter.",
+      "value": "Ã… levere musikalske tjenester primÃ¦rt i form av konserter.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918026258",
       "source_date": "2017-01-02",
       "retrieved_at": "2026-10-17T07:50:26+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918026258.",
-  "last_checked": "2026-10-17T07:50:27+00:00",
+  "last_checked": "2026-10-17T10:10:23+00:00",
   "changes": []
 }

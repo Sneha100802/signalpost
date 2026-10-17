@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913892100",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:06+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ivareta interessen for veterankjøretøy, herunder lagring av kjøretøy, utveksling av kultur og kunnskap i forbindelse med veterankjøretøy. Foretaket har til formål å fremme medlemmenes behov for lagerplass og gjennom deres deltakelse i virksomheten skape et miljø for interesserte som vil dyrke denne hobbyen.",
+      "value": "Ivareta interessen for veterankjÃ¸retÃ¸y, herunder lagring av kjÃ¸retÃ¸y, utveksling av kultur og kunnskap i forbindelse med veterankjÃ¸retÃ¸y. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes behov for lagerplass og gjennom deres deltakelse i virksomheten skape et miljÃ¸ for interesserte som vil dyrke denne hobbyen.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913892100",
       "source_date": "2014-08-05",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Roar Arnegård",
+      "value": "Roar ArnegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913892100/roller",
       "source_date": "2024-03-13",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Alf Åge Anderson",
+      "value": "Alf Ã…ge Anderson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913892100/roller",
       "source_date": "2024-03-13",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913892100. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:06+00:00",
+  "last_checked": "2026-10-17T10:04:59+00:00",
   "changes": []
 }

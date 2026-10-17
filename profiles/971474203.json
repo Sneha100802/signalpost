@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie og drive barnehage på Eiksmarka i Bærum til beste for medlemmene. Foretaket skal fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Formålet er ikke kapitalavkasning til medlemmene, da avkastningen blir stående i virksomheten. Barnehagen skal drives i samsvar med de til enhver gjeldende lover, forskrifter, vedtekter, fastsatt budsjett og årsplan for barnehagens pedagogiske virksomhet. Barnehagen skal sikre barn under opplæringspliktig alder gode utviklings- og aktivitetsmuligheter i nær forståelse og samarbeid med barnas hjem.",
+      "value": "Ã… eie og drive barnehage pÃ¥ Eiksmarka i BÃ¦rum til beste for medlemmene. Foretaket skal fremme medlemmenes interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket. FormÃ¥let er ikke kapitalavkasning til medlemmene, da avkastningen blir stÃ¥ende i virksomheten. Barnehagen skal drives i samsvar med de til enhver gjeldende lover, forskrifter, vedtekter, fastsatt budsjett og Ã¥rsplan for barnehagens pedagogiske virksomhet. Barnehagen skal sikre barn under opplÃ¦ringspliktig alder gode utviklings- og aktivitetsmuligheter i nÃ¦r forstÃ¥else og samarbeid med barnas hjem.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Iver Berge Vikøren",
+      "value": "Iver Berge VikÃ¸ren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
       "source_date": "2026-07-08",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "HOVDEN CONSULT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971474203/roller",
       "source_date": "2026-03-10",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971474203.",
-  "last_checked": "2026-10-17T07:47:53+00:00",
+  "last_checked": "2026-10-17T09:58:30+00:00",
   "changes": []
 }

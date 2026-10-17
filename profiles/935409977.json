@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BORGEN NÆRINGSEIENDOM ANS",
+      "value": "BORGEN NÃ†RINGSEIENDOM ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
       "source_date": "2025-04-25",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg, utvikling, forvaltning, drift og utleie av næringseiendom og hva som står i forbindelse med dette.",
+      "value": "KjÃ¸p, salg, utvikling, forvaltning, drift og utleie av nÃ¦ringseiendom og hva som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935409977",
       "source_date": "2025-04-25",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935409977.",
-  "last_checked": "2026-10-17T07:51:02+00:00",
+  "last_checked": "2026-10-17T10:13:33+00:00",
   "changes": []
 }

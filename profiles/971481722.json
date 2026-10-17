@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Østre Strandgate 75, 4608, KRISTIANSAND S",
+      "value": "Ã˜stre Strandgate 75, 4608, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre bedriftshelsetjeneste for de tilsluttede bedrifter etter bestemmelser i Arbeidsmiljøloven og gjeldende forskrifter for bedriftshelsetjenester.",
+      "value": "UtfÃ¸re bedriftshelsetjeneste for de tilsluttede bedrifter etter bestemmelser i ArbeidsmiljÃ¸loven og gjeldende forskrifter for bedriftshelsetjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jens Tollerød",
+      "value": "Jens TollerÃ¸d",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
       "source_date": "2025-05-31",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Øyvind Tønnessen",
+      "value": "BjÃ¸rn Ã˜yvind TÃ¸nnessen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
       "source_date": "2025-05-31",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REME REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971481722/roller",
       "source_date": "2006-08-29",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971481722. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:33+00:00",
+  "last_checked": "2026-10-17T10:01:07+00:00",
   "changes": []
 }

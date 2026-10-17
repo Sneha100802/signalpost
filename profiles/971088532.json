@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BEKKELAGSHØGDA SAMFUNNSHUS SA",
+      "value": "BEKKELAGSHÃ˜GDA SAMFUNNSHUS SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "v/Bækkelagets Sportsklub, Postboks 44 Bekkelagshøgda, 1109, OSLO",
+      "value": "v/BÃ¦kkelagets Sportsklub, Postboks 44 BekkelagshÃ¸gda, 1109, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Reise og drive et samfunnshus for og dermed å skaffe distriktets innbyggere et høvelig samlingssted med rom for møter, studierom, idrettslokaler, fritidsklubber, helesstadjon, barnehav etc.",
+      "value": "Reise og drive et samfunnshus for og dermed Ã¥ skaffe distriktets innbyggere et hÃ¸velig samlingssted med rom for mÃ¸ter, studierom, idrettslokaler, fritidsklubber, helesstadjon, barnehav etc.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -183,9 +183,25 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971088532/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://bekkelagshuset.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:03:07+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:54+00:00",
-  "changes": []
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:04:30+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:04:30+00:00"
+    }
+  ]
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987271930",
       "source_date": "2004-10-09",
       "retrieved_at": "2026-10-17T07:49:12+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987271930",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:12+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Harry Øverås",
+      "value": "Harry Ã˜verÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987271930/roller",
       "source_date": "2004-10-09",
       "retrieved_at": "2026-10-17T07:49:13+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Mette Hafskjær Moen",
+      "value": "Mette HafskjÃ¦r Moen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987271930/roller",
       "source_date": "2004-10-09",
       "retrieved_at": "2026-10-17T07:49:13+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987271930. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:13+00:00",
+  "last_checked": "2026-10-17T10:05:18+00:00",
   "changes": []
 }

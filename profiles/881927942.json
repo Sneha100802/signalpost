@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/881927942",
       "source_date": "2000-05-04",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/881927942",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å lage internetsider med informasjon om ekstra store klær for menn og selge annonseplass til kommersielle aktører i markedet.",
+      "value": "Ã… lage internetsider med informasjon om ekstra store klÃ¦r for menn og selge annonseplass til kommersielle aktÃ¸rer i markedet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/881927942",
       "source_date": "2000-05-04",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -109,20 +109,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Dag Øivind Rolfsen",
+      "value": "Dag Ã˜ivind Rolfsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/881927942/roller",
       "source_date": "2000-05-20",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Knut Bjerga Håland",
+      "value": "Knut Bjerga HÃ¥land",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/881927942/roller",
       "source_date": "2000-05-20",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 881927942. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:49+00:00",
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 881927942. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:08:02+00:00",
   "changes": []
 }

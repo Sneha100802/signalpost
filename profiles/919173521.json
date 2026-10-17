@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919173521",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919173521.",
-  "last_checked": "2026-10-17T07:47:17+00:00",
+  "last_checked": "2026-10-17T09:57:04+00:00",
   "changes": []
 }

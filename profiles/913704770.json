@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "DAMTJERNHALLIN VANN & AVLØP H11 SA",
+      "value": "DAMTJERNHALLIN VANN & AVLÃ˜P H11 SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913704770",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Gulsvik/Skarsdalen, 3539, FLÅ",
+      "value": "Gulsvik/Skarsdalen, 3539, FLÃ…",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913704770",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913704770",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie, bygge ut, drifte og administrere vann- og avløpsanlegget for hyttefeltet H11.",
+      "value": "Ã… eie, bygge ut, drifte og administrere vann- og avlÃ¸psanlegget for hyttefeltet H11.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913704770",
       "source_date": "2014-07-07",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913704770. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:43+00:00",
+  "last_checked": "2026-10-17T10:02:02+00:00",
   "changes": []
 }

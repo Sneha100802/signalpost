@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og bÃ¥ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481384",
       "source_date": "2025-06-10",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
     },
     {
       "field": "address",
-      "value": "Bjørnebakken 11B, 4631, KRISTIANSAND S",
+      "value": "BjÃ¸rnebakken 11B, 4631, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481384",
       "source_date": "2025-06-10",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Rengjøring, vedlikehold og restaurering av båter og yachter.",
+      "value": "RengjÃ¸ring, vedlikehold og restaurering av bÃ¥ter og yachter.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481384",
       "source_date": "2025-06-10",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935481384. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:43+00:00",
+  "last_checked": "2026-10-17T10:02:05+00:00",
   "changes": []
 }

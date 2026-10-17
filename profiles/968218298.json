@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968218298",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:06+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Torbjørn Schade",
+      "value": "TorbjÃ¸rn Schade",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968218298/roller",
       "source_date": "2022-11-15",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:47:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968218298/roller",
       "source_date": "2026-05-19",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 968218298.",
-  "last_checked": "2026-10-17T07:47:07+00:00",
+  "last_checked": "2026-10-17T09:56:44+00:00",
   "changes": []
 }

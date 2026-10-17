@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Saksegjerdet 3, 6456, SKÅLA",
+      "value": "Saksegjerdet 3, 6456, SKÃ…LA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814440222",
       "source_date": "2015-01-24",
       "retrieved_at": "2026-10-17T07:49:54+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Tina Follestad Krogsæter, Saksegjerdet 19, 6456, SKÅLA",
+      "value": "c/o Tina Follestad KrogsÃ¦ter, Saksegjerdet 19, 6456, SKÃ…LA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814440222",
       "source_date": "2015-01-24",
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814440222",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Tina Follestad Krogsæter",
+      "value": "Tina Follestad KrogsÃ¦ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814440222/roller",
       "source_date": "2026-01-06",
       "retrieved_at": "2026-10-17T07:49:55+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 814440222. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:55+00:00",
+  "last_checked": "2026-10-17T10:08:28+00:00",
   "changes": []
 }

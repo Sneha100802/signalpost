@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Rødtvetveien 67, 0955, OSLO",
+      "value": "RÃ¸dtvetveien 67, 0955, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bygsling av arealer på Øvre Kalbakken tilhørende Oslo Kommune, bebyggelse av arealene og drift av de oppførte bygninger. Boligene skal leies bort til andelseierne.",
+      "value": "Bygsling av arealer pÃ¥ Ã˜vre Kalbakken tilhÃ¸rende Oslo Kommune, bebyggelse av arealene og drift av de oppfÃ¸rte bygninger. Boligene skal leies bort til andelseierne.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "PHM FORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345/roller",
       "source_date": "2022-09-14",
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ann-Sølvi Sørensen",
+      "value": "Ann-SÃ¸lvi SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345/roller",
       "source_date": "2026-08-28",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PHM FORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954721345/roller",
       "source_date": "2022-09-14",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954721345.",
-  "last_checked": "2026-10-17T07:48:02+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954721345. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:59:08+00:00",
   "changes": []
 }

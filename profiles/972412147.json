@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/972412147",
       "source_date": "1997-12-02",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Henry Dragerengen, Storgata 23, 2815, GJØVIK",
+      "value": "c/o Henry Dragerengen, Storgata 23, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/972412147",
       "source_date": "1997-12-02",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/972412147",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Vedlikeholde skogsbilvegen fra Riksvei 245 ved Fluberg Bru på Randsfjordens vestside og vestover(Skjellingsvegen) over Lusiberg og på begge sider av Grevsjøen(Gamle Grevsjøvegen) til kommunegrense mellom Søndre LAnd og Sør Aurdal. Veglaget har som formål å redusere andelseiernes kostnader til uttransport av tømmer og å gjøre skog i vegens nytteområde tilgjengelig for aktive skogforvaltning. Hytteeiere langs vegen tillates å benytte vegen mot betaling  av årskort. Øvrige kan benytte vegen mot betaling av årskort eller avgift pr tur. Foretaket driver ikke ervervsvirksomhet.",
+      "value": "Vedlikeholde skogsbilvegen fra Riksvei 245 ved Fluberg Bru pÃ¥ Randsfjordens vestside og vestover(Skjellingsvegen) over Lusiberg og pÃ¥ begge sider av GrevsjÃ¸en(Gamle GrevsjÃ¸vegen) til kommunegrense mellom SÃ¸ndre LAnd og SÃ¸r Aurdal. Veglaget har som formÃ¥l Ã¥ redusere andelseiernes kostnader til uttransport av tÃ¸mmer og Ã¥ gjÃ¸re skog i vegens nytteomrÃ¥de tilgjengelig for aktive skogforvaltning. Hytteeiere langs vegen tillates Ã¥ benytte vegen mot betaling  av Ã¥rskort. Ã˜vrige kan benytte vegen mot betaling av Ã¥rskort eller avgift pr tur. Foretaket driver ikke ervervsvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/972412147",
       "source_date": "1997-12-02",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Wenche Bjor Sæthre",
+      "value": "Wenche Bjor SÃ¦thre",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/972412147/roller",
       "source_date": "2025-07-10",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 972412147. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:20+00:00",
+  "last_checked": "2026-10-17T09:59:33+00:00",
   "changes": []
 }

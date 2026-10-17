@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "v/Sørlandet Boligbyggelag, Rådhusgata 14, 4611, KRISTIANSAND S",
+      "value": "v/SÃ¸rlandet Boligbyggelag, RÃ¥dhusgata 14, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/Bosør BBL, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "v/BosÃ¸r BBL, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -115,8 +115,8 @@
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983/roller",
       "source_date": "2010-03-22",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Herman Iglebæk Ruud",
+      "value": "Herman IglebÃ¦k Ruud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983/roller",
       "source_date": "2026-04-24",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -157,8 +157,8 @@
       "retrieved_at": "2026-10-17T07:49:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953858983/roller",
       "source_date": "2012-03-24",
       "retrieved_at": "2026-10-17T07:49:30+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953858983.",
-  "last_checked": "2026-10-17T07:49:30+00:00",
+  "last_checked": "2026-10-17T10:06:16+00:00",
   "changes": []
 }

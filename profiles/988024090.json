@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GJØVIK BOLIGSTIFTELSE",
+      "value": "GJÃ˜VIK BOLIGSTIFTELSE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090",
       "source_date": "2005-05-30",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Storgata 14, 2815, GJØVIK",
+      "value": "Storgata 14, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090",
       "source_date": "2005-05-30",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 1198 Sentrum, 2806, GJØVIK",
+      "value": "Postboks 1198 Sentrum, 2806, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090",
       "source_date": "2005-05-30",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Skaffe og forvalte boliger til boligsøkere som av ulike årsaker trenger bistand til å skaffe seg bolig.",
+      "value": "Skaffe og forvalte boliger til boligsÃ¸kere som av ulike Ã¥rsaker trenger bistand til Ã¥ skaffe seg bolig.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090",
       "source_date": "2005-05-30",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:47:00+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ECIT NORIAN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2021-06-12",
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lars Kristian Ølstad",
+      "value": "Lars Kristian Ã˜lstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2025-08-01",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åsne-Marit Hokstad Pladsen",
+      "value": "Ã…sne-Marit Hokstad Pladsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2025-08-01",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -214,7 +214,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Iddberg",
+      "value": "BjÃ¸rn Iddberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2025-08-01",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -235,7 +235,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Espen Øye Bjørkvold",
+      "value": "Espen Ã˜ye BjÃ¸rkvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2025-08-01",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -248,7 +248,7 @@
       "retrieved_at": "2026-10-17T07:47:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT NORIAN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988024090/roller",
       "source_date": "2021-05-21",
@@ -298,6 +298,6 @@
     }
   ],
   "explanation": "42 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988024090.",
-  "last_checked": "2026-10-17T07:47:01+00:00",
+  "last_checked": "2026-10-17T09:56:24+00:00",
   "changes": []
 }

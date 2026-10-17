@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995147300",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:13+00:00"
@@ -95,14 +95,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Synnøve Linea Wivestad",
+      "value": "SynnÃ¸ve Linea Wivestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995147300/roller",
       "source_date": "2010-04-08",
       "retrieved_at": "2026-10-17T07:48:13+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Synnøve Linea Wivestad",
+      "value": "SynnÃ¸ve Linea Wivestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995147300/roller",
       "source_date": "2026-01-24",
       "retrieved_at": "2026-10-17T07:48:13+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995147300. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:13+00:00",
+  "last_checked": "2026-10-17T09:59:18+00:00",
   "changes": []
 }

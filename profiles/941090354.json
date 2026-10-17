@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADOLF ØIENS FOND FOR ALLMENNYTTIGE FORMÅL STI",
+      "value": "ADOLF Ã˜IENS FOND FOR ALLMENNYTTIGE FORMÃ…L STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354",
       "source_date": "2001-07-18",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354",
       "source_date": "2001-07-18",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
     },
     {
       "field": "address",
-      "value": "Brattørkaia 17A, 7010, TRONDHEIM",
+      "value": "BrattÃ¸rkaia 17A, 7010, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354",
       "source_date": "2001-07-18",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lisbeth Glørstad Aspås",
+      "value": "Lisbeth GlÃ¸rstad AspÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:48:15+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941090354/roller",
       "source_date": "2015-08-07",
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 941090354.",
-  "last_checked": "2026-10-17T07:48:16+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 941090354. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:59:29+00:00",
   "changes": []
 }

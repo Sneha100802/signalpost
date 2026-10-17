@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Fenesveien 101, 8020, BODØ",
+      "value": "Fenesveien 101, 8020, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434",
       "source_date": "2022-06-07",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Fremme en arbeidsmessig og økonomisk rasjonalisering av medlemmenes gårdsdrift, samt annen virksomhet, som er naturlig knyttet til det. Herunder presiseres at lagets formål er kostnadsfordeling mellom medlemmene i henhold til bruk og ikke næringsmessig overskudd over tid. Dette kan blant annet gjennomføres ved: Felles innkjøp og bruk av lagets maskiner og redskaper. Felles bruk av de enkelte medlemmers maskiner og redskaper. Samarbeid om arbeidskraft og maskiner ved utførelse av bestemte arbeidsoppgaver. Samarbeid om løsning av andre oppgaver som har tilknytning til mekanisering av gårdsdrifta.",
+      "value": "Fremme en arbeidsmessig og Ã¸konomisk rasjonalisering av medlemmenes gÃ¥rdsdrift, samt annen virksomhet, som er naturlig knyttet til det. Herunder presiseres at lagets formÃ¥l er kostnadsfordeling mellom medlemmene i henhold til bruk og ikke nÃ¦ringsmessig overskudd over tid. Dette kan blant annet gjennomfÃ¸res ved: Felles innkjÃ¸p og bruk av lagets maskiner og redskaper. Felles bruk av de enkelte medlemmers maskiner og redskaper. Samarbeid om arbeidskraft og maskiner ved utfÃ¸relse av bestemte arbeidsoppgaver. Samarbeid om lÃ¸sning av andre oppgaver som har tilknytning til mekanisering av gÃ¥rdsdrifta.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434",
       "source_date": "2022-06-07",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Børre Thoresen",
+      "value": "BÃ¸rre Thoresen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434/roller",
       "source_date": "2026-09-24",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Svein Magne Åsbakk",
+      "value": "Svein Magne Ã…sbakk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øyvind Tilrem",
+      "value": "Ã˜yvind Tilrem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:02+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:50:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "CJB REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929056434/roller",
       "source_date": "2025-08-11",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929056434.",
-  "last_checked": "2026-10-17T07:50:02+00:00",
+  "last_checked": "2026-10-17T10:08:52+00:00",
   "changes": []
 }

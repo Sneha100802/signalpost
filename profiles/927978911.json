@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:14+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eiendomsutvikling, anskaffelse og drift av eiendommer, investering i aksjer og andeler i andre finans- og realobjekter, handel, konsulentvirksomhet, deltagelse i andre virksomheter samt alt hva som står i forbindelse med ovennevnte.",
+      "value": "Eiendomsutvikling, anskaffelse og drift av eiendommer, investering i aksjer og andeler i andre finans- og realobjekter, handel, konsulentvirksomhet, deltagelse i andre virksomheter samt alt hva som stÃ¥r i forbindelse med ovennevnte.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911",
       "source_date": "2021-10-22",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øystein Espedal Larsen",
+      "value": "Ã˜ystein Espedal Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927978911/roller",
       "source_date": "2025-12-13",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927978911.",
-  "last_checked": "2026-10-17T07:48:15+00:00",
+  "last_checked": "2026-10-17T09:59:21+00:00",
   "changes": []
 }

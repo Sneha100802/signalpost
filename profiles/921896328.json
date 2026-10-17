@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Karenslyst allé 8, 0278, OSLO",
+      "value": "Karenslyst allÃ© 8, 0278, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
       "source_date": "2018-12-21",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:30+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Terje Mjøs",
+      "value": "Terje MjÃ¸s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
       "source_date": "2026-07-20",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
@@ -185,14 +185,14 @@
       "retrieved_at": "2026-10-17T07:50:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ASPIA NORGE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
       "source_date": "2026-07-08",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT INTUNOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921896328/roller",
       "source_date": "2026-07-08",
@@ -239,9 +239,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/921896328",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.axactor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:10:43+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@axactor.com",
+      "source_url": "https://www.axactor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:10:43+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328.",
-  "last_checked": "2026-10-17T07:50:31+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:12:18+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@axactor.com"
+      ],
+      "at": "2026-10-17T10:12:18+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:12:18+00:00"
+    }
+  ]
 }

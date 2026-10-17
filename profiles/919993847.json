@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:40+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg, drift og utvikling av eiendommer, samt annen virksomhet som naturlig faller sammen med det. Handelsvirksomhet og investeringsvirksomhet.",
+      "value": "KjÃ¸p, salg, drift og utvikling av eiendommer, samt annen virksomhet som naturlig faller sammen med det. Handelsvirksomhet og investeringsvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847",
       "source_date": "2017-11-29",
       "retrieved_at": "2026-10-17T07:48:40+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:48:41+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIHUSET AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIHUSET AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847/roller",
       "source_date": "2023-11-11",
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919993847.",
-  "last_checked": "2026-10-17T07:48:41+00:00",
+  "last_checked": "2026-10-17T10:01:50+00:00",
   "changes": []
 }

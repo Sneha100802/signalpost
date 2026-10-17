@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GJØVIK INNKJØPSLAG SA",
+      "value": "GJÃ˜VIK INNKJÃ˜PSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "46.210 Engroshandel med korn, råtobakk, såvarer og fôrvarer",
+      "value": "46.210 Engroshandel med korn, rÃ¥tobakk, sÃ¥varer og fÃ´rvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
     },
     {
       "field": "address",
-      "value": "Kallerudsvingen 4, 2816, GJØVIK",
+      "value": "Kallerudsvingen 4, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristian Mjølstad",
+      "value": "Kristian MjÃ¸lstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455/roller",
       "source_date": "2026-02-05",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Liv Eggereide Bjerkås",
+      "value": "Liv Eggereide BjerkÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455/roller",
       "source_date": "2026-02-05",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Niklas Fossumstuen Grøterud",
+      "value": "Niklas Fossumstuen GrÃ¸terud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455/roller",
       "source_date": "2026-02-05",
       "retrieved_at": "2026-10-17T07:50:08+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:08+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 FORRETNINGSPARTNER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950035455/roller",
       "source_date": "2024-02-05",
@@ -235,6 +235,6 @@
     }
   ],
   "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950035455.",
-  "last_checked": "2026-10-17T07:50:09+00:00",
+  "last_checked": "2026-10-17T10:09:10+00:00",
   "changes": []
 }

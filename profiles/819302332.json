@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Karen Johanne Strømstad, Åssiden terrasse 32A, 1160, OSLO",
+      "value": "c/o Karen Johanne StrÃ¸mstad, Ã…ssiden terrasse 32A, 1160, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
       "source_date": "2017-07-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -94,8 +94,8 @@
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Rolf Riisnæs",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Rolf RiisnÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332/roller",
       "source_date": "2017-07-17",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Karen Johanne Strømstad",
+      "value": "Karen Johanne StrÃ¸mstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332/roller",
       "source_date": "2026-01-06",
       "retrieved_at": "2026-10-17T07:47:42+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 819302332. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:43+00:00",
+  "last_checked": "2026-10-17T09:58:02+00:00",
   "changes": []
 }

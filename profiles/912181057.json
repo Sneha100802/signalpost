@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Røykenveien 54, 3427, GULLAUG",
+      "value": "RÃ¸ykenveien 54, 3427, GULLAUG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
       "source_date": "2013-10-17",
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:05+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Inghild Røren",
+      "value": "Inghild RÃ¸ren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
       "source_date": "2026-01-08",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -151,13 +151,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Erik Sørensen",
+      "value": "Erik SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057/roller",
       "source_date": "2026-01-08",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912181057. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:06+00:00",
+  "last_checked": "2026-10-17T09:59:06+00:00",
   "changes": []
 }

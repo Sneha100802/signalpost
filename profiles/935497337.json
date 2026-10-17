@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935497337",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -87,14 +87,14 @@
       "retrieved_at": "2026-10-17T07:49:32+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Øivind Henrik Von Mehren",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Ã˜ivind Henrik Von Mehren",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935497337/roller",
       "source_date": "2025-05-31",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "INFOREGN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935497337/roller",
       "source_date": "2025-09-30",
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935497337. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:33+00:00",
+  "last_checked": "2026-10-17T10:06:26+00:00",
   "changes": []
 }

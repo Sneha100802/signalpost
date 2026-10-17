@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BØNDENES REGNSKAPSLAG SA",
+      "value": "BÃ˜NDENES REGNSKAPSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
       "source_date": "2005-07-28",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "69.202 Regnskapsføring og bokføring",
+      "value": "69.202 RegnskapsfÃ¸ring og bokfÃ¸ring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
       "source_date": "2005-07-28",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Føre medlemmenes regnskap, utfylle selvangivelser og drive med økonomisk rådgivning for medlemmene. Regnskapslaget skal så langt det er mulig yte medlemmene veiledning ved grunnavståelse, eiendomsoverdragelser, finansieringsspørsmål og bistå i klagesaker i forbindelse med skattelegging og avgiftsberegning. Regnskapslaget kan utføre tilsvarende bistand til ikke-medlemmer. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stående i virksomhetens eller fordelt blant medlemmene på grunnlag av deres andel i omsetningen med foretaket. Regnskapslaget kan drive utleie av kontor dersom de ikke er i bruk av virksomhetens ansatte.",
+      "value": "FÃ¸re medlemmenes regnskap, utfylle selvangivelser og drive med Ã¸konomisk rÃ¥dgivning for medlemmene. Regnskapslaget skal sÃ¥ langt det er mulig yte medlemmene veiledning ved grunnavstÃ¥else, eiendomsoverdragelser, finansieringsspÃ¸rsmÃ¥l og bistÃ¥ i klagesaker i forbindelse med skattelegging og avgiftsberegning. Regnskapslaget kan utfÃ¸re tilsvarende bistand til ikke-medlemmer. Virksomhetens avkastning, bortsett fra en normal forrentning av innskutt kapital, blir enten stÃ¥ende i virksomhetens eller fordelt blant medlemmene pÃ¥ grunnlag av deres andel i omsetningen med foretaket. Regnskapslaget kan drive utleie av kontor dersom de ikke er i bruk av virksomhetens ansatte.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206",
       "source_date": "2005-07-28",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Martine Øverås",
+      "value": "Martine Ã˜verÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -151,14 +151,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Mali Ellingsgård Torjuul",
+      "value": "Mali EllingsgÃ¥rd Torjuul",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Even Nerland",
+      "value": "BjÃ¸rn Even Nerland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988460206/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988460206.",
-  "last_checked": "2026-10-17T07:50:44+00:00",
+  "last_checked": "2026-10-17T10:12:10+00:00",
   "changes": []
 }

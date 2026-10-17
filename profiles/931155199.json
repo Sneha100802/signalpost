@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931155199",
       "source_date": "2023-04-13",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
       "field": "address",
-      "value": "Ytrebygdsvegen 64, 5252, SØREIDGREND",
+      "value": "Ytrebygdsvegen 64, 5252, SÃ˜REIDGREND",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931155199",
       "source_date": "2023-04-13",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931155199",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:47+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931155199",
       "source_date": "2023-04-13",
       "retrieved_at": "2026-10-17T07:47:47+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931155199. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:48+00:00",
+  "last_checked": "2026-10-17T09:58:15+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982362504",
       "source_date": "2000-09-19",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982362504",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive konsulenttjenester for industriutvikling innen analytisk kjemi og tilknyttet virksomhet.",
+      "value": "Ã… drive konsulenttjenester for industriutvikling innen analytisk kjemi og tilknyttet virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982362504",
       "source_date": "2000-09-19",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Knut Henning Schrøder",
+      "value": "Knut Henning SchrÃ¸der",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982362504/roller",
       "source_date": "2000-09-19",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øyvind Mikkelsen",
+      "value": "Ã˜yvind Mikkelsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982362504/roller",
       "source_date": "2000-09-19",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982362504. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:34+00:00",
+  "last_checked": "2026-10-17T10:01:13+00:00",
   "changes": []
 }

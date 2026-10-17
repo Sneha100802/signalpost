@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selskapets formål er dyrehold og annen landbruksvirksomhet",
+      "value": "Selskapets formÃ¥l er dyrehold og annen landbruksvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703",
       "source_date": "2014-07-02",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Øystein Båsland",
+      "value": "Ã˜ystein BÃ¥sland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703/roller",
       "source_date": "2020-10-19",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Øystein Båsland",
+      "value": "Ã˜ystein BÃ¥sland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703/roller",
       "source_date": "2020-10-19",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øystein Båsland",
+      "value": "Ã˜ystein BÃ¥sland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703/roller",
       "source_date": "2026-01-31",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
@@ -178,14 +178,14 @@
       "retrieved_at": "2026-10-17T07:48:32+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913727703/roller",
       "source_date": "2026-10-12",
       "retrieved_at": "2026-10-17T07:48:32+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913727703. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:33+00:00",
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913727703. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:01:05+00:00",
   "changes": []
 }

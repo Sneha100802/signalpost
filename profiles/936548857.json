@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "33.150 Reparasjon og vedlikehold av sivile skip og båter",
+      "value": "33.150 Reparasjon og vedlikehold av sivile skip og bÃ¥ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936548857",
       "source_date": "2025-11-20",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Novum Økonomi AS, Havnegata 10, 3040, DRAMMEN",
+      "value": "c/o Novum Ã˜konomi AS, Havnegata 10, 3040, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936548857",
       "source_date": "2025-11-20",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936548857",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -101,8 +101,8 @@
       "retrieved_at": "2026-10-17T07:46:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "NOVUM ØKONOMI AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "NOVUM Ã˜KONOMI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936548857/roller",
       "source_date": "2025-11-20",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936548857. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:50+00:00",
+  "last_checked": "2026-10-17T09:56:10+00:00",
   "changes": []
 }

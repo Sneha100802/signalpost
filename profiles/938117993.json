@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938117993",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende.",
+      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder Ã¥ delta i andre selskaper med lignende virksomhet, kjÃ¸p og salg av aksjer, eller pÃ¥ annen mÃ¥te gjÃ¸re seg interessert i andre foretagende.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938117993",
       "source_date": "2026-07-17",
       "retrieved_at": "2026-10-17T07:47:39+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938117993. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:41+00:00",
+  "last_checked": "2026-10-17T09:57:57+00:00",
   "changes": []
 }

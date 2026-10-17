@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/891267312",
       "source_date": "2007-08-08",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/891267312",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 891267312. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:35+00:00",
+  "last_checked": "2026-10-17T10:01:21+00:00",
   "changes": []
 }

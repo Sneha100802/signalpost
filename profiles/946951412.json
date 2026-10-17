@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946951412",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:59+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Oppføring av nybygg, utleie og drift av fast eiendom og alt hva herved står i forbindelse, samt gjennom aksjetegning eller på annen måte delta i annen virksomhet.",
+      "value": "OppfÃ¸ring av nybygg, utleie og drift av fast eiendom og alt hva herved stÃ¥r i forbindelse, samt gjennom aksjetegning eller pÃ¥ annen mÃ¥te delta i annen virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946951412",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:59+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "A/S TRÅIKA",
+      "value": "A/S TRÃ…IKA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946951412/roller",
       "source_date": "2022-10-31",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:51:00+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946951412.",
-  "last_checked": "2026-10-17T07:51:00+00:00",
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946951412. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:13:26+00:00",
   "changes": []
 }

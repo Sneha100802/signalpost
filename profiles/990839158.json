@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "MIDØY SAMDRIFT DA",
+      "value": "MIDÃ˜Y SAMDRIFT DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
       "source_date": "2007-02-19",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.420 Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon",
+      "value": "01.420 Oppdrett av annet storfe til kjÃ¸ttproduksjon og sÃ¦dproduksjon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
       "source_date": "2007-02-19",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Felles melk- og kjøttproduksjon for best mulig rasjonell og økonomisk utnyttelse av deltakernes egne og forpakta jordbruksarealer, samt eventuelle eiendommer som blir kjøpt og/eller forpakta av Samdrifta. Ved enstemmig vedtak i møte kan også forproduksjon drives felles. Samdrifta skal gi muligheter til ordnede arbeidsforhold, fritid og ferie for deltakerne. Samdrifta kan utføre enhver virksomhet som er nataurlig knyttet til landbruket. Mjølkeproduksjon skal føregå i Søre Midøy Samdrift si driftsbygning. Det skal skrivast eigen avtale mellom Midøy Samdrift og Søre Midøy Samdrift om leige av driftsbygning og rettar som Søre Midøøy Samdrift har på eigarane sine bruk, Kjøptproduksjon på storfe kan drivast i medlemmene sine driftsbygningar. Det skal gjerast eigen avtale om bruk av medlemmene sine driftsbygningar.",
+      "value": "Felles melk- og kjÃ¸ttproduksjon for best mulig rasjonell og Ã¸konomisk utnyttelse av deltakernes egne og forpakta jordbruksarealer, samt eventuelle eiendommer som blir kjÃ¸pt og/eller forpakta av Samdrifta. Ved enstemmig vedtak i mÃ¸te kan ogsÃ¥ forproduksjon drives felles. Samdrifta skal gi muligheter til ordnede arbeidsforhold, fritid og ferie for deltakerne. Samdrifta kan utfÃ¸re enhver virksomhet som er nataurlig knyttet til landbruket. MjÃ¸lkeproduksjon skal fÃ¸regÃ¥ i SÃ¸re MidÃ¸y Samdrift si driftsbygning. Det skal skrivast eigen avtale mellom MidÃ¸y Samdrift og SÃ¸re MidÃ¸y Samdrift om leige av driftsbygning og rettar som SÃ¸re MidÃ¸Ã¸y Samdrift har pÃ¥ eigarane sine bruk, KjÃ¸ptproduksjon pÃ¥ storfe kan drivast i medlemmene sine driftsbygningar. Det skal gjerast eigen avtale om bruk av medlemmene sine driftsbygningar.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158",
       "source_date": "2007-02-19",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Ågne Stormyr",
+      "value": "Ã…gne Stormyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Magne Eldar Bjørnerem",
+      "value": "Magne Eldar BjÃ¸rnerem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ågne Stormyr",
+      "value": "Ã…gne Stormyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
@@ -158,13 +158,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Magne Eldar Bjørnerem",
+      "value": "Magne Eldar BjÃ¸rnerem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990839158/roller",
       "source_date": "2019-04-04",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990839158. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:02+00:00",
+  "last_checked": "2026-10-17T10:13:35+00:00",
   "changes": []
 }

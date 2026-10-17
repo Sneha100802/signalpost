@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Grønland 70A, 3045, DRAMMEN",
+      "value": "GrÃ¸nland 70A, 3045, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg, utleie, drift og utvikling av fast eiendom.",
+      "value": "KjÃ¸p, salg, utleie, drift og utvikling av fast eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Randi Synnøve Christensen Solberg",
+      "value": "Randi SynnÃ¸ve Christensen Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
       "source_date": "2024-03-04",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Rolf Øyvind Christensen",
+      "value": "Rolf Ã˜yvind Christensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
       "source_date": "2024-03-04",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Randi Synnøve Christensen Solberg",
+      "value": "Randi SynnÃ¸ve Christensen Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
       "source_date": "2022-05-24",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:46:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "KAPISOL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950181389/roller",
       "source_date": "2026-02-03",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950181389.",
-  "last_checked": "2026-10-17T07:46:59+00:00",
+  "last_checked": "2026-10-17T09:56:21+00:00",
   "changes": []
 }

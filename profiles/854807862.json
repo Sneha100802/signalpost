@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ODD FELLOW  GÅRDEN SA",
+      "value": "ODD FELLOW  GÃ…RDEN SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Øvre Torvgate 36 B, 2821, GJØVIK",
+      "value": "Ã˜vre Torvgate 36 B, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ved innkjøp, leie, utlån eller bygging og drift av fast eiendom å skaffe Odd Fellow Ordenen i Gjøvik og Omegn tjenlige lokaler.",
+      "value": "Ved innkjÃ¸p, leie, utlÃ¥n eller bygging og drift av fast eiendom Ã¥ skaffe Odd Fellow Ordenen i GjÃ¸vik og Omegn tjenlige lokaler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ørjan Ståle Bertelsen",
+      "value": "Ã˜rjan StÃ¥le Bertelsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mette Møller",
+      "value": "Mette MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ASPIA NORGE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/854807862/roller",
       "source_date": "2025-12-18",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 854807862.",
-  "last_checked": "2026-10-17T07:48:17+00:00",
+  "last_checked": "2026-10-17T09:59:26+00:00",
   "changes": []
 }

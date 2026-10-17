@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADVOKATGÅRDEN MUNKEGATEN DA",
+      "value": "ADVOKATGÃ…RDEN MUNKEGATEN DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625",
       "source_date": "2004-04-20",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ivareta felles kontorfunksjoner for tilsluttede advokater, herunder også forestå inngåelse av felles leiekontrakter og ivareta sekretærfunksjon m.v.",
+      "value": "Ivareta felles kontorfunksjoner for tilsluttede advokater, herunder ogsÃ¥ forestÃ¥ inngÃ¥else av felles leiekontrakter og ivareta sekretÃ¦rfunksjon m.v.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625",
       "source_date": "2004-04-20",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Torfinn Kjørsvik Svanem",
+      "value": "Torfinn KjÃ¸rsvik Svanem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625/roller",
       "source_date": "2022-06-10",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Arve Røli",
+      "value": "Arve RÃ¸li",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625/roller",
       "source_date": "2022-06-10",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
@@ -136,21 +136,21 @@
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625/roller",
       "source_date": "2024-01-30",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKORÅD OS REGNSKAP AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KORÃ…D OS REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986717625/roller",
       "source_date": "2024-01-30",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986717625. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:57+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986717625. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:37+00:00",
   "changes": []
 }

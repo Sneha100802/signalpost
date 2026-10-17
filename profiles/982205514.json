@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "STIFTELSEN VERNEBYGG FOR SKIBLADNER I GJØVIK",
+      "value": "STIFTELSEN VERNEBYGG FOR SKIBLADNER I GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514",
       "source_date": "2000-08-03",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Strandgata 28A, 2821, GJØVIK",
+      "value": "Strandgata 28A, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514",
       "source_date": "2000-08-03",
       "retrieved_at": "2026-10-17T07:47:35+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:35+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Blichfeldt",
+      "value": "BjÃ¸rn Blichfeldt",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Eva Kristin Stø",
+      "value": "Eva Kristin StÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Finn Bergstrøm",
+      "value": "Finn BergstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LYKKETALL AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
       "source_date": "2025-09-29",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982205514.",
-  "last_checked": "2026-10-17T07:47:36+00:00",
+  "last_checked": "2026-10-17T09:57:42+00:00",
   "changes": []
 }

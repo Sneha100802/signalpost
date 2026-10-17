@@ -18,7 +18,7 @@
     },
     {
       "field": "address",
-      "value": "Bråtan 30, 3022, DRAMMEN",
+      "value": "BrÃ¥tan 30, 3022, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvikling, design, drift og vedlikehold av nettsider og digitale løsninger for næringsdrivende og offentlige virksomheter, samt tilknyttede tjenester som rådgivning, hosting, søkemotoroptimalisering og digital markedsføring, og alt som naturlig står i forbindelse med dette.",
+      "value": "Utvikling, design, drift og vedlikehold av nettsider og digitale lÃ¸sninger for nÃ¦ringsdrivende og offentlige virksomheter, samt tilknyttede tjenester som rÃ¥dgivning, hosting, sÃ¸kemotoroptimalisering og digital markedsfÃ¸ring, og alt som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938359008",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938359008. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:31+00:00",
+  "last_checked": "2026-10-17T10:10:57+00:00",
   "changes": []
 }

@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Fjordveien 81C, 1363, HØVIK",
+      "value": "Fjordveien 81C, 1363, HÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
       "source_date": "2003-03-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 467, 1323, HØVIK",
+      "value": "Postboks 467, 1323, HÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
       "source_date": "2003-03-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å yte håndverkstjenester som murerarbeid, malerarbeid, snekkerarbeid og rørleggerarbeid. Videre vil selskapet drive import av bygningselementer og eller hus fra Polen til Norge.",
+      "value": "Ã… yte hÃ¥ndverkstjenester som murerarbeid, malerarbeid, snekkerarbeid og rÃ¸rleggerarbeid. Videre vil selskapet drive import av bygningselementer og eller hus fra Polen til Norge.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985446938",
       "source_date": "2003-03-03",
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985446938. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:15+00:00",
+  "last_checked": "2026-10-17T10:14:19+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "KRIGSHISTORISK GRUPPE BODØ STI",
+      "value": "KRIGSHISTORISK GRUPPE BODÃ˜ STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986490248",
       "source_date": "2004-02-12",
       "retrieved_at": "2026-10-17T07:49:05+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Hålogalandsgata 110C, 8008, BODØ",
+      "value": "HÃ¥logalandsgata 110C, 8008, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986490248",
       "source_date": "2004-02-12",
       "retrieved_at": "2026-10-17T07:49:05+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Kjell Gunnar Risa, Kortneset 6A, 8006, BODØ",
+      "value": "c/o Kjell Gunnar Risa, Kortneset 6A, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986490248",
       "source_date": "2004-02-12",
       "retrieved_at": "2026-10-17T07:49:05+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986490248",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:05+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "BODØ REVISJONSKONTOR AS",
+      "value": "BODÃ˜ REVISJONSKONTOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986490248/roller",
       "source_date": "2005-12-21",
       "retrieved_at": "2026-10-17T07:49:05+00:00"
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:49:05+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986490248.",
-  "last_checked": "2026-10-17T07:49:05+00:00",
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986490248. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:04:58+00:00",
   "changes": []
 }

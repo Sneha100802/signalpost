@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "SPAREBANK 1 SØR-NORGE ASA",
+      "value": "SPAREBANK 1 SÃ˜R-NORGE ASA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive virksomhet som bank, herunder fremme sparing ved å ta imot innskudd fra en ubestemt krets av kunder, levere finansielle tjenester til publikum, næringsliv og offentlig sektor, og å forvalte på en trygg måte de midler den rår over i samsvar med de lovregler som til enhver tid gjelder for selskapets virksomhet. Selskapet kan dessuten yte investeringstjenester innenfor de til enhver tid gitte konsesjoner.   Selskapet kan for øvrig innenfor rammen av den lovgivning som til enhver tid gjelder, utføre alle forretninger og tjenester som naturlig er forbundet med det å drive bank- og investeringstjenestevirksomhet.",
+      "value": "Drive virksomhet som bank, herunder fremme sparing ved Ã¥ ta imot innskudd fra en ubestemt krets av kunder, levere finansielle tjenester til publikum, nÃ¦ringsliv og offentlig sektor, og Ã¥ forvalte pÃ¥ en trygg mÃ¥te de midler den rÃ¥r over i samsvar med de lovregler som til enhver tid gjelder for selskapets virksomhet. Selskapet kan dessuten yte investeringstjenester innenfor de til enhver tid gitte konsesjoner.   Selskapet kan for Ã¸vrig innenfor rammen av den lovgivning som til enhver tid gjelder, utfÃ¸re alle forretninger og tjenester som naturlig er forbundet med det Ã¥ drive bank- og investeringstjenestevirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Trine Sæther Romuld",
+      "value": "Trine SÃ¦ther Romuld",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
       "source_date": "2026-05-04",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kjetil Skjæveland",
+      "value": "Kjetil SkjÃ¦veland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
       "source_date": "2026-05-04",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -200,7 +200,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Kristian Torød Flakstad",
+      "value": "Kristian TorÃ¸d Flakstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937895321/roller",
       "source_date": "2026-05-04",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:47:22+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937895321. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:22+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937895321. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:57:19+00:00",
   "changes": []
 }

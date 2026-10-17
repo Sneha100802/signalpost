@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp og salg av aksjer.",
+      "value": "KjÃ¸p og salg av aksjer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932224488",
       "source_date": "2023-10-10",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Andreas Vik Jørgensen",
+      "value": "Andreas Vik JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932224488/roller",
       "source_date": "2023-10-10",
       "retrieved_at": "2026-10-17T07:48:57+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932224488.",
-  "last_checked": "2026-10-17T07:48:57+00:00",
+  "last_checked": "2026-10-17T10:03:49+00:00",
   "changes": []
 }

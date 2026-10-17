@@ -25,7 +25,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Complér Accounting AS, Vestre Strømkaien 7, 5008, BERGEN",
+      "value": "c/o ComplÃ©r Accounting AS, Vestre StrÃ¸mkaien 7, 5008, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997599691",
       "source_date": "2011-11-26",
       "retrieved_at": "2026-10-17T07:51:12+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997599691",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:12+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997599691. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:13+00:00",
+  "last_checked": "2026-10-17T10:14:14+00:00",
   "changes": []
 }

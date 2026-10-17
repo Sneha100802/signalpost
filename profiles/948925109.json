@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Øvre Torvgate 28, 2815, GJØVIK",
+      "value": "Ã˜vre Torvgate 28, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 1227, 2806, GJØVIK",
+      "value": "Postboks 1227, 2806, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -115,22 +115,22 @@
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "GJÃ˜VIK OG OMEGN BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "1999-08-19",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Finn Wiggo Fekjær",
+      "value": "Finn Wiggo FekjÃ¦r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "2025-04-26",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ida Bjørnstad Bakke",
+      "value": "Ida BjÃ¸rnstad Bakke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "2025-04-26",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -151,14 +151,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Ørjan Måkestad",
+      "value": "Ã˜rjan MÃ¥kestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "2025-04-26",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Martine Ringstad Stadeløkken",
+      "value": "Martine Ringstad StadelÃ¸kken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "2025-04-26",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -171,8 +171,8 @@
       "retrieved_at": "2026-10-17T07:48:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "GJØVIK OG OMEGN BOLIGBYGGELAG",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "GJÃ˜VIK OG OMEGN BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948925109/roller",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948925109.",
-  "last_checked": "2026-10-17T07:48:47+00:00",
+  "last_checked": "2026-10-17T10:02:36+00:00",
   "changes": []
 }

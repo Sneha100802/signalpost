@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GJØVIK BRUKT INVENTAR ANS",
+      "value": "GJÃ˜VIK BRUKT INVENTAR ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950230193",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "address",
-      "value": "Tordenskjolds gate 11, 2821, GJØVIK",
+      "value": "Tordenskjolds gate 11, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950230193",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950230193",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selge og kjøpe brukte møbler.",
+      "value": "Selge og kjÃ¸pe brukte mÃ¸bler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950230193",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Jørgen Aafoss",
+      "value": "JÃ¸rgen Aafoss",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/950230193/roller",
       "source_date": "1989-01-29",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 950230193. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:51+00:00",
+  "last_checked": "2026-10-17T10:08:10+00:00",
   "changes": []
 }

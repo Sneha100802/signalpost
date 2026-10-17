@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.110 Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "value": "94.110 Aktiviteter i nÃ¦ringslivs- og arbeidsgiverorganisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
       "source_date": "2018-01-05",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -67,21 +67,21 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "sector",
-      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
       "source_date": "2018-01-05",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "purpose",
-      "value": "Drive tilrettelagte aktiviteter til bolig for samvirkemedlemmene. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av varer og/eller tjenester for tilrettelagte aktiviteter til bolig for samvirkemedlemmene.",
+      "value": "Drive tilrettelagte aktiviteter til bolig for samvirkemedlemmene. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av varer og/eller tjenester for tilrettelagte aktiviteter til bolig for samvirkemedlemmene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001",
       "source_date": "2018-01-05",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Thorbjørn Grindhaug",
+      "value": "ThorbjÃ¸rn Grindhaug",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:03+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:47:03+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920026001/roller",
       "source_date": "2020-09-30",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920026001. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:04+00:00",
+  "last_checked": "2026-10-17T09:56:37+00:00",
   "changes": []
 }

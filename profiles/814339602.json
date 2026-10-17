@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BJØRA VEL SA",
+      "value": "BJÃ˜RA VEL SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": "2015-03-27",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": "2015-03-27",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     },
     {
       "field": "address",
-      "value": "Bjøra 18, 7070, BOSBERG",
+      "value": "BjÃ¸ra 18, 7070, BOSBERG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": "2015-03-27",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Bjøra 19, 7070, BOSBERG",
+      "value": "BjÃ¸ra 19, 7070, BOSBERG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": "2015-03-27",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å ha et felles organ til å ta seg av de forpliktelser som påhviler ovennevnte eiendommer for drift og vedlikehold av felles anlegg. Disse anlegg består av felles vei med belysning, avløpsrør i bekk under felles vei, vann- og kloakkanlegg og eiendom gnr. 260 bnr. 78. Virksomheten kan videre ta opp saker av felles interesse.",
+      "value": "Ã… ha et felles organ til Ã¥ ta seg av de forpliktelser som pÃ¥hviler ovennevnte eiendommer for drift og vedlikehold av felles anlegg. Disse anlegg bestÃ¥r av felles vei med belysning, avlÃ¸psrÃ¸r i bekk under felles vei, vann- og kloakkanlegg og eiendom gnr. 260 bnr. 78. Virksomheten kan videre ta opp saker av felles interesse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602",
       "source_date": "2015-03-27",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Trond Wiggo Hammervik Grøvdal",
+      "value": "Trond Wiggo Hammervik GrÃ¸vdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
       "source_date": "2026-05-11",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -151,13 +151,13 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Gunnar Kåre Hansen",
+      "value": "Gunnar KÃ¥re Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/814339602/roller",
       "source_date": "2026-05-11",
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 814339602. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:31+00:00",
+  "last_checked": "2026-10-17T10:01:00+00:00",
   "changes": []
 }

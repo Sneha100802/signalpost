@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2014-02-03",
@@ -123,21 +123,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Are Mikael Lillebø",
+      "value": "Are Mikael LillebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Camilla Svorstøl",
+      "value": "Camilla SvorstÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Gro Øksland",
+      "value": "Gro Ã˜ksland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Julia Jeanette Mørk",
+      "value": "Julia Jeanette MÃ¸rk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2026-02-25",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951493120/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 951493120.",
-  "last_checked": "2026-10-17T07:47:24+00:00",
+  "last_checked": "2026-10-17T09:57:20+00:00",
   "changes": []
 }

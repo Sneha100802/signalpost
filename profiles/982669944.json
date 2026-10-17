@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.420 Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon",
+      "value": "01.420 Oppdrett av annet storfe til kjÃ¸ttproduksjon og sÃ¦dproduksjon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982669944",
       "source_date": "2000-11-20",
       "retrieved_at": "2026-10-17T07:47:04+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982669944",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:04+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forpakte å drive gården Austdal gnr.222 bnr.1 mfl. i Gjøvik kommune, jfr. forpaktningskontrakt av 1/4 2000.",
+      "value": "Forpakte Ã¥ drive gÃ¥rden Austdal gnr.222 bnr.1 mfl. i GjÃ¸vik kommune, jfr. forpaktningskontrakt av 1/4 2000.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982669944",
       "source_date": "2000-11-20",
       "retrieved_at": "2026-10-17T07:47:04+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982669944. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:04+00:00",
+  "last_checked": "2026-10-17T09:56:38+00:00",
   "changes": []
 }

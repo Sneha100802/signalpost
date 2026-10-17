@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GREVIK VANN OG AVLØP SA",
+      "value": "GREVIK VANN OG AVLÃ˜P SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997126769",
       "source_date": "2011-08-27",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997126769",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Planlegge, kontrahere, bygge og drifte av privat, felles vann- og avløpsanlegg som er tilkoblet det offentlige vann- og avløpsnett for at andelseierne i hytteområdet omkring Grevikveien på Tjøme skal gis mulighet til å koble seg til helårs vann- og avløpsledninger.",
+      "value": "Planlegge, kontrahere, bygge og drifte av privat, felles vann- og avlÃ¸psanlegg som er tilkoblet det offentlige vann- og avlÃ¸psnett for at andelseierne i hytteomrÃ¥det omkring Grevikveien pÃ¥ TjÃ¸me skal gis mulighet til Ã¥ koble seg til helÃ¥rs vann- og avlÃ¸psledninger.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997126769",
       "source_date": "2011-08-27",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997126769.",
-  "last_checked": "2026-10-17T07:47:38+00:00",
+  "last_checked": "2026-10-17T09:57:48+00:00",
   "changes": []
 }

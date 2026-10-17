@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "03.110 Fiske og fangst i sjø",
+      "value": "03.110 Fiske og fangst i sjÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128",
       "source_date": "2002-10-21",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
     },
     {
       "field": "address",
-      "value": "Kvikstad, 8100, MISVÆR",
+      "value": "Kvikstad, 8100, MISVÃ†R",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128",
       "source_date": "2002-10-21",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drift av fiskefartøy.",
+      "value": "Eie og drift av fiskefartÃ¸y.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128",
       "source_date": "2002-10-21",
       "retrieved_at": "2026-10-17T07:47:49+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jon Ståle Heggnes",
+      "value": "Jon StÃ¥le Heggnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128/roller",
       "source_date": "2002-10-21",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Jon Ståle Heggnes",
+      "value": "Jon StÃ¥le Heggnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984915128/roller",
       "source_date": "2002-10-21",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984915128. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:50+00:00",
+  "last_checked": "2026-10-17T09:58:26+00:00",
   "changes": []
 }

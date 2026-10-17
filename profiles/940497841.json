@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL BØLERSKOGEN BORETTSLAG",
+      "value": "AL BÃ˜LERSKOGEN BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940497841",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940497841",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:50:03+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940497841/roller",
       "source_date": "2003-08-27",
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:03+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940497841/roller",
       "source_date": "2010-05-01",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:50:03+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940497841.",
-  "last_checked": "2026-10-17T07:50:03+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940497841. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:09:00+00:00",
   "changes": []
 }

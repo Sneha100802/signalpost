@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Grandfjæra 22C, 6415, MOLDE",
+      "value": "GrandfjÃ¦ra 22C, 6415, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996566544",
       "source_date": "2011-02-22",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996566544",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996566544. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:47+00:00",
+  "last_checked": "2026-10-17T10:02:40+00:00",
   "changes": []
 }

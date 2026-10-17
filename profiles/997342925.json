@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Bjørnstjerne Bjørnsons gate 55, 3044, DRAMMEN",
+      "value": "BjÃ¸rnstjerne BjÃ¸rnsons gate 55, 3044, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
       "source_date": "2011-09-22",
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -108,8 +108,8 @@
       "retrieved_at": "2026-10-17T07:51:17+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "CONTUS ØKONOMI AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "CONTUS Ã˜KONOMI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
       "source_date": "2020-12-17",
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -120,9 +120,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997342925/roller",
       "source_date": "2011-09-22",
       "retrieved_at": "2026-10-17T07:51:17+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://arosmarine.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:14:39+00:00"
+    },
+    {
+      "field": "email",
+      "value": "info@arosmarine.com",
+      "source_url": "https://arosmarine.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:14:39+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997342925. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:18+00:00",
-  "changes": []
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997342925. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:15:42+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "info@arosmarine.com"
+      ],
+      "at": "2026-10-17T10:15:42+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:15:42+00:00"
+    }
+  ]
 }

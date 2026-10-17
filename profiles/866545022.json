@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/866545022",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive advokatvirksomhet. Styreverv og lignende tilitsverv inngår ikke i advokatvirksomheten.",
+      "value": "Drive advokatvirksomhet. Styreverv og lignende tilitsverv inngÃ¥r ikke i advokatvirksomheten.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/866545022",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Knut-Terje Winther-Sørensen",
+      "value": "Knut-Terje Winther-SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/866545022/roller",
       "source_date": "2026-04-13",
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -157,8 +157,8 @@
       "retrieved_at": "2026-10-17T07:48:11+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "STORETVEDT REGNSKAPSBYRÅ AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "STORETVEDT REGNSKAPSBYRÃ… AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/866545022/roller",
       "source_date": "2004-03-15",
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 866545022.",
-  "last_checked": "2026-10-17T07:48:11+00:00",
+  "last_checked": "2026-10-17T09:59:15+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985825882",
       "source_date": "2003-08-20",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985825882",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive barnehage i Trondheim til beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "value": "Eie og drive barnehage i Trondheim til beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985825882",
       "source_date": "2003-08-20",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Morten Myhren-Rørå",
+      "value": "Morten Myhren-RÃ¸rÃ¥",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985825882/roller",
       "source_date": "2026-05-18",
       "retrieved_at": "2026-10-17T07:47:33+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:47:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985825882/roller",
       "source_date": "2016-06-28",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:47:33+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985825882.",
-  "last_checked": "2026-10-17T07:47:33+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985825882. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:57:38+00:00",
   "changes": []
 }

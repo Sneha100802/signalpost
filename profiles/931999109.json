@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "79.121 Aktiviteter utført av utflukts- og eventarrangører",
+      "value": "79.121 Aktiviteter utfÃ¸rt av utflukts- og eventarrangÃ¸rer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
       "source_date": "2023-09-01",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "address",
-      "value": "c/o David Inge Daigle, Skipsveien 61, 4083, HUNDVÅG",
+      "value": "c/o David Inge Daigle, Skipsveien 61, 4083, HUNDVÃ…G",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
       "source_date": "2023-09-01",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -102,13 +102,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kjell Cato Øglænd",
+      "value": "Kjell Cato Ã˜glÃ¦nd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931999109/roller",
       "source_date": "2023-09-01",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931999109. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:46+00:00",
+  "last_checked": "2026-10-17T10:02:22+00:00",
   "changes": []
 }

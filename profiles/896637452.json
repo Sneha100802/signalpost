@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Harald Skjolds veg 32, 5236, RÅDAL",
+      "value": "Harald Skjolds veg 32, 5236, RÃ…DAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452",
       "source_date": "2011-03-03",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Bjørn Arne Øvrebø, Øyjordsveien 78, 5038, BERGEN",
+      "value": "c/o BjÃ¸rn Arne Ã˜vrebÃ¸, Ã˜yjordsveien 78, 5038, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452",
       "source_date": "2011-03-03",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Arne Øvrebø",
+      "value": "BjÃ¸rn Arne Ã˜vrebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452/roller",
       "source_date": "2025-03-20",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -127,9 +127,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452/roller",
       "source_date": "2025-03-20",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.skjoldspeider.org",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:00:14+00:00"
+    },
+    {
+      "field": "description",
+      "value": "1. Skjold Speidergruppe develops children and youth into responsible adults through outdoor activities and scouting programs.",
+      "source_url": "https://www.skjoldspeider.org",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:28+00:00"
     }
   ],
-  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 896637452. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:27+00:00",
-  "changes": []
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 896637452. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:18:28+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:01:34+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Skjold Speidergruppe develops children and youth into responsible adults through outdoor activities and scouting programs."
+      ],
+      "at": "2026-10-17T10:18:28+00:00"
+    }
+  ]
 }

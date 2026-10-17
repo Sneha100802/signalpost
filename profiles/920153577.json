@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920153577",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Rolf Jørgen Barmen",
+      "value": "Rolf JÃ¸rgen Barmen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920153577/roller",
       "source_date": "2017-12-20",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Steinar Sønsteby",
+      "value": "Steinar SÃ¸nsteby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920153577/roller",
       "source_date": "2025-05-06",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Frank Økland",
+      "value": "Frank Ã˜kland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920153577/roller",
       "source_date": "2025-05-06",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -200,7 +200,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Ina Therese Wiik Marås",
+      "value": "Ina Therese Wiik MarÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920153577/roller",
       "source_date": "2025-05-06",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -260,9 +260,67 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/920153577",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://elmeragroup.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:50+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Elmera Group ASA is the parent company in a group of several companies selling counseling, services and computer software to energy companies, power agreements and various products for the low emission society.",
+      "source_url": "https://elmeragroup.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:01+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Electricity",
+        "Billing & rating services",
+        "Electricity related technology solutions",
+        "Power agreements",
+        "Computer software"
+      ],
+      "source_url": "https://elmeragroup.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:01+00:00"
     }
   ],
-  "explanation": "37 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920153577.",
-  "last_checked": "2026-10-17T07:47:37+00:00",
-  "changes": []
+  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920153577.",
+  "last_checked": "2026-10-17T09:58:01+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Elmera Group ASA is the parent company in a group of several companies selling counseling, services and computer software to energy companies, power agreements and various products for the low emission society."
+      ],
+      "at": "2026-10-17T09:58:01+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Electricity",
+          "Billing & rating services",
+          "Electricity related technology solutions",
+          "Power agreements",
+          "Computer software"
+        ]
+      ],
+      "at": "2026-10-17T09:58:01+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:58:01+00:00"
+    }
+  ]
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "FJÆRE SAMEIE SA",
+      "value": "FJÃ†RE SAMEIE SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Kjerringøyveien 857, 8093, KJERRINGØY",
+      "value": "KjerringÃ¸yveien 857, 8093, KJERRINGÃ˜Y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Kay-Inge Jensen, Kjerringøyveien 857, 8093, KJERRINGØY",
+      "value": "c/o Kay-Inge Jensen, KjerringÃ¸yveien 857, 8093, KJERRINGÃ˜Y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte og omsette verdiene andeleierne har i jakt og fiskerettigheter, samt i plantefelt, landslott og laksenotsett. Foretaket kan også arbeide for andelseiernes interesser i saker som angår arealplansaker, friluftsliv og bærekraftig utvikling av kulturlandskapet.",
+      "value": "Forvalte og omsette verdiene andeleierne har i jakt og fiskerettigheter, samt i plantefelt, landslott og laksenotsett. Foretaket kan ogsÃ¥ arbeide for andelseiernes interesser i saker som angÃ¥r arealplansaker, friluftsliv og bÃ¦rekraftig utvikling av kulturlandskapet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tormod Henry Skålsvik",
+      "value": "Tormod Henry SkÃ¥lsvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -165,21 +165,21 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Åse Irene Wickstrøm",
+      "value": "Ã…se Irene WickstrÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "CJB REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
       "source_date": "2026-06-09",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKORÅD SALTEN AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KORÃ…D SALTEN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971206756/roller",
       "source_date": "2026-06-09",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -228,6 +228,6 @@
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971206756.",
-  "last_checked": "2026-10-17T07:50:04+00:00",
+  "last_checked": "2026-10-17T10:09:00+00:00",
   "changes": []
 }

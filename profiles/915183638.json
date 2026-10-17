@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "HØLENVEIEN SA",
+      "value": "HÃ˜LENVEIEN SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Helge B Trollstøl, Huldreveien 49, 3042, DRAMMEN",
+      "value": "c/o Helge B TrollstÃ¸l, Huldreveien 49, 3042, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ivareta forvaltning og drift av Hølenveien, Hølenveien er adkomstvei for hyttene i området Tempelseterveien til Nattmyr.",
+      "value": "Ivareta forvaltning og drift av HÃ¸lenveien, HÃ¸lenveien er adkomstvei for hyttene i omrÃ¥det Tempelseterveien til Nattmyr.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -123,27 +123,27 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Helge Blikom Trollstøl",
+      "value": "Helge Blikom TrollstÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638/roller",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Annette Wisløff",
+      "value": "Annette WislÃ¸ff",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638/roller",
       "source_date": "2015-06-24",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIBISTAND REGNSKAP AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIBISTAND REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915183638/roller",
       "source_date": "2024-01-17",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915183638. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:07+00:00",
+  "last_checked": "2026-10-17T10:14:03+00:00",
   "changes": []
 }

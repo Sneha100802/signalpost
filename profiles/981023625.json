@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "25.620 Produksjon av låser og beslag",
+      "value": "25.620 Produksjon av lÃ¥ser og beslag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981023625",
       "source_date": "1999-08-27",
       "retrieved_at": "2026-10-17T07:50:11+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981023625",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:11+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981023625. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:12+00:00",
+  "last_checked": "2026-10-17T10:09:17+00:00",
   "changes": []
 }

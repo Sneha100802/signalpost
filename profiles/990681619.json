@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
       "source_date": "2007-04-18",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
     },
     {
       "field": "address",
-      "value": "Østre Totenveg 10, 2816, GJØVIK",
+      "value": "Ã˜stre Totenveg 10, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
       "source_date": "2007-04-18",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Synnøve Eidsvoll",
+      "value": "SynnÃ¸ve Eidsvoll",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
       "source_date": "2025-10-20",
       "retrieved_at": "2026-10-17T07:48:07+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "May Linn Nygård",
+      "value": "May Linn NygÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
       "source_date": "2025-10-20",
       "retrieved_at": "2026-10-17T07:48:07+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:48:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "DITT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990681619/roller",
       "source_date": "2012-03-10",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:07+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990681619.",
-  "last_checked": "2026-10-17T07:48:07+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990681619. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:59:18+00:00",
   "changes": []
 }

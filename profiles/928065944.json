@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Johan Berentsens vei 41, 5160, LAKSEVÅG",
+      "value": "Johan Berentsens vei 41, 5160, LAKSEVÃ…G",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928065944",
       "source_date": "2022-07-05",
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928065944",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utleie av øvingsrom for musikk, og musikkproduksjon, med målsetting om å tilby rimelige og lavest mulig priser til interesserte leietakere. Medlemmene i foretaket skal leie et større areal tiltenkt musikkvirksomhet, for så fremleie de arealene styret selv ikke skal bruke.",
+      "value": "Utleie av Ã¸vingsrom for musikk, og musikkproduksjon, med mÃ¥lsetting om Ã¥ tilby rimelige og lavest mulig priser til interesserte leietakere. Medlemmene i foretaket skal leie et stÃ¸rre areal tiltenkt musikkvirksomhet, for sÃ¥ fremleie de arealene styret selv ikke skal bruke.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928065944",
       "source_date": "2022-07-05",
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Torbjørn Brandal",
+      "value": "TorbjÃ¸rn Brandal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928065944/roller",
       "source_date": "2022-07-05",
       "retrieved_at": "2026-10-17T07:47:05+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928065944.",
-  "last_checked": "2026-10-17T07:47:05+00:00",
+  "last_checked": "2026-10-17T09:56:41+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Biskop Jens Nilssøns gate 20C, 0659, OSLO",
+      "value": "Biskop Jens NilssÃ¸ns gate 20C, 0659, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
       "source_date": "2003-05-10",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985645329",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985645329. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:49+00:00",
+  "last_checked": "2026-10-17T10:02:44+00:00",
   "changes": []
 }

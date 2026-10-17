@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BERGMO GÅRD DA",
+      "value": "BERGMO GÃ…RD DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920383114",
       "source_date": "2018-02-05",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.471 Hold av verpehøner for konsumeggproduksjon",
+      "value": "01.471 Hold av verpehÃ¸ner for konsumeggproduksjon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920383114",
       "source_date": "2018-02-05",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920383114",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selge produkter knyttet til gårdsdrift, som fremmer en avfallsfri hverdag og oppfordrer til mer resirkulering. Eksempel på dette er egg fra egne høner, hjemmelaget marmelade, bivokskluter, matprodukter i løsvekt, grønnsaker fra egen hage.  ",
+      "value": "Selge produkter knyttet til gÃ¥rdsdrift, som fremmer en avfallsfri hverdag og oppfordrer til mer resirkulering. Eksempel pÃ¥ dette er egg fra egne hÃ¸ner, hjemmelaget marmelade, bivokskluter, matprodukter i lÃ¸svekt, grÃ¸nnsaker fra egen hage.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920383114",
       "source_date": "2018-02-05",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:49:39+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920383114. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:40+00:00",
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920383114. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:06:55+00:00",
   "changes": []
 }

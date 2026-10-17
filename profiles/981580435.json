@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981580435",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Treningssenter og hva herved står i forbindelse.",
+      "value": "Treningssenter og hva herved stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981580435",
       "source_date": "2000-03-11",
       "retrieved_at": "2026-10-17T07:50:03+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981580435.",
-  "last_checked": "2026-10-17T07:50:04+00:00",
+  "last_checked": "2026-10-17T10:08:59+00:00",
   "changes": []
 }

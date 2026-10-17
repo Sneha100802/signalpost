@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "value": "68.110 KjÃ¸p og salg av egen fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289100",
       "source_date": "2007-06-12",
       "retrieved_at": "2026-10-17T07:47:45+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289100",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:45+00:00"
@@ -95,21 +95,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Per Åke Christian Dyberg",
+      "value": "Per Ã…ke Christian Dyberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289100/roller",
       "source_date": "2007-06-12",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Per Åke Christian Dyberg",
+      "value": "Per Ã…ke Christian Dyberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289100/roller",
       "source_date": "2007-06-12",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ALPHA FORRETNINGSFØRSEL AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "ALPHA FORRETNINGSFÃ˜RSEL AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991289100/roller",
       "source_date": "2013-05-29",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991289100.",
-  "last_checked": "2026-10-17T07:47:46+00:00",
+  "last_checked": "2026-10-17T09:58:10+00:00",
   "changes": []
 }

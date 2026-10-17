@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -102,34 +102,34 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Einar Røshol",
+      "value": "Einar RÃ¸shol",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
       "source_date": "2014-02-10",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Kirsti Røshol Johnson",
+      "value": "Kirsti RÃ¸shol Johnson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
       "source_date": "2014-02-10",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Gunnhild Røshol",
+      "value": "Gunnhild RÃ¸shol",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
       "source_date": "2014-02-10",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Jørgen Røshol",
+      "value": "JÃ¸rgen RÃ¸shol",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
       "source_date": "2014-02-10",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ROMSDAL REVISJON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912857328/roller",
       "source_date": "2024-06-18",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912857328. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:56+00:00",
+  "last_checked": "2026-10-17T09:58:34+00:00",
   "changes": []
 }

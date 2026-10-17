@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392",
       "source_date": "2006-10-25",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:09+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392/roller",
       "source_date": "2025-04-24",
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Per Kristen Løkås",
+      "value": "Per Kristen LÃ¸kÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392/roller",
       "source_date": "2026-07-23",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bengt Kåre Steffensen",
+      "value": "Bengt KÃ¥re Steffensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392/roller",
       "source_date": "2026-07-23",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:50:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/890389392/roller",
       "source_date": "2026-07-23",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 890389392.",
-  "last_checked": "2026-10-17T07:50:10+00:00",
+  "last_checked": "2026-10-17T10:09:12+00:00",
   "changes": []
 }

@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937538200",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:55+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres aktive deltakelse i virksomheten. Dette skjer gjennom levering av administrative tjenester, regnskapstjenester, rådgivning, struktur- og effektiviseringsarbeid, salgs- og markedsføringstjenester, samt annen virksomhet som naturlig står i forbindelse med dette. Foretaket kan også utvikle samarbeidsnettverk, digitale løsninger og øvrige tiltak som styrker medlemmenes næringsvirksomhet, både overfor medlemmer og eksterne kunder.",
+      "value": "Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres aktive deltakelse i virksomheten. Dette skjer gjennom levering av administrative tjenester, regnskapstjenester, rÃ¥dgivning, struktur- og effektiviseringsarbeid, salgs- og markedsfÃ¸ringstjenester, samt annen virksomhet som naturlig stÃ¥r i forbindelse med dette. Foretaket kan ogsÃ¥ utvikle samarbeidsnettverk, digitale lÃ¸sninger og Ã¸vrige tiltak som styrker medlemmenes nÃ¦ringsvirksomhet, bÃ¥de overfor medlemmer og eksterne kunder.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937538200",
       "source_date": "2026-10-15",
       "retrieved_at": "2026-10-17T07:46:55+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Alexandros Håkonsen Lyberopoulos",
+      "value": "Alexandros HÃ¥konsen Lyberopoulos",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937538200/roller",
       "source_date": "2026-10-15",
       "retrieved_at": "2026-10-17T07:46:55+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937538200. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:56+00:00",
+  "last_checked": "2026-10-17T09:56:16+00:00",
   "changes": []
 }

@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914789176",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og utleie av maskiner og utstyr og alt hva hermed står i forbindelse.",
+      "value": "KjÃ¸p, salg og utleie av maskiner og utstyr og alt hva hermed stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914789176",
       "source_date": "2015-01-13",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:47:54+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MEMO REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914789176/roller",
       "source_date": "2017-08-28",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914789176.",
-  "last_checked": "2026-10-17T07:47:54+00:00",
+  "last_checked": "2026-10-17T09:58:31+00:00",
   "changes": []
 }

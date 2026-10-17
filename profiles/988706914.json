@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "JØRVOLL OG BJØRNES SAMDRIFT DA",
+      "value": "JÃ˜RVOLL OG BJÃ˜RNES SAMDRIFT DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988706914",
       "source_date": "2005-10-17",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "01.410 Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "value": "01.410 Melkeproduksjon pÃ¥ storfe og oppdrett av melkekyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988706914",
       "source_date": "2005-10-17",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988706914",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "FeIles melk - og kjøttproduksjon for best mulig rasjonell utnytting av deltakernes egne jordbruksareal samt eventuelt forpakta areal. Samdrifta skal gi muligheter for ordna arbeidsforhold, fritid og ferie for deltakerne. I tillegg kan samdrifta etablere annen virksomhet som direkte knytter seg til landbruksnæringa.",
+      "value": "FeIles melk - og kjÃ¸ttproduksjon for best mulig rasjonell utnytting av deltakernes egne jordbruksareal samt eventuelt forpakta areal. Samdrifta skal gi muligheter for ordna arbeidsforhold, fritid og ferie for deltakerne. I tillegg kan samdrifta etablere annen virksomhet som direkte knytter seg til landbruksnÃ¦ringa.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988706914",
       "source_date": "2005-10-17",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Kristen Sæther",
+      "value": "Kristen SÃ¦ther",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988706914/roller",
       "source_date": "2005-10-17",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988706914. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:03+00:00",
+  "last_checked": "2026-10-17T09:58:55+00:00",
   "changes": []
 }

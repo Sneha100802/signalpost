@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
       "source_date": "2016-04-15",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:50:21+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916903065/roller",
       "source_date": "2025-12-02",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916903065. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:21+00:00",
+  "last_checked": "2026-10-17T10:09:45+00:00",
   "changes": []
 }

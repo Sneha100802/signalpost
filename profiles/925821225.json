@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Erling Børresen, Solhøgdvegen 29, 7021, TRONDHEIM",
+      "value": "c/o Erling BÃ¸rresen, SolhÃ¸gdvegen 29, 7021, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225",
       "source_date": "2020-10-22",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investering i aksjer, eiendom, samt virksomhet som står i forbindelse med dette - herunder salg av konsulenttjenester.",
+      "value": "Investering i aksjer, eiendom, samt virksomhet som stÃ¥r i forbindelse med dette - herunder salg av konsulenttjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225",
       "source_date": "2020-10-22",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Erling Andreas Børresen",
+      "value": "Erling Andreas BÃ¸rresen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225/roller",
       "source_date": "2020-10-22",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Erling Andreas Børresen",
+      "value": "Erling Andreas BÃ¸rresen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225/roller",
       "source_date": "2025-01-09",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Silje Taftø Petersen",
+      "value": "Silje TaftÃ¸ Petersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225/roller",
       "source_date": "2025-01-09",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925821225.",
-  "last_checked": "2026-10-17T07:50:55+00:00",
+  "last_checked": "2026-10-17T10:12:44+00:00",
   "changes": []
 }

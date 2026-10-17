@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL KRINGSJÅ BORETTSLAG",
+      "value": "AL KRINGSJÃ… BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Sønningsvegen 1,2 og 4, 4700, VENNESLA",
+      "value": "SÃ¸nningsvegen 1,2 og 4, 4700, VENNESLA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/Sørlandet Boligbyggelag, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "v/SÃ¸rlandet Boligbyggelag, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -115,15 +115,15 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
       "source_date": "2000-07-07",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ida Børve Larsen",
+      "value": "Ida BÃ¸rve Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
       "source_date": "2024-05-28",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
       "source_date": "2004-03-13",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954989798.",
-  "last_checked": "2026-10-17T07:50:28+00:00",
+  "last_checked": "2026-10-17T10:10:30+00:00",
   "changes": []
 }

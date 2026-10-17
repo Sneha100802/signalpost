@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ENGEN GÅRD DA",
+      "value": "ENGEN GÃ…RD DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
       "source_date": "2013-05-22",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Seilasveien 14, 8013, BODØ",
+      "value": "Seilasveien 14, 8013, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
       "source_date": "2013-05-22",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drifte Engen Gård, som utleievirksomhet og vedlikehold av bygningsmassen, den tilhørende eiendommen rundt, og alt som naturlig kan tilhøre slik virksomhet.",
+      "value": "Ã… drifte Engen GÃ¥rd, som utleievirksomhet og vedlikehold av bygningsmassen, den tilhÃ¸rende eiendommen rundt, og alt som naturlig kan tilhÃ¸re slik virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282",
       "source_date": "2013-05-22",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørghild Engen",
+      "value": "BjÃ¸rghild Engen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911968282/roller",
       "source_date": "2013-05-22",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911968282. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:21+00:00",
+  "last_checked": "2026-10-17T10:09:43+00:00",
   "changes": []
 }

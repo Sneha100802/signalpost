@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942790414",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg/installasjon av beslag, låser på nybygg, rehabeliterte bygg og til private.",
+      "value": "Salg/installasjon av beslag, lÃ¥ser pÃ¥ nybygg, rehabeliterte bygg og til private.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942790414",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Hilde Elisabeth Prøyme Minter",
+      "value": "Hilde Elisabeth PrÃ¸yme Minter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942790414/roller",
       "source_date": "1989-01-13",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 942790414. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:00+00:00",
+  "last_checked": "2026-10-17T09:58:40+00:00",
   "changes": []
 }

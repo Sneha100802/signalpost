@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "88.102 Dagaktivitetstilbud tilpasset målgrupper",
+      "value": "88.102 Dagaktivitetstilbud tilpasset mÃ¥lgrupper",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
       "source_date": "2001-07-10",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "address",
-      "value": "3050, MJØNDALEN",
+      "value": "3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
       "source_date": "2001-07-10",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/OleChristian Verheul, Smetten 3, 3050, MJØNDALEN",
+      "value": "v/OleChristian Verheul, Smetten 3, 3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
       "source_date": "2001-07-10",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Mette Løvaas Gjerde",
+      "value": "Mette LÃ¸vaas Gjerde",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
       "source_date": "2003-10-28",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mette Løvaas Gjerde",
+      "value": "Mette LÃ¸vaas Gjerde",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
       "source_date": "2015-09-16",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
@@ -148,9 +148,25 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983362990/roller",
       "source_date": "2003-09-22",
       "retrieved_at": "2026-10-17T07:48:46+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.gripdagen.org",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:02:27+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:46+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:03:45+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:03:45+00:00"
+    }
+  ]
 }

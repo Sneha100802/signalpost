@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
       "source_date": "2004-08-19",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Mette Hostad, Sørstien 6, 6411, MOLDE",
+      "value": "c/o Mette Hostad, SÃ¸rstien 6, 6411, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
       "source_date": "2004-08-19",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/887147612",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 887147612. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:17+00:00",
+  "last_checked": "2026-10-17T10:14:23+00:00",
   "changes": []
 }

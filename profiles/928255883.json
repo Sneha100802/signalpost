@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Sørbråtveien 27, 0891, OSLO",
+      "value": "SÃ¸rbrÃ¥tveien 27, 0891, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928255883",
       "source_date": "2021-12-29",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928255883",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bi-Omstilling skal drive som birøkterlag, og samtidig være en katalysator for rask og integrert omstilling til bærekraftig levemåte og samfunnsstruktur innenfor det området biene rekker over, i samarbeide med lokalbefolkning, politiske institusjoner, nærings- og organisasjonsliv.",
+      "value": "Bi-Omstilling skal drive som birÃ¸kterlag, og samtidig vÃ¦re en katalysator for rask og integrert omstilling til bÃ¦rekraftig levemÃ¥te og samfunnsstruktur innenfor det omrÃ¥det biene rekker over, i samarbeide med lokalbefolkning, politiske institusjoner, nÃ¦rings- og organisasjonsliv.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928255883",
       "source_date": "2021-12-29",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Håkon Lundeby Mella",
+      "value": "HÃ¥kon Lundeby Mella",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928255883/roller",
       "source_date": "2026-09-01",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928255883.",
-  "last_checked": "2026-10-17T07:49:27+00:00",
+  "last_checked": "2026-10-17T10:06:04+00:00",
   "changes": []
 }

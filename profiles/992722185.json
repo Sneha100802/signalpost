@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "EIDSØRA VASSVERK SA",
+      "value": "EIDSÃ˜RA VASSVERK SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
       "source_date": "2013-11-26",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Eidsøra, 6460, EIDSVÅG I ROMSDAL",
+      "value": "EidsÃ¸ra, 6460, EIDSVÃ…G I ROMSDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
       "source_date": "2013-11-26",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Anlegge, drifte og forsyne medlemmene med drikkevann. Anlegget består av to seperate brønner/annlegg (Eidsøra 1 og 2) men med felles forpliktelser, drift og styre.",
+      "value": "Anlegge, drifte og forsyne medlemmene med drikkevann. Anlegget bestÃ¥r av to seperate brÃ¸nner/annlegg (EidsÃ¸ra 1 og 2) men med felles forpliktelser, drift og styre.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185",
       "source_date": "2013-11-26",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Gunnar Atle Sæter",
+      "value": "Gunnar Atle SÃ¦ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
       "source_date": "2026-02-03",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Simen Martinius Tømte Bruseth",
+      "value": "Simen Martinius TÃ¸mte Bruseth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
       "source_date": "2026-02-03",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lars Tore Eidsør",
+      "value": "Lars Tore EidsÃ¸r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992722185/roller",
       "source_date": "2026-02-03",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992722185. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:29+00:00",
+  "last_checked": "2026-10-17T10:10:31+00:00",
   "changes": []
 }

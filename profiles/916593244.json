@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916593244",
       "source_date": "2017-03-21",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916593244",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Stå for den daglige driften av følgende veistrekninger: fra Vardalsvegen til Nordengvegen med forgreining til Almsunden 82.",
+      "value": "StÃ¥ for den daglige driften av fÃ¸lgende veistrekninger: fra Vardalsvegen til Nordengvegen med forgreining til Almsunden 82.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916593244",
       "source_date": "2017-03-21",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Harald Børstad",
+      "value": "Harald BÃ¸rstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916593244/roller",
       "source_date": "2025-04-02",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:51:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "DITT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916593244/roller",
       "source_date": "2017-03-21",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916593244. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:00+00:00",
+  "last_checked": "2026-10-17T10:13:27+00:00",
   "changes": []
 }

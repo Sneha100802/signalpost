@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987455403",
       "source_date": "2004-11-18",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987455403",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Markedsføring av opplevelser og aktiviteter knyttet til Saltstraumen m. omegn.  ",
+      "value": "MarkedsfÃ¸ring av opplevelser og aktiviteter knyttet til Saltstraumen m. omegn.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987455403",
       "source_date": "2004-11-18",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Herleif Lind Løkås",
+      "value": "Herleif Lind LÃ¸kÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987455403/roller",
       "source_date": "2022-03-08",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Herleif Lind Løkås",
+      "value": "Herleif Lind LÃ¸kÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987455403/roller",
       "source_date": "2026-09-21",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987455403. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:32+00:00",
+  "last_checked": "2026-10-17T10:06:24+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
       "source_date": "2012-06-20",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ferdigstille arbeidene på veistrekningen fra kryss Morviklien til kryss Morvikbrekkene. SA skal forestå det løpende vedlikehold, herunder snørydding/salting/strøing av strekningen.",
+      "value": "Ferdigstille arbeidene pÃ¥ veistrekningen fra kryss Morviklien til kryss Morvikbrekkene. SA skal forestÃ¥ det lÃ¸pende vedlikehold, herunder snÃ¸rydding/salting/strÃ¸ing av strekningen.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143",
       "source_date": "2012-06-20",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Andre Ånneland",
+      "value": "Andre Ã…nneland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998337143/roller",
       "source_date": "2025-04-29",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998337143. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:29+00:00",
+  "last_checked": "2026-10-17T10:10:32+00:00",
   "changes": []
 }

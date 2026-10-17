@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Åsgaten 4, 3060, SVELVIK",
+      "value": "Ã…sgaten 4, 3060, SVELVIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937491115",
       "source_date": "2026-04-08",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937491115",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:59+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937491115",
       "source_date": "2026-04-08",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937491115. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:59+00:00",
+  "last_checked": "2026-10-17T10:03:57+00:00",
   "changes": []
 }

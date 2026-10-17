@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988586404",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Glenn Frode Grøtheim",
+      "value": "Glenn Frode GrÃ¸theim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988586404/roller",
       "source_date": "2023-02-14",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Børre Lund",
+      "value": "BÃ¸rre Lund",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988586404/roller",
       "source_date": "2023-02-14",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJONSFIRMAET LEIF LANGØ AS",
+      "value": "REVISJONSFIRMAET LEIF LANGÃ˜ AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988586404/roller",
       "source_date": "2011-01-10",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988586404.",
-  "last_checked": "2026-10-17T07:50:55+00:00",
+  "last_checked": "2026-10-17T10:12:45+00:00",
   "changes": []
 }

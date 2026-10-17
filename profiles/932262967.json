@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
       "source_date": "2023-10-17",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Dekoreringsselskap som spesialiserer seg på moderne, estetiske og elegante dekorasjoner for bryllup og arrangementer. Introdusere internasjonal dekorasjonstrend til Norge og skape minneverdige øyeblikk for våre kunder.",
+      "value": "Dekoreringsselskap som spesialiserer seg pÃ¥ moderne, estetiske og elegante dekorasjoner for bryllup og arrangementer. Introdusere internasjonal dekorasjonstrend til Norge og skape minneverdige Ã¸yeblikk for vÃ¥re kunder.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932262967",
       "source_date": "2023-10-17",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932262967. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:57+00:00",
+  "last_checked": "2026-10-17T10:03:48+00:00",
   "changes": []
 }

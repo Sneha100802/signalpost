@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977269679",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bygge opp selskapets markedsandeler innenfor internettpresentasjon. Videre utvikle en slag- kraftig publiseringkanal på internett for reise- livsbedrifter i Norge.",
+      "value": "Bygge opp selskapets markedsandeler innenfor internettpresentasjon. Videre utvikle en slag- kraftig publiseringkanal pÃ¥ internett for reise- livsbedrifter i Norge.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977269679",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:49:58+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Asbjørn-Martin Antonsen",
+      "value": "AsbjÃ¸rn-Martin Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977269679/roller",
       "source_date": "1997-03-24",
       "retrieved_at": "2026-10-17T07:49:59+00:00"
@@ -123,20 +123,20 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Knut Håkon Søtvik",
+      "value": "Knut HÃ¥kon SÃ¸tvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977269679/roller",
       "source_date": "1997-03-24",
       "retrieved_at": "2026-10-17T07:49:59+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Asbjørn-Martin Antonsen",
+      "value": "AsbjÃ¸rn-Martin Antonsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977269679/roller",
       "source_date": "1997-03-24",
       "retrieved_at": "2026-10-17T07:49:59+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977269679. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:59+00:00",
+  "last_checked": "2026-10-17T10:08:38+00:00",
   "changes": []
 }

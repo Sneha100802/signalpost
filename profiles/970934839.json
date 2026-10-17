@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "MELØY BOLIGSTIFTELSE",
+      "value": "MELÃ˜Y BOLIGSTIFTELSE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Gammelveien 5, 8150, ØRNES",
+      "value": "Gammelveien 5, 8150, Ã˜RNES",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte, erverve og/eller forestå oppføring av utleie boliger.",
+      "value": "Forvalte, erverve og/eller forestÃ¥ oppfÃ¸ring av utleie boliger.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839/roller",
       "source_date": "1999-01-29",
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pål Einar Olsen",
+      "value": "PÃ¥l Einar Olsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839/roller",
       "source_date": "2026-08-26",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Gøran Bertil Lindberg",
+      "value": "GÃ¸ran Bertil Lindberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839/roller",
       "source_date": "2026-08-26",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:47:50+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970934839/roller",
       "source_date": "2014-09-19",
@@ -249,6 +249,6 @@
     }
   ],
   "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 970934839.",
-  "last_checked": "2026-10-17T07:47:51+00:00",
+  "last_checked": "2026-10-17T09:58:26+00:00",
   "changes": []
 }

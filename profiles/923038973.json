@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "17.MAIKOMITEEN I FANA BYSTRØK",
+      "value": "17.MAIKOMITEEN I FANA BYSTRÃ˜K",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923038973",
       "source_date": "2020-03-31",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "17.maikomiteen i Fana Bystrøk, v/ Eivind Hermansen, Fanaflaten 12, 5244, FANA",
+      "value": "17.maikomiteen i Fana BystrÃ¸k, v/ Eivind Hermansen, Fanaflaten 12, 5244, FANA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923038973",
       "source_date": "2020-03-31",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923038973",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923038973. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:16+00:00",
+  "last_checked": "2026-10-17T09:59:25+00:00",
   "changes": []
 }

@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Bryggevegen 3-5, 2821, GJØVIK",
+      "value": "Bryggevegen 3-5, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:09+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 110, 2801, GJØVIK",
+      "value": "Postboks 110, 2801, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å avta produkter fra andelseierne og sørge for verdiskapende omsetning av disse gjennom industriell bearbeiding. Virksomheten skal drives med sikte på å kunne betale en høyest mulig råvarepris for potetprodusenten og som er bærekraftig for selskapet. Formålet for foretaket er å drive produksjon, markedsføring og salg av egenproduserte produkter, salg av handelsvarer, eller ved at foretaket med innskudd eller på annen måte tar del i andre foretak. Foretaket skal drive, selv eller gjennom påvirkning av andre aktører, aktivt utviklingsarbeid innefor hele verdikjeden, herunder arbeide aktivt for å framskaffe hensiktsmessige potetsorter. Foretaket skal videre drive opplysnings- og rådgivningstjeneste overfor produsentene.",
+      "value": "Ã… avta produkter fra andelseierne og sÃ¸rge for verdiskapende omsetning av disse gjennom industriell bearbeiding. Virksomheten skal drives med sikte pÃ¥ Ã¥ kunne betale en hÃ¸yest mulig rÃ¥varepris for potetprodusenten og som er bÃ¦rekraftig for selskapet. FormÃ¥let for foretaket er Ã¥ drive produksjon, markedsfÃ¸ring og salg av egenproduserte produkter, salg av handelsvarer, eller ved at foretaket med innskudd eller pÃ¥ annen mÃ¥te tar del i andre foretak. Foretaket skal drive, selv eller gjennom pÃ¥virkning av andre aktÃ¸rer, aktivt utviklingsarbeid innefor hele verdikjeden, herunder arbeide aktivt for Ã¥ framskaffe hensiktsmessige potetsorter. Foretaket skal videre drive opplysnings- og rÃ¥dgivningstjeneste overfor produsentene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ken Are Bod Østlid",
+      "value": "Ken Are Bod Ã˜stlid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2023-10-02",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tørres Bore",
+      "value": "TÃ¸rres Bore",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håvard Hammer",
+      "value": "HÃ¥vard Hammer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -186,7 +186,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håkon Gran",
+      "value": "HÃ¥kon Gran",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -214,21 +214,21 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Lene Thomsen Nordås",
+      "value": "Lene Thomsen NordÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Tolle Hoel Slotnæs",
+      "value": "Tolle Hoel SlotnÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Thea Menne Tømte",
+      "value": "Thea Menne TÃ¸mte",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -288,9 +288,67 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.hoff.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:53+00:00"
+    },
+    {
+      "field": "description",
+      "value": "HOFF SA er et norsk samvirkeselskap som bearbeider poteter til frosne, tÃ¸rre og ferske potetprodukter for dagligvare, proffmarkedet og industri.",
+      "source_url": "https://www.hoff.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:02+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Pommes frites",
+        "Potetmos",
+        "Potetstivelse",
+        "HOFF Srirachakrydder",
+        "HOFF Churros"
+      ],
+      "source_url": "https://www.hoff.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:02+00:00"
     }
   ],
-  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940379016.",
-  "last_checked": "2026-10-17T07:47:10+00:00",
-  "changes": []
+  "explanation": "44 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940379016.",
+  "last_checked": "2026-10-17T09:57:02+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "HOFF SA er et norsk samvirkeselskap som bearbeider poteter til frosne, tÃ¸rre og ferske potetprodukter for dagligvare, proffmarkedet og industri."
+      ],
+      "at": "2026-10-17T09:57:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Pommes frites",
+          "Potetmos",
+          "Potetstivelse",
+          "HOFF Srirachakrydder",
+          "HOFF Churros"
+        ]
+      ],
+      "at": "2026-10-17T09:57:02+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:57:02+00:00"
+    }
+  ]
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "69.202 Regnskapsføring og bokføring",
+      "value": "69.202 RegnskapsfÃ¸ring og bokfÃ¸ring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933445992",
       "source_date": "2024-05-14",
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933445992",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Autorisert regnskapsførsel, årsoppgjør, lønnsbehandling og bedriftsrådgivning for andre, samt annet som naturlig hører inn under dette.",
+      "value": "Autorisert regnskapsfÃ¸rsel, Ã¥rsoppgjÃ¸r, lÃ¸nnsbehandling og bedriftsrÃ¥dgivning for andre, samt annet som naturlig hÃ¸rer inn under dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933445992",
       "source_date": "2024-05-14",
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933445992.",
-  "last_checked": "2026-10-17T07:49:32+00:00",
+  "last_checked": "2026-10-17T10:06:23+00:00",
   "changes": []
 }

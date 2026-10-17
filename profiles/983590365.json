@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "46.380 Engroshandel med andre næringsmidler",
+      "value": "46.380 Engroshandel med andre nÃ¦ringsmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
       "source_date": "2001-08-18",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med konsumvarer til restauranter og kafeer m.v. og virksomhet som er beslektet med dette ogsa deltakelse i selskaper med samme eller lignende formål.",
+      "value": "Handel med konsumvarer til restauranter og kafeer m.v. og virksomhet som er beslektet med dette ogsa deltakelse i selskaper med samme eller lignende formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365",
       "source_date": "2001-08-18",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Benedicte Skålnes Arntzen",
+      "value": "Benedicte SkÃ¥lnes Arntzen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983590365/roller",
       "source_date": "2001-08-18",
       "retrieved_at": "2026-10-17T07:48:53+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983590365. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:54+00:00",
+  "last_checked": "2026-10-17T10:03:13+00:00",
   "changes": []
 }

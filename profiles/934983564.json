@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934983564",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 934983564.",
-  "last_checked": "2026-10-17T07:47:51+00:00",
+  "last_checked": "2026-10-17T09:58:27+00:00",
   "changes": []
 }

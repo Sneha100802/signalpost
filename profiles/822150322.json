@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
       "source_date": "2019-02-15",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
     },
     {
       "field": "address",
-      "value": "Strandgata 6, 2815, GJØVIK",
+      "value": "Strandgata 6, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
       "source_date": "2019-02-15",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Håkon Anton Hellebust",
+      "value": "HÃ¥kon Anton Hellebust",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
       "source_date": "2019-02-15",
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håkon Arnvid Hellebust",
+      "value": "HÃ¥kon Arnvid Hellebust",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/822150322/roller",
       "source_date": "2019-02-15",
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 822150322.",
-  "last_checked": "2026-10-17T07:50:32+00:00",
+  "last_checked": "2026-10-17T10:11:00+00:00",
   "changes": []
 }

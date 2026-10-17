@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:49+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "HEIMSTADEN NORWAY AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
       "source_date": "2025-10-21",
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Christoffer Øvereng Haugan",
+      "value": "Christoffer Ã˜vereng Haugan",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
       "source_date": "2026-07-31",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kai Sjøvold",
+      "value": "Kai SjÃ¸vold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936400531/roller",
       "source_date": "2026-07-31",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936400531.",
-  "last_checked": "2026-10-17T07:48:50+00:00",
+  "last_checked": "2026-10-17T10:02:56+00:00",
   "changes": []
 }

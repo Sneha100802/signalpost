@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Samle beitebrukere i området for i fellesskap å legga forholda til rette for ei best mulig utnytting av utmarksbeite, redusere tap av dyr, og sikra dyra velferd gjennom organisert tilsyn, organisert sanking og andre målretta fellestiltak.",
+      "value": "Samle beitebrukere i omrÃ¥det for i fellesskap Ã¥ legga forholda til rette for ei best mulig utnytting av utmarksbeite, redusere tap av dyr, og sikra dyra velferd gjennom organisert tilsyn, organisert sanking og andre mÃ¥lretta fellestiltak.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986131116",
       "source_date": "2003-11-25",
       "retrieved_at": "2026-10-17T07:50:44+00:00"
@@ -137,13 +137,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Johan Eggebø",
+      "value": "Johan EggebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986131116/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:50:45+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986131116. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:45+00:00",
+  "last_checked": "2026-10-17T10:12:14+00:00",
   "changes": []
 }

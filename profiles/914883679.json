@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914883679",
       "source_date": "2015-02-17",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
     },
     {
       "field": "address",
-      "value": "Topplocksgatan 3, SE-212 41 MALMØ",
+      "value": "Topplocksgatan 3, SE-212 41 MALMÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914883679",
       "source_date": "2015-02-17",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Jerry Nilsson, Uståsen 113, 7082, KATTEM",
+      "value": "c/o Jerry Nilsson, UstÃ¥sen 113, 7082, KATTEM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914883679",
       "source_date": "2015-02-17",
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914883679",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:50+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914883679. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:50+00:00",
+  "last_checked": "2026-10-17T10:08:08+00:00",
   "changes": []
 }

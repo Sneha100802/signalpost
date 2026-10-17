@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938386080",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:16+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Hageservice, snørydding, snekkertjenester mindre gravemaskinoppdrag, hjemlevering og montering samt investering i aksjer og eiendom.",
+      "value": "Hageservice, snÃ¸rydding, snekkertjenester mindre gravemaskinoppdrag, hjemlevering og montering samt investering i aksjer og eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938386080",
       "source_date": "2026-09-01",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bue Duedahl Sørensen",
+      "value": "Bue Duedahl SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938386080/roller",
       "source_date": "2026-09-01",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bue Duedahl Sørensen",
+      "value": "Bue Duedahl SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938386080/roller",
       "source_date": "2026-09-01",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938386080. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:17+00:00",
+  "last_checked": "2026-10-17T10:09:31+00:00",
   "changes": []
 }

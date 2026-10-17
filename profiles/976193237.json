@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976193237",
       "source_date": "1996-03-13",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Sparebank 1 SR Bank, Sandvigå 2, 4007, STAVANGER",
+      "value": "c/o Sparebank 1 SR Bank, SandvigÃ¥ 2, 4007, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976193237",
       "source_date": "1996-03-13",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976193237",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976193237.",
-  "last_checked": "2026-10-17T07:47:59+00:00",
+  "last_checked": "2026-10-17T09:58:38+00:00",
   "changes": []
 }

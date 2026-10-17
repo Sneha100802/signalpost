@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "74.910 Patentmeglervirksomhet og markedsføringstjenester",
+      "value": "74.910 Patentmeglervirksomhet og markedsfÃ¸ringstjenester",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988429015",
       "source_date": "2005-07-18",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988429015",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Erverve og forvalte rettigheter til åndsverk, samt tilliggende rettigheter samt erverv av virksomheter innen samme område.",
+      "value": "Erverve og forvalte rettigheter til Ã¥ndsverk, samt tilliggende rettigheter samt erverv av virksomheter innen samme omrÃ¥de.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988429015",
       "source_date": "2005-07-18",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:49:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988429015/roller",
       "source_date": "2024-11-20",
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:49:39+00:00"
     }
   ],
-  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988429015.",
-  "last_checked": "2026-10-17T07:49:39+00:00",
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988429015. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:06:54+00:00",
   "changes": []
 }

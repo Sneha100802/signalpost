@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Lena Jeanette Juel, Brattvoll platå 34, 4658, TVEIT",
+      "value": "c/o Lena Jeanette Juel, Brattvoll platÃ¥ 34, 4658, TVEIT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927039257",
       "source_date": "2022-05-02",
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927039257",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:51+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927039257. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:51+00:00",
+  "last_checked": "2026-10-17T10:02:59+00:00",
   "changes": []
 }

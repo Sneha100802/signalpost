@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971177837",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Alexander Nicolaysen Sørnes",
+      "value": "Alexander Nicolaysen SÃ¸rnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971177837/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIBISTAND REGNSKAP AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIBISTAND REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971177837/roller",
       "source_date": "2018-01-08",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:51:05+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971177837.",
-  "last_checked": "2026-10-17T07:51:05+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971177837. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:13:56+00:00",
   "changes": []
 }

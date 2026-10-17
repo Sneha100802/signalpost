@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Økonomisenteret Molde AS, Fannestrandvegen 55, 6415, MOLDE",
+      "value": "c/o Ã˜konomisenteret Molde AS, Fannestrandvegen 55, 6415, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911552205",
       "source_date": "2013-03-08",
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911552205",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:41+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:47:41+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911552205/roller",
       "source_date": "2018-01-23",
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911552205.",
-  "last_checked": "2026-10-17T07:47:42+00:00",
+  "last_checked": "2026-10-17T09:57:59+00:00",
   "changes": []
 }

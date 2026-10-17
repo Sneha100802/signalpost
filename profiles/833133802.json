@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Være et prosjektselskap for utførelse av entreprenørarbeider i tilknytning til nytt kontaktledningsanlegg på Bergensbanen, kontrakt for KL-AT Hønefoss - Haugastøl.",
+      "value": "VÃ¦re et prosjektselskap for utfÃ¸relse av entreprenÃ¸rarbeider i tilknytning til nytt kontaktledningsanlegg pÃ¥ Bergensbanen, kontrakt for KL-AT HÃ¸nefoss - HaugastÃ¸l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/833133802",
       "source_date": "2024-03-07",
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 833133802.",
-  "last_checked": "2026-10-17T07:49:32+00:00",
+  "last_checked": "2026-10-17T10:06:22+00:00",
   "changes": []
 }

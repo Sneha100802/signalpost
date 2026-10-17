@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
       "field": "address",
-      "value": "Andreas Kjærs vei 77, 4615, KRISTIANSAND S",
+      "value": "Andreas KjÃ¦rs vei 77, 4615, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Sissel Langgård Gilberg",
+      "value": "Sissel LanggÃ¥rd Gilberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
       "source_date": "2000-04-04",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Skjalg Steinar Graasvold Bjørkevoll",
+      "value": "Skjalg Steinar Graasvold BjÃ¸rkevoll",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
       "source_date": "2026-09-28",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIEW GROUP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484179/roller",
       "source_date": "2023-02-27",
@@ -228,6 +228,6 @@
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971484179.",
-  "last_checked": "2026-10-17T07:48:10+00:00",
+  "last_checked": "2026-10-17T09:59:13+00:00",
   "changes": []
 }

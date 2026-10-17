@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946976857",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:48:41+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946976857/roller",
       "source_date": "2022-09-07",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Arnt Aksel Schøning Rørvik",
+      "value": "Arnt Aksel SchÃ¸ning RÃ¸rvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946976857/roller",
       "source_date": "2024-04-19",
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Sondre Frøyland Svenseid",
+      "value": "Sondre FrÃ¸yland Svenseid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946976857/roller",
       "source_date": "2024-04-19",
       "retrieved_at": "2026-10-17T07:48:41+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:48:41+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946976857/roller",
       "source_date": "2014-07-29",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:42+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946976857.",
-  "last_checked": "2026-10-17T07:48:42+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946976857. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:01:55+00:00",
   "changes": []
 }

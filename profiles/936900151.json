@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADL LANDBRUKSRÅDGIVNING - ANNE DUENGER LIEN",
+      "value": "ADL LANDBRUKSRÃ…DGIVNING - ANNE DUENGER LIEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936900151",
       "source_date": "2026-01-04",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936900151",
       "source_date": "2026-01-04",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     },
     {
       "field": "address",
-      "value": "Øvre Lienvegen 82, 2838, SNERTINGDAL",
+      "value": "Ã˜vre Lienvegen 82, 2838, SNERTINGDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936900151",
       "source_date": "2026-01-04",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936900151",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936900151",
       "source_date": "2026-01-04",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936900151. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:09+00:00",
+  "last_checked": "2026-10-17T10:05:05+00:00",
   "changes": []
 }

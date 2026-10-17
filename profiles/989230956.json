@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "03.110 Fiske og fangst i sjø",
+      "value": "03.110 Fiske og fangst i sjÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956",
       "source_date": "2006-03-04",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp og salg av aksjer, fast eiendom og forvaltning av fast eiendom, og ellers alt som måtte stå i naturlig forbindelse med dette, herunder deltakelse i andre selskaper med lignende virksomhet.",
+      "value": "KjÃ¸p og salg av aksjer, fast eiendom og forvaltning av fast eiendom, og ellers alt som mÃ¥tte stÃ¥ i naturlig forbindelse med dette, herunder deltakelse i andre selskaper med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956",
       "source_date": "2006-03-04",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Arnt Inge Nygård",
+      "value": "Arnt Inge NygÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956/roller",
       "source_date": "2006-03-04",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Kjartan Nygård",
+      "value": "Kjartan NygÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956/roller",
       "source_date": "2006-03-04",
       "retrieved_at": "2026-10-17T07:50:43+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:43+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989230956/roller",
       "source_date": "2025-01-09",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989230956.",
-  "last_checked": "2026-10-17T07:50:43+00:00",
+  "last_checked": "2026-10-17T10:12:09+00:00",
   "changes": []
 }

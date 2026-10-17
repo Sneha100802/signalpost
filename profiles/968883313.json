@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968883313",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968883313",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Alf Bjørn Knudsen",
+      "value": "Alf BjÃ¸rn Knudsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968883313/roller",
       "source_date": "1994-03-08",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT SERVICES AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/968883313/roller",
       "source_date": "2019-06-04",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 968883313. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:56+00:00",
+  "last_checked": "2026-10-17T10:03:21+00:00",
   "changes": []
 }

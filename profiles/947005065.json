@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:13+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:49:13+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
       "source_date": "2014-07-26",
@@ -192,7 +192,7 @@
       "retrieved_at": "2026-10-17T07:49:13+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065/roller",
       "source_date": "2014-07-26",
@@ -241,7 +241,7 @@
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947005065.",
-  "last_checked": "2026-10-17T07:49:14+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947005065. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:05:23+00:00",
   "changes": []
 }

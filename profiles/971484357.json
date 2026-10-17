@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     },
     {
       "field": "address",
-      "value": "Fiskåveien 12, 4621, KRISTIANSAND S",
+      "value": "FiskÃ¥veien 12, 4621, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lasse Nord Møltorp",
+      "value": "Lasse Nord MÃ¸ltorp",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -186,7 +186,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Rolf Daniel Vikstøl",
+      "value": "Rolf Daniel VikstÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -206,14 +206,14 @@
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MULTI REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357/roller",
       "source_date": "2021-11-24",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971484357/roller",
       "source_date": "2021-11-24",
@@ -262,7 +262,7 @@
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     }
   ],
-  "explanation": "37 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971484357.",
-  "last_checked": "2026-10-17T07:46:48+00:00",
+  "explanation": "37 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971484357. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:56:08+00:00",
   "changes": []
 }

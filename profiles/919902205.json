@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AFS ASKER OG BÆRUM LOKALLAG",
+      "value": "AFS ASKER OG BÃ†RUM LOKALLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919902205",
       "source_date": "2017-12-06",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/ o Cecilie Bugge-Asperheim, Gjønnesskogen 62, 1356, BEKKESTUA",
+      "value": "c/ o Cecilie Bugge-Asperheim, GjÃ¸nnesskogen 62, 1356, BEKKESTUA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919902205",
       "source_date": "2017-12-06",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919902205",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Pål Tuset",
+      "value": "PÃ¥l Tuset",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919902205/roller",
       "source_date": "2017-12-06",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Brit Øye Hedges",
+      "value": "Brit Ã˜ye Hedges",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919902205/roller",
       "source_date": "2017-12-06",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919902205. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:55+00:00",
+  "last_checked": "2026-10-17T10:03:16+00:00",
   "changes": []
 }

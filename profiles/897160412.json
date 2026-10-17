@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokm�l",
+      "value": "Bokmål",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -102,41 +102,95 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bj�rn Melbye",
+      "value": "Bjørn Melbye",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412/roller",
       "source_date": "2013-09-25",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "H�kon Holm Solberg",
+      "value": "Håkon Holm Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412/roller",
       "source_date": "2025-10-03",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bj�rn Melbye",
+      "value": "Bjørn Melbye",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412/roller",
       "source_date": "2025-10-03",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tomas J�rgensen",
+      "value": "Tomas Jørgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412/roller",
       "source_date": "2025-10-03",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Heidi Bj�rge Gravalid",
+      "value": "Heidi Bjørge Gravalid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/897160412/roller",
       "source_date": "2025-10-03",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://3drammen.speiding.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:33+00:00"
+    },
+    {
+      "field": "description",
+      "value": "3. Drammen speidergruppe is a scout group in Drammen municipality offering scouting activities for children and young adults.",
+      "source_url": "https://3drammen.speiding.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:07+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Småspeidere (3.–4. klasse)",
+        "Troppen (5.–10. klasse)",
+        "Rovere (16–25 år)"
+      ],
+      "source_url": "https://3drammen.speiding.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:07+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 897160412. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 897160412. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T09:58:07+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "3. Drammen speidergruppe is a scout group in Drammen municipality offering scouting activities for children and young adults."
+      ],
+      "at": "2026-10-17T09:58:07+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Småspeidere (3.–4. klasse)",
+          "Troppen (5.–10. klasse)",
+          "Rovere (16–25 år)"
+        ]
+      ],
+      "at": "2026-10-17T09:58:07+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:58:07+00:00"
+    }
+  ]
 }

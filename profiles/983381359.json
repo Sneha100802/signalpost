@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "2 YOU REKLAMEBYRÅ DA",
+      "value": "2 YOU REKLAMEBYRÃ… DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983381359",
       "source_date": "2001-05-22",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983381359",
       "source_date": "2001-05-22",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983381359",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørnar Volden",
+      "value": "BjÃ¸rnar Volden",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983381359/roller",
       "source_date": "2001-06-07",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983381359. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:44+00:00",
+  "last_checked": "2026-10-17T10:07:14+00:00",
   "changes": []
 }

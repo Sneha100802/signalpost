@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Kim Stangstuen, Kongsgård alle 5B, 4631, KRISTIANSAND S",
+      "value": "c/o Kim Stangstuen, KongsgÃ¥rd alle 5B, 4631, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817884482",
       "source_date": "2016-10-29",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817884482",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -95,13 +95,13 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kim Stangstuen Sørbotten",
+      "value": "Kim Stangstuen SÃ¸rbotten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/817884482/roller",
       "source_date": "2016-10-29",
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 817884482. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:08+00:00",
+  "last_checked": "2026-10-17T10:14:04+00:00",
   "changes": []
 }

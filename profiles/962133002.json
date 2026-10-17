@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Sparebank 1 Regnskapshuset SMN, Søndre gate 4, 7011, TRONDHEIM",
+      "value": "c/o Sparebank 1 Regnskapshuset SMN, SÃ¸ndre gate 4, 7011, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
       "source_date": "1995-09-20",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:07+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Harald Bjørlykke",
+      "value": "Harald BjÃ¸rlykke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Espen Arnfinnsøn Johansen",
+      "value": "Espen ArnfinnsÃ¸n Johansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Karin Høyland",
+      "value": "Karin HÃ¸yland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962133002/roller",
       "source_date": "2016-09-22",
@@ -218,9 +218,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962133002",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.boligstiftelsenitrondheim.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:05+00:00"
+    },
+    {
+      "field": "email",
+      "value": "info@boligstiftelsenitrondheim.no",
+      "source_url": "https://www.boligstiftelsenitrondheim.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:05+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002.",
-  "last_checked": "2026-10-17T07:50:07+00:00",
-  "changes": []
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:10:19+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "info@boligstiftelsenitrondheim.no"
+      ],
+      "at": "2026-10-17T10:10:19+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:10:19+00:00"
+    }
+  ]
 }

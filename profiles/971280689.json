@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -123,21 +123,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Eirik Høiby Ausland",
+      "value": "Eirik HÃ¸iby Ausland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lars Edvard Valdresbråten",
+      "value": "Lars Edvard ValdresbrÃ¥ten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kjetil Gåsemyr Staalesen",
+      "value": "Kjetil GÃ¥semyr Staalesen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -151,14 +151,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bård Gunnar Kittelsrud",
+      "value": "BÃ¥rd Gunnar Kittelsrud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mari Rindal Øyen",
+      "value": "Mari Rindal Ã˜yen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2026-06-18",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -192,7 +192,7 @@
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971280689/roller",
       "source_date": "2025-12-11",
@@ -239,9 +239,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/971280689",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:46:58+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://aksjenorge.no/kontakt/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:22+00:00"
+    },
+    {
+      "field": "email",
+      "value": "kristin.skaug@aksjenorge.no",
+      "source_url": "https://aksjenorge.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:22+00:00"
+    },
+    {
+      "field": "description",
+      "value": "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for Ã¥ Ã¸ke publikums kunnskap om aksjer og verdipapirmarkedene.",
+      "source_url": "https://aksjenorge.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:40+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Aksjeskole",
+        "Aksjekalkulator",
+        "Arrangementer",
+        "Aksjequiz",
+        "Nyhetsbrev"
+      ],
+      "source_url": "https://aksjenorge.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:40+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971280689.",
-  "last_checked": "2026-10-17T07:46:58+00:00",
-  "changes": []
+  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971280689.",
+  "last_checked": "2026-10-17T09:56:40+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for Ã¥ Ã¸ke publikums kunnskap om aksjer og verdipapirmarkedene."
+      ],
+      "at": "2026-10-17T09:56:40+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "kristin.skaug@aksjenorge.no"
+      ],
+      "at": "2026-10-17T09:56:40+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Aksjeskole",
+          "Aksjekalkulator",
+          "Arrangementer",
+          "Aksjequiz",
+          "Nyhetsbrev"
+        ]
+      ],
+      "at": "2026-10-17T09:56:40+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:56:40+00:00"
+    }
+  ]
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919345659",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Britt Listøl Ørbech",
+      "value": "Britt ListÃ¸l Ã˜rbech",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919345659/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 919345659. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:20+00:00",
+  "last_checked": "2026-10-17T10:09:43+00:00",
   "changes": []
 }

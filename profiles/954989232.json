@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "v/Bosør, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "v/BosÃ¸r, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989232",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989232",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -115,8 +115,8 @@
       "retrieved_at": "2026-10-17T07:46:59+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989232/roller",
       "source_date": "2000-08-09",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Vibekke Haglund Tønnessen",
+      "value": "Vibekke Haglund TÃ¸nnessen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989232/roller",
       "source_date": "2026-04-21",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -157,8 +157,8 @@
       "retrieved_at": "2026-10-17T07:47:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989232/roller",
       "source_date": "2004-03-13",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954989232.",
-  "last_checked": "2026-10-17T07:47:01+00:00",
+  "last_checked": "2026-10-17T09:56:24+00:00",
   "changes": []
 }

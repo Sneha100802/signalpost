@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BODØ BY'S VEL STI",
+      "value": "BODÃ˜ BY'S VEL STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
       "source_date": "2006-02-08",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Dronningens gate 23, 8006, BODØ",
+      "value": "Dronningens gate 23, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
       "source_date": "2006-02-08",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 319, 8001, BODØ",
+      "value": "Postboks 319, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
       "source_date": "2006-02-08",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håkon Andreas Liland Møller",
+      "value": "HÃ¥kon Andreas Liland MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
       "source_date": "2024-05-03",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bente Haukås",
+      "value": "Bente HaukÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984974035/roller",
       "source_date": "2024-05-03",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:48:34+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984974035.",
-  "last_checked": "2026-10-17T07:48:34+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984974035. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:01:12+00:00",
   "changes": []
 }

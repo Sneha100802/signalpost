@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920426190",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:31+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920426190/roller",
       "source_date": "2018-09-08",
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:48:31+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920426190/roller",
       "source_date": "2018-02-12",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920426190.",
-  "last_checked": "2026-10-17T07:48:32+00:00",
+  "last_checked": "2026-10-17T10:01:01+00:00",
   "changes": []
 }

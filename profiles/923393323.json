@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923393323",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:14+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923393323.",
-  "last_checked": "2026-10-17T07:51:14+00:00",
+  "last_checked": "2026-10-17T10:14:17+00:00",
   "changes": []
 }

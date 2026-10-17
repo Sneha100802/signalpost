@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
       "source_date": "2004-10-12",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åshild Hestness Gjertsen",
+      "value": "Ã…shild Hestness Gjertsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
       "source_date": "2004-10-12",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FORMUE ACCOUNTING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987313935/roller",
       "source_date": "2016-08-01",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987313935.",
-  "last_checked": "2026-10-17T07:49:40+00:00",
+  "last_checked": "2026-10-17T10:06:56+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Rolf Liland, Toftveien 6, 8013, BODØ",
+      "value": "c/o Rolf Liland, Toftveien 6, 8013, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
       "source_date": "2015-01-19",
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Vegard Bøthun",
+      "value": "Vegard BÃ¸thun",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
       "source_date": "2026-01-14",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Andreas Stamsø Eidem",
+      "value": "Andreas StamsÃ¸ Eidem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
       "source_date": "2026-01-14",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
@@ -165,13 +165,67 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Siv Lena Yttergård",
+      "value": "Siv Lena YttergÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
       "source_date": "2026-01-14",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.331.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:28+00:00"
+    },
+    {
+      "field": "description",
+      "value": "331 skv Veteranforening is an association for current and former personnel of 331 Squadron that serves as a forum for members and organizes gatherings, lectures, and social events.",
+      "source_url": "https://www.331.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:43+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Treff",
+        "Foredrag",
+        "Sosiale sammenkomster"
+      ],
+      "source_url": "https://www.331.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:43+00:00"
     }
   ],
-  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914736145. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:02+00:00",
-  "changes": []
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914736145. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T09:56:43+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "331 skv Veteranforening is an association for current and former personnel of 331 Squadron that serves as a forum for members and organizes gatherings, lectures, and social events."
+      ],
+      "at": "2026-10-17T09:56:43+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Treff",
+          "Foredrag",
+          "Sosiale sammenkomster"
+        ]
+      ],
+      "at": "2026-10-17T09:56:43+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:56:43+00:00"
+    }
+  ]
 }

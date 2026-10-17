@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Brattørveita 13B, 7010, TRONDHEIM",
+      "value": "BrattÃ¸rveita 13B, 7010, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935852706",
       "source_date": "2025-07-15",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935852706",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Jonathan Jørgensen",
+      "value": "Jonathan JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935852706/roller",
       "source_date": "2025-07-15",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935852706. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:10+00:00",
+  "last_checked": "2026-10-17T10:05:08+00:00",
   "changes": []
 }

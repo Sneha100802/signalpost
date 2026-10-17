@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Sambogården, Storgata 48, 8006, BODØ",
+      "value": "SambogÃ¥rden, Storgata 48, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951358789",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Storgata 48, 8006, BODØ",
+      "value": "Storgata 48, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951358789",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951358789",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og drift av eiendommer, investering i aksjer og andeler, samt det som naturlig hører herved.",
+      "value": "KjÃ¸p, salg og drift av eiendommer, investering i aksjer og andeler, samt det som naturlig hÃ¸rer herved.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951358789",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "EVER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951358789/roller",
       "source_date": "2015-01-15",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 951358789. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:23+00:00",
+  "last_checked": "2026-10-17T09:57:20+00:00",
   "changes": []
 }

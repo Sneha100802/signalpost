@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
       "source_date": "2011-02-21",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Grete Brørs, Mjølnervegen 6D, 7035, TRONDHEIM",
+      "value": "c/o Grete BrÃ¸rs, MjÃ¸lnervegen 6D, 7035, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
       "source_date": "2011-02-21",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -102,28 +102,28 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Grete Brørs",
+      "value": "Grete BrÃ¸rs",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
       "source_date": "2011-02-21",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Stig Østensen",
+      "value": "Stig Ã˜stensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
       "source_date": "2018-01-04",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ketil Glørstad",
+      "value": "Ketil GlÃ¸rstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
       "source_date": "2018-01-04",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Grete Brørs",
+      "value": "Grete BrÃ¸rs",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996503356/roller",
       "source_date": "2018-01-04",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996503356.",
-  "last_checked": "2026-10-17T07:50:32+00:00",
+  "last_checked": "2026-10-17T10:10:58+00:00",
   "changes": []
 }

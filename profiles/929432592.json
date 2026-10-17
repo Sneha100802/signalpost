@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "value": "68.110 KjÃ¸p og salg av egen fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929432592",
       "source_date": "2022-06-29",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
     },
     {
       "field": "address",
-      "value": "Bakerovnsgrenda 34, 1353, BÆRUMS VERK",
+      "value": "Bakerovnsgrenda 34, 1353, BÃ†RUMS VERK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929432592",
       "source_date": "2022-06-29",
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929432592",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:06+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929432592.",
-  "last_checked": "2026-10-17T07:48:07+00:00",
+  "last_checked": "2026-10-17T09:59:07+00:00",
   "changes": []
 }

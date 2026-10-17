@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:58+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Vibeke Margareta Kiær",
+      "value": "Vibeke Margareta KiÃ¦r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Andor Magne Roksvåg",
+      "value": "Andor Magne RoksvÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Halldis Christiansen Sørby",
+      "value": "Halldis Christiansen SÃ¸rby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -179,7 +179,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Fred Løwe",
+      "value": "Fred LÃ¸we",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
       "source_date": "2026-01-27",
       "retrieved_at": "2026-10-17T07:46:59+00:00"
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:46:59+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT FORRETNINGSPARTNER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977326982/roller",
       "source_date": "2025-03-31",
@@ -256,6 +256,6 @@
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977326982.",
-  "last_checked": "2026-10-17T07:46:59+00:00",
+  "last_checked": "2026-10-17T09:56:23+00:00",
   "changes": []
 }

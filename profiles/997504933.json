@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
       "source_date": "2011-10-29",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Øygarden 7, 4790, LILLESAND",
+      "value": "Ã˜ygarden 7, 4790, LILLESAND",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
       "source_date": "2011-10-29",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Richard Hæg",
+      "value": "Richard HÃ¦g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
       "source_date": "2011-10-29",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Harald Hæg",
+      "value": "Harald HÃ¦g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
       "source_date": "2017-10-14",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ACCOUNTERA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997504933/roller",
       "source_date": "2025-06-26",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997504933.",
-  "last_checked": "2026-10-17T07:47:08+00:00",
+  "last_checked": "2026-10-17T09:56:45+00:00",
   "changes": []
 }

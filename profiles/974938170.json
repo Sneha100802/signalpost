@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.320 Videregående opplæring innenfor yrkesfaglige utdanningsprogram",
+      "value": "85.320 VideregÃ¥ende opplÃ¦ring innenfor yrkesfaglige utdanningsprogram",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974938170",
       "source_date": "1999-11-09",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974938170",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Frøydis Morken",
+      "value": "FrÃ¸ydis Morken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974938170/roller",
       "source_date": "2024-12-05",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "KNIF REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974938170/roller",
       "source_date": "2021-01-08",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974938170.",
-  "last_checked": "2026-10-17T07:50:25+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974938170. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:10:16+00:00",
   "changes": []
 }

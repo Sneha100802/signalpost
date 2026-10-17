@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Leilighet H-0102, Køhlers vei 28, 4016, STAVANGER",
+      "value": "Leilighet H-0102, KÃ¸hlers vei 28, 4016, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/893097252",
       "source_date": "2008-10-13",
       "retrieved_at": "2026-10-17T07:47:18+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/893097252",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:18+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kulturellvirksomhet, konsert arrangement/arrangør og selvspillende enhet.",
+      "value": "Kulturellvirksomhet, konsert arrangement/arrangÃ¸r og selvspillende enhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/893097252",
       "source_date": "2008-10-13",
       "retrieved_at": "2026-10-17T07:47:18+00:00"
@@ -123,13 +123,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ketil Espenæs",
+      "value": "Ketil EspenÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/893097252/roller",
       "source_date": "2008-10-13",
       "retrieved_at": "2026-10-17T07:47:19+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 893097252. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:20+00:00",
+  "last_checked": "2026-10-17T09:57:07+00:00",
   "changes": []
 }

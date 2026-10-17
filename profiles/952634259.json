@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952634259",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:38+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:38+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952634259/roller",
       "source_date": "2024-08-22",
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Fredrik Sørli",
+      "value": "Fredrik SÃ¸rli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952634259/roller",
       "source_date": "2026-04-14",
       "retrieved_at": "2026-10-17T07:48:39+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:48:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952634259/roller",
       "source_date": "2024-08-22",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:39+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952634259.",
-  "last_checked": "2026-10-17T07:48:39+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952634259. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:01:39+00:00",
   "changes": []
 }

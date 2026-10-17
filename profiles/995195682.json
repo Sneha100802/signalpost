@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ALL IN 1 RENGJØRING DA",
+      "value": "ALL IN 1 RENGJÃ˜RING DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995195682",
       "source_date": "2010-03-15",
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "81.210 Rengjøring av bygninger",
+      "value": "81.210 RengjÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995195682",
       "source_date": "2010-03-15",
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995195682",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Tilby rengjøringstjenester til næringslivet og det som naturlig hører inn under dette.",
+      "value": "Tilby rengjÃ¸ringstjenester til nÃ¦ringslivet og det som naturlig hÃ¸rer inn under dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995195682",
       "source_date": "2010-03-15",
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995195682. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:45+00:00",
+  "last_checked": "2026-10-17T10:07:29+00:00",
   "changes": []
 }

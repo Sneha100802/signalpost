@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -102,13 +102,13 @@
     },
     {
       "field": "role:Kontaktperson",
-      "value": "Torbjørn Amundsen",
+      "value": "TorbjÃ¸rn Amundsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051/roller",
       "source_date": "2020-07-01",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "KPMG ACCOUNTING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994441051/roller",
       "source_date": "2016-05-26",
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     }
   ],
-  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994441051.",
-  "last_checked": "2026-10-17T07:49:04+00:00",
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994441051. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:04:57+00:00",
   "changes": []
 }

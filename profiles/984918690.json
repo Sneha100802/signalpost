@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "1 MJØNDALEN SPEIDERGRUPPE",
+      "value": "1 MJÃ˜NDALEN SPEIDERGRUPPE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
       "source_date": "2002-12-12",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Postboks 11, 3051, MJØNDALEN",
+      "value": "Postboks 11, 3051, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
       "source_date": "2002-12-12",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984918690",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984918690. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:11+00:00",
+  "last_checked": "2026-10-17T09:56:51+00:00",
   "changes": []
 }

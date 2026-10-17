@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "71.122 Geologiske undersøkelser",
+      "value": "71.122 Geologiske undersÃ¸kelser",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481279",
       "source_date": "2025-05-12",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
       "field": "address",
-      "value": "Oksenøyveien 10, 1366, LYSAKER",
+      "value": "OksenÃ¸yveien 10, 1366, LYSAKER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481279",
       "source_date": "2025-05-12",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481279",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å eie letetillatelse nr. EXL 011 for vurdering av potensialet for utnyttelse av undersjøisk reservoar på norsk kontinentalsokkel til lagring av CO2 tildelt ved Kongelig resolusjon datert 20 September 2024 (\"Lisensen\" / \"Letetillatelsen\") herunder å delta i all virksomhet som utøves i henhold til denne Lisensen.",
+      "value": "Ã… eie letetillatelse nr. EXL 011 for vurdering av potensialet for utnyttelse av undersjÃ¸isk reservoar pÃ¥ norsk kontinentalsokkel til lagring av CO2 tildelt ved Kongelig resolusjon datert 20 September 2024 (\"Lisensen\" / \"Letetillatelsen\") herunder Ã¥ delta i all virksomhet som utÃ¸ves i henhold til denne Lisensen.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481279",
       "source_date": "2025-05-12",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ørjan Jentoft",
+      "value": "Ã˜rjan Jentoft",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935481279/roller",
       "source_date": "2026-08-04",
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935481279.",
-  "last_checked": "2026-10-17T07:48:11+00:00",
+  "last_checked": "2026-10-17T09:59:14+00:00",
   "changes": []
 }

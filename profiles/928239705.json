@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AKKORD ROGALAND- MÅLEKONTOR FOR BYGGFAG SA",
+      "value": "AKKORD ROGALAND- MÃ…LEKONTOR FOR BYGGFAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Løkkeveien 22, 4008, STAVANGER",
+      "value": "LÃ¸kkeveien 22, 4008, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forstå den forretningsmessige drift av målekontoret med oppmåling av akkordarbeid og tilknyttet virksomhet som nærmere beskrevet i §3 nedenfor.",
+      "value": "ForstÃ¥ den forretningsmessige drift av mÃ¥lekontoret med oppmÃ¥ling av akkordarbeid og tilknyttet virksomhet som nÃ¦rmere beskrevet i Â§3 nedenfor.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705",
       "source_date": "2022-04-07",
       "retrieved_at": "2026-10-17T07:49:28+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørnar Edon Kvan",
+      "value": "BjÃ¸rnar Edon Kvan",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
       "source_date": "2026-08-03",
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øyvind Andre Thomassen",
+      "value": "Ã˜yvind Andre Thomassen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928239705/roller",
       "source_date": "2026-08-03",
       "retrieved_at": "2026-10-17T07:49:29+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928239705.",
-  "last_checked": "2026-10-17T07:49:29+00:00",
+  "last_checked": "2026-10-17T10:06:11+00:00",
   "changes": []
 }

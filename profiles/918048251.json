@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Morten Solø, Nordlysbuen 7B, 8007, BODØ",
+      "value": "c/o Morten SolÃ¸, Nordlysbuen 7B, 8007, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918048251",
       "source_date": "2017-02-06",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918048251",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Morten Solø",
+      "value": "Morten SolÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918048251/roller",
       "source_date": "2017-02-06",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Morten Solø",
+      "value": "Morten SolÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918048251/roller",
       "source_date": "2017-02-06",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Morten Solø",
+      "value": "Morten SolÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918048251/roller",
       "source_date": "2017-02-06",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918048251. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:57+00:00",
+  "last_checked": "2026-10-17T09:58:35+00:00",
   "changes": []
 }

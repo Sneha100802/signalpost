@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Tranberglia 20, 2819, GJØVIK",
+      "value": "Tranberglia 20, 2819, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
       "source_date": "2024-06-20",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investeringsvirksomhet i eiendom og verdipapirer, samt alt som står i forbindelse med dette, herunder å delta i andre selskaper med lignende virksomhet.",
+      "value": "Investeringsvirksomhet i eiendom og verdipapirer, samt alt som stÃ¥r i forbindelse med dette, herunder Ã¥ delta i andre selskaper med lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933645258",
       "source_date": "2024-06-20",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933645258.",
-  "last_checked": "2026-10-17T07:47:28+00:00",
+  "last_checked": "2026-10-17T09:57:25+00:00",
   "changes": []
 }

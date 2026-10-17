@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922165386",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Anniken Jøsok Hessen",
+      "value": "Anniken JÃ¸sok Hessen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922165386/roller",
       "source_date": "2020-08-14",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ingrid Skåland Eriksen",
+      "value": "Ingrid SkÃ¥land Eriksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922165386/roller",
       "source_date": "2020-08-14",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922165386. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:10+00:00",
+  "last_checked": "2026-10-17T10:05:07+00:00",
   "changes": []
 }

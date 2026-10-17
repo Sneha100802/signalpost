@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
       "source_date": "2018-03-21",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
     },
     {
       "field": "address",
-      "value": "Breistølsveien 11, 5034, BERGEN",
+      "value": "BreistÃ¸lsveien 11, 5034, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
       "source_date": "2018-03-21",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investeringsvirksomhet, herunder kjøp og salg av andeler i andre selskaper, samt det som naturlig hører under dette og utlånsvirksomhet til tilknyttede selskaper.",
+      "value": "Investeringsvirksomhet, herunder kjÃ¸p og salg av andeler i andre selskaper, samt det som naturlig hÃ¸rer under dette og utlÃ¥nsvirksomhet til tilknyttede selskaper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172",
       "source_date": "2018-03-21",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jon-Terje Lepsøy",
+      "value": "Jon-Terje LepsÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
       "source_date": "2018-08-16",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Jon-Terje Lepsøy",
+      "value": "Jon-Terje LepsÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
       "source_date": "2019-11-15",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Revisor",
-      "value": "BJØRGVIN REVISJON AS",
+      "value": "BJÃ˜RGVIN REVISJON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
       "source_date": "2019-11-15",
       "retrieved_at": "2026-10-17T07:51:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIEW GROUP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920641172/roller",
       "source_date": "2025-01-29",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920641172.",
-  "last_checked": "2026-10-17T07:51:16+00:00",
+  "last_checked": "2026-10-17T10:14:21+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422/roller",
       "source_date": "2020-10-15",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Elin Sørevik",
+      "value": "Elin SÃ¸revik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422/roller",
       "source_date": "2026-07-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bettina Lønne Varden",
+      "value": "Bettina LÃ¸nne Varden",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422/roller",
       "source_date": "2026-07-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Marte Nygård Varpe",
+      "value": "Marte NygÃ¥rd Varpe",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422/roller",
       "source_date": "2026-07-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952720422/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952720422.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
+  "last_checked": "2026-10-17T09:57:30+00:00",
   "changes": []
 }

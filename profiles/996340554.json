@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Indre Sædal 50, 5099, BERGEN",
+      "value": "Indre SÃ¦dal 50, 5099, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
       "source_date": "2011-01-22",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
     },
     {
       "field": "postal_address",
-      "value": "v/ Jon Harald Aase, Saudalskleivane 72, 5136, MJØLKERÅEN",
+      "value": "v/ Jon Harald Aase, Saudalskleivane 72, 5136, MJÃ˜LKERÃ…EN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
       "source_date": "2011-01-22",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -102,28 +102,28 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Jon Harald Bøyum Aase",
+      "value": "Jon Harald BÃ¸yum Aase",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
       "source_date": "2014-05-10",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Herleik Overøye Johnsen",
+      "value": "Herleik OverÃ¸ye Johnsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
       "source_date": "2014-05-10",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Takøy Olsen",
+      "value": "JÃ¸rgen TakÃ¸y Olsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
       "source_date": "2014-05-10",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Martine Stølen Akse",
+      "value": "Martine StÃ¸len Akse",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996340554/roller",
       "source_date": "2014-05-10",
       "retrieved_at": "2026-10-17T07:48:48+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996340554. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:48+00:00",
+  "last_checked": "2026-10-17T10:02:46+00:00",
   "changes": []
 }

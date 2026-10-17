@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930693278",
       "source_date": "2023-01-23",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930693278",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Prosjektutvikling, eiendomsutvikling, handel, anskaffelse og drift av eiendommer, entreprenørvirksomhet, konsulentvirksomhet, deltagelse i andre virksomheter samt alt hva som står i forbindelse med ovennevnte.",
+      "value": "Prosjektutvikling, eiendomsutvikling, handel, anskaffelse og drift av eiendommer, entreprenÃ¸rvirksomhet, konsulentvirksomhet, deltagelse i andre virksomheter samt alt hva som stÃ¥r i forbindelse med ovennevnte.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930693278",
       "source_date": "2023-01-23",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "BRG ENTREPRENØR AS",
+      "value": "BRG ENTREPRENÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930693278/roller",
       "source_date": "2023-01-23",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "J.B. UGLAND ENTREPRENØR AS",
+      "value": "J.B. UGLAND ENTREPRENÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930693278/roller",
       "source_date": "2023-01-23",
       "retrieved_at": "2026-10-17T07:48:24+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930693278.",
-  "last_checked": "2026-10-17T07:48:24+00:00",
+  "last_checked": "2026-10-17T10:00:04+00:00",
   "changes": []
 }

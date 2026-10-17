@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investering i datasentervirksomhet, samt all annen virksomhet som står i forbindelse med dette.",
+      "value": "Investering i datasentervirksomhet, samt all annen virksomhet som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592",
       "source_date": "2025-10-02",
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "RELEVANT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
       "source_date": "2026-01-19",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936295592. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:37+00:00",
+  "last_checked": "2026-10-17T10:06:34+00:00",
   "changes": []
 }

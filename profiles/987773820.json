@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Åsfaret 12, 1362, HOSLE",
+      "value": "Ã…sfaret 12, 1362, HOSLE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
       "source_date": "2005-01-25",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg av tjenester knyttet til økonomisk administrative tjenester herigjennom som underleverandør av medarbeidertimer til revisjon samt investeringer i andre selskaper og fast eiendom.",
+      "value": "Salg av tjenester knyttet til Ã¸konomisk administrative tjenester herigjennom som underleverandÃ¸r av medarbeidertimer til revisjon samt investeringer i andre selskaper og fast eiendom.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987773820",
       "source_date": "2005-01-25",
       "retrieved_at": "2026-10-17T07:50:42+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987773820.",
-  "last_checked": "2026-10-17T07:50:42+00:00",
+  "last_checked": "2026-10-17T10:12:07+00:00",
   "changes": []
 }

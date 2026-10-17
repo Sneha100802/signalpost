@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Horniveien 12, 1339, VØYENENGA",
+      "value": "Horniveien 12, 1339, VÃ˜YENENGA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970923780",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:11+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970923780",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:11+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970923780",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:11+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Helena Maria Øritsland Miller",
+      "value": "Helena Maria Ã˜ritsland Miller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970923780/roller",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 970923780. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:12+00:00",
+  "last_checked": "2026-10-17T10:09:16+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "49.330 Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "value": "49.330 Passasjertransport pÃ¥ forespÃ¸rsel utfÃ¸rt av fÃ¸rer med kjÃ¸retÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920890083",
       "source_date": "2018-05-24",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
       "field": "address",
-      "value": "Sulitjelmaveien 9, 8007, BODØ",
+      "value": "Sulitjelmaveien 9, 8007, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920890083",
       "source_date": "2018-05-24",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920890083",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920890083",
       "source_date": "2018-05-24",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920890083/roller",
       "source_date": "2025-10-02",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920890083. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:47+00:00",
+  "last_checked": "2026-10-17T09:56:06+00:00",
   "changes": []
 }

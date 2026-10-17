@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "KJØPMANN TH. GUNDERSENS LEGAT I STI",
+      "value": "KJÃ˜PMANN TH. GUNDERSENS LEGAT I STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
       "source_date": "1999-11-15",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
       "source_date": "1999-11-15",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Stian Hamre, Østre Strandgate 28, 4610, KRISTIANSAND S",
+      "value": "c/o Stian Hamre, Ã˜stre Strandgate 28, 4610, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
       "source_date": "1999-11-15",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:26+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:49:26+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Stian Hamre",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
       "source_date": "2016-09-10",
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Erik Løland",
+      "value": "Erik LÃ¸land",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
       "source_date": "2016-09-10",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJONSFIRMA TORBJØRN SALVESEN AS",
+      "value": "REVISJONSFIRMA TORBJÃ˜RN SALVESEN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981241509/roller",
       "source_date": "2005-12-10",
       "retrieved_at": "2026-10-17T07:49:26+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981241509.",
-  "last_checked": "2026-10-17T07:49:27+00:00",
+  "last_checked": "2026-10-17T10:06:00+00:00",
   "changes": []
 }

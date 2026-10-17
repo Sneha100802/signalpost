@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ELLING & BJØRN PETTER SALGSTJENESTER DA",
+      "value": "ELLING & BJÃ˜RN PETTER SALGSTJENESTER DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ringvegen 8B, 2816, GJØVIK",
+      "value": "Ringvegen 8B, 2816, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Provisjonssalg av kraft og nærliggende konsulenttjenester.",
+      "value": "Provisjonssalg av kraft og nÃ¦rliggende konsulenttjenester.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -102,34 +102,34 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Petter Vesterås Kristoffersen",
+      "value": "BjÃ¸rn Petter VesterÃ¥s Kristoffersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562/roller",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
       "field": "role:Daglig leder",
-      "value": "Elling Børge Slettnes",
+      "value": "Elling BÃ¸rge Slettnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562/roller",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørn Petter Vesterås Kristoffersen",
+      "value": "BjÃ¸rn Petter VesterÃ¥s Kristoffersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562/roller",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Elling Børge Slettnes",
+      "value": "Elling BÃ¸rge Slettnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/882450562/roller",
       "source_date": "2000-10-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 882450562. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:52+00:00",
+  "last_checked": "2026-10-17T10:08:16+00:00",
   "changes": []
 }

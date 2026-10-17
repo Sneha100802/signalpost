@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "17. MAI STØVER SKOLE",
+      "value": "17. MAI STÃ˜VER SKOLE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920781217",
       "source_date": "2018-04-26",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Støver skole, Kløftveien 8, 8030, BODØ",
+      "value": "c/o StÃ¸ver skole, KlÃ¸ftveien 8, 8030, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920781217",
       "source_date": "2018-04-26",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920781217",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -95,13 +95,13 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Petter Røkenes",
+      "value": "BjÃ¸rn Petter RÃ¸kenes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920781217/roller",
       "source_date": "2022-05-10",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920781217. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:36+00:00",
+  "last_checked": "2026-10-17T10:01:22+00:00",
   "changes": []
 }

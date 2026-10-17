@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984992335",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:11+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive musikkproduksjon, musikkdistribusjon og forlagsvirksomhet innen musikk. Herunder ligger også generelle oppgaver som allminnelig plateselskap.",
+      "value": "Drive musikkproduksjon, musikkdistribusjon og forlagsvirksomhet innen musikk. Herunder ligger ogsÃ¥ generelle oppgaver som allminnelig plateselskap.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984992335",
       "source_date": "2002-10-28",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørn Inge Tjørn Steffensen",
+      "value": "BjÃ¸rn Inge TjÃ¸rn Steffensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984992335/roller",
       "source_date": "2002-10-28",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984992335. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:12+00:00",
+  "last_checked": "2026-10-17T10:05:11+00:00",
   "changes": []
 }

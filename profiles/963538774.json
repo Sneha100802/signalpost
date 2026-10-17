@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "NEWSEC PROPERTY ASSET MANAGEMENT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2022-09-09",
@@ -144,14 +144,14 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "SINE BUTENSCHØNS FOND STI",
+      "value": "SINE BUTENSCHÃ˜NS FOND STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2019-12-10",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "RÅDHUSGATEN 20 ANS",
+      "value": "RÃ…DHUSGATEN 20 ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2019-12-10",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -179,14 +179,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hans Jørgen Moestue Bang",
+      "value": "Hans JÃ¸rgen Moestue Bang",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2017-06-27",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pål Schwartz Samuelsen",
+      "value": "PÃ¥l Schwartz Samuelsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2017-06-27",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "NEWSEC PROPERTY ASSET MANAGEMENT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963538774/roller",
       "source_date": "2020-05-25",
@@ -249,6 +249,6 @@
     }
   ],
   "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963538774.",
-  "last_checked": "2026-10-17T07:48:44+00:00",
+  "last_checked": "2026-10-17T10:02:15+00:00",
   "changes": []
 }

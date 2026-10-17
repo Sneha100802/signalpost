@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
       "source_date": "2022-01-05",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg av digitale kurs. Coaching og kurs. Markedsføring av sosiale medier.",
+      "value": "Salg av digitale kurs. Coaching og kurs. MarkedsfÃ¸ring av sosiale medier.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822",
       "source_date": "2022-01-05",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:51:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIEW GROUP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928493822/roller",
       "source_date": "2026-05-22",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928493822.",
-  "last_checked": "2026-10-17T07:51:02+00:00",
+  "last_checked": "2026-10-17T10:13:34+00:00",
   "changes": []
 }

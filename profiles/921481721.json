@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "46.730 Engroshandel med motorsykler og tilhørende deler og utstyr",
+      "value": "46.730 Engroshandel med motorsykler og tilhÃ¸rende deler og utstyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921481721",
       "source_date": "2018-10-01",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921481721",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Espen Flåte",
+      "value": "Espen FlÃ¥te",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921481721/roller",
       "source_date": "2018-10-01",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921481721. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:32+00:00",
+  "last_checked": "2026-10-17T09:57:31+00:00",
   "changes": []
 }

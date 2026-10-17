@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994871749",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:34+00:00"
@@ -143,14 +143,14 @@
       "retrieved_at": "2026-10-17T07:50:34+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIHUSET AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIHUSET AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994871749/roller",
       "source_date": "2009-12-15",
       "retrieved_at": "2026-10-17T07:50:34+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994871749. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:34+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994871749. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:11:09+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvikling av programvare, IT-konsulenttjenester, kunstig intelligens, cybersikkerhet, og nettverksløsninger. Utvikle og tilby smarthus-løsninger, IoT-enheter, og innebygde systemer for automatisering, energieffektivisering og sikkerhet. Tilby rådgivning og tjenester innen sikker IoT-integrasjon, datasikkerhet, teknologisk innovasjon, og annen virksomhet som naturlig hører sammen med dette.",
+      "value": "Utvikling av programvare, IT-konsulenttjenester, kunstig intelligens, cybersikkerhet, og nettverkslÃ¸sninger. Utvikle og tilby smarthus-lÃ¸sninger, IoT-enheter, og innebygde systemer for automatisering, energieffektivisering og sikkerhet. Tilby rÃ¥dgivning og tjenester innen sikker IoT-integrasjon, datasikkerhet, teknologisk innovasjon, og annen virksomhet som naturlig hÃ¸rer sammen med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026",
       "source_date": "2025-03-14",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -129,14 +129,14 @@
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SYNEGA REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
       "source_date": "2026-09-29",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "RANDI REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935211026/roller",
       "source_date": "2026-09-29",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935211026.",
-  "last_checked": "2026-10-17T07:47:57+00:00",
+  "last_checked": "2026-10-17T09:58:34+00:00",
   "changes": []
 }

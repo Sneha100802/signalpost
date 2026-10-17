@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912180611",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:23+00:00"
@@ -178,8 +178,8 @@
       "retrieved_at": "2026-10-17T07:49:24+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIAVDELINGEN ØST AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIAVDELINGEN Ã˜ST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912180611/roller",
       "source_date": "2015-11-03",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -225,9 +225,67 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912180611",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://henriksenco.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:05:50+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Advokatfirmaet Henriksen & Co ANS is a law firm based in central Oslo providing legal assistance to businesses, organizations, and private individuals.",
+      "source_url": "https://henriksenco.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:01+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "TvistelÃ¸sning",
+        "Mekling og prosedyre",
+        "Forsikrings- og erstatningsrett",
+        "Eiendoms- og entrepriserett",
+        "Arbeidsrett"
+      ],
+      "source_url": "https://henriksenco.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:18:01+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912180611.",
-  "last_checked": "2026-10-17T07:49:24+00:00",
-  "changes": []
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912180611.",
+  "last_checked": "2026-10-17T10:18:01+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:07:10+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Advokatfirmaet Henriksen & Co ANS is a law firm based in central Oslo providing legal assistance to businesses, organizations, and private individuals."
+      ],
+      "at": "2026-10-17T10:18:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "TvistelÃ¸sning",
+          "Mekling og prosedyre",
+          "Forsikrings- og erstatningsrett",
+          "Eiendoms- og entrepriserett",
+          "Arbeidsrett"
+        ]
+      ],
+      "at": "2026-10-17T10:18:02+00:00"
+    }
+  ]
 }

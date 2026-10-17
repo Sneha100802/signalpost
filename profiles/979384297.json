@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvikle et allsidig kompetansemiljø innen elektronisk databehandeling, samt å utvikle og selge tjenester i tilknytning til dette.",
+      "value": "Utvikle et allsidig kompetansemiljÃ¸ innen elektronisk databehandeling, samt Ã¥ utvikle og selge tjenester i tilknytning til dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297",
       "source_date": "1997-11-12",
       "retrieved_at": "2026-10-17T07:50:32+00:00"
@@ -109,34 +109,34 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Grete Alberta Jørgensen",
+      "value": "Grete Alberta JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
       "source_date": "1997-11-12",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Asbjørn Magne Jørgensen",
+      "value": "AsbjÃ¸rn Magne JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
       "source_date": "1997-11-12",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Asbjørn Magne Jørgensen",
+      "value": "AsbjÃ¸rn Magne JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
       "source_date": "2026-08-04",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Grete Alberta Jørgensen",
+      "value": "Grete Alberta JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979384297/roller",
       "source_date": "2026-08-04",
       "retrieved_at": "2026-10-17T07:50:33+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979384297. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:34+00:00",
+  "last_checked": "2026-10-17T10:11:01+00:00",
   "changes": []
 }

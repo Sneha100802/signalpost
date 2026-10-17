@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996162095",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg og utvikling av biomedisinske produkter og tjenester. Formålet kan fremmes ved deltakelse i eller samarbeid med andre foretak i inn- og utland.  ",
+      "value": "Salg og utvikling av biomedisinske produkter og tjenester. FormÃ¥let kan fremmes ved deltakelse i eller samarbeid med andre foretak i inn- og utland.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996162095",
       "source_date": "2010-11-09",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:49:42+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996162095/roller",
       "source_date": "2023-09-08",
@@ -197,9 +197,25 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996162095",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.circio.com/en/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:07:11+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996162095.",
-  "last_checked": "2026-10-17T07:49:43+00:00",
-  "changes": []
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996162095. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:08:40+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:08:40+00:00"
+    }
+  ]
 }

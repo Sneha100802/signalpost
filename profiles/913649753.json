@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:07+00:00"
@@ -120,9 +120,80 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913649753/roller",
       "source_date": "2026-04-09",
       "retrieved_at": "2026-10-17T07:47:07+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.1eiksmarka.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:48+00:00"
+    },
+    {
+      "field": "email",
+      "value": "gl@1eiksmarka.no",
+      "source_url": "https://www.1eiksmarka.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:48+00:00"
+    },
+    {
+      "field": "description",
+      "value": "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that offers scouting activities for children and youth.",
+      "source_url": "https://www.1eiksmarka.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:56+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Familiespeiding",
+        "Ulveflokker",
+        "Speidertropp",
+        "Roverlag"
+      ],
+      "source_url": "https://www.1eiksmarka.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:56+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913649753. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:08+00:00",
-  "changes": []
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913649753. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T09:56:56+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that offers scouting activities for children and youth."
+      ],
+      "at": "2026-10-17T09:56:56+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "gl@1eiksmarka.no"
+      ],
+      "at": "2026-10-17T09:56:56+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Familiespeiding",
+          "Ulveflokker",
+          "Speidertropp",
+          "Roverlag"
+        ]
+      ],
+      "at": "2026-10-17T09:56:56+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:56:56+00:00"
+    }
+  ]
 }

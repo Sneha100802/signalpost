@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Roy Sævik",
+      "value": "Roy SÃ¦vik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
       "source_date": "2008-11-26",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Roy Sævik",
+      "value": "Roy SÃ¦vik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992821159/roller",
       "source_date": "2008-11-26",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992821159. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:27+00:00",
+  "last_checked": "2026-10-17T10:10:28+00:00",
   "changes": []
 }

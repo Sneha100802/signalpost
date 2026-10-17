@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o BOB BBL, Nygårdsgaten 13, 5015, BERGEN",
+      "value": "c/o BOB BBL, NygÃ¥rdsgaten 13, 5015, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984183720",
       "source_date": "2002-03-05",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984183720",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984183720/roller",
       "source_date": "2022-10-12",
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984183720/roller",
       "source_date": "2016-04-01",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984183720.",
-  "last_checked": "2026-10-17T07:50:29+00:00",
+  "last_checked": "2026-10-17T10:10:32+00:00",
   "changes": []
 }

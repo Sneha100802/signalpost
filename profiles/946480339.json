@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Øvre Holmegate 31, 4006, STAVANGER",
+      "value": "Ã˜vre Holmegate 31, 4006, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel samt hva hermed står i forbindelse.",
+      "value": "Handel samt hva hermed stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Frøydis Olaug Berggraf",
+      "value": "FrÃ¸ydis Olaug Berggraf",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339/roller",
       "source_date": "1990-04-07",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bjørg Oline Bremerthun Lidsheim",
+      "value": "BjÃ¸rg Oline Bremerthun Lidsheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946480339/roller",
       "source_date": "1990-04-07",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946480339. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:25+00:00",
+  "last_checked": "2026-10-17T10:10:10+00:00",
   "changes": []
 }

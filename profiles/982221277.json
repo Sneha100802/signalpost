@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277",
       "source_date": "2000-08-15",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Lage internettsider med informasjon om dykke og sportsklokker og selge annonseplass på sine internett sider til kommersielle aktører i markedet.",
+      "value": "Lage internettsider med informasjon om dykke og sportsklokker og selge annonseplass pÃ¥ sine internett sider til kommersielle aktÃ¸rer i markedet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277",
       "source_date": "2000-08-15",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
@@ -109,20 +109,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Dag Øivind Rolfsen",
+      "value": "Dag Ã˜ivind Rolfsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277/roller",
       "source_date": "2000-08-15",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Knut Bjerga Håland",
+      "value": "Knut Bjerga HÃ¥land",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277/roller",
       "source_date": "2000-08-15",
       "retrieved_at": "2026-10-17T07:48:47+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982221277. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:47+00:00",
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982221277. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:02:39+00:00",
   "changes": []
 }

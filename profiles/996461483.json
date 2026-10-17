@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "49.410 Godstransport på vei",
+      "value": "49.410 Godstransport pÃ¥ vei",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996461483",
       "source_date": "2011-02-08",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
     },
     {
       "field": "address",
-      "value": "Annebergvej 2 Grønbjerg, 6971 SPJALD",
+      "value": "Annebergvej 2 GrÃ¸nbjerg, 6971 SPJALD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996461483",
       "source_date": "2011-02-08",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Roland Regnskap AS, Brøvigkollen, 4623, KRISTIANSAND S",
+      "value": "c/o Roland Regnskap AS, BrÃ¸vigkollen, 4623, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996461483",
       "source_date": "2011-02-08",
       "retrieved_at": "2026-10-17T07:48:59+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996461483",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:59+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:48:59+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LUNDEN REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996461483/roller",
       "source_date": "2018-11-27",
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996461483. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:59+00:00",
+  "last_checked": "2026-10-17T10:03:57+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916519052",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive bærekraftig skogbruk.",
+      "value": "Drive bÃ¦rekraftig skogbruk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916519052",
       "source_date": "2016-04-07",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916519052.",
-  "last_checked": "2026-10-17T07:50:29+00:00",
+  "last_checked": "2026-10-17T10:10:34+00:00",
   "changes": []
 }

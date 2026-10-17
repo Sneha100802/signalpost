@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BLÅKLOKKA BORETTSLAG",
+      "value": "BLÃ…KLOKKA BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
       "source_date": "2002-01-05",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Thalleveien 5-7, 8076, BODØ",
+      "value": "Thalleveien 5-7, 8076, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
       "source_date": "2002-01-05",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
       "source_date": "2002-01-05",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
       "source_date": "2022-02-09",
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn-Olav Stensland Hoff",
+      "value": "BjÃ¸rn-Olav Stensland Hoff",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
       "source_date": "2023-06-27",
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984015984/roller",
       "source_date": "2013-08-26",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984015984.",
-  "last_checked": "2026-10-17T07:49:02+00:00",
+  "last_checked": "2026-10-17T10:04:47+00:00",
   "changes": []
 }

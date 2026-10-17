@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:57+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ai SA leier lokaler som har som mål å være arbeidsplass, og et skapende nettverk for profesjonelle små foretak med inntil 5 ansatte. Ved flere enn 5 ansatte, skal dette styrebehandles. AI SA drives som et ideelt foretak, og aktørene skal i hovedsak være innen kunst, design, arkitektur, medier, foto, tekst eller andre skapende næringer. AI SA skal legge til rette for faglig utveksling, nyskaping og formidling i samarbeid mellom de enkelte foretakene, skape inntjening nok til sunn drift med mål om lavest mulig leiekostnader for sine medlemmer.",
+      "value": "Ai SA leier lokaler som har som mÃ¥l Ã¥ vÃ¦re arbeidsplass, og et skapende nettverk for profesjonelle smÃ¥ foretak med inntil 5 ansatte. Ved flere enn 5 ansatte, skal dette styrebehandles. AI SA drives som et ideelt foretak, og aktÃ¸rene skal i hovedsak vÃ¦re innen kunst, design, arkitektur, medier, foto, tekst eller andre skapende nÃ¦ringer. AI SA skal legge til rette for faglig utveksling, nyskaping og formidling i samarbeid mellom de enkelte foretakene, skape inntjening nok til sunn drift med mÃ¥l om lavest mulig leiekostnader for sine medlemmer.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545",
       "source_date": "2007-03-07",
       "retrieved_at": "2026-10-17T07:47:57+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mette Brasøy",
+      "value": "Mette BrasÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545/roller",
       "source_date": "2026-07-03",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
@@ -151,20 +151,20 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Håvard Løvnes",
+      "value": "HÃ¥vard LÃ¸vnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545/roller",
       "source_date": "2026-07-03",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Elin Rødahl Thingnes",
+      "value": "Elin RÃ¸dahl Thingnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545/roller",
       "source_date": "2026-07-03",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ILA BOKHOLDERI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990962545/roller",
       "source_date": "2026-08-31",
@@ -211,9 +211,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990962545",
       "source_date": "2024-12-31",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.atelierilsvika.no/kontakt",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:37+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@atelierilsvika.no",
+      "source_url": "https://www.atelierilsvika.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:38+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Atelier Ilsvika er et Ã¥pent arbeidsfellesskap innen kunst, kultur og nÃ¦ring som tilbyr atelier- og kontorplasser.",
+      "source_url": "https://www.atelierilsvika.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:05+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Atelier",
+        "Kontorplasser",
+        "Leie av lounge",
+        "Fotostudio",
+        "MÃ¸terom"
+      ],
+      "source_url": "https://www.atelierilsvika.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:05+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990962545.",
-  "last_checked": "2026-10-17T07:47:58+00:00",
-  "changes": []
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990962545.",
+  "last_checked": "2026-10-17T09:59:05+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Atelier Ilsvika er et Ã¥pent arbeidsfellesskap innen kunst, kultur og nÃ¦ring som tilbyr atelier- og kontorplasser."
+      ],
+      "at": "2026-10-17T09:59:05+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@atelierilsvika.no"
+      ],
+      "at": "2026-10-17T09:59:05+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Atelier",
+          "Kontorplasser",
+          "Leie av lounge",
+          "Fotostudio",
+          "MÃ¸terom"
+        ]
+      ],
+      "at": "2026-10-17T09:59:05+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:59:05+00:00"
+    }
+  ]
 }

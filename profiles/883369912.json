@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "43.221 Rørleggerarbeid",
+      "value": "43.221 RÃ¸rleggerarbeid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912",
       "source_date": "2001-07-04",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Rørleggervirksomhet. Bistand ved formidling av helsepersonell og håndverkere fra utlandet. Omsetning/utleie av fast eiendom. Kursvirksomhet i håndverksbransjen. Totalentreprise ved oppføring av bygg.",
+      "value": "RÃ¸rleggervirksomhet. Bistand ved formidling av helsepersonell og hÃ¥ndverkere fra utlandet. Omsetning/utleie av fast eiendom. Kursvirksomhet i hÃ¥ndverksbransjen. Totalentreprise ved oppfÃ¸ring av bygg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912",
       "source_date": "2001-07-04",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:23+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Peter Joar Holm",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912/roller",
       "source_date": "2011-07-21",
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Mads Johan Strømmen Halvspandet",
+      "value": "Mads Johan StrÃ¸mmen Halvspandet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912/roller",
       "source_date": "2011-07-21",
       "retrieved_at": "2026-10-17T07:49:23+00:00"
@@ -165,13 +165,13 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Mads Johan Strømmen Halvspandet",
+      "value": "Mads Johan StrÃ¸mmen Halvspandet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/883369912/roller",
       "source_date": "2026-01-31",
       "retrieved_at": "2026-10-17T07:49:23+00:00"
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 883369912. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:23+00:00",
+  "last_checked": "2026-10-17T10:05:45+00:00",
   "changes": []
 }

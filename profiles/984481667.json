@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Informasjon, i form av en opplysningstjeneste og handel med/ produksjon av tjenester og produkter som naturlig hører sammen med dette, samt deltagelse i andre virksomheter innenfor samme bransje.",
+      "value": "Informasjon, i form av en opplysningstjeneste og handel med/ produksjon av tjenester og produkter som naturlig hÃ¸rer sammen med dette, samt deltagelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667",
       "source_date": "2002-05-23",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -136,14 +136,30 @@
       "retrieved_at": "2026-10-17T07:51:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "4 YOU REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984481667/roller",
       "source_date": "2013-02-07",
       "retrieved_at": "2026-10-17T07:51:02+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://alternativ.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:13:43+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:02+00:00",
-  "changes": []
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:14:54+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:14:54+00:00"
+    }
+  ]
 }

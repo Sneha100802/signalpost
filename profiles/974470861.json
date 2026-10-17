@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
       "source_date": "1995-06-01",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
     },
     {
       "field": "address",
-      "value": "Østre Aker vei 264, 0977, OSLO",
+      "value": "Ã˜stre Aker vei 264, 0977, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
       "source_date": "1995-06-01",
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974470861",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:23+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974470861.",
-  "last_checked": "2026-10-17T07:48:24+00:00",
+  "last_checked": "2026-10-17T10:00:03+00:00",
   "changes": []
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987178876",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Sølvi Austlid",
+      "value": "SÃ¸lvi Austlid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987178876/roller",
       "source_date": "2004-09-11",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Sølvi Austlid",
+      "value": "SÃ¸lvi Austlid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987178876/roller",
       "source_date": "2004-09-11",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987178876. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:09+00:00",
+  "last_checked": "2026-10-17T10:05:07+00:00",
   "changes": []
 }

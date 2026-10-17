@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Sentrumsveien 37, 4640, SØGNE",
+      "value": "Sentrumsveien 37, 4640, SÃ˜GNE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292",
       "source_date": "2024-09-17",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Prosjektutvikling, eiendomsutvikling, handel, anskaffelse og drift av eiendommer, entreprenørvirksomhet, konsulentvirksomhet, deltagelse i andre selskap samt alt hva hermed står i forbindelse med ovennevnte.",
+      "value": "Prosjektutvikling, eiendomsutvikling, handel, anskaffelse og drift av eiendommer, entreprenÃ¸rvirksomhet, konsulentvirksomhet, deltagelse i andre selskap samt alt hva hermed stÃ¥r i forbindelse med ovennevnte.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292",
       "source_date": "2024-09-17",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "MUR I SØR AS",
+      "value": "MUR I SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292/roller",
       "source_date": "2024-09-17",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "KONKRET ENTREPRENØR AS",
+      "value": "KONKRET ENTREPRENÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292/roller",
       "source_date": "2024-09-17",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJON SØR AS",
+      "value": "REVISJON SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/834111292/roller",
       "source_date": "2024-09-17",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 834111292.",
-  "last_checked": "2026-10-17T07:47:37+00:00",
+  "last_checked": "2026-10-17T09:57:46+00:00",
   "changes": []
 }

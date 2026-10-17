@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988434353",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:38+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988434353",
       "source_date": "2005-08-03",
       "retrieved_at": "2026-10-17T07:48:38+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988434353. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:39+00:00",
+  "last_checked": "2026-10-17T10:01:31+00:00",
   "changes": []
 }

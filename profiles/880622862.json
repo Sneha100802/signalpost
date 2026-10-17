@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880622862",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive anleggsgartner-virksomhet og produkter/tjenester som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Drive anleggsgartner-virksomhet og produkter/tjenester som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880622862",
       "source_date": "1999-03-25",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Pål Joar Strand",
+      "value": "PÃ¥l Joar Strand",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880622862/roller",
       "source_date": "1999-04-15",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Frode Krangsås",
+      "value": "Frode KrangsÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/880622862/roller",
       "source_date": "1999-04-15",
       "retrieved_at": "2026-10-17T07:47:56+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880622862. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:56+00:00",
+  "last_checked": "2026-10-17T09:58:34+00:00",
   "changes": []
 }

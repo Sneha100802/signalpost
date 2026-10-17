@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Nordlysbuen 10, 8007, BODØ",
+      "value": "Nordlysbuen 10, 8007, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956",
       "source_date": "2023-02-13",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selge tjenester og varer innen Bygg og Montering kjøkken/bad - og annet som naturlig sammenfaller med dette - samt deltagelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "value": "Selge tjenester og varer innen Bygg og Montering kjÃ¸kken/bad - og annet som naturlig sammenfaller med dette - samt deltagelse i andre selskaper, investeringer og nÃ¦rliggende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956",
       "source_date": "2023-02-13",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
@@ -109,20 +109,20 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ola Andreas Jönsson",
+      "value": "Ola Andreas JÃ¶nsson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956/roller",
       "source_date": "2023-02-13",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ola Andreas Jönsson",
+      "value": "Ola Andreas JÃ¶nsson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956/roller",
       "source_date": "2023-02-13",
       "retrieved_at": "2026-10-17T07:48:20+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "RESPONS REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930819956/roller",
       "source_date": "2023-02-27",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930819956.",
-  "last_checked": "2026-10-17T07:48:20+00:00",
+  "last_checked": "2026-10-17T09:59:35+00:00",
   "changes": []
 }

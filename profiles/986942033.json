@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvilkle og tilby produkter, løsninger og tjenester for telekommunikasjon, leie ut konsulenter, delta i og investere i annen virksomhet.",
+      "value": "Utvilkle og tilby produkter, lÃ¸sninger og tjenester for telekommunikasjon, leie ut konsulenter, delta i og investere i annen virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033",
       "source_date": "2004-06-09",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Thomas Bostrøm Jørgensen",
+      "value": "Thomas BostrÃ¸m JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
       "source_date": "2021-01-18",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Arne Græe",
+      "value": "Arne GrÃ¦e",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
       "source_date": "2025-06-28",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -178,7 +178,7 @@
       "retrieved_at": "2026-10-17T07:47:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "STARIA NORWAY AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986942033/roller",
       "source_date": "2025-11-07",
@@ -225,9 +225,80 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986942033",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.appear.net",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:57+00:00"
+    },
+    {
+      "field": "email",
+      "value": "info@appear.net",
+      "source_url": "https://www.appear.net",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:56:57+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Appear provides high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution.",
+      "source_url": "https://www.appear.net",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:14+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "X Platform",
+        "VX Platform",
+        "XC Platform",
+        "Appear Hub"
+      ],
+      "source_url": "https://www.appear.net",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:57:14+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986942033.",
-  "last_checked": "2026-10-17T07:47:13+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986942033.",
+  "last_checked": "2026-10-17T09:57:14+00:00",
+  "changes": [
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Appear provides high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution."
+      ],
+      "at": "2026-10-17T09:57:14+00:00"
+    },
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "info@appear.net"
+      ],
+      "at": "2026-10-17T09:57:14+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "X Platform",
+          "VX Platform",
+          "XC Platform",
+          "Appear Hub"
+        ]
+      ],
+      "at": "2026-10-17T09:57:14+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T09:57:14+00:00"
+    }
+  ]
 }

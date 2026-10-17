@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "24/7 RØRLEGGERVAKTEN AVD. JÆREN AS",
+      "value": "24/7 RÃ˜RLEGGERVAKTEN AVD. JÃ†REN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139",
       "source_date": "2021-11-16",
       "retrieved_at": "2026-10-17T07:48:25+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "43.221 Rørleggerarbeid",
+      "value": "43.221 RÃ¸rleggerarbeid",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139",
       "source_date": "2021-11-16",
       "retrieved_at": "2026-10-17T07:48:25+00:00"
     },
     {
       "field": "address",
-      "value": "Fåhadlet 78, 4160, FINNØY",
+      "value": "FÃ¥hadlet 78, 4160, FINNÃ˜Y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139",
       "source_date": "2021-11-16",
       "retrieved_at": "2026-10-17T07:48:25+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:25+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Salg av rørleggertjenester og andre produkter/tjenester som naturlig hører sammen med dette.",
+      "value": "Salg av rÃ¸rleggertjenester og andre produkter/tjenester som naturlig hÃ¸rer sammen med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139",
       "source_date": "2021-11-16",
       "retrieved_at": "2026-10-17T07:48:25+00:00"
@@ -129,8 +129,8 @@
       "retrieved_at": "2026-10-17T07:48:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "HAV REGNSKAP FINNØY AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "HAV REGNSKAP FINNÃ˜Y AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928143139/roller",
       "source_date": "2021-11-16",
       "retrieved_at": "2026-10-17T07:48:25+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928143139.",
-  "last_checked": "2026-10-17T07:48:26+00:00",
+  "last_checked": "2026-10-17T10:00:09+00:00",
   "changes": []
 }

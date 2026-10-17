@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
     },
     {
       "field": "address",
-      "value": "Lillevollen 2 - 4, 8011, BODØ",
+      "value": "Lillevollen 2 - 4, 8011, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Beret Rørvik",
+      "value": "Beret RÃ¸rvik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
       "source_date": "2006-02-21",
       "retrieved_at": "2026-10-17T07:50:15+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Inge Furunes",
+      "value": "BjÃ¸rn Inge Furunes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
       "source_date": "2017-05-29",
       "retrieved_at": "2026-10-17T07:50:15+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:50:15+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "GODE TALL AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965640088/roller",
       "source_date": "2020-06-08",
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:50:15+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 965640088.",
-  "last_checked": "2026-10-17T07:50:15+00:00",
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 965640088. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:09:29+00:00",
   "changes": []
 }

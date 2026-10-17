@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "c/o Stavanger Sentrum, Søregata 30, 4006, STAVANGER",
+      "value": "c/o Stavanger Sentrum, SÃ¸regata 30, 4006, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Bernt Lerøy, Parkvegen 23A, 4365, NÆRBØ",
+      "value": "c/o Bernt LerÃ¸y, Parkvegen 23A, 4365, NÃ†RBÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Etablere, eie og drive Bondens marked i Rogaland etter retningslinjer gitt i Håndbok for Bondens marked. Bondens marked skal være et sted der forbruker kan kjøpe varer direkte fra den som har høstet, avlet, fanget, syltet, bakt, røkt eller på annen måte foredlet produktene.",
+      "value": "Etablere, eie og drive Bondens marked i Rogaland etter retningslinjer gitt i HÃ¥ndbok for Bondens marked. Bondens marked skal vÃ¦re et sted der forbruker kan kjÃ¸pe varer direkte fra den som har hÃ¸stet, avlet, fanget, syltet, bakt, rÃ¸kt eller pÃ¥ annen mÃ¥te foredlet produktene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bernt Lerøy",
+      "value": "Bernt LerÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
       "source_date": "2026-03-18",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Magne Nygård",
+      "value": "Magne NygÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
       "source_date": "2026-03-18",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:47:11+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ROGALAND REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922228345/roller",
       "source_date": "2026-05-07",
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922228345. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:12+00:00",
+  "last_checked": "2026-10-17T09:56:52+00:00",
   "changes": []
 }

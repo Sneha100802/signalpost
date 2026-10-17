@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Føretaket er ein sosial entreprise og skal drive kulturformidling. Verksemda har til føremål å fremje medlemane sine økonomiske, profesjonelle og sjølvrealiserende interesser gjennom den einskilde si deltaking i verksemda som skaparar, leverandørar og brukarar av varer og tenester, prosjektutviklarar og andre relevante roller. Verksemda kan drive forretningverksemd som relater til hovudføremålet. Verksemda skal vere ein arena for samarbeid, nettverksbygging og kreativitet, for tverrfagleg løysingsorientert tenking og arbeid. Verksemda skal gje medlemane ein plattform for å skape mogelegheit, livskvalitet og personleg utvikling og inntekt.",
+      "value": "FÃ¸retaket er ein sosial entreprise og skal drive kulturformidling. Verksemda har til fÃ¸remÃ¥l Ã¥ fremje medlemane sine Ã¸konomiske, profesjonelle og sjÃ¸lvrealiserende interesser gjennom den einskilde si deltaking i verksemda som skaparar, leverandÃ¸rar og brukarar av varer og tenester, prosjektutviklarar og andre relevante roller. Verksemda kan drive forretningverksemd som relater til hovudfÃ¸remÃ¥let. Verksemda skal vere ein arena for samarbeid, nettverksbygging og kreativitet, for tverrfagleg lÃ¸ysingsorientert tenking og arbeid. Verksemda skal gje medlemane ein plattform for Ã¥ skape mogelegheit, livskvalitet og personleg utvikling og inntekt.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102",
       "source_date": "2014-05-15",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
@@ -116,34 +116,34 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Ingvild Skodvin Prestegård",
+      "value": "Ingvild Skodvin PrestegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
       "source_date": "2019-02-27",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Ingvild Skodvin Prestegård",
+      "value": "Ingvild Skodvin PrestegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
       "source_date": "2026-04-30",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Britt Høyland",
+      "value": "Britt HÃ¸yland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
       "source_date": "2026-04-30",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristin Skodvin Prestegård",
+      "value": "Kristin Skodvin PrestegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
       "source_date": "2026-04-30",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIEW GROUP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913515102/roller",
       "source_date": "2018-10-31",
@@ -190,9 +190,82 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913515102",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:16+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.allmenningen.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:35+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@allmenningen.org",
+      "source_url": "https://www.allmenningen.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:09:35+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Allmenningen SA is a small cooperative based in Bergen that offers community spaces, personal development, and various projects focused on quality of life and mastery.",
+      "source_url": "https://www.allmenningen.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:19:07+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Lysmeditasjonar",
+        "Yoga",
+        "Kurs",
+        "Miniretreat",
+        "Reiki"
+      ],
+      "source_url": "https://www.allmenningen.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:19:07+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913515102.",
-  "last_checked": "2026-10-17T07:50:16+00:00",
-  "changes": []
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913515102.",
+  "last_checked": "2026-10-17T10:19:07+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@allmenningen.org"
+      ],
+      "at": "2026-10-17T10:10:52+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:10:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Allmenningen SA is a small cooperative based in Bergen that offers community spaces, personal development, and various projects focused on quality of life and mastery."
+      ],
+      "at": "2026-10-17T10:19:07+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Lysmeditasjonar",
+          "Yoga",
+          "Kurs",
+          "Miniretreat",
+          "Reiki"
+        ]
+      ],
+      "at": "2026-10-17T10:19:07+00:00"
+    }
+  ]
 }

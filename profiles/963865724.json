@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive rådgivende ingeniør- og arkitektvirksomhet og beslektet virksomhet, utføre konsernfunksjoner og eie og investere i aksjer, herunder å gi strategisk og finansiell støtte til datterselskaper. Selskapet kan også engasjere seg i andre aktiviteter knyttet til å nå disse målene. Virksomheten kan utøves av selskapet selv, av datterselskaper, gjennom deltakelse i andre selskaper eller i samarbeid med andre.",
+      "value": "Ã… drive rÃ¥dgivende ingeniÃ¸r- og arkitektvirksomhet og beslektet virksomhet, utfÃ¸re konsernfunksjoner og eie og investere i aksjer, herunder Ã¥ gi strategisk og finansiell stÃ¸tte til datterselskaper. Selskapet kan ogsÃ¥ engasjere seg i andre aktiviteter knyttet til Ã¥ nÃ¥ disse mÃ¥lene. Virksomheten kan utÃ¸ves av selskapet selv, av datterselskaper, gjennom deltakelse i andre selskaper eller i samarbeid med andre.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mari Thjømøe",
+      "value": "Mari ThjÃ¸mÃ¸e",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Lars Petter Nesvåg",
+      "value": "Lars Petter NesvÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -186,21 +186,21 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Sigri Rosø Pladsen",
+      "value": "Sigri RosÃ¸ Pladsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Åsulv Glærum Reppesgård",
+      "value": "Ã…sulv GlÃ¦rum ReppesgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Sigrid Bergseng Lakså",
+      "value": "Sigrid Bergseng LaksÃ¥",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/963865724/roller",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -267,9 +267,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/963865724",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://norconsult.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:05:07+00:00"
+    },
+    {
+      "field": "email",
+      "value": "firmapost@norconsult.com",
+      "source_url": "https://norconsult.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:05:07+00:00"
     }
   ],
-  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724.",
-  "last_checked": "2026-10-17T07:49:07+00:00",
-  "changes": []
+  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:06:23+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "firmapost@norconsult.com"
+      ],
+      "at": "2026-10-17T10:06:23+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:06:23+00:00"
+    }
+  ]
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med/produksjon av it løsninger og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Handel med/produksjon av it lÃ¸sninger og produkter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:31+00:00"
@@ -102,21 +102,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Gunnar Solheim",
+      "value": "BjÃ¸rn Gunnar Solheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Frode Rislå",
+      "value": "Frode RislÃ¥",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørn Gunnar Solheim",
+      "value": "BjÃ¸rn Gunnar Solheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Gunnar Solheim",
+      "value": "BjÃ¸rn Gunnar Solheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Frode Rislå",
+      "value": "Frode RislÃ¥",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991136096/roller",
       "source_date": "2007-04-16",
       "retrieved_at": "2026-10-17T07:49:32+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991136096. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:32+00:00",
+  "last_checked": "2026-10-17T10:06:23+00:00",
   "changes": []
 }

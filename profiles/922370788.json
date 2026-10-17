@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Gyldenløves gate 34, 4614, KRISTIANSAND S",
+      "value": "GyldenlÃ¸ves gate 34, 4614, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
       "source_date": "2019-03-14",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Erlend Buflaten, Gyldenløves gate 34, 4614, KRISTIANSAND S",
+      "value": "c/o Erlend Buflaten, GyldenlÃ¸ves gate 34, 4614, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
       "source_date": "2019-03-14",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Management av artister og andre aktører innenfor musikk og kultur.",
+      "value": "Management av artister og andre aktÃ¸rer innenfor musikk og kultur.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788",
       "source_date": "2019-03-14",
       "retrieved_at": "2026-10-17T07:51:00+00:00"
@@ -129,8 +129,8 @@
       "retrieved_at": "2026-10-17T07:51:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "GERHARD & SØNN AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "GERHARD & SÃ˜NN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788/roller",
       "source_date": "2019-05-09",
       "retrieved_at": "2026-10-17T07:51:01+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922370788.",
-  "last_checked": "2026-10-17T07:51:01+00:00",
+  "last_checked": "2026-10-17T10:13:33+00:00",
   "changes": []
 }

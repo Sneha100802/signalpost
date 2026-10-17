@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:19+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:19+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Entreprenør- og industrivirksomhet og alt som står i forbindelse med dette. Dette omfatter også deltakelse i andre foretak.",
+      "value": "EntreprenÃ¸r- og industrivirksomhet og alt som stÃ¥r i forbindelse med dette. Dette omfatter ogsÃ¥ deltakelse i andre foretak.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:19+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Amund Tøftum",
+      "value": "Amund TÃ¸ftum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2020-09-14",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Erik Tømmeraas Veiby",
+      "value": "Erik TÃ¸mmeraas Veiby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2026-07-02",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -186,7 +186,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øistein Magnar Andresen",
+      "value": "Ã˜istein Magnar Andresen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2026-07-02",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -207,14 +207,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Gaare Stokkevåg",
+      "value": "BjÃ¸rn Gaare StokkevÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2026-07-02",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Hanne Fjeldskår",
+      "value": "Hanne FjeldskÃ¥r",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2026-07-02",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -228,7 +228,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Ulf Bernhard Sjöström",
+      "value": "Ulf Bernhard SjÃ¶strÃ¶m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938702675/roller",
       "source_date": "2026-07-02",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -283,7 +283,7 @@
       "retrieved_at": "2026-10-17T07:50:20+00:00"
     }
   ],
-  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938702675.",
-  "last_checked": "2026-10-17T07:50:20+00:00",
+  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938702675. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:09:41+00:00",
   "changes": []
 }

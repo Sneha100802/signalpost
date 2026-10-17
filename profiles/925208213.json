@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selge tjenester og varer innen design, utvikling, innovasjon og rådgivning innen petroleum, marinteknikk, akvakultur og prosjektledelse, og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "value": "Selge tjenester og varer innen design, utvikling, innovasjon og rÃ¥dgivning innen petroleum, marinteknikk, akvakultur og prosjektledelse, og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nÃ¦rliggende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213",
       "source_date": "2020-06-17",
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:47:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LEIF KIELSEN REGNSKAPSKONTOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925208213/roller",
       "source_date": "2026-03-09",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925208213.",
-  "last_checked": "2026-10-17T07:47:09+00:00",
+  "last_checked": "2026-10-17T09:56:47+00:00",
   "changes": []
 }

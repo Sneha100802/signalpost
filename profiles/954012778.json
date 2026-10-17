@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ystenesgata 6B, 6003, ÅLESUND",
+      "value": "Ystenesgata 6B, 6003, Ã…LESUND",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:07+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:49:07+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2020-11-04",
@@ -130,21 +130,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Mari Mørkeset Sandbakk",
+      "value": "Mari MÃ¸rkeset Sandbakk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:08+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Marit Johanne Kalvø Lindin",
+      "value": "Marit Johanne KalvÃ¸ Lindin",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:08+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Sofie Molnes Søvik",
+      "value": "Sofie Molnes SÃ¸vik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:08+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Julia Bjørkedal",
+      "value": "Julia BjÃ¸rkedal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:49:08+00:00"
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:49:08+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954012778/roller",
       "source_date": "2020-11-04",
@@ -248,7 +248,7 @@
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     }
   ],
-  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954012778.",
-  "last_checked": "2026-10-17T07:49:09+00:00",
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954012778. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:05:06+00:00",
   "changes": []
 }

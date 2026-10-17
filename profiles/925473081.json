@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Trondhjemsvegen 5, 2821, GJØVIK",
+      "value": "Trondhjemsvegen 5, 2821, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
       "source_date": "2020-08-12",
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:43+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:49:43+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FRISIKT VEST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925473081/roller",
       "source_date": "2026-03-13",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925473081. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:44+00:00",
+  "last_checked": "2026-10-17T10:07:14+00:00",
   "changes": []
 }

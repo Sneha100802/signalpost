@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Bernåsbakken 17B, 3032, DRAMMEN",
+      "value": "BernÃ¥sbakken 17B, 3032, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918734643",
       "source_date": "2017-04-26",
       "retrieved_at": "2026-10-17T07:48:37+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918734643",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:37+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretaket skal legge til rette for at organisasjonsledd i Norges idrettsforbund får best mulig fortjeneste på egen dugnadsinnsats. Foretaket har til formål å bidra til å styrke lokalidrettens økonomiske situasjon gjennom deltakelse i virksomheten som kjøpere av varer fra foretaket.",
+      "value": "Foretaket skal legge til rette for at organisasjonsledd i Norges idrettsforbund fÃ¥r best mulig fortjeneste pÃ¥ egen dugnadsinnsats. Foretaket har til formÃ¥l Ã¥ bidra til Ã¥ styrke lokalidrettens Ã¸konomiske situasjon gjennom deltakelse i virksomheten som kjÃ¸pere av varer fra foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918734643",
       "source_date": "2017-04-26",
       "retrieved_at": "2026-10-17T07:48:37+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristin Setså",
+      "value": "Kristin SetsÃ¥",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918734643/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:48:38+00:00"
@@ -176,9 +176,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918734643",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:38+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.idrettsdugnad.no/om-oss/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:36+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@idrettsdugnad.no",
+      "source_url": "https://www.idrettsdugnad.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:36+00:00"
     }
   ],
-  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918734643.",
-  "last_checked": "2026-10-17T07:48:38+00:00",
-  "changes": []
+  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918734643. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:02:53+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@idrettsdugnad.no"
+      ],
+      "at": "2026-10-17T10:02:53+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:02:53+00:00"
+    }
+  ]
 }

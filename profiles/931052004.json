@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BREKMOJØLSEN DA",
+      "value": "BREKMOJÃ˜LSEN DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931052004",
       "source_date": "2023-03-28",
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931052004",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:13+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "André Fensholt Jølsen",
+      "value": "AndrÃ© Fensholt JÃ¸lsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931052004/roller",
       "source_date": "2023-03-28",
       "retrieved_at": "2026-10-17T07:47:14+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931052004. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:14+00:00",
+  "last_checked": "2026-10-17T09:56:59+00:00",
   "changes": []
 }

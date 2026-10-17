@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BODØ APARTMENT ANS",
+      "value": "BODÃ˜ APARTMENT ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846",
       "source_date": "2000-03-09",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ivar Lunds vei 14, 8006, BODØ",
+      "value": "Ivar Lunds vei 14, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846",
       "source_date": "2000-03-09",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Stein Åge Johansen",
+      "value": "Stein Ã…ge Johansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846/roller",
       "source_date": "2000-03-27",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Stein Åge Johansen",
+      "value": "Stein Ã…ge Johansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846/roller",
       "source_date": "2009-04-27",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Stein Åge Johansen",
+      "value": "Stein Ã…ge Johansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846/roller",
       "source_date": "2009-04-27",
       "retrieved_at": "2026-10-17T07:48:08+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:48:08+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMINOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981660846/roller",
       "source_date": "2018-06-07",
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981660846. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:08+00:00",
+  "last_checked": "2026-10-17T09:59:09+00:00",
   "changes": []
 }

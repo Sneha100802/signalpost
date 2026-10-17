@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Kent Ove Nilsen, John Tessems vei 8, 8009, BODØ",
+      "value": "c/o Kent Ove Nilsen, John Tessems vei 8, 8009, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931390627",
       "source_date": "2023-05-11",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931390627",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp og salg av finansielle instrumenter og andre verdipapirer, samt investering i andre selskap.",
+      "value": "KjÃ¸p og salg av finansielle instrumenter og andre verdipapirer, samt investering i andre selskap.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931390627",
       "source_date": "2023-05-11",
       "retrieved_at": "2026-10-17T07:49:38+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:49:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931390627/roller",
       "source_date": "2025-10-02",
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931390627.",
-  "last_checked": "2026-10-17T07:49:38+00:00",
+  "last_checked": "2026-10-17T10:06:42+00:00",
   "changes": []
 }

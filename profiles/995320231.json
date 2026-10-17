@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BORÅSVEGEN TERRASSE BORETTSLAG",
+      "value": "BORÃ…SVEGEN TERRASSE BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995320231",
       "source_date": "2010-04-08",
       "retrieved_at": "2026-10-17T07:47:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995320231",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:51+00:00"
@@ -115,15 +115,15 @@
       "retrieved_at": "2026-10-17T07:47:51+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995320231/roller",
       "source_date": "2010-04-08",
       "retrieved_at": "2026-10-17T07:47:52+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Vemund Per Smørdal",
+      "value": "Vemund Per SmÃ¸rdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995320231/roller",
       "source_date": "2023-06-08",
       "retrieved_at": "2026-10-17T07:47:52+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:47:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995320231/roller",
       "source_date": "2010-04-08",
       "retrieved_at": "2026-10-17T07:47:52+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995320231.",
-  "last_checked": "2026-10-17T07:47:53+00:00",
+  "last_checked": "2026-10-17T09:58:29+00:00",
   "changes": []
 }

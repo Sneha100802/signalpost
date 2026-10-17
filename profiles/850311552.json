@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL BØLERSKOGEN BORETTSLAG II",
+      "value": "AL BÃ˜LERSKOGEN BORETTSLAG II",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552/roller",
       "source_date": "2008-03-11",
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øyvind Lorentz Stabel",
+      "value": "Ã˜yvind Lorentz Stabel",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552/roller",
       "source_date": "2026-07-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Maria Røe",
+      "value": "Anne Maria RÃ¸e",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552/roller",
       "source_date": "2026-07-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Daniel Bjørstad",
+      "value": "Daniel BjÃ¸rstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552/roller",
       "source_date": "2026-07-23",
       "retrieved_at": "2026-10-17T07:49:51+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:49:51+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OBOS EIENDOMSFORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/850311552/roller",
       "source_date": "2014-06-11",
@@ -235,6 +235,6 @@
     }
   ],
   "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 850311552.",
-  "last_checked": "2026-10-17T07:49:51+00:00",
+  "last_checked": "2026-10-17T10:08:12+00:00",
   "changes": []
 }

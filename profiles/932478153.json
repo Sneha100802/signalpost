@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AF HÆHRE ISACHSEN CONTUR ANS",
+      "value": "AF HÃ†HRE ISACHSEN CONTUR ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932478153",
       "source_date": "2023-11-17",
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932478153",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å utføre entreprenørarbeider gjennom ulike entrepriser innenfor anleggssektoren, og alt som står i den forbindelse.",
+      "value": "Ã… utfÃ¸re entreprenÃ¸rarbeider gjennom ulike entrepriser innenfor anleggssektoren, og alt som stÃ¥r i den forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932478153",
       "source_date": "2023-11-17",
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "HÆHRE ENTREPRENØR AS",
+      "value": "HÃ†HRE ENTREPRENÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932478153/roller",
       "source_date": "2023-11-17",
       "retrieved_at": "2026-10-17T07:49:54+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932478153.",
-  "last_checked": "2026-10-17T07:49:55+00:00",
+  "last_checked": "2026-10-17T10:08:27+00:00",
   "changes": []
 }

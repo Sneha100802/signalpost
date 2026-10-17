@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å gjøre det enklere å være indie-forfatter i Norge. Foretaket skal drive faglig rådgivning og -støtte for medlemmene gjennom å gi informasjon om de som kan tilby tjenester som redaktør, språkvask, korrektur, illustrasjoner, grafikk, ombrekking, markedsføring og produksjon på forskjellige flater, trykking, nettsider, regnskap og andre støtteordninger etter behov. Foretaket vil stå for å arrangere aktiviteter for å fremme medlemmenes interesser, som messer, faglige forum, nettmøter o.l.",
+      "value": "Ã… gjÃ¸re det enklere Ã¥ vÃ¦re indie-forfatter i Norge. Foretaket skal drive faglig rÃ¥dgivning og -stÃ¸tte for medlemmene gjennom Ã¥ gi informasjon om de som kan tilby tjenester som redaktÃ¸r, sprÃ¥kvask, korrektur, illustrasjoner, grafikk, ombrekking, markedsfÃ¸ring og produksjon pÃ¥ forskjellige flater, trykking, nettsider, regnskap og andre stÃ¸tteordninger etter behov. Foretaket vil stÃ¥ for Ã¥ arrangere aktiviteter for Ã¥ fremme medlemmenes interesser, som messer, faglige forum, nettmÃ¸ter o.l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779",
       "source_date": "2020-09-22",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Borg Kjølseth",
+      "value": "BjÃ¸rn Borg KjÃ¸lseth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
       "source_date": "2026-03-03",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jan Brynjulf Sørensen",
+      "value": "Jan Brynjulf SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
       "source_date": "2026-03-03",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Pål Dyrnes",
+      "value": "PÃ¥l Dyrnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
       "source_date": "2026-03-03",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -141,9 +141,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925619779/roller",
       "source_date": "2026-03-03",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://indieforfatterne.no/om-oss/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:15+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@indieforfatterne.no",
+      "source_url": "https://indieforfatterne.no/om-oss/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:01:15+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925619779. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:33+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925619779. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:02:34+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@indieforfatterne.no"
+      ],
+      "at": "2026-10-17T10:02:34+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:02:34+00:00"
+    }
+  ]
 }

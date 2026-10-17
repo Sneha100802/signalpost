@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "47.220 Detaljhandel med kjøtt og kjøttvarer",
+      "value": "47.220 Detaljhandel med kjÃ¸tt og kjÃ¸ttvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
       "source_date": "2013-12-17",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Øvre Klevjervei 8, 3074, SANDE I VESTFOLD",
+      "value": "Ã˜vre Klevjervei 8, 3074, SANDE I VESTFOLD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
       "source_date": "2013-12-17",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Foretakets formål er å etablere, eie og drive Bondens marked (Bm) i Drammen etter retningslinjer gitt i \"Håndbok\" for Bondens marked. Bondens marked skal være et sted der forbruker kan kjøpe varer direkte fra den som har høstet, avlet, fanget, syltet, bakt, røkt eller på annen måte foredlet produktene.",
+      "value": "Foretakets formÃ¥l er Ã¥ etablere, eie og drive Bondens marked (Bm) i Drammen etter retningslinjer gitt i \"HÃ¥ndbok\" for Bondens marked. Bondens marked skal vÃ¦re et sted der forbruker kan kjÃ¸pe varer direkte fra den som har hÃ¸stet, avlet, fanget, syltet, bakt, rÃ¸kt eller pÃ¥ annen mÃ¥te foredlet produktene.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
       "source_date": "2013-12-17",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Elin Sofie Køhler",
+      "value": "Elin Sofie KÃ¸hler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Karin Bøhn",
+      "value": "Anne Karin BÃ¸hn",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LIER REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
       "source_date": "2013-12-17",
@@ -199,7 +199,7 @@
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911878615.",
-  "last_checked": "2026-10-17T07:49:56+00:00",
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911878615. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:08:31+00:00",
   "changes": []
 }

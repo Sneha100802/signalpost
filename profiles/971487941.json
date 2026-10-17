@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BLÅVEISKROKEN BARNEHAGE STI",
+      "value": "BLÃ…VEISKROKEN BARNEHAGE STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Philip John Skiöld-Evensen",
+      "value": "Philip John SkiÃ¶ld-Evensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2026-07-28",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Linka Sun Gramnæs",
+      "value": "Linka Sun GramnÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2026-06-15",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -144,14 +144,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Inge Berger Müller",
+      "value": "Inge Berger MÃ¼ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2026-06-15",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hans-Christian Våge Sirnes",
+      "value": "Hans-Christian VÃ¥ge Sirnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2026-06-15",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -164,14 +164,14 @@
       "retrieved_at": "2026-10-17T07:47:43+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SANDVIKA REGNSKAPSKONTOR AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2023-01-03",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971487941/roller",
       "source_date": "2023-01-03",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:47:43+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971487941.",
-  "last_checked": "2026-10-17T07:47:43+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971487941. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:05+00:00",
   "changes": []
 }

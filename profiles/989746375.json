@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Strømmeveien 49, 4638, KRISTIANSAND S",
+      "value": "StrÃ¸mmeveien 49, 4638, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989746375",
       "source_date": "2006-04-25",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989746375",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Harald Høiberg",
+      "value": "Harald HÃ¸iberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989746375/roller",
       "source_date": "2026-01-22",
       "retrieved_at": "2026-10-17T07:50:22+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Randi Marie Rypestøl",
+      "value": "Randi Marie RypestÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989746375/roller",
       "source_date": "2026-01-22",
       "retrieved_at": "2026-10-17T07:50:22+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989746375. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:22+00:00",
+  "last_checked": "2026-10-17T10:09:46+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "DRIFTSSELSKAPET MISVÆR SVØMMEHALL SA",
+      "value": "DRIFTSSELSKAPET MISVÃ†R SVÃ˜MMEHALL SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
       "source_date": "2020-03-04",
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Eivind Tidslevold, Oppegårdveien 9, 8100, MISVÆR",
+      "value": "c/o Eivind Tidslevold, OppegÃ¥rdveien 9, 8100, MISVÃ†R",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
       "source_date": "2020-03-04",
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Stå for all drift av svømmehallen utenom skoletid og reguleres ved avtale mellom Bodø kommune og Driftsselskapet Misvær Svømmehall SA.",
+      "value": "StÃ¥ for all drift av svÃ¸mmehallen utenom skoletid og reguleres ved avtale mellom BodÃ¸ kommune og Driftsselskapet MisvÃ¦r SvÃ¸mmehall SA.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993066443",
       "source_date": "2020-03-04",
       "retrieved_at": "2026-10-17T07:47:29+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993066443. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:30+00:00",
+  "last_checked": "2026-10-17T09:57:27+00:00",
   "changes": []
 }

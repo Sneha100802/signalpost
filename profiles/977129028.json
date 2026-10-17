@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
       "source_date": "1997-02-24",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "FORVALTNINGSSTIFTELSEN UNIFOR",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
       "source_date": "2017-01-31",
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Unn Røyneland",
+      "value": "Unn RÃ¸yneland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977129028/roller",
       "source_date": "2024-11-06",
       "retrieved_at": "2026-10-17T07:48:44+00:00"
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:48:44+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977129028.",
-  "last_checked": "2026-10-17T07:48:44+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977129028. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:02:10+00:00",
   "changes": []
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876652242",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Jordbruk samt drive annen virksomhet som direkte knytter seg til landbruksnæring.",
+      "value": "Jordbruk samt drive annen virksomhet som direkte knytter seg til landbruksnÃ¦ring.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876652242",
       "source_date": "1996-08-15",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øyvind Jostein Krakeli",
+      "value": "Ã˜yvind Jostein Krakeli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876652242/roller",
       "source_date": "1996-08-20",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Asbjørn Norvald Gussiås",
+      "value": "AsbjÃ¸rn Norvald GussiÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876652242/roller",
       "source_date": "1996-08-20",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 876652242. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:33+00:00",
+  "last_checked": "2026-10-17T09:57:32+00:00",
   "changes": []
 }

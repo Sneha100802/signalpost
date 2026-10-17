@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787/roller",
       "source_date": "2006-07-17",
@@ -137,14 +137,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Therése Kristina Malmén",
+      "value": "TherÃ©se Kristina MalmÃ©n",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787/roller",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hanne Kvalvåg",
+      "value": "Hanne KvalvÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787/roller",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Nina Østerhus",
+      "value": "Nina Ã˜sterhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787/roller",
       "source_date": "2024-06-24",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989962787/roller",
       "source_date": "2006-07-17",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989962787.",
-  "last_checked": "2026-10-17T07:49:04+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989962787. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:04:54+00:00",
   "changes": []
 }

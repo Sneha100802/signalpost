@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Oksenøyveien 3, 1366, LYSAKER",
+      "value": "OksenÃ¸yveien 3, 1366, LYSAKER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965920358",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965920358",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive flyging, annen transport- og reiserelatert virksomhet og annen virksomhet i tilknytning til dette. Selskapet kan også direkte eller indirekte drive andre former for nettbasert vare- og tjenesteyting, herunder virksomhet knyttet til bilutleie, hotellutleie, betalingstjenester, finansiering og kortutstedelse. Deltagelse i virksomheter som nevnt kan skje gjennom samarbeidsavtaler, eierinteresser eller på andre måter.",
+      "value": "Drive flyging, annen transport- og reiserelatert virksomhet og annen virksomhet i tilknytning til dette. Selskapet kan ogsÃ¥ direkte eller indirekte drive andre former for nettbasert vare- og tjenesteyting, herunder virksomhet knyttet til bilutleie, hotellutleie, betalingstjenester, finansiering og kortutstedelse. Deltagelse i virksomheter som nevnt kan skje gjennom samarbeidsavtaler, eierinteresser eller pÃ¥ andre mÃ¥ter.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965920358",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -179,14 +179,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Karina Kjær Deacon",
+      "value": "Karina KjÃ¦r Deacon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965920358/roller",
       "source_date": "2026-09-02",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Geir Olav Øien",
+      "value": "Geir Olav Ã˜ien",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/965920358/roller",
       "source_date": "2026-09-02",
       "retrieved_at": "2026-10-17T07:47:30+00:00"
@@ -255,7 +255,7 @@
       "retrieved_at": "2026-10-17T07:47:30+00:00"
     }
   ],
-  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 965920358.",
-  "last_checked": "2026-10-17T07:47:30+00:00",
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 965920358. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:57:29+00:00",
   "changes": []
 }

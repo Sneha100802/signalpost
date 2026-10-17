@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Tone Ravnås",
+      "value": "Tone RavnÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991703675/roller",
       "source_date": "2026-06-05",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tiril Leverskjær Steindal",
+      "value": "Tiril LeverskjÃ¦r Steindal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991703675/roller",
       "source_date": "2026-01-24",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anna Laurentse Søyland",
+      "value": "Anna Laurentse SÃ¸yland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991703675/roller",
       "source_date": "2026-01-24",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -141,9 +141,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991703675/roller",
       "source_date": "2026-01-24",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://4h.no/rogaland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:28+00:00"
+    },
+    {
+      "field": "email",
+      "value": "rogaland@4h.no",
+      "source_url": "https://4h.no/rogaland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:29+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991703675. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:15+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991703675. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:01:00+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "rogaland@4h.no"
+      ],
+      "at": "2026-10-17T10:01:00+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:01:00+00:00"
+    }
+  ]
 }

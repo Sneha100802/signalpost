@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "31.000 Produksjon av møbler",
+      "value": "31.000 Produksjon av mÃ¸bler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916478348",
       "source_date": "2015-12-22",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916478348",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Produksjon av varer og tjenester innen møbelproduksjon, restaurantdrift, eiendomsforvaltning og alt som står i forbindelse med dette.",
+      "value": "Produksjon av varer og tjenester innen mÃ¸belproduksjon, restaurantdrift, eiendomsforvaltning og alt som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916478348",
       "source_date": "2015-12-22",
       "retrieved_at": "2026-10-17T07:47:11+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916478348. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:12+00:00",
+  "last_checked": "2026-10-17T09:56:52+00:00",
   "changes": []
 }

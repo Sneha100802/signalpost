@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med/produksjon av konsulenttjenester og produkter som naturlig hører sammen med dette samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Handel med/produksjon av konsulenttjenester og produkter som naturlig hÃ¸rer sammen med dette samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658",
       "source_date": "2007-06-30",
       "retrieved_at": "2026-10-17T07:49:22+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Roy Thowsen Krøvel",
+      "value": "Roy Thowsen KrÃ¸vel",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658/roller",
       "source_date": "2007-06-30",
       "retrieved_at": "2026-10-17T07:49:23+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Mona Thowsen Krøvel",
+      "value": "Mona Thowsen KrÃ¸vel",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991272658/roller",
       "source_date": "2007-06-30",
       "retrieved_at": "2026-10-17T07:49:23+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991272658.",
-  "last_checked": "2026-10-17T07:49:23+00:00",
+  "last_checked": "2026-10-17T10:05:44+00:00",
   "changes": []
 }

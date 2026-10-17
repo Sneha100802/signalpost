@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADVOKATFIRMA CHRISTENSEN FRIIS-MØLLER PETTERSSON DA",
+      "value": "ADVOKATFIRMA CHRISTENSEN FRIIS-MÃ˜LLER PETTERSSON DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
       "source_date": "2005-12-24",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Rådmann Halmrasts vei 14, 1337, SANDVIKA",
+      "value": "RÃ¥dmann Halmrasts vei 14, 1337, SANDVIKA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
       "source_date": "2005-12-24",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Kim Friis-Møller",
+      "value": "Kim Friis-MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
       "source_date": "2019-04-25",
       "retrieved_at": "2026-10-17T07:50:22+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kim Friis-Møller",
+      "value": "Kim Friis-MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
       "source_date": "2019-04-25",
       "retrieved_at": "2026-10-17T07:50:22+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:22+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TANDEM AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
       "source_date": "2006-03-30",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:50:22+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988973688.",
-  "last_checked": "2026-10-17T07:50:22+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988973688. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:09:49+00:00",
   "changes": []
 }

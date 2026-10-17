@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930579904",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selge tjenester og varer innen transport under 3,5 tonn, møbelmontering, håndverkertjenester og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+      "value": "Selge tjenester og varer innen transport under 3,5 tonn, mÃ¸belmontering, hÃ¥ndverkertjenester og annet som naturlig sammenfaller med dette, samt deltakelse i andre selskaper, investeringer og nÃ¦rliggende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930579904",
       "source_date": "2023-01-04",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930579904.",
-  "last_checked": "2026-10-17T07:47:38+00:00",
+  "last_checked": "2026-10-17T09:57:47+00:00",
   "changes": []
 }

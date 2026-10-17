@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Lars Harald Bøckman, Ramstadåsveien 19A, 1363, HØVIK",
+      "value": "c/o Lars Harald BÃ¸ckman, RamstadÃ¥sveien 19A, 1363, HÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991529586",
       "source_date": "2008-05-24",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991529586",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lars Harald Bøckman",
+      "value": "Lars Harald BÃ¸ckman",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991529586/roller",
       "source_date": "2017-10-11",
       "retrieved_at": "2026-10-17T07:49:41+00:00"
@@ -150,14 +150,14 @@
       "retrieved_at": "2026-10-17T07:49:41+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ACCURAT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991529586/roller",
       "source_date": "2022-02-02",
       "retrieved_at": "2026-10-17T07:49:41+00:00"
     }
   ],
-  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991529586. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:41+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991529586. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:07:04+00:00",
   "changes": []
 }

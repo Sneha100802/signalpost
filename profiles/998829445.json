@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:06+00:00"
@@ -123,13 +123,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørg Thon Feiring",
+      "value": "BjÃ¸rg Thon Feiring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/998829445/roller",
       "source_date": "2026-05-03",
       "retrieved_at": "2026-10-17T07:50:07+00:00"
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 998829445. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:07+00:00",
+  "last_checked": "2026-10-17T10:09:02+00:00",
   "changes": []
 }

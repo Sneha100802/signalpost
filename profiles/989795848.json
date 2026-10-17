@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "06.100 Utvinning av råolje",
+      "value": "06.100 Utvinning av rÃ¥olje",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848",
       "source_date": "2006-05-09",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
     },
     {
       "field": "address",
-      "value": "Oksenøyveien 10, 1366, LYSAKER",
+      "value": "OksenÃ¸yveien 10, 1366, LYSAKER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848",
       "source_date": "2006-05-09",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:58+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Petroleumsleting og -utvinning og hva som dermed står i forbindelse samt ved aksjetegning eller på annen måte å delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
+      "value": "Petroleumsleting og -utvinning og hva som dermed stÃ¥r i forbindelse samt ved aksjetegning eller pÃ¥ annen mÃ¥te Ã¥ delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848",
       "source_date": "2006-05-09",
       "retrieved_at": "2026-10-17T07:47:58+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øyvind Eriksen",
+      "value": "Ã˜yvind Eriksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848/roller",
       "source_date": "2026-10-08",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stine Bjørnvold Bakken",
+      "value": "Stine BjÃ¸rnvold Bakken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848/roller",
       "source_date": "2026-10-08",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -207,7 +207,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kjell Inge Røkke",
+      "value": "Kjell Inge RÃ¸kke",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848/roller",
       "source_date": "2026-10-08",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -256,7 +256,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Charlotte Bårdsen Torvestad",
+      "value": "Charlotte BÃ¥rdsen Torvestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989795848/roller",
       "source_date": "2026-10-08",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -316,9 +316,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989795848",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://akerbp.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:42+00:00"
+    },
+    {
+      "field": "email",
+      "value": "ir@akerbp.com",
+      "source_url": "https://akerbp.com/investor/contact-2/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:58:42+00:00"
     }
   ],
-  "explanation": "45 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989795848.",
-  "last_checked": "2026-10-17T07:47:59+00:00",
-  "changes": []
+  "explanation": "47 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989795848. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T09:59:55+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "ir@akerbp.com"
+      ],
+      "at": "2026-10-17T09:59:55+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T09:59:55+00:00"
+    }
+  ]
 }

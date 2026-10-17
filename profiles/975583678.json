@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "A B F BÅTFORENING",
+      "value": "A B F BÃ…TFORENING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975583678",
       "source_date": "1996-03-05",
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Anne Karen Sædberg, Klynga 14, 4630, KRISTIANSAND S",
+      "value": "c/o Anne Karen SÃ¦dberg, Klynga 14, 4630, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975583678",
       "source_date": "1996-03-05",
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975583678",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anne Karen Sædberg",
+      "value": "Anne Karen SÃ¦dberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975583678/roller",
       "source_date": "2026-01-20",
       "retrieved_at": "2026-10-17T07:49:36+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975583678. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:37+00:00",
+  "last_checked": "2026-10-17T10:06:34+00:00",
   "changes": []
 }

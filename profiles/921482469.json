@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921482469",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stein Are Rønning Talberg",
+      "value": "Stein Are RÃ¸nning Talberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921482469/roller",
       "source_date": "2019-08-05",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bård Owe Ytterhaug",
+      "value": "BÃ¥rd Owe Ytterhaug",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921482469/roller",
       "source_date": "2019-08-05",
       "retrieved_at": "2026-10-17T07:48:43+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921482469. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:43+00:00",
+  "last_checked": "2026-10-17T10:02:04+00:00",
   "changes": []
 }

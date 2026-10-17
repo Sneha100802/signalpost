@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "CAP CLARA SMÅBÅTHAVN SA",
+      "value": "CAP CLARA SMÃ…BÃ…THAVN SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
       "source_date": "2010-03-22",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å bygge ut og drive småbåthavn, samt levere eventuelle andre tjenester til medlemmene som står i forbindelse med dette. Foretaket skal arbeide for båteiernes felles interesser. Foretaket har til formål å fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av varer og tjenester fra foretaket. Virksomhetens avkastning blir stående i virksomheten.",
+      "value": "Ã… bygge ut og drive smÃ¥bÃ¥thavn, samt levere eventuelle andre tjenester til medlemmene som stÃ¥r i forbindelse med dette. Foretaket skal arbeide for bÃ¥teiernes felles interesser. Foretaket har til formÃ¥l Ã¥ fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av varer og tjenester fra foretaket. Virksomhetens avkastning blir stÃ¥ende i virksomheten.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165",
       "source_date": "2010-03-22",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Trond Strømmen",
+      "value": "Trond StrÃ¸mmen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Trond Storebø",
+      "value": "Trond StorebÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Svein Bråthen",
+      "value": "Svein BrÃ¥then",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Kristian Webjørn Remen",
+      "value": "Kristian WebjÃ¸rn Remen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -178,14 +178,14 @@
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BARSTEN REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995263165/roller",
       "source_date": "2022-09-22",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995263165. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:32+00:00",
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995263165. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:57:34+00:00",
   "changes": []
 }

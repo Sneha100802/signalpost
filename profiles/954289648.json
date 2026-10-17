@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954289648",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å oppføre, erverve, eie, drive, vedlikeholde og leie ut forsamlingslokaler for Den Frie Evangeliske Forsamling (DFEF) Betania, Kristiansand samt oppføre, erverve, eie, drive, vedlikeholde leie ut og selge leiligheter og annen fast eiendom og annen aktivitet som naturlig faller inn under denne typen virksomhet.",
+      "value": "Ã… oppfÃ¸re, erverve, eie, drive, vedlikeholde og leie ut forsamlingslokaler for Den Frie Evangeliske Forsamling (DFEF) Betania, Kristiansand samt oppfÃ¸re, erverve, eie, drive, vedlikeholde leie ut og selge leiligheter og annen fast eiendom og annen aktivitet som naturlig faller inn under denne typen virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954289648",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørgen Reme",
+      "value": "JÃ¸rgen Reme",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954289648/roller",
       "source_date": "2026-05-06",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT FORRETNINGSPARTNER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954289648/roller",
       "source_date": "2021-05-26",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954289648.",
-  "last_checked": "2026-10-17T07:50:53+00:00",
+  "last_checked": "2026-10-17T10:12:38+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BODØ TERAPEUTICUM DA",
+      "value": "BODÃ˜ TERAPEUTICUM DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "86.960 Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+      "value": "86.960 Aktiviteter innenfor tradisjonell, komplementÃ¦r og alternativ medisin",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
     },
     {
       "field": "address",
-      "value": "Storgata 30, 8006, BODØ",
+      "value": "Storgata 30, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med/produksjon av naturterapi og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Handel med/produksjon av naturterapi og produkter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Hans Henrik Sjøstrøm",
+      "value": "Hans Henrik SjÃ¸strÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037/roller",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Hans Henrik Sjøstrøm",
+      "value": "Hans Henrik SjÃ¸strÃ¸m",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986802037/roller",
       "source_date": "2004-05-12",
       "retrieved_at": "2026-10-17T07:47:16+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986802037. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:17+00:00",
+  "last_checked": "2026-10-17T09:57:04+00:00",
   "changes": []
 }

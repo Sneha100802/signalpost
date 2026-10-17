@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ILSTAD GÅRD ANS",
+      "value": "ILSTAD GÃ…RD ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/869123382",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ilstadgården 18, 8050, TVERLANDET",
+      "value": "IlstadgÃ¥rden 18, 8050, TVERLANDET",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/869123382",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/869123382",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utleie av jord og bygninger. Utleie av maskiner og utstyr. Entreprenørvirksomhet. Jord og skogbruk.",
+      "value": "Utleie av jord og bygninger. Utleie av maskiner og utstyr. EntreprenÃ¸rvirksomhet. Jord og skogbruk.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/869123382",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:27+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 869123382. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:28+00:00",
+  "last_checked": "2026-10-17T10:06:05+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "(FOR)AMÉLIE Bernt R Dyrstad",
+      "value": "(FOR)AMÃ‰LIE Bernt R Dyrstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
       "field": "address",
-      "value": "Roald Amundsens vei 9, 8003, BODØ",
+      "value": "Roald Amundsens vei 9, 8003, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -88,20 +88,20 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Bernt Richardsønn Dyrstad",
+      "value": "Bernt RichardsÃ¸nn Dyrstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760/roller",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bernt Richardsønn Dyrstad",
+      "value": "Bernt RichardsÃ¸nn Dyrstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994852760/roller",
       "source_date": "2009-12-30",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994852760. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:14+00:00",
+  "last_checked": "2026-10-17T10:05:29+00:00",
   "changes": []
 }

@@ -60,14 +60,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928062406",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:15+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928062406",
       "source_date": "2021-11-04",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:51:16+00:00"
     }
   ],
-  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928062406. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:16+00:00",
+  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928062406. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:14:20+00:00",
   "changes": []
 }

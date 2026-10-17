@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ANE DESIGN INTERIØRSERVICE ANS",
+      "value": "ANE DESIGN INTERIÃ˜RSERVICE ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Lokketovegen 10, 5136, MJØLKERÅEN",
+      "value": "Lokketovegen 10, 5136, MJÃ˜LKERÃ…EN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Design og interiørservice innen møbel og bygge- bransjen.",
+      "value": "Design og interiÃ¸rservice innen mÃ¸bel og bygge- bransjen.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955928709",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:50+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955928709. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:51+00:00",
+  "last_checked": "2026-10-17T09:58:28+00:00",
   "changes": []
 }

@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "value": "94.910 Aktiviteter i religiÃ¸se organisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
       "source_date": "2007-02-27",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     },
     {
       "field": "address",
-      "value": "Laurits Grønlands vei 30, 3035, DRAMMEN",
+      "value": "Laurits GrÃ¸nlands vei 30, 3035, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
       "source_date": "2007-02-27",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:06+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIKEN REGNSKAPSTJENESTER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990889880/roller",
       "source_date": "2026-07-18",
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990889880. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:07+00:00",
+  "last_checked": "2026-10-17T10:05:00+00:00",
   "changes": []
 }

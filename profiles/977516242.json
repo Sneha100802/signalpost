@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977516242",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:40+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive internettbase, og gjennom internett og andre kanaler yte service til jurister og brukere av juridiske tjenester, samt eie eller delta i andre selskaper med lignende formål og det som naturlig står i forbindelse med dette.",
+      "value": "Eie og drive internettbase, og gjennom internett og andre kanaler yte service til jurister og brukere av juridiske tjenester, samt eie eller delta i andre selskaper med lignende formÃ¥l og det som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977516242",
       "source_date": "1997-05-09",
       "retrieved_at": "2026-10-17T07:47:40+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bjørn Kvernberg",
+      "value": "BjÃ¸rn Kvernberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977516242/roller",
       "source_date": "2000-04-14",
       "retrieved_at": "2026-10-17T07:47:40+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977516242. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:40+00:00",
+  "last_checked": "2026-10-17T09:57:58+00:00",
   "changes": []
 }

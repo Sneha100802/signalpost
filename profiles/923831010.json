@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
       "source_date": "2019-11-16",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Management, konsulentvirksomhet, eventvirksomhet, coaching, drift av kontorlokaler, og kjøp og salg av aksjer samt virksomhet som naturlig faller inn under dette.",
+      "value": "Management, konsulentvirksomhet, eventvirksomhet, coaching, drift av kontorlokaler, og kjÃ¸p og salg av aksjer samt virksomhet som naturlig faller inn under dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010",
       "source_date": "2019-11-16",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Andreas Mong",
+      "value": "BjÃ¸rn Andreas Mong",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
       "source_date": "2022-12-22",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øyvind Egaas Stenberg",
+      "value": "Ã˜yvind Egaas Stenberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
       "source_date": "2026-02-07",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Andreas Mong",
+      "value": "BjÃ¸rn Andreas Mong",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923831010/roller",
       "source_date": "2026-02-07",
       "retrieved_at": "2026-10-17T07:46:57+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923831010.",
-  "last_checked": "2026-10-17T07:46:57+00:00",
+  "last_checked": "2026-10-17T09:56:18+00:00",
   "changes": []
 }

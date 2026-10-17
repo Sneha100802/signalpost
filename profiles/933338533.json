@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "18.130 Ferdiggjøring før trykking og publisering",
+      "value": "18.130 FerdiggjÃ¸ring fÃ¸r trykking og publisering",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533",
       "source_date": "2024-04-22",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
       "field": "address",
-      "value": "A. Jørgensen Veums veg 1, 2827, HUNNDALEN",
+      "value": "A. JÃ¸rgensen Veums veg 1, 2827, HUNNDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533",
       "source_date": "2024-04-22",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Reklamedrift med produksjon av selvklebende tekst og dekor, skilter og plakater og alt som står i forbindelse hermed, herunder deltakelse i andre selskaper.",
+      "value": "Reklamedrift med produksjon av selvklebende tekst og dekor, skilter og plakater og alt som stÃ¥r i forbindelse hermed, herunder deltakelse i andre selskaper.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533",
       "source_date": "2024-04-22",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
@@ -136,14 +136,14 @@
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "KRS ØKONOMI AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "KRS Ã˜KONOMI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533/roller",
       "source_date": "2025-01-29",
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TALLENT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933338533/roller",
       "source_date": "2025-01-29",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933338533.",
-  "last_checked": "2026-10-17T07:49:14+00:00",
+  "last_checked": "2026-10-17T10:05:29+00:00",
   "changes": []
 }

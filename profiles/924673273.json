@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924673273",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:16+00:00"
@@ -150,8 +150,8 @@
       "retrieved_at": "2026-10-17T07:49:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "HAV REGNSKAP FINNØY AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "HAV REGNSKAP FINNÃ˜Y AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924673273/roller",
       "source_date": "2025-07-28",
       "retrieved_at": "2026-10-17T07:49:16+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924673273.",
-  "last_checked": "2026-10-17T07:49:17+00:00",
+  "last_checked": "2026-10-17T10:05:35+00:00",
   "changes": []
 }

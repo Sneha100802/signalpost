@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BAGERIET HÆGELAND OG LARSEN ANS",
+      "value": "BAGERIET HÃ†GELAND OG LARSEN ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "10.710 Produksjon av brød og ferske konditorvarer",
+      "value": "10.710 Produksjon av brÃ¸d og ferske konditorvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
     },
     {
       "field": "address",
-      "value": "v/Hægeland, Ytre Åros 30B, 4640, SØGNE",
+      "value": "v/HÃ¦geland, Ytre Ã…ros 30B, 4640, SÃ˜GNE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive handelsvirksomhet vedrørende bakerivarer, konditorvarer, salg av melkeprodukter og tils- varende meierivarer, samt det som naturlig hører til et bakeriutsalg.",
+      "value": "Drive handelsvirksomhet vedrÃ¸rende bakerivarer, konditorvarer, salg av melkeprodukter og tils- varende meierivarer, samt det som naturlig hÃ¸rer til et bakeriutsalg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Solveig Irene Hægeland",
+      "value": "Solveig Irene HÃ¦geland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424/roller",
       "source_date": "1992-01-28",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Rune Hægeland",
+      "value": "Rune HÃ¦geland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/961544424/roller",
       "source_date": "1992-01-28",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 961544424. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:47+00:00",
+  "last_checked": "2026-10-17T10:07:58+00:00",
   "changes": []
 }

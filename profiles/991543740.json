@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991543740",
       "source_date": "2007-08-21",
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991543740",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991543740.",
-  "last_checked": "2026-10-17T07:51:17+00:00",
+  "last_checked": "2026-10-17T10:14:24+00:00",
   "changes": []
 }

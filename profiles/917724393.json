@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917724393",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Wilma Røise Huseby",
+      "value": "Wilma RÃ¸ise Huseby",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/917724393/roller",
       "source_date": "2026-01-06",
       "retrieved_at": "2026-10-17T07:47:43+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 917724393. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:44+00:00",
+  "last_checked": "2026-10-17T09:58:03+00:00",
   "changes": []
 }

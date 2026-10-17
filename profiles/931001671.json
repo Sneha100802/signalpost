@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "value": "94.910 Aktiviteter i religiÃ¸se organisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
       "source_date": "2023-03-10",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Røde Kors i Alstad, Parallellen 14, 8072, BODØ",
+      "value": "c/o RÃ¸de Kors i Alstad, Parallellen 14, 8072, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
       "source_date": "2023-03-10",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Grønnåsen 88, 8073, BODØ",
+      "value": "GrÃ¸nnÃ¥sen 88, 8073, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
       "source_date": "2023-03-10",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931001671",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931001671. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:09+00:00",
+  "last_checked": "2026-10-17T09:59:11+00:00",
   "changes": []
 }

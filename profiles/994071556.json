@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "69.202 Regnskapsføring og bokføring",
+      "value": "69.202 RegnskapsfÃ¸ring og bokfÃ¸ring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994071556",
       "source_date": "2009-05-16",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994071556",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "økonomisk rådgivning og andre tjenester innenfor regnskap.",
+      "value": "Ã¸konomisk rÃ¥dgivning og andre tjenester innenfor regnskap.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/994071556",
       "source_date": "2009-05-16",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994071556.",
-  "last_checked": "2026-10-17T07:48:09+00:00",
+  "last_checked": "2026-10-17T09:59:10+00:00",
   "changes": []
 }

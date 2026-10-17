@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "value": "68.110 KjÃ¸p og salg av egen fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816022932",
       "source_date": "2015-10-06",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816022932",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg, drift og utvikling av eiendommer, samt annen virksomhet som naturlig faller sammen med dette. Handelsvirksomhet. Investeringsvirksomhet",
+      "value": "KjÃ¸p, salg, drift og utvikling av eiendommer, samt annen virksomhet som naturlig faller sammen med dette. Handelsvirksomhet. Investeringsvirksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816022932",
       "source_date": "2015-10-06",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -136,8 +136,8 @@
       "retrieved_at": "2026-10-17T07:50:36+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIHUSET AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIHUSET AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/816022932/roller",
       "source_date": "2023-11-11",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 816022932.",
-  "last_checked": "2026-10-17T07:50:36+00:00",
+  "last_checked": "2026-10-17T10:11:17+00:00",
   "changes": []
 }

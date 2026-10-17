@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "50.201 Utenriks sjøfart med gods",
+      "value": "50.201 Utenriks sjÃ¸fart med gods",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929897404",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929897404",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive skipsfart, rederivirksomhet, samt delta i selskaper som driver lignende virksomhet.",
+      "value": "Ã… drive skipsfart, rederivirksomhet, samt delta i selskaper som driver lignende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929897404",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Christian Frustøl",
+      "value": "Christian FrustÃ¸l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929897404/roller",
       "source_date": "2023-09-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929897404.",
-  "last_checked": "2026-10-17T07:50:50+00:00",
+  "last_checked": "2026-10-17T10:12:32+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:24+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:24+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:24+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894/roller",
       "source_date": "2014-02-03",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Maria Katarina Ljunglöf",
+      "value": "Maria Katarina LjunglÃ¶f",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894/roller",
       "source_date": "2025-06-06",
       "retrieved_at": "2026-10-17T07:47:25+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristian Aasen Tjønneland",
+      "value": "Kristian Aasen TjÃ¸nneland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894/roller",
       "source_date": "2025-06-06",
       "retrieved_at": "2026-10-17T07:47:25+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Jarle Øystein Ness",
+      "value": "Jarle Ã˜ystein Ness",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894/roller",
       "source_date": "2025-06-06",
       "retrieved_at": "2026-10-17T07:47:25+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954749894/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954749894.",
-  "last_checked": "2026-10-17T07:47:25+00:00",
+  "last_checked": "2026-10-17T09:57:22+00:00",
   "changes": []
 }

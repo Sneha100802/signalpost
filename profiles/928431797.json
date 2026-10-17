@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "SKIPSBYGGMESTER NILS BOLSØNES OG SØNN KNUT N. BOLSØNES FOND TIL HJELP FOR ØKONOMISK DÅRLIG STILLEDE STI",
+      "value": "SKIPSBYGGMESTER NILS BOLSÃ˜NES OG SÃ˜NN KNUT N. BOLSÃ˜NES FOND TIL HJELP FOR Ã˜KONOMISK DÃ…RLIG STILLEDE STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797",
       "source_date": "2022-01-25",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797",
       "source_date": "2022-01-25",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -102,14 +102,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Cathrine Bolsønes",
+      "value": "Cathrine BolsÃ¸nes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797/roller",
       "source_date": "2022-09-22",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Rolf Bolsønes",
+      "value": "Rolf BolsÃ¸nes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797/roller",
       "source_date": "2022-09-22",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:47:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928431797/roller",
       "source_date": "2023-03-10",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928431797.",
-  "last_checked": "2026-10-17T07:47:12+00:00",
+  "last_checked": "2026-10-17T09:56:53+00:00",
   "changes": []
 }

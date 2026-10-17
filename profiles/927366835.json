@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "09.109 Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "value": "09.109 Andre tjenester tilknyttet utvinning av rÃ¥olje og naturgass",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
       "source_date": "2021-07-31",
       "retrieved_at": "2026-10-17T07:47:21+00:00"
     },
     {
       "field": "address",
-      "value": "Løkkeveien 107, 4007, STAVANGER",
+      "value": "LÃ¸kkeveien 107, 4007, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
       "source_date": "2021-07-31",
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927366835",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927366835.",
-  "last_checked": "2026-10-17T07:47:22+00:00",
+  "last_checked": "2026-10-17T09:57:16+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Terje Mjømen, Vitaminveien 16, 0483, OSLO",
+      "value": "c/o Terje MjÃ¸men, Vitaminveien 16, 0483, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885",
       "source_date": "2018-12-04",
       "retrieved_at": "2026-10-17T07:50:44+00:00"
@@ -67,14 +67,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:44+00:00"
     },
     {
       "field": "sector",
-      "value": "4900 Øvrige finansielle foretak unntatt forsikring",
+      "value": "4900 Ã˜vrige finansielle foretak unntatt forsikring",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885",
       "source_date": "2018-12-04",
       "retrieved_at": "2026-10-17T07:50:44+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Terje Mjømen",
+      "value": "Terje MjÃ¸men",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885/roller",
       "source_date": "2018-12-04",
       "retrieved_at": "2026-10-17T07:50:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "VIEW GROUP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885/roller",
       "source_date": "2025-11-01",
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921826885.",
-  "last_checked": "2026-10-17T07:50:45+00:00",
+  "last_checked": "2026-10-17T10:12:13+00:00",
   "changes": []
 }

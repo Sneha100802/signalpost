@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket. Foretakets formål er ikkekapitalavkastning til medlemmene. Eventuelt årsoverskudd godskrives egenkapitalen i foretaket.",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket. Foretakets formÃ¥l er ikkekapitalavkastning til medlemmene. Eventuelt Ã¥rsoverskudd godskrives egenkapitalen i foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Gjermund Rød Siksjø",
+      "value": "Gjermund RÃ¸d SiksjÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
       "source_date": "2025-12-08",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Christoffer Søbstad",
+      "value": "Christoffer SÃ¸bstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
       "source_date": "2025-12-08",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:27+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TALERA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971501111/roller",
       "source_date": "2024-06-14",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:50:27+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971501111.",
-  "last_checked": "2026-10-17T07:50:27+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971501111. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:10:27+00:00",
   "changes": []
 }

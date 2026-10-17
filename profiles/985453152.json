@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985453152",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Organisere, administrere og formidle kjøre/transportoppdrag. Drive markedsføring av taxisentralens tjenester, samt ved medlemmers og eget materiell drive forretningsmessig virksomhet innenfor transporttjenester og hva hermed hører til.",
+      "value": "Organisere, administrere og formidle kjÃ¸re/transportoppdrag. Drive markedsfÃ¸ring av taxisentralens tjenester, samt ved medlemmers og eget materiell drive forretningsmessig virksomhet innenfor transporttjenester og hva hermed hÃ¸rer til.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985453152",
       "source_date": "2003-03-12",
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:49:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ROGALAND TAXI AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985453152/roller",
       "source_date": "2017-09-29",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985453152.",
-  "last_checked": "2026-10-17T07:49:44+00:00",
+  "last_checked": "2026-10-17T10:07:26+00:00",
   "changes": []
 }

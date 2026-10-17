@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
       "source_date": "1996-01-31",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     },
     {
       "field": "address",
-      "value": "Grindaberget 1, 1354, BÆRUMS VERK",
+      "value": "Grindaberget 1, 1354, BÃ†RUMS VERK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
       "source_date": "1996-01-31",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive barnehage i Bærum kommune for barn som bor i kommunen. Barnehagen skal i samarbeid og forståelse med hjemmet ivarta behov for omsorg og lek, og fremme læring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge på grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik om respekt for menneskeverdet og naturen, på åndsfrihet, nestekjærlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn og som er forannkret i menneskerettighetene. Virksomheten skal drives i samsvar med de til enhver tid gjeldende lover og forskrifter for barnehagevirksomhet. Virksomheten har et ideelt(ikke-økonomisk) formål.",
+      "value": "Eie og drive barnehage i BÃ¦rum kommune for barn som bor i kommunen. Barnehagen skal i samarbeid og forstÃ¥else med hjemmet ivarta behov for omsorg og lek, og fremme lÃ¦ring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge pÃ¥ grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik om respekt for menneskeverdet og naturen, pÃ¥ Ã¥ndsfrihet, nestekjÃ¦rlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn og som er forannkret i menneskerettighetene. Virksomheten skal drives i samsvar med de til enhver tid gjeldende lover og forskrifter for barnehagevirksomhet. Virksomheten har et ideelt(ikke-Ã¸konomisk) formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303",
       "source_date": "1996-01-31",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Anna Jenny Örlander",
+      "value": "Anna Jenny Ã–rlander",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
       "source_date": "2020-07-31",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ida Benedicte Berg Kjølås",
+      "value": "Ida Benedicte Berg KjÃ¸lÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
       "source_date": "2026-09-28",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Steffen Nagbøl Villebro",
+      "value": "Steffen NagbÃ¸l Villebro",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
       "source_date": "2026-09-28",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976047303/roller",
       "source_date": "2016-01-27",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976047303.",
-  "last_checked": "2026-10-17T07:47:44+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976047303. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:08+00:00",
   "changes": []
 }

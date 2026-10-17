@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -122,8 +122,8 @@
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
       "source_date": "2009-01-17",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Eivind Jonatann Løken Petersen",
+      "value": "Eivind Jonatann LÃ¸ken Petersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
       "source_date": "2024-02-08",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -185,8 +185,8 @@
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953490501/roller",
       "source_date": "2004-06-08",
       "retrieved_at": "2026-10-17T07:48:33+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:48:33+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953490501.",
-  "last_checked": "2026-10-17T07:48:33+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953490501. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:01:10+00:00",
   "changes": []
 }

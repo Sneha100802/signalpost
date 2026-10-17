@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996447774",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -115,15 +115,15 @@
       "retrieved_at": "2026-10-17T07:50:04+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996447774/roller",
       "source_date": "2011-01-31",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kurt Børge Aure",
+      "value": "Kurt BÃ¸rge Aure",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996447774/roller",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Anne Grethe Løvmo",
+      "value": "Anne Grethe LÃ¸vmo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996447774/roller",
       "source_date": "2026-06-12",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -157,8 +157,8 @@
       "retrieved_at": "2026-10-17T07:50:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996447774/roller",
       "source_date": "2011-01-31",
       "retrieved_at": "2026-10-17T07:50:04+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996447774.",
-  "last_checked": "2026-10-17T07:50:05+00:00",
+  "last_checked": "2026-10-17T10:09:00+00:00",
   "changes": []
 }

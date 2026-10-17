@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946964115",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Annette Kurås Barstad",
+      "value": "Annette KurÃ¥s Barstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946964115/roller",
       "source_date": "2016-05-02",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Annette Kurås Barstad",
+      "value": "Annette KurÃ¥s Barstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946964115/roller",
       "source_date": "2016-05-02",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "CEDRA NORGE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946964115/roller",
       "source_date": "2025-09-15",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946964115. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:36+00:00",
+  "last_checked": "2026-10-17T10:11:16+00:00",
   "changes": []
 }

@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971279702",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:09+00:00"
@@ -136,8 +136,8 @@
       "retrieved_at": "2026-10-17T07:47:10+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIAVDELINGEN ØST AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIAVDELINGEN Ã˜ST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971279702/roller",
       "source_date": "2016-04-11",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971279702.",
-  "last_checked": "2026-10-17T07:47:10+00:00",
+  "last_checked": "2026-10-17T09:56:48+00:00",
   "changes": []
 }

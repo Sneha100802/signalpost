@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/888571302",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å kontrahere, forvalte og eie boreplattformer og dertil hørende virksomhet.",
+      "value": "Ã… kontrahere, forvalte og eie boreplattformer og dertil hÃ¸rende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/888571302",
       "source_date": "2005-08-25",
       "retrieved_at": "2026-10-17T07:47:21+00:00"
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 888571302.",
-  "last_checked": "2026-10-17T07:47:22+00:00",
+  "last_checked": "2026-10-17T09:57:15+00:00",
   "changes": []
 }

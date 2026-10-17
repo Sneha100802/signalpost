@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "STIFTELSEN FJORDHEIM KULTURVERKSTED VED MJØSA",
+      "value": "STIFTELSEN FJORDHEIM KULTURVERKSTED VED MJÃ˜SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974698498",
       "source_date": "1995-07-28",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974698498",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -151,21 +151,21 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Berit Slåttum",
+      "value": "Berit SlÃ¥ttum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974698498/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Tor Hadrian Løvstad",
+      "value": "Tor Hadrian LÃ¸vstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974698498/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Bjørn Rognstad",
+      "value": "BjÃ¸rn Rognstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974698498/roller",
       "source_date": "2026-01-26",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974698498.",
-  "last_checked": "2026-10-17T07:48:10+00:00",
+  "last_checked": "2026-10-17T09:59:12+00:00",
   "changes": []
 }

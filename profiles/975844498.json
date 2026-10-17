@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "43.350 Annen ferdiggjøring av bygninger",
+      "value": "43.350 Annen ferdiggjÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975844498",
       "source_date": "1995-10-31",
       "retrieved_at": "2026-10-17T07:48:30+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975844498",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:30+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975844498",
       "source_date": "1995-10-31",
       "retrieved_at": "2026-10-17T07:48:30+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:48:30+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975844498/roller",
       "source_date": "2025-12-11",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975844498. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:30+00:00",
+  "last_checked": "2026-10-17T10:00:51+00:00",
   "changes": []
 }

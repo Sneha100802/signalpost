@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -102,41 +102,41 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jon Olav Østhus",
+      "value": "Jon Olav Ã˜sthus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
       "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Jon Olav Østhus",
+      "value": "Jon Olav Ã˜sthus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
       "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Unni Marie Østhus",
+      "value": "Unni Marie Ã˜sthus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
       "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Jon Olav Østhus",
+      "value": "Jon Olav Ã˜sthus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
       "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Unni Marie Østhus",
+      "value": "Unni Marie Ã˜sthus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
       "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993436984. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:17+00:00",
+  "last_checked": "2026-10-17T09:59:27+00:00",
   "changes": []
 }

@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Bankgata 19-21, 8005, BODØ",
+      "value": "Bankgata 19-21, 8005, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995373130",
       "source_date": "2010-04-21",
       "retrieved_at": "2026-10-17T07:48:13+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995373130",
       "source_date": "2010-04-21",
       "retrieved_at": "2026-10-17T07:48:13+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995373130",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:13+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:13+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995373130/roller",
       "source_date": "2010-04-21",
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:48:14+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995373130/roller",
       "source_date": "2013-04-23",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995373130.",
-  "last_checked": "2026-10-17T07:48:14+00:00",
+  "last_checked": "2026-10-17T09:59:21+00:00",
   "changes": []
 }

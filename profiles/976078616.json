@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Øvre Bakklandet 17, 7016, TRONDHEIM",
+      "value": "Ã˜vre Bakklandet 17, 7016, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
       "source_date": "1996-02-09",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forretningsdrift av brukt/antikk, salg av gamle klær, treartikler, porselen m.m.",
+      "value": "Forretningsdrift av brukt/antikk, salg av gamle klÃ¦r, treartikler, porselen m.m.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616",
       "source_date": "1996-02-09",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -109,20 +109,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Marit Kristine Lykken Flåtter",
+      "value": "Marit Kristine Lykken FlÃ¥tter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616/roller",
       "source_date": "1996-03-09",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Heidi Merethe Flåtter",
+      "value": "Heidi Merethe FlÃ¥tter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976078616/roller",
       "source_date": "1996-03-09",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976078616. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:37+00:00",
+  "last_checked": "2026-10-17T10:11:24+00:00",
   "changes": []
 }

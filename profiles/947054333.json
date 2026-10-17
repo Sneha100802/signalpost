@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ABC AUTORISERTE KJØRESKOLE AS",
+      "value": "ABC AUTORISERTE KJÃ˜RESKOLE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947054333",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947054333",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å drive trafikkopplæring og alt som står i for- bindelse med dette, herunder å delta i selskaper med lignende formål.",
+      "value": "Ã… drive trafikkopplÃ¦ring og alt som stÃ¥r i for- bindelse med dette, herunder Ã¥ delta i selskaper med lignende formÃ¥l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947054333",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stål Andersen",
+      "value": "StÃ¥l Andersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947054333/roller",
       "source_date": "2022-04-04",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADMENTO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947054333/roller",
       "source_date": "2026-04-20",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947054333.",
-  "last_checked": "2026-10-17T07:48:16+00:00",
+  "last_checked": "2026-10-17T09:59:24+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937930518",
       "source_date": "2026-06-19",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937930518",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Selskapet benyttes ved byggeprosjekter som begge deltakere har inngått særskilt avtale om, og som foregår på eiendommen med adresse Auens vei 31, 3040 DRAMMEN.",
+      "value": "Selskapet benyttes ved byggeprosjekter som begge deltakere har inngÃ¥tt sÃ¦rskilt avtale om, og som foregÃ¥r pÃ¥ eiendommen med adresse Auens vei 31, 3040 DRAMMEN.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937930518",
       "source_date": "2026-06-19",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Henning Valø",
+      "value": "Henning ValÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937930518/roller",
       "source_date": "2026-06-19",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937930518. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:13+00:00",
+  "last_checked": "2026-10-17T10:09:18+00:00",
   "changes": []
 }

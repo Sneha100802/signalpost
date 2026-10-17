@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.593 Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
+      "value": "85.593 Undervisning ved voksenopplÃ¦ringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
       "source_date": "2021-07-29",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:28+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Aftenskolen i Agder og Rogaland skal fremme livslang læring ved å legge til rette for organiserte læringsaktiviteter ved siden av det formelle utdanningssystemet i Agder og Rogaland. Aftenskolen i Agder og Rogaland skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og møte behovene i samfunns- og arbeidslivet.",
+      "value": "Aftenskolen i Agder og Rogaland skal fremme livslang lÃ¦ring ved Ã¥ legge til rette for organiserte lÃ¦ringsaktiviteter ved siden av det formelle utdanningssystemet i Agder og Rogaland. Aftenskolen i Agder og Rogaland skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og mÃ¸te behovene i samfunns- og arbeidslivet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236",
       "source_date": "2021-07-29",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Benjamin Wasmuth Grønvold",
+      "value": "Benjamin Wasmuth GrÃ¸nvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
       "source_date": "2023-01-02",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Anne Renate Hægeland",
+      "value": "Anne Renate HÃ¦geland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Arne Bjørn Mikalsen",
+      "value": "Arne BjÃ¸rn Mikalsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
       "source_date": "2026-10-01",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
@@ -158,13 +158,13 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJON SØR AS",
+      "value": "REVISJON SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
       "source_date": "2025-01-07",
       "retrieved_at": "2026-10-17T07:48:28+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "OPK AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927408236/roller",
       "source_date": "2023-09-14",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927408236.",
-  "last_checked": "2026-10-17T07:48:29+00:00",
+  "last_checked": "2026-10-17T10:00:40+00:00",
   "changes": []
 }

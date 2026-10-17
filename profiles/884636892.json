@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/884636892",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -144,13 +144,13 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJONSFIRMAET LEIF LANGØ AS",
+      "value": "REVISJONSFIRMAET LEIF LANGÃ˜ AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/884636892/roller",
       "source_date": "2007-05-09",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 884636892. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:03+00:00",
+  "last_checked": "2026-10-17T09:58:49+00:00",
   "changes": []
 }

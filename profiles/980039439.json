@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980039439",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Jorunn Løvseth",
+      "value": "Jorunn LÃ¸vseth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980039439/roller",
       "source_date": "2019-02-04",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Eirik Svingen Bjørgo",
+      "value": "Eirik Svingen BjÃ¸rgo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980039439/roller",
       "source_date": "2025-09-12",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Jorunn Løvseth",
+      "value": "Jorunn LÃ¸vseth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980039439/roller",
       "source_date": "2025-09-12",
       "retrieved_at": "2026-10-17T07:47:44+00:00"
@@ -192,7 +192,7 @@
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "LEXARO AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980039439/roller",
       "source_date": "2024-08-19",
@@ -241,7 +241,7 @@
       "retrieved_at": "2026-10-17T07:47:44+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980039439.",
-  "last_checked": "2026-10-17T07:47:44+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980039439. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:14+00:00",
   "changes": []
 }

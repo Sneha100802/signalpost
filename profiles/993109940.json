@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993109940",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie eller delta i foretak som driver investerings-, forretnings-, eller finansieringsvirksomhet og virksomhet som er forbundet med dette innenfor rammen av den til enhver tid gjeldende lovgivning. Industri, handel, skogbruk, transport, trening, utdanning, finansiering, erverv og salg av verdipapirer og andre investeringer, kjøp, salg, utvikling og drift av fast eiendom, drift av media, tjenesteytelser, og enhver annen virksomhet i sammenheng med det her nevnte. Virksomheten drives av selskapet selv eller gjennom dets datterselskap i inn- og utland.",
+      "value": "Eie eller delta i foretak som driver investerings-, forretnings-, eller finansieringsvirksomhet og virksomhet som er forbundet med dette innenfor rammen av den til enhver tid gjeldende lovgivning. Industri, handel, skogbruk, transport, trening, utdanning, finansiering, erverv og salg av verdipapirer og andre investeringer, kjÃ¸p, salg, utvikling og drift av fast eiendom, drift av media, tjenesteytelser, og enhver annen virksomhet i sammenheng med det her nevnte. Virksomheten drives av selskapet selv eller gjennom dets datterselskap i inn- og utland.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993109940",
       "source_date": "2008-10-01",
       "retrieved_at": "2026-10-17T07:48:42+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993109940.",
-  "last_checked": "2026-10-17T07:48:43+00:00",
+  "last_checked": "2026-10-17T10:02:00+00:00",
   "changes": []
 }

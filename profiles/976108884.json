@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.201 Ordinær grunnskoleundervisning",
+      "value": "85.201 OrdinÃ¦r grunnskoleundervisning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
       "source_date": "1996-02-20",
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Cathrin Wedul Sæter",
+      "value": "Cathrin Wedul SÃ¦ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
       "source_date": "2026-10-07",
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Mari Vedøy",
+      "value": "Mari VedÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
       "source_date": "2026-10-07",
       "retrieved_at": "2026-10-17T07:49:02+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:02+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ADDVANT STAVANGER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976108884/roller",
       "source_date": "2023-11-30",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976108884.",
-  "last_checked": "2026-10-17T07:49:03+00:00",
+  "last_checked": "2026-10-17T10:04:48+00:00",
   "changes": []
 }

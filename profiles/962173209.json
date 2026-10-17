@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BIRGITTA GEHLIN ÅBERG & PER ÅBERG ANS",
+      "value": "BIRGITTA GEHLIN Ã…BERG & PER Ã…BERG ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "47.720 Detaljhandel med skotøy og lærvarer",
+      "value": "47.720 Detaljhandel med skotÃ¸y og lÃ¦rvarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:39+00:00"
@@ -102,21 +102,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Birgitta Maria Gelin Åberg",
+      "value": "Birgitta Maria Gelin Ã…berg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209/roller",
       "source_date": "1992-01-16",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Birgitta Maria Gelin Åberg",
+      "value": "Birgitta Maria Gelin Ã…berg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209/roller",
       "source_date": "1992-01-16",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Per Gustav Åberg",
+      "value": "Per Gustav Ã…berg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962173209/roller",
       "source_date": "1992-01-16",
       "retrieved_at": "2026-10-17T07:49:40+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962173209. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:40+00:00",
+  "last_checked": "2026-10-17T10:06:58+00:00",
   "changes": []
 }

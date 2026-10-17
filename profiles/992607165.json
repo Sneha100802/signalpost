@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992607165",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -87,7 +87,7 @@
       "retrieved_at": "2026-10-17T07:49:34+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ACCENTURE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992607165/roller",
       "source_date": "2025-05-10",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992607165. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:34+00:00",
+  "last_checked": "2026-10-17T10:06:27+00:00",
   "changes": []
 }

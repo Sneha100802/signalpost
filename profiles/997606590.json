@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997606590",
       "source_date": "2011-12-13",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
     },
     {
       "field": "address",
-      "value": "Stensjordvegen 9, 2825, GJØVIK",
+      "value": "Stensjordvegen 9, 2825, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997606590",
       "source_date": "2011-12-13",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997606590",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Taksering av eiendom og skade samt all virksomhet som naturlig hører inn under dette.",
+      "value": "Taksering av eiendom og skade samt all virksomhet som naturlig hÃ¸rer inn under dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997606590",
       "source_date": "2011-12-13",
       "retrieved_at": "2026-10-17T07:48:35+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:48:35+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FRISIKT VEST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997606590/roller",
       "source_date": "2016-12-17",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 997606590.",
-  "last_checked": "2026-10-17T07:48:36+00:00",
+  "last_checked": "2026-10-17T10:01:22+00:00",
   "changes": []
 }

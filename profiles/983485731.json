@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Storgata 2, 2815, GJØVIK",
+      "value": "Storgata 2, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
       "source_date": "2001-07-03",
       "retrieved_at": "2026-10-17T07:49:03+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:03+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre kontortjenester for advokater i kontorfellesskap.",
+      "value": "UtfÃ¸re kontortjenester for advokater i kontorfellesskap.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731",
       "source_date": "2001-07-03",
       "retrieved_at": "2026-10-17T07:49:03+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Håvard Fremstad",
+      "value": "HÃ¥vard Fremstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
       "source_date": "2019-07-11",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Håvard Fremstad",
+      "value": "HÃ¥vard Fremstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
       "source_date": "2019-07-11",
       "retrieved_at": "2026-10-17T07:49:04+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SKREIA REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983485731/roller",
       "source_date": "2024-03-21",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:49:04+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983485731.",
-  "last_checked": "2026-10-17T07:49:04+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983485731. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:04:50+00:00",
   "changes": []
 }

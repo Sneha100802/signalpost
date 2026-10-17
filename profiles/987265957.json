@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Åge R Harstad, Fannefjordsvegen 247, 6421, MOLDE",
+      "value": "c/o Ã…ge R Harstad, Fannefjordsvegen 247, 6421, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957",
       "source_date": "2004-11-15",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre service, reparasjon, installasjoner, sandblåsing og transport av diverse utstyr og maskiner..",
+      "value": "UtfÃ¸re service, reparasjon, installasjoner, sandblÃ¥sing og transport av diverse utstyr og maskiner..",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957",
       "source_date": "2004-11-15",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Åge Røbekk Harstad",
+      "value": "Ã…ge RÃ¸bekk Harstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957/roller",
       "source_date": "2004-11-15",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Åge Røbekk Harstad",
+      "value": "Ã…ge RÃ¸bekk Harstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957/roller",
       "source_date": "2010-05-20",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SUMMERIA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987265957/roller",
       "source_date": "2019-12-05",
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987265957. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:09+00:00",
+  "last_checked": "2026-10-17T10:09:12+00:00",
   "changes": []
 }

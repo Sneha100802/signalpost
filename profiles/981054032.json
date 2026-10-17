@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:53+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å være en pionér innen utvikling av presentasjoner, kommunikasjonsløsninger og systemer for handel og informasjonshåndtering for internett og andre elektroniske medier. Apario skal være en ressurs for integrering av informasjon mellom medier, og innesitte, samt videreutvikle løsninger for informasjonsutveksling mellom tradisjonelle og nye informasjonsmedium. Apario skal innesitte kompetanse som er til nytte for forståelse, bruk og videre utvikling av elektroniske kommuniksajonsløsninger som metode for å forbedre hverdagen for institusjoner og enkeltmennesker generelt.",
+      "value": "Ã… vÃ¦re en pionÃ©r innen utvikling av presentasjoner, kommunikasjonslÃ¸sninger og systemer for handel og informasjonshÃ¥ndtering for internett og andre elektroniske medier. Apario skal vÃ¦re en ressurs for integrering av informasjon mellom medier, og innesitte, samt videreutvikle lÃ¸sninger for informasjonsutveksling mellom tradisjonelle og nye informasjonsmedium. Apario skal innesitte kompetanse som er til nytte for forstÃ¥else, bruk og videre utvikling av elektroniske kommuniksajonslÃ¸sninger som metode for Ã¥ forbedre hverdagen for institusjoner og enkeltmennesker generelt.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032",
       "source_date": "1999-09-17",
       "retrieved_at": "2026-10-17T07:46:53+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Torkel Dahl",
+      "value": "BjÃ¸rn Torkel Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032/roller",
       "source_date": "1999-09-17",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Bjørn Torkel Dahl",
+      "value": "BjÃ¸rn Torkel Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032/roller",
       "source_date": "2010-06-07",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
@@ -137,20 +137,20 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørn Torkel Dahl",
+      "value": "BjÃ¸rn Torkel Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032/roller",
       "source_date": "2001-08-06",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "REGNSKAPSFØRER PAULSEN AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "REGNSKAPSFÃ˜RER PAULSEN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981054032/roller",
       "source_date": "2024-03-08",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981054032. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:54+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981054032. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:56:16+00:00",
   "changes": []
 }

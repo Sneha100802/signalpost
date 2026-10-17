@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Bærumsveien 210, 1357, BEKKESTUA",
+      "value": "BÃ¦rumsveien 210, 1357, BEKKESTUA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
       "source_date": "2002-07-20",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive eiendommen Gnr 19 Bnr 20 i Bærum kommune, hertil drive virksomhet innenfor investering i fast eiendom og andre selskaper og hva som står i forbindelse med dette. Utleie av areler i eiendommen skjer til markedspris.",
+      "value": "Eie og drive eiendommen Gnr 19 Bnr 20 i BÃ¦rum kommune, hertil drive virksomhet innenfor investering i fast eiendom og andre selskaper og hva som stÃ¥r i forbindelse med dette. Utleie av areler i eiendommen skjer til markedspris.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801",
       "source_date": "2002-07-20",
       "retrieved_at": "2026-10-17T07:49:48+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:49:48+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "PHM FORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
       "source_date": "2025-01-24",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "BRØNNEN 13 AS",
+      "value": "BRÃ˜NNEN 13 AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
       "source_date": "2008-12-08",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -164,15 +164,15 @@
       "retrieved_at": "2026-10-17T07:49:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PHM FORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
       "source_date": "2025-01-24",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKONOMIAVDELINGEN ANS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KONOMIAVDELINGEN ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984704801/roller",
       "source_date": "2025-01-24",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984704801.",
-  "last_checked": "2026-10-17T07:49:49+00:00",
+  "last_checked": "2026-10-17T10:08:03+00:00",
   "changes": []
 }

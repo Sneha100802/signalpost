@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983446507",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive konsulentvirksomhet til bilbransjen når det gjelder visualisering og profilering i markedet mot kunder og konkurenter. Samt virksomhet som står i forbindelse med dette.",
+      "value": "Drive konsulentvirksomhet til bilbransjen nÃ¥r det gjelder visualisering og profilering i markedet mot kunder og konkurenter. Samt virksomhet som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983446507",
       "source_date": "2001-06-28",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
@@ -116,13 +116,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Kjetil Tærud",
+      "value": "Kjetil TÃ¦rud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983446507/roller",
       "source_date": "2001-06-28",
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983446507. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:50+00:00",
+  "last_checked": "2026-10-17T10:02:57+00:00",
   "changes": []
 }

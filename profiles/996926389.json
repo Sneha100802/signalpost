@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996926389",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996926389. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:04+00:00",
+  "last_checked": "2026-10-17T10:13:49+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "1. FJØSANGER SPEIDERGRUPPE",
+      "value": "1. FJÃ˜SANGER SPEIDERGRUPPE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
       "source_date": "2005-09-15",
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988646334",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:52+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     }
   ],
-  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988646334. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:53+00:00",
+  "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988646334. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:12:40+00:00",
   "changes": []
 }

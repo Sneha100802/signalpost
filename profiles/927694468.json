@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927694468",
       "source_date": "2021-09-09",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927694468",
       "source_date": "2021-09-09",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927694468. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:26+00:00",
+  "last_checked": "2026-10-17T10:10:21+00:00",
   "changes": []
 }

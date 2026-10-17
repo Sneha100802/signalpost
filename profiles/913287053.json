@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ABC-MØBLER AS",
+      "value": "ABC-MÃ˜BLER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": "2014-02-25",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "47.551 Detaljhandel med møbler, gjelder også madrasser",
+      "value": "47.551 Detaljhandel med mÃ¸bler, gjelder ogsÃ¥ madrasser",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": "2014-02-25",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
     },
     {
       "field": "address",
-      "value": "Petter Engens vei 2, 8071, BODØ",
+      "value": "Petter Engens vei 2, 8071, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": "2014-02-25",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 4161 JENSVOLL, 8089, BODØ",
+      "value": "Postboks 4161 JENSVOLL, 8089, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": "2014-02-25",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med møbler, inventar, utstyr og andre varer, samt det som naturlig står i forbindelse med dette.",
+      "value": "Handel med mÃ¸bler, inventar, utstyr og andre varer, samt det som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053",
       "source_date": "2014-02-25",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Øystein Benjaminsen",
+      "value": "Ã˜ystein Benjaminsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053/roller",
       "source_date": "2017-01-24",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:47:17+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MR REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913287053/roller",
       "source_date": "2019-05-31",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913287053.",
-  "last_checked": "2026-10-17T07:47:17+00:00",
+  "last_checked": "2026-10-17T09:57:05+00:00",
   "changes": []
 }

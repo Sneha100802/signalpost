@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Ole Tobias Olsens vei 11, 8021, BODØ",
+      "value": "Ole Tobias Olsens vei 11, 8021, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990316686",
       "source_date": "2006-10-12",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990316686",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og utleie av bolig og næringseiendom og kjøp, salg og utleie av utstyr.",
+      "value": "KjÃ¸p, salg og utleie av bolig og nÃ¦ringseiendom og kjÃ¸p, salg og utleie av utstyr.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990316686",
       "source_date": "2006-10-12",
       "retrieved_at": "2026-10-17T07:49:24+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990316686. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:25+00:00",
+  "last_checked": "2026-10-17T10:05:50+00:00",
   "changes": []
 }

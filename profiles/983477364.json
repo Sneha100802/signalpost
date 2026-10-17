@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983477364",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utleie av eiendom til bolig og næringsvirksomhet.",
+      "value": "Utleie av eiendom til bolig og nÃ¦ringsvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983477364",
       "source_date": "2001-07-02",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983477364. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
+  "last_checked": "2026-10-17T09:57:30+00:00",
   "changes": []
 }

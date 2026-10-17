@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981266773",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Alternativ behandling og interiør. Selskapet skal drive kursvirksomhet.",
+      "value": "Alternativ behandling og interiÃ¸r. Selskapet skal drive kursvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981266773",
       "source_date": "1999-12-06",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Tore Nøding Helliksen",
+      "value": "Tore NÃ¸ding Helliksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981266773/roller",
       "source_date": "2003-07-17",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Tore Nøding Helliksen",
+      "value": "Tore NÃ¸ding Helliksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/981266773/roller",
       "source_date": "1999-12-06",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:50:14+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981266773. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:14+00:00",
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 981266773. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:09:25+00:00",
   "changes": []
 }

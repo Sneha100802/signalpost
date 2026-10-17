@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Kråkholmvegen 2, 6460, EIDSVÅG I ROMSDAL",
+      "value": "KrÃ¥kholmvegen 2, 6460, EIDSVÃ…G I ROMSDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927877015",
       "source_date": "2021-10-06",
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927877015",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -95,14 +95,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Inger Anne Øyen",
+      "value": "Inger Anne Ã˜yen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927877015/roller",
       "source_date": "2021-10-06",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Anja Kristin Bjørlykhaug",
+      "value": "Anja Kristin BjÃ¸rlykhaug",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927877015/roller",
       "source_date": "2021-10-06",
       "retrieved_at": "2026-10-17T07:50:01+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927877015. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:01+00:00",
+  "last_checked": "2026-10-17T10:08:46+00:00",
   "changes": []
 }

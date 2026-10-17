@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "26.510 Produksjon av måle-, kontroll- og navigasjonsinstrumenter",
+      "value": "26.510 Produksjon av mÃ¥le-, kontroll- og navigasjonsinstrumenter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936107192",
       "source_date": "2025-09-16",
       "retrieved_at": "2026-10-17T07:50:10+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936107192",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:10+00:00"
@@ -95,13 +95,13 @@
     },
     {
       "field": "role:Kontaktperson",
-      "value": "Michael Cornelius Häusler",
+      "value": "Michael Cornelius HÃ¤usler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936107192/roller",
       "source_date": "2025-09-16",
       "retrieved_at": "2026-10-17T07:50:10+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "YBIN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936107192/roller",
       "source_date": "2025-09-16",
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936107192. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:11+00:00",
+  "last_checked": "2026-10-17T10:09:13+00:00",
   "changes": []
 }

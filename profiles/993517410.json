@@ -102,27 +102,27 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Frode Brændø",
+      "value": "Frode BrÃ¦ndÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
       "source_date": "2009-01-13",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Hans Lukas Illøkken Hansen",
+      "value": "Hans Lukas IllÃ¸kken Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
       "source_date": "2009-01-13",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Frode Brændø",
+      "value": "Frode BrÃ¦ndÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:49:06+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993517410. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:06+00:00",
+  "last_checked": "2026-10-17T10:04:59+00:00",
   "changes": []
 }

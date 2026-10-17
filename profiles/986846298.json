@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utvikling og salg av it- og internetttjenester, medvirke i andre seskaper innen samme virksomhet, samt alt som hører naturlig til dette.  ",
+      "value": "Utvikling og salg av it- og internetttjenester, medvirke i andre seskaper innen samme virksomhet, samt alt som hÃ¸rer naturlig til dette.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298",
       "source_date": "2004-06-01",
       "retrieved_at": "2026-10-17T07:47:22+00:00"
@@ -116,27 +116,27 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Mathis André Fenne",
+      "value": "Mathis AndrÃ© Fenne",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
       "source_date": "2004-06-01",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Mathis André Fenne",
+      "value": "Mathis AndrÃ© Fenne",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
       "source_date": "2004-06-01",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Rudi Lauritz Rørstad",
+      "value": "Rudi Lauritz RÃ¸rstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986846298/roller",
       "source_date": "2004-06-01",
       "retrieved_at": "2026-10-17T07:47:23+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986846298. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:23+00:00",
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986846298. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T09:57:18+00:00",
   "changes": []
 }

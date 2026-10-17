@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "leilighet H0507, Dronningens gate 50B, 8006, BODØ",
+      "value": "leilighet H0507, Dronningens gate 50B, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948638266",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948638266",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og forvalte eiendommer, samt det som naturlig hører hertil.",
+      "value": "Eie og forvalte eiendommer, samt det som naturlig hÃ¸rer hertil.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948638266",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:49:33+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Reidar Andersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948638266/roller",
       "source_date": "2011-11-23",
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bjørg Telnes",
+      "value": "BjÃ¸rg Telnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948638266/roller",
       "source_date": "1988-12-27",
       "retrieved_at": "2026-10-17T07:49:34+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948638266. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:34+00:00",
+  "last_checked": "2026-10-17T10:06:27+00:00",
   "changes": []
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996098095",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:17+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "role:Kontaktperson",
-      "value": "Bjørn Helliesen",
+      "value": "BjÃ¸rn Helliesen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996098095/roller",
       "source_date": "2013-11-09",
       "retrieved_at": "2026-10-17T07:50:17+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996098095. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:19+00:00",
+  "last_checked": "2026-10-17T10:09:34+00:00",
   "changes": []
 }

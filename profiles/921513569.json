@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921513569",
       "source_date": "2018-10-05",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921513569",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte og administrere inntekter og utgifter generert av bandet Borgarting ifm. innspilling, fremføring og komposisjon av musikk. Eie og forvalte evt. fremtidig innkjøpt teknisk utstyr. Ivareta eierinteresser for kopibeskyttet musikk av bandet Borgarting.  ",
+      "value": "Forvalte og administrere inntekter og utgifter generert av bandet Borgarting ifm. innspilling, fremfÃ¸ring og komposisjon av musikk. Eie og forvalte evt. fremtidig innkjÃ¸pt teknisk utstyr. Ivareta eierinteresser for kopibeskyttet musikk av bandet Borgarting.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921513569",
       "source_date": "2018-10-05",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Per Øyvind Jenssen",
+      "value": "Per Ã˜yvind Jenssen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921513569/roller",
       "source_date": "2018-10-05",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -136,14 +136,14 @@
       "retrieved_at": "2026-10-17T07:49:57+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "FRISIKT ØST AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "FRISIKT Ã˜ST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921513569/roller",
       "source_date": "2019-08-26",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921513569. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:58+00:00",
+  "last_checked": "2026-10-17T10:08:34+00:00",
   "changes": []
 }

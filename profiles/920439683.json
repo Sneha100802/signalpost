@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920439683",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:57+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Nils Kristian Skjærvold",
+      "value": "Nils Kristian SkjÃ¦rvold",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920439683/roller",
       "source_date": "2018-02-14",
       "retrieved_at": "2026-10-17T07:50:58+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920439683.",
-  "last_checked": "2026-10-17T07:50:58+00:00",
+  "last_checked": "2026-10-17T10:12:48+00:00",
   "changes": []
 }

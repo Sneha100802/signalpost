@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:56+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:56+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
       "source_date": "2015-05-28",
@@ -123,14 +123,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Kåre Holsæter",
+      "value": "KÃ¥re HolsÃ¦ter",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
       "source_date": "2026-06-09",
       "retrieved_at": "2026-10-17T07:50:56+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jørn André Espeseth",
+      "value": "JÃ¸rn AndrÃ© Espeseth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
       "source_date": "2026-06-09",
       "retrieved_at": "2026-10-17T07:50:56+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Heidi Vatsø",
+      "value": "Heidi VatsÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
       "source_date": "2026-06-09",
       "retrieved_at": "2026-10-17T07:50:56+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953437686/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953437686.",
-  "last_checked": "2026-10-17T07:50:57+00:00",
+  "last_checked": "2026-10-17T10:12:47+00:00",
   "changes": []
 }

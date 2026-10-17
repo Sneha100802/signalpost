@@ -25,7 +25,7 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Synnøve Berget, Orrevegen 16, 6425, MOLDE",
+      "value": "c/o SynnÃ¸ve Berget, Orrevegen 16, 6425, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
       "source_date": "2010-02-15",
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:17+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Synnøve Berget",
+      "value": "SynnÃ¸ve Berget",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
       "source_date": "2026-08-18",
       "retrieved_at": "2026-10-17T07:51:18+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Linn Hege Andersen Håseth",
+      "value": "Linn Hege Andersen HÃ¥seth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
       "source_date": "2026-08-18",
       "retrieved_at": "2026-10-17T07:51:18+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Merethe Fuhr Løseth",
+      "value": "Merethe Fuhr LÃ¸seth",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995157241/roller",
       "source_date": "2026-08-18",
       "retrieved_at": "2026-10-17T07:51:18+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:51:18+00:00"
     }
   ],
-  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995157241. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:18+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995157241. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:14:29+00:00",
   "changes": []
 }

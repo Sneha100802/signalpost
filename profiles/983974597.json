@@ -60,14 +60,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983974597",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:09+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983974597",
       "source_date": "2002-01-08",
       "retrieved_at": "2026-10-17T07:50:09+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:50:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "RVT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983974597/roller",
       "source_date": "2020-05-04",
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983974597.",
-  "last_checked": "2026-10-17T07:50:09+00:00",
+  "last_checked": "2026-10-17T10:09:11+00:00",
   "changes": []
 }

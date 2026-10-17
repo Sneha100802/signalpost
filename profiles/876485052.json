@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876485052",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utgivelse av fonogrammer avv fortrinnsvis akkustisk/klassisk gitarmusikk på CD, digitalt eller via eventuelt andre hensiktsmessige formater. Å opprettholde tilgjengelighet og videreføre eventuelle salgspotensiale med selskapets eksisterende utgivelser.",
+      "value": "Utgivelse av fonogrammer avv fortrinnsvis akkustisk/klassisk gitarmusikk pÃ¥ CD, digitalt eller via eventuelt andre hensiktsmessige formater. Ã… opprettholde tilgjengelighet og viderefÃ¸re eventuelle salgspotensiale med selskapets eksisterende utgivelser.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876485052",
       "source_date": "1996-05-29",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Jarl Strømdal",
+      "value": "Jarl StrÃ¸mdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/876485052/roller",
       "source_date": "2021-03-25",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 876485052. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:48+00:00",
+  "last_checked": "2026-10-17T09:56:07+00:00",
   "changes": []
 }

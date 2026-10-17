@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Bjørnar Øverås, Frisvollvegen 124, 6470, ERESFJORD",
+      "value": "c/o BjÃ¸rnar Ã˜verÃ¥s, Frisvollvegen 124, 6470, ERESFJORD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte Kanndalsvegen i Ersfjord. Foretaket har til formål å drifte og holde vedlike Kanndalsvegen på en forsvarlig måte.",
+      "value": "Forvalte Kanndalsvegen i Ersfjord. Foretaket har til formÃ¥l Ã¥ drifte og holde vedlike Kanndalsvegen pÃ¥ en forsvarlig mÃ¥te.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -102,21 +102,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Bjørnar Øverås",
+      "value": "BjÃ¸rnar Ã˜verÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635/roller",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Aslak Nerås",
+      "value": "Aslak NerÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635/roller",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Tomas Øverås",
+      "value": "Tomas Ã˜verÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635/roller",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -130,13 +130,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bård Øverås",
+      "value": "BÃ¥rd Ã˜verÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925869635/roller",
       "source_date": "2020-10-29",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925869635. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:01+00:00",
+  "last_checked": "2026-10-17T09:58:41+00:00",
   "changes": []
 }

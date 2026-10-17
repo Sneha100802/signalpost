@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "GJØVIKREGIONEN INTERNATIONAL SCHOOL STI",
+      "value": "GJÃ˜VIKREGIONEN INTERNATIONAL SCHOOL STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
       "source_date": "2014-04-15",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.201 Ordinær grunnskoleundervisning",
+      "value": "85.201 OrdinÃ¦r grunnskoleundervisning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
       "source_date": "2014-04-15",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
       "field": "address",
-      "value": "Studievegen 17, 2815, GJØVIK",
+      "value": "Studievegen 17, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
       "source_date": "2014-04-15",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Etablere og senere drifte en internasjonal barne- og ungdomsskole i henhold til gjeldende regelverk, og med status som friskole med offentlig tilskudd i henhold til gjeldende lovverk. Undervisningen skal tilrettelegges slik at elevene får en internasjonal skolegang gjennom en anerkjent internasjonal læreplan.",
+      "value": "Etablere og senere drifte en internasjonal barne- og ungdomsskole i henhold til gjeldende regelverk, og med status som friskole med offentlig tilskudd i henhold til gjeldende lovverk. Undervisningen skal tilrettelegges slik at elevene fÃ¥r en internasjonal skolegang gjennom en anerkjent internasjonal lÃ¦replan.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497",
       "source_date": "2014-04-15",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Guro Wang Øverli",
+      "value": "Guro Wang Ã˜verli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
       "source_date": "2025-05-31",
       "retrieved_at": "2026-10-17T07:46:47+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:46:47+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FRISIKT VEST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913437497/roller",
       "source_date": "2021-12-09",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913437497.",
-  "last_checked": "2026-10-17T07:46:47+00:00",
+  "last_checked": "2026-10-17T09:56:06+00:00",
   "changes": []
 }

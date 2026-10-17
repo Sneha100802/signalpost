@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "96.220 Skjønnhetspleie",
+      "value": "96.220 SkjÃ¸nnhetspleie",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026",
       "source_date": "1998-06-22",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
       "field": "address",
-      "value": "Vårveien 24, 3024, DRAMMEN",
+      "value": "VÃ¥rveien 24, 3024, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026",
       "source_date": "1998-06-22",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Import og salg av hårpleieprodukter samt delta i dertil hørende virksomhet.",
+      "value": "Import og salg av hÃ¥rpleieprodukter samt delta i dertil hÃ¸rende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026",
       "source_date": "1998-06-22",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Anne Målfrid Landstad",
+      "value": "Anne MÃ¥lfrid Landstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026/roller",
       "source_date": "2001-02-15",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Anne Målfrid Landstad",
+      "value": "Anne MÃ¥lfrid Landstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026/roller",
       "source_date": "2008-06-19",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -129,8 +129,8 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ELVEBYEN ØKONOMIBISTAND V/BERIT",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "ELVEBYEN Ã˜KONOMIBISTAND V/BERIT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979896026/roller",
       "source_date": "2020-09-02",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979896026.",
-  "last_checked": "2026-10-17T07:50:38+00:00",
+  "last_checked": "2026-10-17T10:11:34+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "LERØY SEAFOOD GROUP ASA",
+      "value": "LERÃ˜Y SEAFOOD GROUP ASA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": "1995-09-13",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "03.211 Produksjon av fisk, bløtdyr, krepsdyr og pigghuder i sjø og brakkvann",
+      "value": "03.211 Produksjon av fisk, blÃ¸tdyr, krepsdyr og pigghuder i sjÃ¸ og brakkvann",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": "1995-09-13",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "address",
-      "value": "Thormøhlens gate 51B, 5006, BERGEN",
+      "value": "ThormÃ¸hlens gate 51B, 5006, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": "1995-09-13",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Fiskeri, havbruk, foredling, salg og distribusjon innen sjømatnæringen og tilknyttet industri og virksomhet. Slik virksomhet kan drives enten direkte eller gjennom deltakelse i andre selskaper med tilsvarende eller liknende formål, samt alt hva hermed står i forbindelse.",
+      "value": "Fiskeri, havbruk, foredling, salg og distribusjon innen sjÃ¸matnÃ¦ringen og tilknyttet industri og virksomhet. Slik virksomhet kan drives enten direkte eller gjennom deltakelse i andre selskaper med tilsvarende eller liknende formÃ¥l, samt alt hva hermed stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": "1995-09-13",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Henning Kolbjørn Beltestad",
+      "value": "Henning KolbjÃ¸rn Beltestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
       "source_date": "2010-04-07",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Arne Møgster",
+      "value": "Arne MÃ¸gster",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
       "source_date": "2024-06-12",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Karoline Møgster",
+      "value": "Karoline MÃ¸gster",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
       "source_date": "2024-06-12",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Linda Kidøy Pedersen",
+      "value": "Linda KidÃ¸y Pedersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940/roller",
       "source_date": "2024-06-12",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -246,9 +246,25 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:03:25+00:00"
     }
   ],
-  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940.",
-  "last_checked": "2026-10-17T07:48:56+00:00",
-  "changes": []
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:04:57+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:04:57+00:00"
+    }
+  ]
 }

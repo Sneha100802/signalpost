@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984371926",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:55+00:00"
@@ -109,27 +109,27 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Børge Mikal Bendiksen",
+      "value": "BÃ¸rge Mikal Bendiksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984371926/roller",
       "source_date": "2002-04-23",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Emil Nygård",
+      "value": "Emil NygÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984371926/roller",
       "source_date": "2002-04-23",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Børge Mikal Bendiksen",
+      "value": "BÃ¸rge Mikal Bendiksen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984371926/roller",
       "source_date": "2002-04-23",
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     }
   ],
-  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984371926. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:55+00:00",
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984371926. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:12:44+00:00",
   "changes": []
 }

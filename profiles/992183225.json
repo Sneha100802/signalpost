@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992183225",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Gjennom uegennyttig innsats å sikre en verdig og tradisjonsrik feiring av 17. mai i Bergen.  ",
+      "value": "Gjennom uegennyttig innsats Ã¥ sikre en verdig og tradisjonsrik feiring av 17. mai i Bergen.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992183225",
       "source_date": "2008-03-13",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Asbjørn Hodnekvam",
+      "value": "AsbjÃ¸rn Hodnekvam",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992183225/roller",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:48:52+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992183225. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:53+00:00",
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992183225. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:03:05+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:17+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Tilbyder av event, konsert, arrangement og andre produkter/tjenester som naturlig hører sammen med dette. Formålet vil også kunne omfatte medieproduksjon og utleie av teknisk utstyr. Aktivitet/bransje: selskapet vil drive med event, konsert, arrangement etc. Herunder kan også forekomme salg, produksjon, utleie, markedsføring og management. Dette inkluderer provisjonssalg ifbm. management, konsulent-tjenester og salg.",
+      "value": "Tilbyder av event, konsert, arrangement og andre produkter/tjenester som naturlig hÃ¸rer sammen med dette. FormÃ¥let vil ogsÃ¥ kunne omfatte medieproduksjon og utleie av teknisk utstyr. Aktivitet/bransje: selskapet vil drive med event, konsert, arrangement etc. Herunder kan ogsÃ¥ forekomme salg, produksjon, utleie, markedsfÃ¸ring og management. Dette inkluderer provisjonssalg ifbm. management, konsulent-tjenester og salg.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118",
       "source_date": "2021-09-14",
       "retrieved_at": "2026-10-17T07:50:17+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:17+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REGNSKAPSHJELP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927719118/roller",
       "source_date": "2022-04-06",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927719118.",
-  "last_checked": "2026-10-17T07:50:19+00:00",
+  "last_checked": "2026-10-17T10:09:35+00:00",
   "changes": []
 }

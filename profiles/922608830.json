@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Olavskleivå 37, 4005, STAVANGER",
+      "value": "OlavskleivÃ¥ 37, 4005, STAVANGER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922608830",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922608830",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive produksjon av musikk og annen virksomhet som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Drive produksjon av musikk og annen virksomhet som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922608830",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Frank Østebø Lunde",
+      "value": "Frank Ã˜stebÃ¸ Lunde",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922608830/roller",
       "source_date": "2019-04-08",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 922608830. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:48+00:00",
+  "last_checked": "2026-10-17T10:12:18+00:00",
   "changes": []
 }

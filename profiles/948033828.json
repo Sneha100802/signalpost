@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033828",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:37+00:00"
@@ -122,7 +122,7 @@
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033828/roller",
       "source_date": "2007-06-02",
@@ -165,13 +165,13 @@
     },
     {
       "field": "role:Revisor",
-      "value": "ØSTLANDSKE REVISORER AS",
+      "value": "Ã˜STLANDSKE REVISORER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033828/roller",
       "source_date": "2001-01-24",
       "retrieved_at": "2026-10-17T07:50:37+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "NEDRE BUSKERUD BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948033828/roller",
       "source_date": "2009-02-09",
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948033828.",
-  "last_checked": "2026-10-17T07:50:38+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948033828. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:11:32+00:00",
   "changes": []
 }

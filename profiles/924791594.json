@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924791594",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:25+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Portefølgeinvesteringer og andre produkter/tjenester som naturlig hører sammen med dette, herunder å delta i andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller på annen måte gjøre seg interessert i andre foretak.",
+      "value": "PortefÃ¸lgeinvesteringer og andre produkter/tjenester som naturlig hÃ¸rer sammen med dette, herunder Ã¥ delta i andre selskap med lignende virksomhet, og kjÃ¸p og salg av aksjer eller pÃ¥ annen mÃ¥te gjÃ¸re seg interessert i andre foretak.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924791594",
       "source_date": "2020-03-18",
       "retrieved_at": "2026-10-17T07:47:25+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:47:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FASTPRIS REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924791594/roller",
       "source_date": "2024-12-19",
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 924791594.",
-  "last_checked": "2026-10-17T07:47:25+00:00",
+  "last_checked": "2026-10-17T09:57:23+00:00",
   "changes": []
 }

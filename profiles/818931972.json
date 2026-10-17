@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818931972",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investeringer i andre selskaper og virksomheter, samt det som står i forbindelse med dette.",
+      "value": "Investeringer i andre selskaper og virksomheter, samt det som stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818931972",
       "source_date": "2017-05-03",
       "retrieved_at": "2026-10-17T07:50:12+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Håvard Claussen Martinsen",
+      "value": "HÃ¥vard Claussen Martinsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/818931972/roller",
       "source_date": "2020-04-06",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
@@ -172,6 +172,6 @@
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 818931972.",
-  "last_checked": "2026-10-17T07:50:13+00:00",
+  "last_checked": "2026-10-17T10:09:19+00:00",
   "changes": []
 }

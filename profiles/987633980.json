@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "value": "68.110 KjÃ¸p og salg av egen fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980",
       "source_date": "2004-12-21",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg, utleie og utvikling av eiendom, industriutvikling, kjøp og salg av selskaper, aksjer og andre verdipapirer herunder låne finansierte investeringer med verdipapirer og valuta, utvikling og salg av forretningskonsept samt delta eller eie i andre selskaper, samt hva derved står i forbindelse.",
+      "value": "KjÃ¸p, salg, utleie og utvikling av eiendom, industriutvikling, kjÃ¸p og salg av selskaper, aksjer og andre verdipapirer herunder lÃ¥ne finansierte investeringer med verdipapirer og valuta, utvikling og salg av forretningskonsept samt delta eller eie i andre selskaper, samt hva derved stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980",
       "source_date": "2004-12-21",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Egil Johan Østenstad",
+      "value": "Egil Johan Ã˜stenstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980/roller",
       "source_date": "2004-12-21",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Egil Johan Østenstad",
+      "value": "Egil Johan Ã˜stenstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980/roller",
       "source_date": "2024-08-05",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hilde Aase Østenstad",
+      "value": "Hilde Aase Ã˜stenstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987633980/roller",
       "source_date": "2024-08-05",
       "retrieved_at": "2026-10-17T07:47:28+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987633980.",
-  "last_checked": "2026-10-17T07:47:28+00:00",
+  "last_checked": "2026-10-17T09:57:25+00:00",
   "changes": []
 }

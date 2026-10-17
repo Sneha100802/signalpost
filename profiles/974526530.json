@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ANNES HERREFRISØR ANS",
+      "value": "ANNES HERREFRISÃ˜R ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974526530",
       "source_date": "1995-06-26",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974526530",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Herrefrisør med tilhørende virksomhet.",
+      "value": "HerrefrisÃ¸r med tilhÃ¸rende virksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974526530",
       "source_date": "1995-06-26",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:50:51+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974526530/roller",
       "source_date": "2026-09-05",
@@ -144,6 +144,6 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974526530. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:52+00:00",
+  "last_checked": "2026-10-17T10:12:36+00:00",
   "changes": []
 }

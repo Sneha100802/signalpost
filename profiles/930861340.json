@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930861340",
       "source_date": "2023-03-14",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
     },
     {
       "field": "address",
-      "value": "Sørlandsadvokatene DA, v/ Advokat Anders Hansson, Østre Strandgate 29, 4610, KRISTIANSAND S",
+      "value": "SÃ¸rlandsadvokatene DA, v/ Advokat Anders Hansson, Ã˜stre Strandgate 29, 4610, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930861340",
       "source_date": "2023-03-14",
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930861340",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:57+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:57+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "Anders Hansson",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930861340/roller",
       "source_date": "2023-03-14",
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930861340.",
-  "last_checked": "2026-10-17T07:49:58+00:00",
+  "last_checked": "2026-10-17T10:08:36+00:00",
   "changes": []
 }

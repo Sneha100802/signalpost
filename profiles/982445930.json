@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ALSGÅRD BORETTSLAG",
+      "value": "ALSGÃ…RD BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930",
       "source_date": "2000-10-17",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Garnveien 30,32,34,36, 8013, BODØ",
+      "value": "Garnveien 30,32,34,36, 8013, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930",
       "source_date": "2000-10-17",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930",
       "source_date": "2000-10-17",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930/roller",
       "source_date": "2000-10-17",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjørn Hanssen",
+      "value": "BjÃ¸rn Hanssen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930/roller",
       "source_date": "2026-05-11",
       "retrieved_at": "2026-10-17T07:50:25+00:00"
@@ -157,7 +157,7 @@
       "retrieved_at": "2026-10-17T07:50:25+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982445930/roller",
       "source_date": "2013-11-16",
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982445930.",
-  "last_checked": "2026-10-17T07:50:26+00:00",
+  "last_checked": "2026-10-17T10:10:21+00:00",
   "changes": []
 }

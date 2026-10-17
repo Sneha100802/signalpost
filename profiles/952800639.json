@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Elvevegen 13, 6800, FØRDE",
+      "value": "Elvevegen 13, 6800, FÃ˜RDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952800639",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:59+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952800639/roller",
       "source_date": "2014-02-03",
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:48:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOB BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/952800639/roller",
       "source_date": "2014-02-06",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 952800639.",
-  "last_checked": "2026-10-17T07:48:00+00:00",
+  "last_checked": "2026-10-17T09:58:39+00:00",
   "changes": []
 }

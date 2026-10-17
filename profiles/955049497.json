@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+      "value": "47.110 Detaljhandel med bredt vareutvalg med hovedvekt pÃ¥ nÃ¦rings- og nytelsesmidler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Tore Stensen",
+      "value": "BjÃ¸rn Tore Stensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
       "source_date": "2014-02-01",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -144,14 +144,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Reidun Annette Rånes",
+      "value": "Reidun Annette RÃ¥nes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
       "source_date": "2025-06-27",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jan Arve Langørgen",
+      "value": "Jan Arve LangÃ¸rgen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
       "source_date": "2025-06-27",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Anna Christina Widén-Björk",
+      "value": "Anna Christina WidÃ©n-BjÃ¶rk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
       "source_date": "2025-06-27",
       "retrieved_at": "2026-10-17T07:51:15+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:51:15+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955049497/roller",
       "source_date": "2021-12-16",
@@ -235,6 +235,6 @@
     }
   ],
   "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955049497.",
-  "last_checked": "2026-10-17T07:51:16+00:00",
+  "last_checked": "2026-10-17T10:14:21+00:00",
   "changes": []
 }

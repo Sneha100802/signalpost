@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
       "source_date": "1995-07-19",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Barnehagen skal i samarbeid og forståelse med hjemmet ivareta barnas behov for omsorg og lek, og fremme læring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge på grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik som respekt for menneskeverdet og naturen, på åndsfrihet, nestekjærlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn som er forankret i menneskerettighetene.   Barna skal få utfolde skaperglede, undring og utforskertrang. De skal få lære å ta vare på seg selv, hverandre og naturen. Barna skal utvikle grunnleggende kunnskap og ferdigheter. De skal ha rett til medvirkning tilpasset alder og forutsetninger.   Barnehagen skal møte barna med tillit og respekt og anerkjenne barndommens egenverdi. Den skal bidra til trivsel og glede i lek og læring, og være et utfordrene og trygt sted for fellesskap og venneskap. Barnehagen skal fremme demokrati og likestilling og motarbeide alle former for diskriminering (barnehageloven § 1).  ",
+      "value": "Barnehagen skal i samarbeid og forstÃ¥else med hjemmet ivareta barnas behov for omsorg og lek, og fremme lÃ¦ring og danning som grunnlag for allsidig utvikling. Barnehagen skal bygge pÃ¥ grunnleggende verdier i kristen og humanistisk arv og tradisjon, slik som respekt for menneskeverdet og naturen, pÃ¥ Ã¥ndsfrihet, nestekjÃ¦rlighet, tilgivelse, likeverd og solidaritet, verdier som kommer til uttrykk i ulike religioner og livssyn som er forankret i menneskerettighetene.   Barna skal fÃ¥ utfolde skaperglede, undring og utforskertrang. De skal fÃ¥ lÃ¦re Ã¥ ta vare pÃ¥ seg selv, hverandre og naturen. Barna skal utvikle grunnleggende kunnskap og ferdigheter. De skal ha rett til medvirkning tilpasset alder og forutsetninger.   Barnehagen skal mÃ¸te barna med tillit og respekt og anerkjenne barndommens egenverdi. Den skal bidra til trivsel og glede i lek og lÃ¦ring, og vÃ¦re et utfordrene og trygt sted for fellesskap og venneskap. Barnehagen skal fremme demokrati og likestilling og motarbeide alle former for diskriminering (barnehageloven Â§ 1).  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034",
       "source_date": "1995-07-19",
       "retrieved_at": "2026-10-17T07:47:59+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:59+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REIDUN GULBRANDSEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974688034/roller",
       "source_date": "2013-09-09",
@@ -220,7 +220,7 @@
       "retrieved_at": "2026-10-17T07:48:00+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974688034.",
-  "last_checked": "2026-10-17T07:48:00+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974688034. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:42+00:00",
   "changes": []
 }

@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:45+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å fremme medlemmenes yrkesmessige interesser ved å utvikle en kunnskaps og kreativitetsvirksomhet med ideelt formål. Aurora Verksted SA skaper og tilbyr integrerte, individuelt tilpassede, tilrettelagte arbeidsplasser for mennesker som faller utenom det ordinære arbeidsliv. Produksjonen er hovedsakelig innen kunst, kunsthåndverk og design.",
+      "value": "Ã… fremme medlemmenes yrkesmessige interesser ved Ã¥ utvikle en kunnskaps og kreativitetsvirksomhet med ideelt formÃ¥l. Aurora Verksted SA skaper og tilbyr integrerte, individuelt tilpassede, tilrettelagte arbeidsplasser for mennesker som faller utenom det ordinÃ¦re arbeidsliv. Produksjonen er hovedsakelig innen kunst, kunsthÃ¥ndverk og design.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982805570",
       "source_date": "2001-01-03",
       "retrieved_at": "2026-10-17T07:49:45+00:00"
@@ -211,9 +211,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982805570",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:49:46+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.aurora-verksted.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:07:36+00:00"
+    },
+    {
+      "field": "email",
+      "value": "aurora@aurora-verksted.no",
+      "source_url": "https://www.aurora-verksted.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:07:36+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570.",
-  "last_checked": "2026-10-17T07:49:46+00:00",
-  "changes": []
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:08:54+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "aurora@aurora-verksted.no"
+      ],
+      "at": "2026-10-17T10:08:54+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:08:54+00:00"
+    }
+  ]
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "HILDEBRAND HARMENS JOHANS SØNNS LEGAT STI",
+      "value": "HILDEBRAND HARMENS JOHANS SÃ˜NNS LEGAT STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979255748",
       "source_date": "1997-11-10",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.991 Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "value": "94.991 Aktiviteter i fond/legat som stÃ¸tter veldedige og allmennyttige formÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979255748",
       "source_date": "1997-11-10",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
     },
     {
       "field": "address",
-      "value": "Løvika 74, 4623, KRISTIANSAND S",
+      "value": "LÃ¸vika 74, 4623, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979255748",
       "source_date": "1997-11-10",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979255748",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJON SØR AS",
+      "value": "REVISJON SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979255748/roller",
       "source_date": "2013-03-14",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979255748.",
-  "last_checked": "2026-10-17T07:47:32+00:00",
+  "last_checked": "2026-10-17T09:57:33+00:00",
   "changes": []
 }

@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Direkte og indirekte eierskap og deltakelse i selskaper og virksomheter innenfor leting, produksjon og salg av olje og gass og andre aktiviteter som står i forbindelse med dette, samt ved aksjetegning eller på annen måte å delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
+      "value": "Direkte og indirekte eierskap og deltakelse i selskaper og virksomheter innenfor leting, produksjon og salg av olje og gass og andre aktiviteter som stÃ¥r i forbindelse med dette, samt ved aksjetegning eller pÃ¥ annen mÃ¥te Ã¥ delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
       "source_date": "2005-03-12",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -130,21 +130,21 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Glen Ole Rødland",
+      "value": "Glen Ole RÃ¸dland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
       "source_date": "2026-05-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristin Færøvik",
+      "value": "Kristin FÃ¦rÃ¸vik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
       "source_date": "2026-05-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Christian Brækken",
+      "value": "Christian BrÃ¦kken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
       "source_date": "2026-05-20",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
@@ -178,14 +178,14 @@
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
       "source_date": "2025-12-02",
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TMF NORWAY AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297/roller",
       "source_date": "2025-12-02",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987989297.",
-  "last_checked": "2026-10-17T07:48:45+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987989297. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:02:18+00:00",
   "changes": []
 }

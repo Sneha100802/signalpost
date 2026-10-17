@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913854616",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -101,7 +101,7 @@
       "retrieved_at": "2026-10-17T07:50:00+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ACCENTURE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913854616/roller",
       "source_date": "2025-05-10",
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:50:00+00:00"
     }
   ],
-  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913854616. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:00+00:00",
+  "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913854616. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:08:44+00:00",
   "changes": []
 }

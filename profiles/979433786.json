@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "STIFTELSEN BODIN 4H-GÅRD",
+      "value": "STIFTELSEN BODIN 4H-GÃ…RD",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
       "source_date": "1998-02-19",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Thalleveien 27, 8076, BODØ",
+      "value": "Thalleveien 27, 8076, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
       "source_date": "1998-02-19",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -109,14 +109,14 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Finn Arne Almås",
+      "value": "Finn Arne AlmÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "1998-02-19",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lena Brøndbo",
+      "value": "Lena BrÃ¸ndbo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Gøril Tømmerberg Tvenning",
+      "value": "GÃ¸ril TÃ¸mmerberg Tvenning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -158,14 +158,14 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Harald Nøss",
+      "value": "Harald NÃ¸ss",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Svein Magne Åsbakk",
+      "value": "Svein Magne Ã…sbakk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -185,15 +185,15 @@
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SALTEN REGNSKAPSLAG SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-06-16",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ØKORÅD SALTEN AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "Ã˜KORÃ…D SALTEN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979433786/roller",
       "source_date": "2026-06-16",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
@@ -242,6 +242,6 @@
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979433786.",
-  "last_checked": "2026-10-17T07:50:46+00:00",
+  "last_checked": "2026-10-17T10:12:16+00:00",
   "changes": []
 }

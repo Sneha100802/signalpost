@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "HARILASTIFTELSEN HÅP",
+      "value": "HARILASTIFTELSEN HÃ…P",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638",
       "source_date": "2000-08-03",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "94.910 Aktiviteter i religiøse organisasjoner",
+      "value": "94.910 Aktiviteter i religiÃ¸se organisasjoner",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638",
       "source_date": "2000-08-03",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
     },
     {
       "field": "address",
-      "value": "Skibåsen 32A, 4636, KRISTIANSAND S",
+      "value": "SkibÃ¥sen 32A, 4636, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638",
       "source_date": "2000-08-03",
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:54+00:00"
@@ -123,21 +123,21 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Sigbjørn Handeland",
+      "value": "SigbjÃ¸rn Handeland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jostein Morlandstø",
+      "value": "Jostein MorlandstÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Erik Eftevåg",
+      "value": "Erik EftevÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638/roller",
       "source_date": "2026-09-07",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -158,7 +158,7 @@
     },
     {
       "field": "role:Revisor",
-      "value": "REVISJON SØR AS",
+      "value": "REVISJON SÃ˜R AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982199638/roller",
       "source_date": "2005-02-14",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982199638.",
-  "last_checked": "2026-10-17T07:48:55+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982199638. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:03:19+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AFASIFORENINGEN FOR GJØVIK OG OMLAND",
+      "value": "AFASIFORENINGEN FOR GJÃ˜VIK OG OMLAND",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996106470",
       "source_date": "2010-10-30",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Studievegen 15, 2815, GJØVIK",
+      "value": "Studievegen 15, 2815, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996106470",
       "source_date": "2010-10-30",
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996106470",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:12+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996106470. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:13+00:00",
+  "last_checked": "2026-10-17T09:56:57+00:00",
   "changes": []
 }

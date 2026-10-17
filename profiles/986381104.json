@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "58.110 Utgivelse av bøker",
+      "value": "58.110 Utgivelse av bÃ¸ker",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986381104",
       "source_date": "2004-01-22",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986381104",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Handel med salg av varer og tjenester i forbindelse med telekommunikasjon og produkter som naturlig hører sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
+      "value": "Handel med salg av varer og tjenester i forbindelse med telekommunikasjon og produkter som naturlig hÃ¸rer sammen med dette, samt deltakelse i andre virksomheter innenfor samme bransje.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986381104",
       "source_date": "2004-01-22",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Øyvind Kandal Svendsen",
+      "value": "Ã˜yvind Kandal Svendsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986381104/roller",
       "source_date": "2005-04-14",
       "retrieved_at": "2026-10-17T07:47:37+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986381104. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:37+00:00",
+  "last_checked": "2026-10-17T09:57:46+00:00",
   "changes": []
 }

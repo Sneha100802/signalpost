@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "SØRBYEN BARNEHAGE STI",
+      "value": "SÃ˜RBYEN BARNEHAGE STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
       "source_date": "2018-01-17",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
       "source_date": "2018-01-17",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Gjennomfaret 4, 2818, GJØVIK",
+      "value": "Gjennomfaret 4, 2818, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
       "source_date": "2018-01-17",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:51:12+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/820028112/roller",
       "source_date": "2020-10-12",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 820028112.",
-  "last_checked": "2026-10-17T07:51:12+00:00",
+  "last_checked": "2026-10-17T10:14:13+00:00",
   "changes": []
 }

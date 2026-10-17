@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "10.130 Produksjon av kjøtt- og fjørfevarer",
+      "value": "10.130 Produksjon av kjÃ¸tt- og fjÃ¸rfevarer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
       "source_date": "2000-09-04",
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:00+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "role:Kontaktperson",
-      "value": "Hans-Petter Gørgen",
+      "value": "Hans-Petter GÃ¸rgen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982334683/roller",
       "source_date": "2000-09-04",
       "retrieved_at": "2026-10-17T07:47:01+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982334683. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:01+00:00",
+  "last_checked": "2026-10-17T09:56:25+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "50.201 Utenriks sjøfart med gods",
+      "value": "50.201 Utenriks sjÃ¸fart med gods",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
       "source_date": "2000-08-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982279747. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:31+00:00",
+  "last_checked": "2026-10-17T09:57:29+00:00",
   "changes": []
 }

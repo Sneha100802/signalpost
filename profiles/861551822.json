@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AL RØDBERGVEIEN BORETTSLAG",
+      "value": "AL RÃ˜DBERGVEIEN BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -115,14 +115,14 @@
       "retrieved_at": "2026-10-17T07:50:21+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "AGIO FORVALTNING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
       "source_date": "2025-08-22",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
       "source_date": "2025-08-22",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Tom Vestgård",
+      "value": "Tom VestgÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
       "source_date": "2023-08-16",
       "retrieved_at": "2026-10-17T07:50:21+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:50:21+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/861551822/roller",
       "source_date": "2025-08-23",
@@ -221,6 +221,6 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 861551822.",
-  "last_checked": "2026-10-17T07:50:21+00:00",
+  "last_checked": "2026-10-17T10:09:45+00:00",
   "changes": []
 }

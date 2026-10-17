@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
     },
     {
       "field": "address",
-      "value": "c/o Lars Odvar Strandbakke, Øvre veg 355, 2836, BIRI",
+      "value": "c/o Lars Odvar Strandbakke, Ã˜vre veg 355, 2836, BIRI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte og omsette andeleiernes jakt- og fiskerettigheter innenfor Nedre Snertingdal Utmarkslag sitt område. Laget skal sørge for en god og bærekraftig forvaltning av storvilt, småvilt og fiske på lagets område med sikte på best mulig økonomisk utbytte for andelseierne. Forvaltningen skal ha som siktemål å bevare vilt- og  fiskeressursene på lang sikt. Laget skal også arbeide for andelseiernes interesser i saker som angår friluftsliv, naturvern og arealplansaker.",
+      "value": "Forvalte og omsette andeleiernes jakt- og fiskerettigheter innenfor Nedre Snertingdal Utmarkslag sitt omrÃ¥de. Laget skal sÃ¸rge for en god og bÃ¦rekraftig forvaltning av storvilt, smÃ¥vilt og fiske pÃ¥ lagets omrÃ¥de med sikte pÃ¥ best mulig Ã¸konomisk utbytte for andelseierne. Forvaltningen skal ha som siktemÃ¥l Ã¥ bevare vilt- og  fiskeressursene pÃ¥ lang sikt. Laget skal ogsÃ¥ arbeide for andelseiernes interesser i saker som angÃ¥r friluftsliv, naturvern og arealplansaker.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jan Rune Gåserud",
+      "value": "Jan Rune GÃ¥serud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Brede Klæthe",
+      "value": "Brede KlÃ¦the",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/970547479/roller",
       "source_date": "2026-02-02",
       "retrieved_at": "2026-10-17T07:49:10+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 970547479. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:10+00:00",
+  "last_checked": "2026-10-17T10:05:08+00:00",
   "changes": []
 }

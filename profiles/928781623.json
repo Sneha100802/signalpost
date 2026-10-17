@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Karin Ljunggren, Storbjørnen 3, 8029, BODØ",
+      "value": "c/o Karin Ljunggren, StorbjÃ¸rnen 3, 8029, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
       "source_date": "2022-02-21",
       "retrieved_at": "2026-10-17T07:51:09+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:09+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stian Jørgensen",
+      "value": "Stian JÃ¸rgensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928781623/roller",
       "source_date": "2026-04-25",
       "retrieved_at": "2026-10-17T07:51:11+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928781623. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:12+00:00",
+  "last_checked": "2026-10-17T10:14:12+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BERGEN ØKOLOGISKE LANDSBY SA",
+      "value": "BERGEN Ã˜KOLOGISKE LANDSBY SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
       "source_date": "2005-05-02",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å fremme kunnskap om og interesse for økologiske landsbyer i videste forstand i Bergens-området. Initiere og støtte prosjekter som har til formål å skaffe egne boliger basert på permakulturelle prinsipper organisert som økologiske landsbyer, grender, gruppetun eller lignende for lagets medlemmer, og fremme aktiviteter som naturlig hører sammen med dette. Fremme lagets interesser i kommuneplaner og annet planarbeid i Bergens-området.",
+      "value": "Ã… fremme kunnskap om og interesse for Ã¸kologiske landsbyer i videste forstand i Bergens-omrÃ¥det. Initiere og stÃ¸tte prosjekter som har til formÃ¥l Ã¥ skaffe egne boliger basert pÃ¥ permakulturelle prinsipper organisert som Ã¸kologiske landsbyer, grender, gruppetun eller lignende for lagets medlemmer, og fremme aktiviteter som naturlig hÃ¸rer sammen med dette. Fremme lagets interesser i kommuneplaner og annet planarbeid i Bergens-omrÃ¥det.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091",
       "source_date": "2005-05-02",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
@@ -127,9 +127,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988148091/roller",
       "source_date": "2025-04-22",
       "retrieved_at": "2026-10-17T07:50:47+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.bergenokologiskelandsby.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:12:21+00:00"
+    },
+    {
+      "field": "email",
+      "value": "info@bergenokologiskelandsby.no",
+      "source_url": "https://www.bergenokologiskelandsby.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:12:21+00:00"
     }
   ],
-  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:48+00:00",
-  "changes": []
+  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:13:37+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "info@bergenokologiskelandsby.no"
+      ],
+      "at": "2026-10-17T10:13:37+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:13:37+00:00"
+    }
+  ]
 }

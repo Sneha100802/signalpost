@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Vågsallmenningen 12, 5014, BERGEN",
+      "value": "VÃ¥gsallmenningen 12, 5014, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Linn Kristin Langley-Rasmussen Engø",
+      "value": "Linn Kristin Langley-Rasmussen EngÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
       "source_date": "2025-08-29",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Øyunn Viken",
+      "value": "Ã˜yunn Viken",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
       "source_date": "2025-08-29",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -157,8 +157,8 @@
       "retrieved_at": "2026-10-17T07:49:33+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "STORETVEDT REGNSKAPSBYRÅ AS",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "STORETVEDT REGNSKAPSBYRÃ… AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971349875/roller",
       "source_date": "2015-12-22",
       "retrieved_at": "2026-10-17T07:49:33+00:00"
@@ -206,7 +206,7 @@
       "retrieved_at": "2026-10-17T07:49:33+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971349875.",
-  "last_checked": "2026-10-17T07:49:33+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971349875. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:06:28+00:00",
   "changes": []
 }

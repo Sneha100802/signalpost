@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -94,7 +94,7 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "ACCENTURE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374/roller",
       "source_date": "2025-05-10",
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974808374. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:39+00:00",
+  "last_checked": "2026-10-17T10:11:37+00:00",
   "changes": []
 }

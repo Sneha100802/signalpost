@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "70.200 Bedriftsrådgivning og annen administrativ rådgivning",
+      "value": "70.200 BedriftsrÃ¥dgivning og annen administrativ rÃ¥dgivning",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995849364",
       "source_date": "2010-08-24",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995849364",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Å levere IT-tjenester og programvare, og det som dette måtte medføre. Selskapet skal også kunne eie, eller på annen måte delta i andre forretningstiltak.",
+      "value": "Ã… levere IT-tjenester og programvare, og det som dette mÃ¥tte medfÃ¸re. Selskapet skal ogsÃ¥ kunne eie, eller pÃ¥ annen mÃ¥te delta i andre forretningstiltak.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995849364",
       "source_date": "2010-08-24",
       "retrieved_at": "2026-10-17T07:50:51+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:50:52+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AIDER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995849364/roller",
       "source_date": "2024-10-29",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995849364.",
-  "last_checked": "2026-10-17T07:50:52+00:00",
+  "last_checked": "2026-10-17T10:12:37+00:00",
   "changes": []
 }

@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976134036",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:03+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:47:03+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976134036/roller",
       "source_date": "2009-05-26",
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:47:04+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET USBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976134036/roller",
       "source_date": "2010-05-01",
@@ -213,7 +213,7 @@
       "retrieved_at": "2026-10-17T07:47:04+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976134036.",
-  "last_checked": "2026-10-17T07:47:04+00:00",
+  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976134036. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:56:40+00:00",
   "changes": []
 }

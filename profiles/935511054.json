@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Drammensveien 93, 3050, MJØNDALEN",
+      "value": "Drammensveien 93, 3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
       "source_date": "2025-05-28",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -129,14 +129,14 @@
       "retrieved_at": "2026-10-17T07:46:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "REGNSKAPSFØRER1 AUTORISERT",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "REGNSKAPSFÃ˜RER1 AUTORISERT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935511054/roller",
       "source_date": "2026-04-16",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935511054. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:49+00:00",
+  "last_checked": "2026-10-17T09:56:09+00:00",
   "changes": []
 }

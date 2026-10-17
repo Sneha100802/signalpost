@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "73.110 Reklamebyråvirksomhet",
+      "value": "73.110 ReklamebyrÃ¥virksomhet",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936015646",
       "source_date": "2025-09-01",
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936015646",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:44+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936015646. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:45+00:00",
+  "last_checked": "2026-10-17T10:07:30+00:00",
   "changes": []
 }

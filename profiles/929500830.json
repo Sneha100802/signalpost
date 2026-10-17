@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ADVOKAT PER ØVERBØ",
+      "value": "ADVOKAT PER Ã˜VERBÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929500830",
       "source_date": "2022-07-16",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Statsråd Astrups gate 2, 6413, MOLDE",
+      "value": "StatsrÃ¥d Astrups gate 2, 6413, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929500830",
       "source_date": "2022-07-16",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -60,14 +60,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929500830",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:35+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929500830",
       "source_date": "2022-07-16",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Per Øverbø",
+      "value": "Per Ã˜verbÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929500830/roller",
       "source_date": "2022-07-16",
       "retrieved_at": "2026-10-17T07:50:35+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 929500830.",
-  "last_checked": "2026-10-17T07:50:35+00:00",
+  "last_checked": "2026-10-17T10:11:13+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "DRAGET GÅRD ANS",
+      "value": "DRAGET GÃ…RD ANS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921505256",
       "source_date": "2018-10-08",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Dragetvegen 175, 6457, BOLSØYA",
+      "value": "Dragetvegen 175, 6457, BOLSÃ˜YA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921505256",
       "source_date": "2018-10-08",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921505256",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Forvalte Draget gård og bidra til økt verdiskapning, slik at gården er bærekraftig. Verdiskaping skal skje gjennom drift av sau og skog. I tillegg utleievirksomhet av båtplasser, sommerbolig, leiligheter og selskapslokaler.",
+      "value": "Forvalte Draget gÃ¥rd og bidra til Ã¸kt verdiskapning, slik at gÃ¥rden er bÃ¦rekraftig. Verdiskaping skal skje gjennom drift av sau og skog. I tillegg utleievirksomhet av bÃ¥tplasser, sommerbolig, leiligheter og selskapslokaler.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/921505256",
       "source_date": "2018-10-08",
       "retrieved_at": "2026-10-17T07:50:31+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921505256. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:33+00:00",
+  "last_checked": "2026-10-17T10:11:00+00:00",
   "changes": []
 }

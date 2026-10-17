@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "68.110 Kjøp og salg av egen fast eiendom",
+      "value": "68.110 KjÃ¸p og salg av egen fast eiendom",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364",
       "source_date": "2014-09-24",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
     },
     {
       "field": "address",
-      "value": "Skibåsen 37, 4636, KRISTIANSAND S",
+      "value": "SkibÃ¥sen 37, 4636, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364",
       "source_date": "2014-09-24",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 9094 Sørlandsparken, 4696, KRISTIANSAND S",
+      "value": "Postboks 9094 SÃ¸rlandsparken, 4696, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364",
       "source_date": "2014-09-24",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investeringsvirksomhet med verdipapirer og/eller andre verdiobjekter, herunder blant annet kjøp, salg og leie av fast eiendom, samt alt som står i naturlig forbindelse med dette.",
+      "value": "Investeringsvirksomhet med verdipapirer og/eller andre verdiobjekter, herunder blant annet kjÃ¸p, salg og leie av fast eiendom, samt alt som stÃ¥r i naturlig forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364",
       "source_date": "2014-09-24",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Helge Løvdal",
+      "value": "Helge LÃ¸vdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364/roller",
       "source_date": "2014-09-24",
       "retrieved_at": "2026-10-17T07:46:49+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914204364.",
-  "last_checked": "2026-10-17T07:46:50+00:00",
+  "last_checked": "2026-10-17T09:56:09+00:00",
   "changes": []
 }

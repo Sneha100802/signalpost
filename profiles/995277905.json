@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "52.220 Andre tjenester tilknyttet sjøtransport",
+      "value": "52.220 Andre tjenester tilknyttet sjÃ¸transport",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
       "source_date": "2010-03-11",
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive skipsfart, maritim servicevirksomhet, luftfart, industri, handel, finansvirksomhet, megling, agenturer og spedisjon, å eie eller drive fast eiendom, samt drive virksomhet beslektet med eller tilknyttet det nevnte. Dette kan skje direkte, eller indirekte ved garanti, aksjetegning eller på annen måte.",
+      "value": "Drive skipsfart, maritim servicevirksomhet, luftfart, industri, handel, finansvirksomhet, megling, agenturer og spedisjon, Ã¥ eie eller drive fast eiendom, samt drive virksomhet beslektet med eller tilknyttet det nevnte. Dette kan skje direkte, eller indirekte ved garanti, aksjetegning eller pÃ¥ annen mÃ¥te.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
       "source_date": "2010-03-11",
       "retrieved_at": "2026-10-17T07:50:48+00:00"
@@ -218,9 +218,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://www.wilhelmsen.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:12:22+00:00"
+    },
+    {
+      "field": "email",
+      "value": "wss.alexandria.operations@wilhelmsen.com",
+      "source_url": "https://www.wilhelmsen.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:12:22+00:00"
     }
   ],
-  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905.",
-  "last_checked": "2026-10-17T07:50:49+00:00",
-  "changes": []
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:13:44+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "wss.alexandria.operations@wilhelmsen.com"
+      ],
+      "at": "2026-10-17T10:13:44+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-17T10:13:44+00:00"
+    }
+  ]
 }

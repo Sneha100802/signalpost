@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
       "source_date": "2023-01-06",
       "retrieved_at": "2026-10-17T07:50:00+00:00"
     },
     {
       "field": "address",
-      "value": "Stubøvegen 121, 6460, EIDSVÅG I ROMSDAL",
+      "value": "StubÃ¸vegen 121, 6460, EIDSVÃ…G I ROMSDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
       "source_date": "2023-01-06",
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Snekker, påbygg, restaurering, nybygg og ferdighus, og andre produkter/tjenester som naturlig hører sammen med dette.",
+      "value": "Snekker, pÃ¥bygg, restaurering, nybygg og ferdighus, og andre produkter/tjenester som naturlig hÃ¸rer sammen med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972",
       "source_date": "2023-01-06",
       "retrieved_at": "2026-10-17T07:50:00+00:00"
@@ -136,7 +136,7 @@
       "retrieved_at": "2026-10-17T07:50:00+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "SPAREBANK 1 REGNSKAPSHUSET SMN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930605972/roller",
       "source_date": "2023-01-06",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 930605972.",
-  "last_checked": "2026-10-17T07:50:00+00:00",
+  "last_checked": "2026-10-17T10:08:45+00:00",
   "changes": []
 }

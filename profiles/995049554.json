@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Thomas Fisher Alumox AS, Rødvika Industrioråde, 6460, EIDSVÅG I ROMSDAL",
+      "value": "c/o Thomas Fisher Alumox AS, RÃ¸dvika IndustriorÃ¥de, 6460, EIDSVÃ…G I ROMSDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995049554",
       "source_date": "2010-01-19",
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995049554",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:42+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995049554. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:43+00:00",
+  "last_checked": "2026-10-17T10:07:11+00:00",
   "changes": []
 }

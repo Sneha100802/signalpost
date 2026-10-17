@@ -18,21 +18,21 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
       "source_date": "2003-03-27",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "address",
-      "value": "v/ Gjøvik Skogvesen, 2810, GJØVIK",
+      "value": "v/ GjÃ¸vik Skogvesen, 2810, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
       "source_date": "2003-03-27",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Gjøvik kommune, Skogvesenet, Postboks 630, 2810, GJØVIK",
+      "value": "c/o GjÃ¸vik kommune, Skogvesenet, Postboks 630, 2810, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
       "source_date": "2003-03-27",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -67,14 +67,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
       "field": "sector",
-      "value": "2500 Private produsentorienterte organisasjoner uten profittformål",
+      "value": "2500 Private produsentorienterte organisasjoner uten profittformÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148",
       "source_date": "2003-03-27",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Harald Børstad",
+      "value": "Harald BÃ¸rstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985203148/roller",
       "source_date": "2023-06-27",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985203148. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:56+00:00",
+  "last_checked": "2026-10-17T10:03:27+00:00",
   "changes": []
 }

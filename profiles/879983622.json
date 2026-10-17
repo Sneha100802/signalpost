@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879983622",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørg Vreim Ørbeck",
+      "value": "BjÃ¸rg Vreim Ã˜rbeck",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879983622/roller",
       "source_date": "2014-01-25",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 879983622.",
-  "last_checked": "2026-10-17T07:49:37+00:00",
+  "last_checked": "2026-10-17T10:06:35+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Bjarne Møller, Selsbakkvegen 3A, 7023, TRONDHEIM",
+      "value": "c/o Bjarne MÃ¸ller, Selsbakkvegen 3A, 7023, TRONDHEIM",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/846094512",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -53,7 +53,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/846094512",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bjarne Engelbreth Møller",
+      "value": "Bjarne Engelbreth MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/846094512/roller",
       "source_date": "1988-10-10",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Bjarne Engelbreth Møller",
+      "value": "Bjarne Engelbreth MÃ¸ller",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/846094512/roller",
       "source_date": "1988-10-10",
       "retrieved_at": "2026-10-17T07:48:34+00:00"
@@ -130,6 +130,6 @@
     }
   ],
   "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 846094512. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:34+00:00",
+  "last_checked": "2026-10-17T10:01:15+00:00",
   "changes": []
 }

@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Susann Haugsdal, Åsane Senter 8, 5116, ULSET",
+      "value": "c/o Susann Haugsdal, Ã…sane Senter 8, 5116, ULSET",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936653790",
       "source_date": "2025-11-26",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936653790",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre småjobber og praktiske tjenester, herunder arbeid i hage, vaktmestertjenester samt tjenesteyting i forbindelse med oppdrag for næringsliv og private kunder.",
+      "value": "UtfÃ¸re smÃ¥jobber og praktiske tjenester, herunder arbeid i hage, vaktmestertjenester samt tjenesteyting i forbindelse med oppdrag for nÃ¦ringsliv og private kunder.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936653790",
       "source_date": "2025-11-26",
       "retrieved_at": "2026-10-17T07:50:14+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936653790. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:15+00:00",
+  "last_checked": "2026-10-17T10:09:26+00:00",
   "changes": []
 }

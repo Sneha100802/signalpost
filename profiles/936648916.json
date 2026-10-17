@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ARNEGÅRDSVEIEN 27 BORETTSLAG",
+      "value": "ARNEGÃ…RDSVEIEN 27 BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Ok Invest Holding AS, Grini Næringspark 4B, 1361, ØSTERÅS",
+      "value": "c/o Ok Invest Holding AS, Grini NÃ¦ringspark 4B, 1361, Ã˜STERÃ…S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -108,29 +108,29 @@
       "retrieved_at": "2026-10-17T07:50:50+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "HØNEFOSS BOLIG AS",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "HÃ˜NEFOSS BOLIG AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916/roller",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Odd Kåre Markegård",
+      "value": "Odd KÃ¥re MarkegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916/roller",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Jens Christian Markegård",
+      "value": "Jens Christian MarkegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916/roller",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Odd Arne Markegård",
+      "value": "Odd Arne MarkegÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936648916/roller",
       "source_date": "2025-11-25",
       "retrieved_at": "2026-10-17T07:50:50+00:00"
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936648916.",
-  "last_checked": "2026-10-17T07:50:50+00:00",
+  "last_checked": "2026-10-17T10:12:34+00:00",
   "changes": []
 }

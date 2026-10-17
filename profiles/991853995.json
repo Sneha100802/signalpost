@@ -88,7 +88,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991853995",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -102,7 +102,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre forretninger og tjenester som er vanlig eller naturlig at banker kan utføre i henhold til den til enhver tid gjeldende lovgivning og de til enhver tid gitte konsesjoner.",
+      "value": "UtfÃ¸re forretninger og tjenester som er vanlig eller naturlig at banker kan utfÃ¸re i henhold til den til enhver tid gjeldende lovgivning og de til enhver tid gitte konsesjoner.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991853995",
       "source_date": "2007-11-08",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Lena Jorna Jørundland",
+      "value": "Lena Jorna JÃ¸rundland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991853995/roller",
       "source_date": "2021-09-13",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -193,7 +193,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Øivind Larsen",
+      "value": "Ã˜ivind Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991853995/roller",
       "source_date": "2026-04-10",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
@@ -211,9 +211,40 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991853995/roller",
       "source_date": "2026-06-02",
       "retrieved_at": "2026-10-17T07:48:19+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://www.bien.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:36+00:00"
+    },
+    {
+      "field": "email",
+      "value": "post@bien.no",
+      "source_url": "https://www.bien.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T09:59:36+00:00"
     }
   ],
-  "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991853995. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:19+00:00",
-  "changes": []
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991853995. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:01:07+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "post@bien.no"
+      ],
+      "at": "2026-10-17T10:01:07+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:01:07+00:00"
+    }
+  ]
 }

@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920707262",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:52+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Magnus Kongestøl Raaholt",
+      "value": "Magnus KongestÃ¸l Raaholt",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920707262/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:46:53+00:00"
@@ -109,13 +109,13 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Håkon Brennhagen",
+      "value": "HÃ¥kon Brennhagen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920707262/roller",
       "source_date": "2026-01-17",
       "retrieved_at": "2026-10-17T07:46:53+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920707262. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:46:53+00:00",
+  "last_checked": "2026-10-17T09:56:12+00:00",
   "changes": []
 }

@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "DRONNINGÅSEN BARNEHAGE SA",
+      "value": "DRONNINGÃ…SEN BARNEHAGE SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
       "source_date": "1999-02-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
       "source_date": "1999-02-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes økonomiske interesser gjennom deres deltakelse i virksomheten som kjøpere av barnehagetjenester fra foretaket.",
+      "value": "Eie og drive barnehage til det beste for medlemmene og deres barn. Foretaket skal fremme medlemmenes Ã¸konomiske interesser gjennom deres deltakelse i virksomheten som kjÃ¸pere av barnehagetjenester fra foretaket.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034",
       "source_date": "1999-02-03",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Linda Marie Næsheim Dahl",
+      "value": "Linda Marie NÃ¦sheim Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
       "source_date": "2009-04-25",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Linda Marie Næsheim Dahl",
+      "value": "Linda Marie NÃ¦sheim Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
       "source_date": "2026-05-08",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -158,14 +158,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Per Erik Høidal Kvåle",
+      "value": "Per Erik HÃ¸idal KvÃ¥le",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
       "source_date": "2026-05-08",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Henrikke Gård",
+      "value": "Henrikke GÃ¥rd",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
       "source_date": "2026-05-08",
       "retrieved_at": "2026-10-17T07:50:39+00:00"
@@ -185,7 +185,7 @@
       "retrieved_at": "2026-10-17T07:50:39+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980423034/roller",
       "source_date": "2012-05-14",
@@ -234,7 +234,7 @@
       "retrieved_at": "2026-10-17T07:50:40+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980423034.",
-  "last_checked": "2026-10-17T07:50:40+00:00",
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980423034. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T10:11:46+00:00",
   "changes": []
 }

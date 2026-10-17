@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "HETTY FRISØR NUF",
+      "value": "HETTY FRISÃ˜R NUF",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991238387",
       "source_date": "2007-06-05",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Mørkvedsentret 15, 8028, BODØ",
+      "value": "MÃ¸rkvedsentret 15, 8028, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991238387",
       "source_date": "2007-06-05",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991238387",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Børge Hetty",
+      "value": "BÃ¸rge Hetty",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991238387/roller",
       "source_date": "2026-08-21",
       "retrieved_at": "2026-10-17T07:47:32+00:00"
@@ -171,7 +171,7 @@
       "retrieved_at": "2026-10-17T07:47:33+00:00"
     }
   ],
-  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991238387.",
-  "last_checked": "2026-10-17T07:47:33+00:00",
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991238387. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:57:39+00:00",
   "changes": []
 }

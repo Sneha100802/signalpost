@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BJØRLØW & BUNÆS DA",
+      "value": "BJÃ˜RLÃ˜W & BUNÃ†S DA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
       "source_date": "1998-08-12",
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:09+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Pål Bunæs",
+      "value": "PÃ¥l BunÃ¦s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587/roller",
       "source_date": "1998-08-12",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     },
     {
       "field": "role:Deltaker med delt ansvar",
-      "value": "Thomas Bjørløw-Larsen",
+      "value": "Thomas BjÃ¸rlÃ¸w-Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979987587/roller",
       "source_date": "1998-08-12",
       "retrieved_at": "2026-10-17T07:48:10+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979987587. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:10+00:00",
+  "last_checked": "2026-10-17T09:59:12+00:00",
   "changes": []
 }

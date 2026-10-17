@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:55+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:48:56+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "AZETS INSIGHT AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993231223/roller",
       "source_date": "2026-06-05",
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993231223. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:56+00:00",
+  "last_checked": "2026-10-17T10:03:26+00:00",
   "changes": []
 }

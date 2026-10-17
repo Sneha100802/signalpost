@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "c/o Enora AS, Grønland 55, 3045, DRAMMEN",
+      "value": "c/o Enora AS, GrÃ¸nland 55, 3045, DRAMMEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983348319",
       "source_date": "2001-08-01",
       "retrieved_at": "2026-10-17T07:49:00+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983348319",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:00+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ENORA AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983348319/roller",
       "source_date": "2026-10-12",
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     }
   ],
-  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983348319.",
-  "last_checked": "2026-10-17T07:49:01+00:00",
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983348319. Gaps: website unreachable or blocked by robots.txt.",
+  "last_checked": "2026-10-17T10:04:46+00:00",
   "changes": []
 }

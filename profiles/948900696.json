@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BYGGM LANDRÅK & SØNNER",
+      "value": "BYGGM LANDRÃ…K & SÃ˜NNER",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "41.000 Oppføring av bygninger",
+      "value": "41.000 OppfÃ¸ring av bygninger",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -102,27 +102,27 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Bjørn Tore Landråk",
+      "value": "BjÃ¸rn Tore LandrÃ¥k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696/roller",
       "source_date": "1991-01-15",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Bjørn Tore Landråk",
+      "value": "BjÃ¸rn Tore LandrÃ¥k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696/roller",
       "source_date": "1996-02-26",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Per Steinar Landråk",
+      "value": "Per Steinar LandrÃ¥k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948900696/roller",
       "source_date": "1996-02-26",
       "retrieved_at": "2026-10-17T07:50:30+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948900696. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:30+00:00",
+  "last_checked": "2026-10-17T10:10:39+00:00",
   "changes": []
 }

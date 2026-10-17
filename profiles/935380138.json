@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "3D TØMMERÅS",
+      "value": "3D TÃ˜MMERÃ…S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935380138",
       "source_date": "2025-04-15",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935380138",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:20+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935380138",
       "source_date": "2025-04-15",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
@@ -88,13 +88,13 @@
     },
     {
       "field": "role:Innehaver",
-      "value": "Anna Emilie Tømmerås",
+      "value": "Anna Emilie TÃ¸mmerÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935380138/roller",
       "source_date": "2025-04-15",
       "retrieved_at": "2026-10-17T07:50:20+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "EP REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935380138/roller",
       "source_date": "2026-03-26",
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935380138. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:20+00:00",
+  "last_checked": "2026-10-17T10:09:43+00:00",
   "changes": []
 }

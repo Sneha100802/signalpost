@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ELVSAASGÅRDEN BORETTSLAG",
+      "value": "ELVSAASGÃ…RDEN BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935108489",
       "source_date": "2025-02-25",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935108489",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -108,7 +108,7 @@
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "EXPO EIENDOM AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935108489/roller",
       "source_date": "2025-02-25",
@@ -130,7 +130,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kristoffer Sølvik Stavik",
+      "value": "Kristoffer SÃ¸lvik Stavik",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935108489/roller",
       "source_date": "2025-02-25",
       "retrieved_at": "2026-10-17T07:49:09+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:49:09+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "REGN10 AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935108489/roller",
       "source_date": "2025-08-05",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 935108489.",
-  "last_checked": "2026-10-17T07:49:09+00:00",
+  "last_checked": "2026-10-17T10:05:06+00:00",
   "changes": []
 }

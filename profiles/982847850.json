@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Anton Engens vei 3, 3050, MJØNDALEN",
+      "value": "Anton Engens vei 3, 3050, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
       "source_date": "2001-01-19",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 340, 3051, MJØNDALEN",
+      "value": "Postboks 340, 3051, MJÃ˜NDALEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
       "source_date": "2001-01-19",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Kjøp, salg og utleie av fast eiendom og hva dermed står i forbindelse.",
+      "value": "KjÃ¸p, salg og utleie av fast eiendom og hva dermed stÃ¥r i forbindelse.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850",
       "source_date": "2001-01-19",
       "retrieved_at": "2026-10-17T07:49:49+00:00"
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:49:49+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT FORRETNINGSPARTNER AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
       "source_date": "2025-03-31",
@@ -200,6 +200,6 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982847850.",
-  "last_checked": "2026-10-17T07:49:50+00:00",
+  "last_checked": "2026-10-17T10:08:04+00:00",
   "changes": []
 }

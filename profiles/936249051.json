@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "purpose",
-      "value": "Eie og forvalte aksjer, verdipapirer og eiendom, samt å drive investeringsvirksomhet, handel, tjenesteyting og annen virksomhet som står i naturlig sammenheng med dette.",
+      "value": "Eie og forvalte aksjer, verdipapirer og eiendom, samt Ã¥ drive investeringsvirksomhet, handel, tjenesteyting og annen virksomhet som stÃ¥r i naturlig sammenheng med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051",
       "source_date": "2025-09-25",
       "retrieved_at": "2026-10-17T07:48:29+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Christoffer Tønnessen",
+      "value": "Christoffer TÃ¸nnessen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936249051/roller",
       "source_date": "2025-11-08",
       "retrieved_at": "2026-10-17T07:48:30+00:00"
@@ -151,6 +151,6 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936249051.",
-  "last_checked": "2026-10-17T07:48:30+00:00",
+  "last_checked": "2026-10-17T10:00:48+00:00",
   "changes": []
 }

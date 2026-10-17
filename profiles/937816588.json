@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Dlh· 49, SK-91901 DLH¡",
+      "value": "Dlh√° 49, SK-91901 DLH√Å",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937816588",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Ruzenka Ovciarikova, Reinslettveien 70, 8009, BODÿ",
+      "value": "c/o Ruzenka Ovciarikova, Reinslettveien 70, 8009, BOD√ò",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937816588",
       "source_date": "2026-07-15",
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "BokmÂl",
+      "value": "Bokm√•l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937816588",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:03+00:00"
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937816588. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:51:04+00:00",
+  "last_checked": "2026-10-17T10:13:50+00:00",
   "changes": []
 }

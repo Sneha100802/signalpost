@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "61.100 Kabelbasert, satellittbasert og trådløs telekommunikasjon",
+      "value": "61.100 Kabelbasert, satellittbasert og trÃ¥dlÃ¸s telekommunikasjon",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531",
       "source_date": "2016-04-30",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Ivareta medlemmenes interesser i tilknytning til og bruk av telekommunikasjonsanlegg som overfører lyd, bilde, kringkastningssendinger, informasjon, data o.l.",
+      "value": "Ivareta medlemmenes interesser i tilknytning til og bruk av telekommunikasjonsanlegg som overfÃ¸rer lyd, bilde, kringkastningssendinger, informasjon, data o.l.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531",
       "source_date": "2016-04-30",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Ulf Fuskevåg",
+      "value": "Ulf FuskevÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531/roller",
       "source_date": "2023-01-10",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Torbjørn Olsen",
+      "value": "TorbjÃ¸rn Olsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531/roller",
       "source_date": "2023-01-10",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:50:38+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "ASKER OG BÆRUM BOLIGBYGGELAG BA",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "ASKER OG BÃ†RUM BOLIGBYGGELAG BA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916922531/roller",
       "source_date": "2016-04-30",
       "retrieved_at": "2026-10-17T07:50:38+00:00"
@@ -207,6 +207,6 @@
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916922531.",
-  "last_checked": "2026-10-17T07:50:38+00:00",
+  "last_checked": "2026-10-17T10:11:36+00:00",
   "changes": []
 }

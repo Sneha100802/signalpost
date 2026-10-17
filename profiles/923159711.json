@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "Olav V gate 58, 8004, BODØ",
+      "value": "Olav V gate 58, 8004, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
       "source_date": "2019-09-05",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923159711",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:56+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923159711. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:57+00:00",
+  "last_checked": "2026-10-17T10:08:31+00:00",
   "changes": []
 }

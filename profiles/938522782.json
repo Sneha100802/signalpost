@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "10 TRINN MØVIG SKOLE FORELDREFORENING",
+      "value": "10 TRINN MÃ˜VIG SKOLE FORELDREFORENING",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "c/o Are Nøkland, Voieåsen 2, 4623, KRISTIANSAND S",
+      "value": "c/o Are NÃ¸kland, VoieÃ¥sen 2, 4623, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Voieåsen 2, 4623, KRISTIANSAND S",
+      "value": "VoieÃ¥sen 2, 4623, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:49+00:00"
@@ -102,27 +102,27 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Are Nøkland",
+      "value": "Are NÃ¸kland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kåre Henning Åsly",
+      "value": "KÃ¥re Henning Ã…sly",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Laila Nøkland",
+      "value": "Laila NÃ¸kland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/938522782/roller",
       "source_date": "2026-10-06",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 938522782. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:50+00:00",
+  "last_checked": "2026-10-17T10:12:31+00:00",
   "changes": []
 }

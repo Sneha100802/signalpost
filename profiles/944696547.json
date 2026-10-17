@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "BJØRNDALSLIA BORETTSLAG",
+      "value": "BJÃ˜RNDALSLIA BORETTSLAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:39+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Storbjørnen 3, 8029, BODØ",
+      "value": "StorbjÃ¸rnen 3, 8029, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:39+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 214, 8001, BODØ",
+      "value": "Postboks 214, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:39+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:39+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:48:39+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
       "source_date": "2016-06-17",
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Stian Malvin Møllerhaug Sæbø",
+      "value": "Stian Malvin MÃ¸llerhaug SÃ¦bÃ¸",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
       "source_date": "2026-05-07",
       "retrieved_at": "2026-10-17T07:48:40+00:00"
@@ -164,7 +164,7 @@
       "retrieved_at": "2026-10-17T07:48:40+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "BOLIGBYGGELAGET NOBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944696547/roller",
       "source_date": "2026-05-07",
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 944696547.",
-  "last_checked": "2026-10-17T07:48:40+00:00",
+  "last_checked": "2026-10-17T10:01:43+00:00",
   "changes": []
 }

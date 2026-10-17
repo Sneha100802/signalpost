@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "AK MARTINSEN ETTERSØK",
+      "value": "AK MARTINSEN ETTERSÃ˜K",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928023605",
       "source_date": "2021-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Øverbygda 339, 6450, HJELSET",
+      "value": "Ã˜verbygda 339, 6450, HJELSET",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928023605",
       "source_date": "2021-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -53,14 +53,14 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928023605",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:00+00:00"
     },
     {
       "field": "sector",
-      "value": "8200 Personlig næringsdrivende",
+      "value": "8200 Personlig nÃ¦ringsdrivende",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928023605",
       "source_date": "2021-10-29",
       "retrieved_at": "2026-10-17T07:48:00+00:00"
@@ -95,6 +95,6 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 928023605. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:01+00:00",
+  "last_checked": "2026-10-17T09:58:40+00:00",
   "changes": []
 }

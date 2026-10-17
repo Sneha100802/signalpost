@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "18.130 Ferdiggjøring før trykking og publisering",
+      "value": "18.130 FerdiggjÃ¸ring fÃ¸r trykking og publisering",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
       "source_date": "2003-09-11",
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985999368",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:26+00:00"
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985999368. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:27+00:00",
+  "last_checked": "2026-10-17T10:00:36+00:00",
   "changes": []
 }

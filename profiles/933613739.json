@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Flöjelbergsgatan 8b, SE-431 37 MÖLNDAL",
+      "value": "FlÃ¶jelbergsgatan 8b, SE-431 37 MÃ–LNDAL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933613739",
       "source_date": "2024-07-19",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
     },
     {
       "field": "postal_address",
-      "value": "SNR (Powertech Engineering Morgan), Opdølvegen 2, 6450, HJELSET",
+      "value": "SNR (Powertech Engineering Morgan), OpdÃ¸lvegen 2, 6450, HJELSET",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933613739",
       "source_date": "2024-07-19",
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933613739",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:52+00:00"
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933613739. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:53+00:00",
+  "last_checked": "2026-10-17T10:03:02+00:00",
   "changes": []
 }

@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "68.320 Eiendomsforvaltning på oppdrag",
+      "value": "68.320 Eiendomsforvaltning pÃ¥ oppdrag",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918822119",
       "source_date": "2019-06-28",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918822119",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Bygge og vedlikeholde en skogsbilveg fra Rv 249 v/Lindstad over Skavdalsbrua til Amundrud skog & Rolig skog. Redusere andelseiernes kostnader til uttransport av tømmer og å gjøre skog i vegens nytteområde tilgjengelig for aktiv skogforvaltning.",
+      "value": "Bygge og vedlikeholde en skogsbilveg fra Rv 249 v/Lindstad over Skavdalsbrua til Amundrud skog & Rolig skog. Redusere andelseiernes kostnader til uttransport av tÃ¸mmer og Ã¥ gjÃ¸re skog i vegens nytteomrÃ¥de tilgjengelig for aktiv skogforvaltning.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918822119",
       "source_date": "2019-06-28",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -116,7 +116,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åse Kristin Kolbergsrud",
+      "value": "Ã…se Kristin Kolbergsrud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918822119/roller",
       "source_date": "2023-04-04",
       "retrieved_at": "2026-10-17T07:49:01+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:49:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "DITT REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918822119/roller",
       "source_date": "2020-06-08",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918822119. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:01+00:00",
+  "last_checked": "2026-10-17T10:04:46+00:00",
   "changes": []
 }

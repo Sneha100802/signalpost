@@ -32,7 +32,7 @@
     },
     {
       "field": "postal_address",
-      "value": "v/ Sørlandet Boligbyggelag, Rådhusgata 14B, 4611, KRISTIANSAND S",
+      "value": "v/ SÃ¸rlandet Boligbyggelag, RÃ¥dhusgata 14B, 4611, KRISTIANSAND S",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -115,15 +115,15 @@
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "BOSØR BBL",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443/roller",
       "source_date": "2002-11-19",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lasse Moen Sørensen",
+      "value": "Lasse Moen SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443/roller",
       "source_date": "2025-06-23",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Curt Below Hvolbæk",
+      "value": "Curt Below HvolbÃ¦k",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443/roller",
       "source_date": "2025-06-23",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -164,8 +164,8 @@
       "retrieved_at": "2026-10-17T07:48:01+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "BOSØR BBL",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "BOSÃ˜R BBL",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953265443/roller",
       "source_date": "2004-03-13",
       "retrieved_at": "2026-10-17T07:48:01+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953265443.",
-  "last_checked": "2026-10-17T07:48:01+00:00",
+  "last_checked": "2026-10-17T09:58:42+00:00",
   "changes": []
 }

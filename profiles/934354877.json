@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934354877",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:51:07+00:00"
@@ -115,7 +115,7 @@
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     },
     {
-      "field": "role:Forretningsfører",
+      "field": "role:ForretningsfÃ¸rer",
       "value": "BATE BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934354877/roller",
       "source_date": "2024-10-28",
@@ -150,7 +150,7 @@
       "retrieved_at": "2026-10-17T07:51:07+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "JANSSON & LARSEN REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934354877/roller",
       "source_date": "2024-10-28",
@@ -193,6 +193,6 @@
     }
   ],
   "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 934354877.",
-  "last_checked": "2026-10-17T07:51:07+00:00",
+  "last_checked": "2026-10-17T10:14:04+00:00",
   "changes": []
 }

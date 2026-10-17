@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Drive virksomhet som bank innenfor rammen av den lovgivning som til enhver tid gjelder. Selskapet kan utføre alle forretninger og tjenester som vanlig eller naturlig er forbundet med bankvirksomhet.",
+      "value": "Drive virksomhet som bank innenfor rammen av den lovgivning som til enhver tid gjelder. Selskapet kan utfÃ¸re alle forretninger og tjenester som vanlig eller naturlig er forbundet med bankvirksomhet.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445",
       "source_date": "1995-03-12",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Trond Søraas",
+      "value": "Trond SÃ¸raas",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
       "source_date": "2026-05-21",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Eirik Børve Monsen",
+      "value": "Eirik BÃ¸rve Monsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
       "source_date": "2026-05-21",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -172,7 +172,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Arild Bjørn Hansen",
+      "value": "Arild BjÃ¸rn Hansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914864445/roller",
       "source_date": "2026-05-21",
       "retrieved_at": "2026-10-17T07:47:27+00:00"
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914864445. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:28+00:00",
+  "last_checked": "2026-10-17T09:57:24+00:00",
   "changes": []
 }

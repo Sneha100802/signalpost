@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "MARIHØNA BARNEHAGE SA",
+      "value": "MARIHÃ˜NA BARNEHAGE SA",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -18,14 +18,14 @@
     },
     {
       "field": "industry",
-      "value": "85.100 Førskoleundervisning og drift av barnehager",
+      "value": "85.100 FÃ¸rskoleundervisning og drift av barnehager",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
     },
     {
       "field": "address",
-      "value": "Engehaugen 15, 2818, GJØVIK",
+      "value": "Engehaugen 15, 2818, GJÃ˜VIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -81,7 +81,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -95,7 +95,7 @@
     },
     {
       "field": "purpose",
-      "value": "Etablere, eie og drive barnehage i Gjøvik kommune for andelshaveres barn.",
+      "value": "Etablere, eie og drive barnehage i GjÃ¸vik kommune for andelshaveres barn.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472",
       "source_date": "1995-02-20",
       "retrieved_at": "2026-10-17T07:48:02+00:00"
@@ -130,14 +130,14 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Lisa Sydbøge",
+      "value": "Lisa SydbÃ¸ge",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472/roller",
       "source_date": "2025-07-11",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Aina Renée Holmsveen",
+      "value": "Aina RenÃ©e Holmsveen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472/roller",
       "source_date": "2025-07-11",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -151,7 +151,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Torbjørn Bekkelien",
+      "value": "TorbjÃ¸rn Bekkelien",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472/roller",
       "source_date": "2025-07-11",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
@@ -171,14 +171,14 @@
       "retrieved_at": "2026-10-17T07:48:03+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "PBL REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472/roller",
       "source_date": "2026-09-29",
       "retrieved_at": "2026-10-17T07:48:03+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "FRISIKT VEST AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/960923472/roller",
       "source_date": "2026-09-29",
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:48:03+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 960923472.",
-  "last_checked": "2026-10-17T07:48:03+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 960923472. Gaps: website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-17T09:58:53+00:00",
   "changes": []
 }

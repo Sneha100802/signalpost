@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Nøsterudveien 75, 3060, SVELVIK",
+      "value": "NÃ¸sterudveien 75, 3060, SVELVIK",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
       "source_date": "2026-06-04",
       "retrieved_at": "2026-10-17T07:49:45+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:49:45+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende.",
+      "value": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder Ã¥ delta i andre selskaper med lignende virksomhet, kjÃ¸p og salg av aksjer, eller pÃ¥ annen mÃ¥te gjÃ¸re seg interessert i andre foretagende.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865",
       "source_date": "2026-06-04",
       "retrieved_at": "2026-10-17T07:49:45+00:00"
@@ -102,20 +102,20 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Trond Kjeldås",
+      "value": "Trond KjeldÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865/roller",
       "source_date": "2026-06-04",
       "retrieved_at": "2026-10-17T07:49:45+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Trond Kjeldås",
+      "value": "Trond KjeldÃ¥s",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/937827865/roller",
       "source_date": "2026-06-04",
       "retrieved_at": "2026-10-17T07:49:45+00:00"
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 937827865. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:49:45+00:00",
+  "last_checked": "2026-10-17T10:07:31+00:00",
   "changes": []
 }

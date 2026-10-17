@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "LANDBRUKSSELSKAPET I MØRE OG ROMSDAL STI",
+      "value": "LANDBRUKSSELSKAPET I MÃ˜RE OG ROMSDAL STI",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990305609",
       "source_date": "2007-10-29",
       "retrieved_at": "2026-10-17T07:49:00+00:00"
@@ -116,14 +116,14 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Olav Håkon Ulfsnes",
+      "value": "Olav HÃ¥kon Ulfsnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990305609/roller",
       "source_date": "2026-06-23",
       "retrieved_at": "2026-10-17T07:49:00+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Vebjørn Hansen Berg",
+      "value": "VebjÃ¸rn Hansen Berg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990305609/roller",
       "source_date": "2026-06-23",
       "retrieved_at": "2026-10-17T07:49:00+00:00"
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990305609.",
-  "last_checked": "2026-10-17T07:49:00+00:00",
+  "last_checked": "2026-10-17T10:04:35+00:00",
   "changes": []
 }

@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -109,7 +109,7 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Øyvind Gartland",
+      "value": "Ã˜yvind Gartland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/942296746/roller",
       "source_date": "2022-11-04",
       "retrieved_at": "2026-10-17T07:47:17+00:00"
@@ -165,6 +165,6 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 942296746.",
-  "last_checked": "2026-10-17T07:47:18+00:00",
+  "last_checked": "2026-10-17T09:57:05+00:00",
   "changes": []
 }

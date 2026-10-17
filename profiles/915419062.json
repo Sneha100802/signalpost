@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Petroleums-virksomhet på norsk sokkel, inkludert utbygging og utvinning av olje og gass, og hva dermed står i forbindelse, samt ved aksjetegning eller på annen måte å delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
+      "value": "Petroleums-virksomhet pÃ¥ norsk sokkel, inkludert utbygging og utvinning av olje og gass, og hva dermed stÃ¥r i forbindelse, samt ved aksjetegning eller pÃ¥ annen mÃ¥te Ã¥ delta i slik eller annen virksomhet alene eller i samarbeid med andre foretagender og interesser.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062",
       "source_date": "2015-05-20",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -193,7 +193,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Per Magne Bjellvåg",
+      "value": "Per Magne BjellvÃ¥g",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
       "source_date": "2025-08-30",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -207,7 +207,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Eivind Sæterdal Bøyum",
+      "value": "Eivind SÃ¦terdal BÃ¸yum",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
       "source_date": "2025-08-30",
       "retrieved_at": "2026-10-17T07:46:48+00:00"
@@ -227,7 +227,7 @@
       "retrieved_at": "2026-10-17T07:46:48+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "TMF NORWAY AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915419062/roller",
       "source_date": "2025-11-05",
@@ -277,6 +277,6 @@
     }
   ],
   "explanation": "39 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915419062.",
-  "last_checked": "2026-10-17T07:46:48+00:00",
+  "last_checked": "2026-10-17T09:56:07+00:00",
   "changes": []
 }

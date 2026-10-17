@@ -18,7 +18,7 @@
     },
     {
       "field": "industry",
-      "value": "90.201 Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "value": "90.201 UtÃ¸vende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932253984",
       "source_date": "2023-10-30",
       "retrieved_at": "2026-10-17T07:50:15+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Framføre musikk for eit publikum og jobbe i fellesskap som eit ensemble.",
+      "value": "FramfÃ¸re musikk for eit publikum og jobbe i fellesskap som eit ensemble.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932253984",
       "source_date": "2023-10-30",
       "retrieved_at": "2026-10-17T07:50:15+00:00"
@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:16+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ANCE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932253984/roller",
       "source_date": "2024-04-09",
@@ -137,6 +137,6 @@
     }
   ],
   "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932253984. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:16+00:00",
+  "last_checked": "2026-10-17T10:09:29+00:00",
   "changes": []
 }

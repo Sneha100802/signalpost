@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Rua da Ingreja no 587 Croca, Penafil, PT-4560-064 CASTELÖES PNF",
+      "value": "Rua da Ingreja no 587 Croca, Penafil, PT-4560-064 CASTELÃ–ES PNF",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932302594",
       "source_date": "2023-11-15",
       "retrieved_at": "2026-10-17T07:48:12+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Thor Consulting Bodø AS, Sjøgata 3, 8006, BODØ",
+      "value": "c/o Thor Consulting BodÃ¸ AS, SjÃ¸gata 3, 8006, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932302594",
       "source_date": "2023-11-15",
       "retrieved_at": "2026-10-17T07:48:12+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932302594",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:12+00:00"
@@ -102,6 +102,6 @@
     }
   ],
   "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932302594. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:13+00:00",
+  "last_checked": "2026-10-17T09:59:17+00:00",
   "changes": []
 }

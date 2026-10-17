@@ -4,7 +4,7 @@
   "facts": [
     {
       "field": "name",
-      "value": "ABC-MØBLER HOLDING AS",
+      "value": "ABC-MÃ˜BLER HOLDING AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Petter Engens vei 2, 8071, BODØ",
+      "value": "Petter Engens vei 2, 8071, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 4161 Jensvoll, 8089, BODØ",
+      "value": "Postboks 4161 Jensvoll, 8089, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -88,7 +88,7 @@
     },
     {
       "field": "purpose",
-      "value": "Deltakelse og investeringer i andre virksomheter og investeringer i verdipapirer, samt det som naturlig står i forbindelse med dette.",
+      "value": "Deltakelse og investeringer i andre virksomheter og investeringer i verdipapirer, samt det som naturlig stÃ¥r i forbindelse med dette.",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828",
       "source_date": "2014-02-18",
       "retrieved_at": "2026-10-17T07:47:54+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:47:55+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "MR REGNSKAP AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913255828/roller",
       "source_date": "2025-09-22",
@@ -186,6 +186,6 @@
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913255828.",
-  "last_checked": "2026-10-17T07:47:56+00:00",
+  "last_checked": "2026-10-17T09:58:32+00:00",
   "changes": []
 }

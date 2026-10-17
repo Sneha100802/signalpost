@@ -25,7 +25,7 @@
     },
     {
       "field": "address",
-      "value": "Grønnevollen 5, 5016, BERGEN",
+      "value": "GrÃ¸nnevollen 5, 5016, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976547306",
       "source_date": "1996-06-28",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976547306",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "purpose",
-      "value": "Utføre tjenester innenfor områdene: - evaluering av medisinsk-teknisk utstyr. - behovsanalyse, utstyrsplanlegging og utstyrsutvelgelse for helsesektoren. -idriftsettelse i forbindelse med større anskaffelse av utstyr til helsesektoren.- oppbygging av organisasjon og rutiner i forbindelse med anskaffelse, håndtering, vedlikehold og avhending av utstyr for helsesektoren. - vedlikholdstjenester til brukere av medisinsk- teknisk utstyr. for flg. målgruppe: Brukere av medisinsk-teknisk utstyr utenfor Haukeland Sykehus. - privatpraktiserende spesialister. - private medisinske sentre. - offentlig helsevesen. - instanser og institusjoner innen- og utenlands som har behov for prosjektadministrasjon i forbindelse med behovskartlegging, innkjøpsadministrasjon, installering og opplæring i forbindelse med utstyrshåndtering.  ",
+      "value": "UtfÃ¸re tjenester innenfor omrÃ¥dene: - evaluering av medisinsk-teknisk utstyr. - behovsanalyse, utstyrsplanlegging og utstyrsutvelgelse for helsesektoren. -idriftsettelse i forbindelse med stÃ¸rre anskaffelse av utstyr til helsesektoren.- oppbygging av organisasjon og rutiner i forbindelse med anskaffelse, hÃ¥ndtering, vedlikehold og avhending av utstyr for helsesektoren. - vedlikholdstjenester til brukere av medisinsk- teknisk utstyr. for flg. mÃ¥lgruppe: Brukere av medisinsk-teknisk utstyr utenfor Haukeland Sykehus. - privatpraktiserende spesialister. - private medisinske sentre. - offentlig helsevesen. - instanser og institusjoner innen- og utenlands som har behov for prosjektadministrasjon i forbindelse med behovskartlegging, innkjÃ¸psadministrasjon, installering og opplÃ¦ring i forbindelse med utstyrshÃ¥ndtering.  ",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976547306",
       "source_date": "1996-06-28",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -101,15 +101,15 @@
       "retrieved_at": "2026-10-17T07:50:36+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "Gisle Arnt Sørensen",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "Gisle Arnt SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976547306/roller",
       "source_date": "1998-12-14",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
-      "value": "Gisle Arnt Sørensen",
+      "value": "Gisle Arnt SÃ¸rensen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/976547306/roller",
       "source_date": "1999-01-25",
       "retrieved_at": "2026-10-17T07:50:36+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 976547306. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:50:37+00:00",
+  "last_checked": "2026-10-17T10:11:22+00:00",
   "changes": []
 }

@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982743427",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -109,21 +109,21 @@
     },
     {
       "field": "role:Daglig leder",
-      "value": "Hilde Karin Køhler Sommerfeldt",
+      "value": "Hilde Karin KÃ¸hler Sommerfeldt",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982743427/roller",
       "source_date": "2023-04-25",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Inger Ellen Sandåker Nicolaisen",
+      "value": "Inger Ellen SandÃ¥ker Nicolaisen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982743427/roller",
       "source_date": "2026-10-12",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Kirsti Synnøve Kjellin",
+      "value": "Kirsti SynnÃ¸ve Kjellin",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982743427/roller",
       "source_date": "2026-10-12",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
@@ -143,7 +143,7 @@
       "retrieved_at": "2026-10-17T07:50:29+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
+      "field": "role:RegnskapsfÃ¸rer",
       "value": "ECIT NORIAN AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982743427/roller",
       "source_date": "2021-11-12",
@@ -190,9 +190,40 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982743427",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:29+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "org number found on page",
+      "source_url": "https://ahandtochildren.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:10:37+00:00"
+    },
+    {
+      "field": "email",
+      "value": "info@ahandtochildren.com",
+      "source_url": "https://ahandtochildren.com/kontakt/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:10:37+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982743427.",
-  "last_checked": "2026-10-17T07:50:29+00:00",
-  "changes": []
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982743427. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
+  "last_checked": "2026-10-17T10:11:58+00:00",
+  "changes": [
+    {
+      "field": "email",
+      "old": [],
+      "new": [
+        "info@ahandtochildren.com"
+      ],
+      "at": "2026-10-17T10:11:58+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "org number found on page"
+      ],
+      "at": "2026-10-17T10:11:58+00:00"
+    }
+  ]
 }

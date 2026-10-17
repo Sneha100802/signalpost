@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Dønnestadveien 98, 4658, TVEIT",
+      "value": "DÃ¸nnestadveien 98, 4658, TVEIT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915564739",
       "source_date": "2015-07-16",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Espen Hodne, Båsefjellveien 9, 4656, HAMRESANDEN",
+      "value": "c/o Espen Hodne, BÃ¥sefjellveien 9, 4656, HAMRESANDEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915564739",
       "source_date": "2015-07-16",
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -67,7 +67,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915564739",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:47:46+00:00"
@@ -123,6 +123,6 @@
     }
   ],
   "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 915564739. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:47:47+00:00",
+  "last_checked": "2026-10-17T09:58:13+00:00",
   "changes": []
 }

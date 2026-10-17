@@ -60,7 +60,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916914660",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:11+00:00"
@@ -109,6 +109,6 @@
     }
   ],
   "explanation": "15 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916914660. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:13+00:00",
+  "last_checked": "2026-10-17T09:59:16+00:00",
   "changes": []
 }

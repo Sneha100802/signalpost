@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "c/o Møre og Romsdal Boligbyggelag, Strandgata 5, 6415, MOLDE",
+      "value": "c/o MÃ¸re og Romsdal Boligbyggelag, Strandgata 5, 6415, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
     },
     {
       "field": "postal_address",
-      "value": "c/o Møre og Romsdal Boligbyggelag, Postboks 2036, 6402, MOLDE",
+      "value": "c/o MÃ¸re og Romsdal Boligbyggelag, Postboks 2036, 6402, MOLDE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350",
       "source_date": "1995-02-19",
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:50:27+00:00"
@@ -115,15 +115,15 @@
       "retrieved_at": "2026-10-17T07:50:27+00:00"
     },
     {
-      "field": "role:Forretningsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:ForretningsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350/roller",
       "source_date": "2006-01-14",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "role:Styrets leder",
-      "value": "Iver Kåre Mjelve",
+      "value": "Iver KÃ¥re Mjelve",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350/roller",
       "source_date": "2026-10-15",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -144,7 +144,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Camilla Høgmann Vaarli",
+      "value": "Camilla HÃ¸gmann Vaarli",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350/roller",
       "source_date": "2026-10-15",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -165,7 +165,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Thea Kristine Hagen Svenøy",
+      "value": "Thea Kristine Hagen SvenÃ¸y",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350/roller",
       "source_date": "2026-10-15",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -192,8 +192,8 @@
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
-      "field": "role:Regnskapsfører",
-      "value": "MØRE OG ROMSDAL BOLIGBYGGELAG",
+      "field": "role:RegnskapsfÃ¸rer",
+      "value": "MÃ˜RE OG ROMSDAL BOLIGBYGGELAG",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/948793350/roller",
       "source_date": "2004-06-08",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
@@ -242,6 +242,6 @@
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 948793350.",
-  "last_checked": "2026-10-17T07:50:28+00:00",
+  "last_checked": "2026-10-17T10:10:30+00:00",
   "changes": []
 }

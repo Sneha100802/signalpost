@@ -25,14 +25,14 @@
     },
     {
       "field": "address",
-      "value": "Hålogatun, Reinslettveien 1, 8009, BODØ",
+      "value": "HÃ¥logatun, Reinslettveien 1, 8009, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
       "source_date": "2003-02-06",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
     },
     {
       "field": "postal_address",
-      "value": "Postboks 779, 8001, BODØ",
+      "value": "Postboks 779, 8001, BODÃ˜",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
       "source_date": "2003-02-06",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
@@ -74,7 +74,7 @@
     },
     {
       "field": "language_form",
-      "value": "Bokmål",
+      "value": "BokmÃ¥l",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:14+00:00"
@@ -123,7 +123,7 @@
     },
     {
       "field": "role:Styremedlem",
-      "value": "Harald Bodøgaard",
+      "value": "Harald BodÃ¸gaard",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
       "source_date": "2024-03-15",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -137,7 +137,7 @@
     },
     {
       "field": "role:Varamedlem",
-      "value": "Jørgen Thommesen Fjørtoft",
+      "value": "JÃ¸rgen Thommesen FjÃ¸rtoft",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985349177/roller",
       "source_date": "2024-03-15",
       "retrieved_at": "2026-10-17T07:48:15+00:00"
@@ -158,6 +158,6 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 985349177. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T07:48:15+00:00",
+  "last_checked": "2026-10-17T09:59:21+00:00",
   "changes": []
 }
