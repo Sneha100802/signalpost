@@ -225,10 +225,30 @@
       "source_url": "https://www.bien.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T09:59:36+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Bien Sparebank ASA is a local bank offering personal contact and financial services such as daily banking, loans, insurance, savings, and pensions.",
+      "source_url": "https://www.bien.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:02+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Dagligbank",
+        "Forsikring",
+        "Lån",
+        "Sparing og pensjon",
+        "Mobilbank og nettbank"
+      ],
+      "source_url": "https://www.bien.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:02+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991853995. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:01:07+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991853995. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:29:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -245,6 +265,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:01:07+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Bien Sparebank ASA is a local bank offering personal contact and financial services such as daily banking, loans, insurance, savings, and pensions."
+      ],
+      "at": "2026-10-17T10:29:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Dagligbank",
+          "Forsikring",
+          "Lån",
+          "Sparing og pensjon",
+          "Mobilbank og nettbank"
+        ]
+      ],
+      "at": "2026-10-17T10:29:02+00:00"
     }
   ]
 }

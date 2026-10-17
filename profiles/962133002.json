@@ -232,10 +232,29 @@
       "source_url": "https://www.boligstiftelsenitrondheim.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:09:05+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Boligstiftelsen i Trondheim aims to provide secure, long-term rental housing and contribute to a third housing sector for individuals who face economic or social challenges entering the ordinary housing market.",
+      "source_url": "https://www.boligstiftelsenitrondheim.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:02+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "4-romsleiligheter",
+        "2-romsleiligheter",
+        "Familieleiligheter",
+        "Boligutleie"
+      ],
+      "source_url": "https://www.boligstiftelsenitrondheim.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:02+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:10:19+00:00",
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002.",
+  "last_checked": "2026-10-17T10:25:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -252,6 +271,27 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:10:19+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Boligstiftelsen i Trondheim aims to provide secure, long-term rental housing and contribute to a third housing sector for individuals who face economic or social challenges entering the ordinary housing market."
+      ],
+      "at": "2026-10-17T10:25:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "4-romsleiligheter",
+          "2-romsleiligheter",
+          "Familieleiligheter",
+          "Boligutleie"
+        ]
+      ],
+      "at": "2026-10-17T10:25:02+00:00"
     }
   ]
 }

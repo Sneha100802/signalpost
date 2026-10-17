@@ -228,10 +228,10 @@
     },
     {
       "field": "description",
-      "value": "Engøyholmen Kystkultursenter operates as a competence center for coastal culture in Stavanger, engaging in activities such as boat and building restoration, craftsmanship, venue rentals, and boat tours.",
+      "value": "Engøyholmen Kystkultursenter operates as a competence center for coastal culture in Stavanger, engaging in activities such as boat and building restoration, school visits, and work inclusion.",
       "source_url": "https://www.engoyholmen.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:18:53+00:00"
+      "retrieved_at": "2026-10-17T10:23:12+00:00"
     },
     {
       "field": "products",
@@ -247,7 +247,7 @@
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871340412.",
-  "last_checked": "2026-10-17T10:18:53+00:00",
+  "last_checked": "2026-10-17T10:23:12+00:00",
   "changes": [
     {
       "field": "email",
@@ -285,6 +285,16 @@
         ]
       ],
       "at": "2026-10-17T10:18:53+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Engøyholmen Kystkultursenter operates as a competence center for coastal culture in Stavanger, engaging in activities such as boat and building restoration, craftsmanship, venue rentals, and boat tours."
+      ],
+      "new": [
+        "Engøyholmen Kystkultursenter operates as a competence center for coastal culture in Stavanger, engaging in activities such as boat and building restoration, school visits, and work inclusion."
+      ],
+      "at": "2026-10-17T10:23:12+00:00"
     }
   ]
 }

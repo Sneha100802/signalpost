@@ -225,10 +225,28 @@
       "source_url": "https://www.capsoltechnologies.com/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:11:11+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Capsol Technologies ASA is a carbon capture technology provider that offers post-combustion point source carbon capture and heat recovery systems using a safe solvent.",
+      "source_url": "https://www.capsoltechnologies.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "CapsolEoP",
+        "CapsolGT",
+        "CapsolGo"
+      ],
+      "source_url": "https://www.capsoltechnologies.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:32+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:12:32+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457.",
+  "last_checked": "2026-10-17T10:23:32+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -237,6 +255,26 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:12:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Capsol Technologies ASA is a carbon capture technology provider that offers post-combustion point source carbon capture and heat recovery systems using a safe solvent."
+      ],
+      "at": "2026-10-17T10:23:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "CapsolEoP",
+          "CapsolGT",
+          "CapsolGo"
+        ]
+      ],
+      "at": "2026-10-17T10:23:32+00:00"
     }
   ]
 }

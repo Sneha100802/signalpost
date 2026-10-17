@@ -168,7 +168,7 @@
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912992101. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:18:41+00:00",
+  "last_checked": "2026-10-17T10:22:52+00:00",
   "changes": [
     {
       "field": "website_verified",

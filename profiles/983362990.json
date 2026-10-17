@@ -155,10 +155,30 @@
       "source_url": "https://www.gripdagen.org",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:02:27+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Stiftelsen Grip Dagen legger til rette for ulike fritidsaktiviteter for utviklingshemmede i spesifikke kommuneler.",
+      "source_url": "https://www.gripdagen.org",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:23+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Mandagsklubb",
+        "Torsdagstrening",
+        "Danmarkstur",
+        "Julebordstur til Smedsgården",
+        "Julebord"
+      ],
+      "source_url": "https://www.gripdagen.org",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:23+00:00"
     }
   ],
-  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:03:45+00:00",
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:27:23+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -167,6 +187,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:03:45+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen Grip Dagen legger til rette for ulike fritidsaktiviteter for utviklingshemmede i spesifikke kommuneler."
+      ],
+      "at": "2026-10-17T10:27:23+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Mandagsklubb",
+          "Torsdagstrening",
+          "Danmarkstur",
+          "Julebordstur til Smedsgården",
+          "Julebord"
+        ]
+      ],
+      "at": "2026-10-17T10:27:23+00:00"
     }
   ]
 }

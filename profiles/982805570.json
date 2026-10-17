@@ -225,10 +225,30 @@
       "source_url": "https://www.aurora-verksted.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:07:36+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Aurora Verksted SA er et arbeidssted for mennesker med og uten funksjonshemminger som produserer varer innen tekstil og keramikk, skaper kunst og design, samt driver kantine og egne butikker.",
+      "source_url": "https://www.aurora-verksted.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:13+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Tekstilprodukter",
+        "Keramikk",
+        "Kunst",
+        "Design",
+        "Klær"
+      ],
+      "source_url": "https://www.aurora-verksted.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:13+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:08:54+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570.",
+  "last_checked": "2026-10-17T10:27:13+00:00",
   "changes": [
     {
       "field": "email",
@@ -245,6 +265,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:08:54+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Aurora Verksted SA er et arbeidssted for mennesker med og uten funksjonshemminger som produserer varer innen tekstil og keramikk, skaper kunst og design, samt driver kantine og egne butikker."
+      ],
+      "at": "2026-10-17T10:27:13+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Tekstilprodukter",
+          "Keramikk",
+          "Kunst",
+          "Design",
+          "Klær"
+        ]
+      ],
+      "at": "2026-10-17T10:27:13+00:00"
     }
   ]
 }

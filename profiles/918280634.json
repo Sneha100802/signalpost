@@ -239,10 +239,30 @@
       "source_url": "https://www.dellia.com/en",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:07:09+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Dellia Group offers a range of rapidly growing and popular FMCG brands primarily within the grocery, kiosk, and specialist retail sectors.",
+      "source_url": "https://www.dellia.com/en",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:52+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Dried mango",
+        "Dried peaches",
+        "Sunshine Delights",
+        "Dippies",
+        "A Date With"
+      ],
+      "source_url": "https://www.dellia.com/en",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:52+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918280634. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:08:27+00:00",
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918280634.",
+  "last_checked": "2026-10-17T10:23:52+00:00",
   "changes": [
     {
       "field": "email",
@@ -259,6 +279,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:08:27+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Dellia Group offers a range of rapidly growing and popular FMCG brands primarily within the grocery, kiosk, and specialist retail sectors."
+      ],
+      "at": "2026-10-17T10:23:52+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Dried mango",
+          "Dried peaches",
+          "Sunshine Delights",
+          "Dippies",
+          "A Date With"
+        ]
+      ],
+      "at": "2026-10-17T10:23:52+00:00"
     }
   ]
 }

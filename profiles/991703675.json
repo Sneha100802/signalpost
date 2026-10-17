@@ -155,10 +155,29 @@
       "source_url": "https://4h.no/rogaland/",
       "source_date": null,
       "retrieved_at": "2026-10-17T09:59:29+00:00"
+    },
+    {
+      "field": "description",
+      "value": "4H Rogaland is a regional branch of a nationwide, volunteer-based children and youth organisation offering activities, camps, and courses.",
+      "source_url": "https://4h.no/rogaland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:53+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "leirbukse",
+        "instruktørkurs",
+        "klubbrådgiversamling",
+        "helgekurs og leir"
+      ],
+      "source_url": "https://4h.no/rogaland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:53+00:00"
     }
   ],
-  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991703675. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:01:00+00:00",
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 991703675. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:28:53+00:00",
   "changes": [
     {
       "field": "email",
@@ -175,6 +194,27 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:01:00+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "4H Rogaland is a regional branch of a nationwide, volunteer-based children and youth organisation offering activities, camps, and courses."
+      ],
+      "at": "2026-10-17T10:28:53+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "leirbukse",
+          "instruktørkurs",
+          "klubbrådgiversamling",
+          "helgekurs og leir"
+        ]
+      ],
+      "at": "2026-10-17T10:28:53+00:00"
     }
   ]
 }

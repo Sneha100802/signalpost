@@ -134,10 +134,28 @@
       "source_url": "https://www.8mars.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:09:48+00:00"
+    },
+    {
+      "field": "description",
+      "value": "The organization marks the International Women's Day in Trondheim through events such as rallies, marches, and festival programs.",
+      "source_url": "https://www.8mars.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:42+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Torgmøte",
+        "Festmøte",
+        "Festivalprogram"
+      ],
+      "source_url": "https://www.8mars.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:23:42+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916552890. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:11:06+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916552890. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:23:42+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -146,6 +164,26 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:11:06+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "The organization marks the International Women's Day in Trondheim through events such as rallies, marches, and festival programs."
+      ],
+      "at": "2026-10-17T10:23:42+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Torgmøte",
+          "Festmøte",
+          "Festivalprogram"
+        ]
+      ],
+      "at": "2026-10-17T10:23:42+00:00"
     }
   ]
 }

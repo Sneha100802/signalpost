@@ -281,10 +281,30 @@
       "source_url": "https://norconsult.com/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:05:07+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Norconsult combines engineering, architecture, and digital expertise to provide consulting services for planning, design, infrastructure, and sustainable development projects.",
+      "source_url": "https://norconsult.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:12+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Architecture",
+        "Building and Property",
+        "Digitalisation",
+        "Infrastructure",
+        "Renewable Energy"
+      ],
+      "source_url": "https://norconsult.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:12+00:00"
     }
   ],
-  "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:06:23+00:00",
+  "explanation": "42 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724.",
+  "last_checked": "2026-10-17T10:25:12+00:00",
   "changes": [
     {
       "field": "email",
@@ -301,6 +321,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:06:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Norconsult combines engineering, architecture, and digital expertise to provide consulting services for planning, design, infrastructure, and sustainable development projects."
+      ],
+      "at": "2026-10-17T10:25:12+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Architecture",
+          "Building and Property",
+          "Digitalisation",
+          "Infrastructure",
+          "Renewable Energy"
+        ]
+      ],
+      "at": "2026-10-17T10:25:12+00:00"
     }
   ]
 }

@@ -239,10 +239,29 @@
       "source_url": "https://lifecare.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T09:57:11+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Lifecare develops miniaturized and implantable nanobiosensors for the correct and continuous monitoring of glucose and other biomarkers with a particular focus on diabetes.",
+      "source_url": "https://lifecare.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:33+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "CGM system",
+        "Sencell",
+        "RemovAid",
+        "Veterinary"
+      ],
+      "source_url": "https://lifecare.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:33+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990251657. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T09:57:22+00:00",
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990251657.",
+  "last_checked": "2026-10-17T10:28:33+00:00",
   "changes": [
     {
       "field": "email",
@@ -259,6 +278,27 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:57:22+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Lifecare develops miniaturized and implantable nanobiosensors for the correct and continuous monitoring of glucose and other biomarkers with a particular focus on diabetes."
+      ],
+      "at": "2026-10-17T10:28:33+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "CGM system",
+          "Sencell",
+          "RemovAid",
+          "Veterinary"
+        ]
+      ],
+      "at": "2026-10-17T10:28:33+00:00"
     }
   ]
 }

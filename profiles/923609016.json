@@ -288,10 +288,30 @@
       "source_url": "https://www.equinor.com/about-us/contact-us",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:08:35+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Equinor is an international energy company that combines a strong oil and gas business with a growing power business and low-carbon solutions to provide reliable energy.",
+      "source_url": "https://www.equinor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Oil",
+        "Natural gas",
+        "Renewable power",
+        "Wind power",
+        "Solar assets"
+      ],
+      "source_url": "https://www.equinor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:32+00:00"
     }
   ],
-  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923609016. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:09:42+00:00",
+  "explanation": "43 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923609016.",
+  "last_checked": "2026-10-17T10:24:32+00:00",
   "changes": [
     {
       "field": "email",
@@ -308,6 +328,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:09:42+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Equinor is an international energy company that combines a strong oil and gas business with a growing power business and low-carbon solutions to provide reliable energy."
+      ],
+      "at": "2026-10-17T10:24:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Oil",
+          "Natural gas",
+          "Renewable power",
+          "Wind power",
+          "Solar assets"
+        ]
+      ],
+      "at": "2026-10-17T10:24:32+00:00"
     }
   ]
 }

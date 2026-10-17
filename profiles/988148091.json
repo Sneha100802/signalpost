@@ -141,10 +141,17 @@
       "source_url": "https://www.bergenokologiskelandsby.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:12:21+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Bergen Økologiske Landsby develops an ecological and sustainable village project focusing on community, nature, and culture at Bruvik on Osterøy.",
+      "source_url": "https://www.bergenokologiskelandsby.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:02+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:13:37+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:28:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -161,6 +168,14 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:13:37+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Bergen Økologiske Landsby develops an ecological and sustainable village project focusing on community, nature, and culture at Bruvik on Osterøy."
+      ],
+      "at": "2026-10-17T10:28:02+00:00"
     }
   ]
 }

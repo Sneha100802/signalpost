@@ -225,10 +225,27 @@
       "source_url": "https://ekornheia.barnehage.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:12:51+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Ekornheia Barnehage SA is a private kindergarten focused on outdoor activities, cooperation, and a safe environment for children.",
+      "source_url": "https://ekornheia.barnehage.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Barnehageplass",
+        "Matilbud"
+      ],
+      "source_url": "https://ekornheia.barnehage.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:32+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971495642. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:14:11+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971495642.",
+  "last_checked": "2026-10-17T10:25:32+00:00",
   "changes": [
     {
       "field": "email",
@@ -245,6 +262,25 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:14:11+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Ekornheia Barnehage SA is a private kindergarten focused on outdoor activities, cooperation, and a safe environment for children."
+      ],
+      "at": "2026-10-17T10:25:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Barnehageplass",
+          "Matilbud"
+        ]
+      ],
+      "at": "2026-10-17T10:25:32+00:00"
     }
   ]
 }

@@ -190,10 +190,30 @@
       "source_url": "https://bekkelagshuset.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:03:07+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private events, meetings, and gatherings with views of the Oslofjord.",
+      "source_url": "https://bekkelagshuset.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:22+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Utleie av hele huset",
+        "Utleie av storsal",
+        "Utleie av lillesal",
+        "Utleie av salongen",
+        "Utleie av styrerommet"
+      ],
+      "source_url": "https://bekkelagshuset.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:22+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:04:30+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:25:22+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -202,6 +222,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:04:30+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private events, meetings, and gatherings with views of the Oslofjord."
+      ],
+      "at": "2026-10-17T10:25:22+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Utleie av hele huset",
+          "Utleie av storsal",
+          "Utleie av lillesal",
+          "Utleie av salongen",
+          "Utleie av styrerommet"
+        ]
+      ],
+      "at": "2026-10-17T10:25:22+00:00"
     }
   ]
 }

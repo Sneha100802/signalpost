@@ -144,7 +144,7 @@
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 896637452. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:18:28+00:00",
+  "last_checked": "2026-10-17T10:23:02+00:00",
   "changes": [
     {
       "field": "website_verified",

@@ -253,10 +253,30 @@
       "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:03:25+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Lerøy Seafood Group ASA provides tasty seafood products, recipes, and inspiration.",
+      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:52+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Laks Supreme",
+        "Fisketerninger Laks og Torsk",
+        "Lerøy Raske Reker",
+        "Lerøy Bergensk plukkfisk",
+        "Spekesild"
+      ],
+      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:52+00:00"
     }
   ],
-  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:04:57+00:00",
+  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940.",
+  "last_checked": "2026-10-17T10:25:52+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -265,6 +285,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:04:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Lerøy Seafood Group ASA provides tasty seafood products, recipes, and inspiration."
+      ],
+      "at": "2026-10-17T10:25:52+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Laks Supreme",
+          "Fisketerninger Laks og Torsk",
+          "Lerøy Raske Reker",
+          "Lerøy Bergensk plukkfisk",
+          "Spekesild"
+        ]
+      ],
+      "at": "2026-10-17T10:25:52+00:00"
     }
   ]
 }

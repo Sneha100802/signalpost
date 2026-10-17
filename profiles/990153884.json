@@ -239,10 +239,28 @@
       "source_url": "https://www.adius.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:06:30+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Adius Advokater ANS offers legal assistance of high professional quality at competitive prices to private individuals and small to medium-sized businesses.",
+      "source_url": "https://www.adius.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:22+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Juridisk bistand",
+        "Generell veiledning",
+        "Avtaler"
+      ],
+      "source_url": "https://www.adius.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:22+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990153884. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:07:53+00:00",
+  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990153884.",
+  "last_checked": "2026-10-17T10:28:22+00:00",
   "changes": [
     {
       "field": "email",
@@ -259,6 +277,26 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:07:53+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Adius Advokater ANS offers legal assistance of high professional quality at competitive prices to private individuals and small to medium-sized businesses."
+      ],
+      "at": "2026-10-17T10:28:22+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Juridisk bistand",
+          "Generell veiledning",
+          "Avtaler"
+        ]
+      ],
+      "at": "2026-10-17T10:28:22+00:00"
     }
   ]
 }

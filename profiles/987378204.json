@@ -141,10 +141,28 @@
       "source_url": "https://ovsttun.speiding.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T09:59:48+00:00"
+    },
+    {
+      "field": "description",
+      "value": "1. Øvsttun speidergruppe tilbyr speideraktiviteter og speiderarbeid for barn og unge i ulike aldersgrupper.",
+      "source_url": "https://ovsttun.speiding.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:53+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Småspeidere",
+        "Troppen",
+        "Rovere"
+      ],
+      "source_url": "https://ovsttun.speiding.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:53+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987378204. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:01:20+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987378204. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:27:53+00:00",
   "changes": [
     {
       "field": "email",
@@ -161,6 +179,26 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:01:20+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Øvsttun speidergruppe tilbyr speideraktiviteter og speiderarbeid for barn og unge i ulike aldersgrupper."
+      ],
+      "at": "2026-10-17T10:27:53+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Småspeidere",
+          "Troppen",
+          "Rovere"
+        ]
+      ],
+      "at": "2026-10-17T10:27:53+00:00"
     }
   ]
 }

@@ -246,10 +246,28 @@
       "source_url": "https://nystart.org/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:02:15+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily in Eastern Europe funded by a chain of second-hand stores (\"Ting og Tøy\") run by volunteers in Innlandet, Norway.",
+      "source_url": "https://nystart.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:43+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Klær",
+        "Produkter",
+        "Gjenbruksvarer"
+      ],
+      "source_url": "https://nystart.org/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:25:43+00:00"
     }
   ],
-  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974248816. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:03:25+00:00",
+  "explanation": "37 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974248816.",
+  "last_checked": "2026-10-17T10:25:43+00:00",
   "changes": [
     {
       "field": "email",
@@ -266,6 +284,26 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:03:25+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily in Eastern Europe funded by a chain of second-hand stores (\"Ting og Tøy\") run by volunteers in Innlandet, Norway."
+      ],
+      "at": "2026-10-17T10:25:43+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Klær",
+          "Produkter",
+          "Gjenbruksvarer"
+        ]
+      ],
+      "at": "2026-10-17T10:25:43+00:00"
     }
   ]
 }

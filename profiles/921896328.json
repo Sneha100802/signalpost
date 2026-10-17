@@ -253,10 +253,28 @@
       "source_url": "https://www.axactor.com",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:10:43+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering services within debt collection.",
+      "source_url": "https://www.axactor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:23+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Debt collection",
+        "Debt purchase",
+        "Account receivables management"
+      ],
+      "source_url": "https://www.axactor.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:23+00:00"
     }
   ],
-  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:12:18+00:00",
+  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328.",
+  "last_checked": "2026-10-17T10:24:23+00:00",
   "changes": [
     {
       "field": "email",
@@ -273,6 +291,26 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:12:18+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering services within debt collection."
+      ],
+      "at": "2026-10-17T10:24:23+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Debt collection",
+          "Debt purchase",
+          "Account receivables management"
+        ]
+      ],
+      "at": "2026-10-17T10:24:23+00:00"
     }
   ]
 }

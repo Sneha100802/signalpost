@@ -148,10 +148,30 @@
       "source_url": "https://acapp.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:05:40+00:00"
+    },
+    {
+      "field": "description",
+      "value": "A Cappellissimo er et kammerkor fra Trondheim som fremfører musikk av høy kunstnerisk kvalitet innen et variert repertoar.",
+      "source_url": "https://acapp.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Konserter vår og høst",
+        "Oppdrag på konferanser",
+        "Oppdrag på bedriftsmøter",
+        "Oppdrag i brylluper",
+        "Oppdrag på åremålsdager"
+      ],
+      "source_url": "https://acapp.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:32+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979615140. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:06:57+00:00",
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979615140. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:26:32+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -160,6 +180,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:06:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "A Cappellissimo er et kammerkor fra Trondheim som fremfører musikk av høy kunstnerisk kvalitet innen et variert repertoar."
+      ],
+      "at": "2026-10-17T10:26:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Konserter vår og høst",
+          "Oppdrag på konferanser",
+          "Oppdrag på bedriftsmøter",
+          "Oppdrag i brylluper",
+          "Oppdrag på åremålsdager"
+        ]
+      ],
+      "at": "2026-10-17T10:26:32+00:00"
     }
   ]
 }

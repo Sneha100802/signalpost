@@ -232,10 +232,30 @@
       "source_url": "https://www.wilhelmsen.com",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:12:22+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Wilhelmsen is a global maritime group that provides products, services, port operations, ship management, and new energy solutions to the maritime and offshore industries.",
+      "source_url": "https://www.wilhelmsen.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Unicool R-407H 10kg refrigerant",
+        "Klüber Summit Hysyn FG 46 200 ltr",
+        "Bunker sampler",
+        "Maritime products and services",
+        "Chemicals"
+      ],
+      "source_url": "https://www.wilhelmsen.com",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:32+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:13:44+00:00",
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905.",
+  "last_checked": "2026-10-17T10:29:32+00:00",
   "changes": [
     {
       "field": "email",
@@ -252,6 +272,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:13:44+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Wilhelmsen is a global maritime group that provides products, services, port operations, ship management, and new energy solutions to the maritime and offshore industries."
+      ],
+      "at": "2026-10-17T10:29:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Unicool R-407H 10kg refrigerant",
+          "Klüber Summit Hysyn FG 46 200 ltr",
+          "Bunker sampler",
+          "Maritime products and services",
+          "Chemicals"
+        ]
+      ],
+      "at": "2026-10-17T10:29:32+00:00"
     }
   ]
 }

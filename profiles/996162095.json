@@ -204,10 +204,29 @@
       "source_url": "https://www.circio.com/en/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:07:11+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Circio Holding ASA is a biotechnology company developing novel circular RNA and immunotherapy medicines to enhance gene therapy for genetic disease.",
+      "source_url": "https://www.circio.com/en/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:44+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "circVec platform",
+        "Circio AB",
+        "circular RNA medicines",
+        "immunotherapy medicines"
+      ],
+      "source_url": "https://www.circio.com/en/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:44+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996162095. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:08:40+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996162095.",
+  "last_checked": "2026-10-17T10:29:44+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -216,6 +235,27 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:08:40+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Circio Holding ASA is a biotechnology company developing novel circular RNA and immunotherapy medicines to enhance gene therapy for genetic disease."
+      ],
+      "at": "2026-10-17T10:29:44+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "circVec platform",
+          "Circio AB",
+          "circular RNA medicines",
+          "immunotherapy medicines"
+        ]
+      ],
+      "at": "2026-10-17T10:29:44+00:00"
     }
   ]
 }

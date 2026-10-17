@@ -295,10 +295,28 @@
       "source_url": "https://www.polarismedia.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:03:10+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Polaris Media er et av Skandinavias største mediehus- og trykkerikonsern.",
+      "source_url": "https://www.polarismedia.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:23+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Mediehus",
+        "Trykkeritjenester",
+        "Distribusjon"
+      ],
+      "source_url": "https://www.polarismedia.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:23+00:00"
     }
   ],
-  "explanation": "42 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:04:44+00:00",
+  "explanation": "44 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145.",
+  "last_checked": "2026-10-17T10:29:23+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -307,6 +325,26 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:04:44+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Polaris Media er et av Skandinavias største mediehus- og trykkerikonsern."
+      ],
+      "at": "2026-10-17T10:29:23+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Mediehus",
+          "Trykkeritjenester",
+          "Distribusjon"
+        ]
+      ],
+      "at": "2026-10-17T10:29:23+00:00"
     }
   ]
 }

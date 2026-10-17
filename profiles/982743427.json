@@ -204,10 +204,29 @@
       "source_url": "https://ahandtochildren.com/kontakt/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:10:37+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Stiftelsen arbeider for å gi foreldreløse og forlatte barn et bedre liv og et håp for fremtiden gjennom ulike prosjekter og støtteordninger.",
+      "source_url": "https://ahandtochildren.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:02+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Gi månedlig",
+        "Gi en engangsgave",
+        "Abonner på bidrag",
+        "Swisha din gåva"
+      ],
+      "source_url": "https://ahandtochildren.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:02+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982743427. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:11:58+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982743427.",
+  "last_checked": "2026-10-17T10:27:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -224,6 +243,27 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:11:58+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen arbeider for å gi foreldreløse og forlatte barn et bedre liv og et håp for fremtiden gjennom ulike prosjekter og støtteordninger."
+      ],
+      "at": "2026-10-17T10:27:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Gi månedlig",
+          "Gi en engangsgave",
+          "Abonner på bidrag",
+          "Swisha din gåva"
+        ]
+      ],
+      "at": "2026-10-17T10:27:02+00:00"
     }
   ]
 }

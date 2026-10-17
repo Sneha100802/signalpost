@@ -190,10 +190,29 @@
       "source_url": "https://www.idrettsdugnad.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:01:36+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser.",
+      "source_url": "https://www.idrettsdugnad.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:12+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Bursdagskort",
+        "Tørkepapir",
+        "Toalettpapir",
+        "Håndsprit"
+      ],
+      "source_url": "https://www.idrettsdugnad.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:12+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918734643. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:02:53+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918734643.",
+  "last_checked": "2026-10-17T10:24:12+00:00",
   "changes": [
     {
       "field": "email",
@@ -210,6 +229,27 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:02:53+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser."
+      ],
+      "at": "2026-10-17T10:24:12+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Bursdagskort",
+          "Tørkepapir",
+          "Toalettpapir",
+          "Håndsprit"
+        ]
+      ],
+      "at": "2026-10-17T10:24:12+00:00"
     }
   ]
 }

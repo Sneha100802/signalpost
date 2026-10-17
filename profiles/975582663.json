@@ -141,10 +141,30 @@
       "source_url": "https://www.syvende.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:10:37+00:00"
+    },
+    {
+      "field": "description",
+      "value": "7. Kristiansand Sjø er en sjøspeidergruppe i Vågsbygd med et moderne speidersenter, eget bryggeanlegg, hytter og et stort utvalg av båter.",
+      "source_url": "https://www.syvende.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:02+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Joller",
+        "Kanoer",
+        "Småbåter",
+        "Gyda",
+        "Utleie"
+      ],
+      "source_url": "https://www.syvende.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:02+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975582663. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:12:05+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975582663. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:26:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -161,6 +181,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:12:05+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "7. Kristiansand Sjø er en sjøspeidergruppe i Vågsbygd med et moderne speidersenter, eget bryggeanlegg, hytter og et stort utvalg av båter."
+      ],
+      "at": "2026-10-17T10:26:02+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Joller",
+          "Kanoer",
+          "Småbåter",
+          "Gyda",
+          "Utleie"
+        ]
+      ],
+      "at": "2026-10-17T10:26:02+00:00"
     }
   ]
 }

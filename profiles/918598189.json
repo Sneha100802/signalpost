@@ -143,6 +143,13 @@
       "retrieved_at": "2026-10-17T09:57:40+00:00"
     },
     {
+      "field": "description",
+      "value": "Heartbreaker Records is a record label that represents artists and features music releases.",
+      "source_url": "https://www.heartbreakerrecords.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:24:02+00:00"
+    },
+    {
       "field": "products",
       "value": [
         "The Joker"
@@ -152,8 +159,8 @@
       "retrieved_at": "2026-10-17T09:58:23+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918598189. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:58:23+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918598189. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:24:02+00:00",
   "changes": [
     {
       "field": "email",
@@ -180,6 +187,14 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:58:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Heartbreaker Records is a record label that represents artists and features music releases."
+      ],
+      "at": "2026-10-17T10:24:02+00:00"
     }
   ]
 }

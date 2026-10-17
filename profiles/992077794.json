@@ -162,10 +162,30 @@
       "source_url": "https://4h.no/nordland/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:13:57+00:00"
+    },
+    {
+      "field": "description",
+      "value": "4H Nordland is an active youth organisation that offers various activities, clubs, and 4H farms throughout the county.",
+      "source_url": "https://4h.no/nordland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:13+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Medlemskap",
+        "Arrangementer",
+        "Kurs",
+        "Leir",
+        "Gårdsopplevelser"
+      ],
+      "source_url": "https://4h.no/nordland/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:29:13+00:00"
     }
   ],
-  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:15:01+00:00",
+  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:29:13+00:00",
   "changes": [
     {
       "field": "email",
@@ -182,6 +202,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:15:01+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "4H Nordland is an active youth organisation that offers various activities, clubs, and 4H farms throughout the county."
+      ],
+      "at": "2026-10-17T10:29:13+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Medlemskap",
+          "Arrangementer",
+          "Kurs",
+          "Leir",
+          "Gårdsopplevelser"
+        ]
+      ],
+      "at": "2026-10-17T10:29:13+00:00"
     }
   ]
 }

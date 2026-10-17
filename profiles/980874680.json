@@ -225,10 +225,30 @@
       "source_url": "https://dusavik.barnehage.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:05:01+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Dusavik Barnehage SA is a kindergarten providing childcare services for children aged 1-6 years across four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen).",
+      "source_url": "https://dusavik.barnehage.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:42+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Barnehageplass",
+        "Kjøttmeisavdelingen",
+        "Svaleavdelingen",
+        "Spurveavdelingen",
+        "Lerkeavdelingen"
+      ],
+      "source_url": "https://dusavik.barnehage.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:26:42+00:00"
     }
   ],
-  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980874680. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:06:10+00:00",
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980874680.",
+  "last_checked": "2026-10-17T10:26:42+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -237,6 +257,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:06:10+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Dusavik Barnehage SA is a kindergarten providing childcare services for children aged 1-6 years across four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen)."
+      ],
+      "at": "2026-10-17T10:26:42+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Barnehageplass",
+          "Kjøttmeisavdelingen",
+          "Svaleavdelingen",
+          "Spurveavdelingen",
+          "Lerkeavdelingen"
+        ]
+      ],
+      "at": "2026-10-17T10:26:42+00:00"
     }
   ]
 }

@@ -330,10 +330,27 @@
       "source_url": "https://akerbp.com/investor/contact-2/",
       "source_date": null,
       "retrieved_at": "2026-10-17T09:58:42+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Aker BP er et oljeselskap som leter etter, utvikler felt og produserer olje og gass på den norske kontinentalsokkelen.",
+      "source_url": "https://akerbp.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:13+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "olje",
+        "gass"
+      ],
+      "source_url": "https://akerbp.com/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:28:13+00:00"
     }
   ],
-  "explanation": "47 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989795848. Gaps: LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T09:59:55+00:00",
+  "explanation": "49 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 989795848.",
+  "last_checked": "2026-10-17T10:28:13+00:00",
   "changes": [
     {
       "field": "email",
@@ -350,6 +367,25 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:59:55+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Aker BP er et oljeselskap som leter etter, utvikler felt og produserer olje og gass på den norske kontinentalsokkelen."
+      ],
+      "at": "2026-10-17T10:28:13+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "olje",
+          "gass"
+        ]
+      ],
+      "at": "2026-10-17T10:28:13+00:00"
     }
   ]
 }

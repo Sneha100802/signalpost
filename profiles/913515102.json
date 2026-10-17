@@ -207,10 +207,10 @@
     },
     {
       "field": "description",
-      "value": "Allmenningen SA is a small cooperative based in Bergen that offers community spaces, personal development, and various projects focused on quality of life and mastery.",
+      "value": "Allmenningen SA is a small cooperative based in Bergen that offers community-focused activities, personal growth programs, and courses centered around well-being.",
       "source_url": "https://www.allmenningen.org/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:19:07+00:00"
+      "retrieved_at": "2026-10-17T10:23:22+00:00"
     },
     {
       "field": "products",
@@ -227,7 +227,7 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913515102.",
-  "last_checked": "2026-10-17T10:19:07+00:00",
+  "last_checked": "2026-10-17T10:23:22+00:00",
   "changes": [
     {
       "field": "email",
@@ -266,6 +266,16 @@
         ]
       ],
       "at": "2026-10-17T10:19:07+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Allmenningen SA is a small cooperative based in Bergen that offers community spaces, personal development, and various projects focused on quality of life and mastery."
+      ],
+      "new": [
+        "Allmenningen SA is a small cooperative based in Bergen that offers community-focused activities, personal growth programs, and courses centered around well-being."
+      ],
+      "at": "2026-10-17T10:23:22+00:00"
     }
   ]
 }

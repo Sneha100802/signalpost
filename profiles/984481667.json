@@ -148,10 +148,30 @@
       "source_url": "https://alternativ.no",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:13:43+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Alternativ Opplysningen DA offers a guide to holistic lifestyle, spirituality, and self-development, featuring practitioners, courses, and alternative treatments.",
+      "source_url": "https://alternativ.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:32+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Kurs",
+        "Astrologi",
+        "Healing",
+        "Coaching",
+        "Tarot"
+      ],
+      "source_url": "https://alternativ.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:32+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:14:54+00:00",
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:27:32+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -160,6 +180,28 @@
         "org number found on page"
       ],
       "at": "2026-10-17T10:14:54+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Alternativ Opplysningen DA offers a guide to holistic lifestyle, spirituality, and self-development, featuring practitioners, courses, and alternative treatments."
+      ],
+      "at": "2026-10-17T10:27:32+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Kurs",
+          "Astrologi",
+          "Healing",
+          "Coaching",
+          "Tarot"
+        ]
+      ],
+      "at": "2026-10-17T10:27:32+00:00"
     }
   ]
 }

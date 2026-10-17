@@ -242,10 +242,10 @@
     },
     {
       "field": "description",
-      "value": "Godthaab Helse og Rehabilitering offers health and rehabilitation services, including treatments for conditions such as injury, heart disease, rheumatic diseases, and complex medical conditions.",
+      "value": "Godthaab Helse og Rehabilitering tilbyr helse- og rehabiliteringstjenester for å bidra til bedre helse, funksjon, trygghet og økt livskvalitet.",
       "source_url": "https://www.godthaab.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:18:15+00:00"
+      "retrieved_at": "2026-10-17T10:22:42+00:00"
     },
     {
       "field": "products",
@@ -253,16 +253,16 @@
         "Brudd- og slitasjeskader",
         "Hjertesykdommer",
         "Reumatologiske sykdommer",
-        "Komplekst/sammensatt sykdomsbilde",
-        "Kvinnehelse"
+        "Kvinnehelse",
+        "DRIV opphold"
       ],
       "source_url": "https://www.godthaab.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:18:15+00:00"
+      "retrieved_at": "2026-10-17T10:22:42+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871426902.",
-  "last_checked": "2026-10-17T10:18:15+00:00",
+  "last_checked": "2026-10-17T10:22:42+00:00",
   "changes": [
     {
       "field": "email",
@@ -301,6 +301,38 @@
         ]
       ],
       "at": "2026-10-17T10:18:15+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Godthaab Helse og Rehabilitering offers health and rehabilitation services, including treatments for conditions such as injury, heart disease, rheumatic diseases, and complex medical conditions."
+      ],
+      "new": [
+        "Godthaab Helse og Rehabilitering tilbyr helse- og rehabiliteringstjenester for å bidra til bedre helse, funksjon, trygghet og økt livskvalitet."
+      ],
+      "at": "2026-10-17T10:22:42+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Brudd- og slitasjeskader",
+          "Hjertesykdommer",
+          "Reumatologiske sykdommer",
+          "Komplekst/sammensatt sykdomsbilde",
+          "Kvinnehelse"
+        ]
+      ],
+      "new": [
+        [
+          "Brudd- og slitasjeskader",
+          "Hjertesykdommer",
+          "Reumatologiske sykdommer",
+          "Kvinnehelse",
+          "DRIV opphold"
+        ]
+      ],
+      "at": "2026-10-17T10:22:42+00:00"
     }
   ]
 }

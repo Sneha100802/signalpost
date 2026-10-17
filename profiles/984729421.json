@@ -134,10 +134,30 @@
       "source_url": "https://arenaakustikk.no/",
       "source_date": null,
       "retrieved_at": "2026-10-17T10:12:25+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Arena Akustikk offers sales, installation, and rental of sound, lighting, and stage equipment, and is the Norwegian importer for Danley Sound Labs.",
+      "source_url": "https://arenaakustikk.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:43+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Utleie av lyd og lysutstyr",
+        "Salg og installasjon av lydforsterkende løsninger",
+        "Danley Sound Labs høyttalere",
+        "Forsterkere og DSP",
+        "Scene- og lysproduksjon"
+      ],
+      "source_url": "https://arenaakustikk.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-17T10:27:43+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984729421. Gaps: no filed accounts found, LLM extraction failed (check key, model name or rate limit; run with SIGNALPOST_DEBUG=1).",
-  "last_checked": "2026-10-17T10:13:57+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984729421. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-17T10:27:43+00:00",
   "changes": [
     {
       "field": "email",
@@ -154,6 +174,28 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T10:13:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Arena Akustikk offers sales, installation, and rental of sound, lighting, and stage equipment, and is the Norwegian importer for Danley Sound Labs."
+      ],
+      "at": "2026-10-17T10:27:43+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Utleie av lyd og lysutstyr",
+          "Salg og installasjon av lydforsterkende løsninger",
+          "Danley Sound Labs høyttalere",
+          "Forsterkere og DSP",
+          "Scene- og lysproduksjon"
+        ]
+      ],
+      "at": "2026-10-17T10:27:43+00:00"
     }
   ]
 }
