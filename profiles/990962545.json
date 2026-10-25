@@ -228,27 +228,27 @@
     },
     {
       "field": "description",
-      "value": "Atelier Ilsvika er et åpent arbeidsfellesskap innen kunst, kultur og næring som tilbyr atelier- og kontorplasser.",
+      "value": "Atelier Ilsvika SA is an open collaborative workspace for art, culture, and business located in the old nail factory in Ilsvika.",
       "source_url": "https://www.atelierilsvika.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:59:05+00:00"
+      "retrieved_at": "2026-10-25T04:16:44+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Atelier",
         "Kontorplasser",
-        "Leie av lounge",
+        "Atelierplasser",
+        "Verksteder",
         "Fotostudio",
-        "Møterom"
+        "Lagerplasser"
       ],
       "source_url": "https://www.atelierilsvika.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:59:05+00:00"
+      "retrieved_at": "2026-10-25T04:16:44+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990962545.",
-  "last_checked": "2026-10-17T09:59:05+00:00",
+  "last_checked": "2026-10-25T04:16:44+00:00",
   "changes": [
     {
       "field": "description",
@@ -287,6 +287,50 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:59:05+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Atelier Ilsvika er et åpent arbeidsfellesskap innen kunst, kultur og næring som tilbyr atelier- og kontorplasser."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:04:57+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Atelier",
+          "Kontorplasser",
+          "Leie av lounge",
+          "Fotostudio",
+          "Møterom"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:04:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Atelier Ilsvika SA is an open collaborative workspace for art, culture, and business located in the old nail factory in Ilsvika."
+      ],
+      "at": "2026-10-25T04:16:44+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Kontorplasser",
+          "Atelierplasser",
+          "Verksteder",
+          "Fotostudio",
+          "Lagerplasser"
+        ]
+      ],
+      "at": "2026-10-25T04:16:44+00:00"
     }
   ]
 }

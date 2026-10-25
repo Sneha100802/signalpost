@@ -235,10 +235,10 @@
     },
     {
       "field": "description",
-      "value": "Boligstiftelsen i Trondheim aims to provide secure, long-term rental housing and contribute to a third housing sector for individuals who face economic or social challenges entering the ordinary housing market.",
+      "value": "Boligstiftelsen i Trondheim aims to provide housing and contribute to a third housing sector for individuals who, due to economic or social reasons, struggle to enter the ordinary housing market.",
       "source_url": "https://www.boligstiftelsenitrondheim.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:02+00:00"
+      "retrieved_at": "2026-10-25T04:13:25+00:00"
     },
     {
       "field": "products",
@@ -246,15 +246,15 @@
         "4-romsleiligheter",
         "2-romsleiligheter",
         "Familieleiligheter",
-        "Boligutleie"
+        "Utleieboliger"
       ],
       "source_url": "https://www.boligstiftelsenitrondheim.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:02+00:00"
+      "retrieved_at": "2026-10-25T04:13:25+00:00"
     }
   ],
   "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 962133002.",
-  "last_checked": "2026-10-17T10:25:02+00:00",
+  "last_checked": "2026-10-25T04:13:25+00:00",
   "changes": [
     {
       "field": "email",
@@ -292,6 +292,48 @@
         ]
       ],
       "at": "2026-10-17T10:25:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Boligstiftelsen i Trondheim aims to provide secure, long-term rental housing and contribute to a third housing sector for individuals who face economic or social challenges entering the ordinary housing market."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:17:45+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "4-romsleiligheter",
+          "2-romsleiligheter",
+          "Familieleiligheter",
+          "Boligutleie"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:17:45+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Boligstiftelsen i Trondheim aims to provide housing and contribute to a third housing sector for individuals who, due to economic or social reasons, struggle to enter the ordinary housing market."
+      ],
+      "at": "2026-10-25T04:13:25+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "4-romsleiligheter",
+          "2-romsleiligheter",
+          "Familieleiligheter",
+          "Utleieboliger"
+        ]
+      ],
+      "at": "2026-10-25T04:13:25+00:00"
     }
   ]
 }

@@ -228,15 +228,14 @@
     },
     {
       "field": "description",
-      "value": "Dusavik Barnehage SA is a kindergarten providing childcare services for children aged 1-6 years across four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen).",
+      "value": "Dusavik Barnehage SA is a kindergarten with four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen) providing care for children aged 1-6 years.",
       "source_url": "https://dusavik.barnehage.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:42+00:00"
+      "retrieved_at": "2026-10-25T04:14:45+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Barnehageplass",
         "Kjøttmeisavdelingen",
         "Svaleavdelingen",
         "Spurveavdelingen",
@@ -244,11 +243,11 @@
       ],
       "source_url": "https://dusavik.barnehage.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:42+00:00"
+      "retrieved_at": "2026-10-25T04:14:45+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980874680.",
-  "last_checked": "2026-10-17T10:26:42+00:00",
+  "last_checked": "2026-10-25T04:14:45+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -279,6 +278,49 @@
         ]
       ],
       "at": "2026-10-17T10:26:42+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Dusavik Barnehage SA is a kindergarten providing childcare services for children aged 1-6 years across four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen)."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:13:16+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Barnehageplass",
+          "Kjøttmeisavdelingen",
+          "Svaleavdelingen",
+          "Spurveavdelingen",
+          "Lerkeavdelingen"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:13:16+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Dusavik Barnehage SA is a kindergarten with four departments (Kjøttmeisavdelingen, Svaleavdelingen, Spurveavdelingen, and Lerkeavdelingen) providing care for children aged 1-6 years."
+      ],
+      "at": "2026-10-25T04:14:45+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Kjøttmeisavdelingen",
+          "Svaleavdelingen",
+          "Spurveavdelingen",
+          "Lerkeavdelingen"
+        ]
+      ],
+      "at": "2026-10-25T04:14:45+00:00"
     }
   ]
 }

@@ -144,10 +144,10 @@
     },
     {
       "field": "role:Revisor",
-      "value": "IR REVISJON AS",
+      "value": "RE REVISJON AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982847850/roller",
-      "source_date": "2026-07-20",
-      "retrieved_at": "2026-10-17T07:49:49+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:15:17+00:00"
     },
     {
       "field": "role:Regnskapsfører",
@@ -200,6 +200,17 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982847850.",
-  "last_checked": "2026-10-17T10:08:04+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:15:18+00:00",
+  "changes": [
+    {
+      "field": "role:Revisor",
+      "old": [
+        "IR REVISJON AS"
+      ],
+      "new": [
+        "RE REVISJON AS"
+      ],
+      "at": "2026-10-25T03:15:18+00:00"
+    }
+  ]
 }

@@ -144,10 +144,10 @@
     },
     {
       "field": "description",
-      "value": "1. Øvsttun speidergruppe tilbyr speideraktiviteter og speiderarbeid for barn og unge i ulike aldersgrupper.",
+      "value": "1. Øvsttun speidergruppe offers scouting activities for various age groups ranging from small scouts to rovers.",
       "source_url": "https://ovsttun.speiding.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:53+00:00"
+      "retrieved_at": "2026-10-25T04:16:04+00:00"
     },
     {
       "field": "products",
@@ -158,11 +158,11 @@
       ],
       "source_url": "https://ovsttun.speiding.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:53+00:00"
+      "retrieved_at": "2026-10-25T04:16:04+00:00"
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987378204. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:27:53+00:00",
+  "last_checked": "2026-10-25T04:16:04+00:00",
   "changes": [
     {
       "field": "email",
@@ -199,6 +199,46 @@
         ]
       ],
       "at": "2026-10-17T10:27:53+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "1. Øvsttun speidergruppe tilbyr speideraktiviteter og speiderarbeid for barn og unge i ulike aldersgrupper."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:07:31+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Småspeidere",
+          "Troppen",
+          "Rovere"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:07:31+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Øvsttun speidergruppe offers scouting activities for various age groups ranging from small scouts to rovers."
+      ],
+      "at": "2026-10-25T04:16:04+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Småspeidere",
+          "Troppen",
+          "Rovere"
+        ]
+      ],
+      "at": "2026-10-25T04:16:04+00:00"
     }
   ]
 }

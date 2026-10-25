@@ -242,14 +242,14 @@
     },
     {
       "field": "description",
-      "value": "Rykkinn borettslag 1 is a housing cooperative that manages and maintains residential blocks, common areas, and shared facilities for its residents.",
+      "value": "Al Rykkinn Borettslag I is a housing cooperative providing residential property management, maintenance, and related services for its residents.",
       "source_url": "https://rykkinn1.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:39+00:00"
+      "retrieved_at": "2026-10-25T04:13:14+00:00"
     }
   ],
   "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954644332.",
-  "last_checked": "2026-10-17T09:58:39+00:00",
+  "last_checked": "2026-10-25T04:13:14+00:00",
   "changes": [
     {
       "field": "description",
@@ -274,6 +274,22 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:58:39+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Rykkinn borettslag 1 is a housing cooperative that manages and maintains residential blocks, common areas, and shared facilities for its residents."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:04:13+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Al Rykkinn Borettslag I is a housing cooperative providing residential property management, maintenance, and related services for its residents."
+      ],
+      "at": "2026-10-25T04:13:14+00:00"
     }
   ]
 }

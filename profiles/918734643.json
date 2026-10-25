@@ -46,10 +46,10 @@
     },
     {
       "field": "vat_registered",
-      "value": true,
+      "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918734643",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:48:37+00:00"
+      "retrieved_at": "2026-10-25T03:07:51+00:00"
     },
     {
       "field": "in_business_register",
@@ -193,26 +193,26 @@
     },
     {
       "field": "description",
-      "value": "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser.",
+      "value": "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser for å hjelpe dem med å skape inntekter.",
       "source_url": "https://www.idrettsdugnad.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:12+00:00"
+      "retrieved_at": "2026-10-25T04:12:14+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Bursdagskort",
-        "Tørkepapir",
         "Toalettpapir",
+        "Lambi Tørkepapir",
+        "Bursdagskort",
         "Håndsprit"
       ],
       "source_url": "https://www.idrettsdugnad.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:12+00:00"
+      "retrieved_at": "2026-10-25T04:12:14+00:00"
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918734643.",
-  "last_checked": "2026-10-17T10:24:12+00:00",
+  "last_checked": "2026-10-25T04:12:14+00:00",
   "changes": [
     {
       "field": "email",
@@ -250,6 +250,58 @@
         ]
       ],
       "at": "2026-10-17T10:24:12+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:09:16+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Bursdagskort",
+          "Tørkepapir",
+          "Toalettpapir",
+          "Håndsprit"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:09:16+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "old": [
+        true
+      ],
+      "new": [
+        false
+      ],
+      "at": "2026-10-25T03:09:16+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Idrettsdugnad tilbyr enkle og lønnsomme dugnadsløsninger med lettsolgte kvalitetsprodukter for idrettslag og skoleklasser for å hjelpe dem med å skape inntekter."
+      ],
+      "at": "2026-10-25T04:12:14+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Toalettpapir",
+          "Lambi Tørkepapir",
+          "Bursdagskort",
+          "Håndsprit"
+        ]
+      ],
+      "at": "2026-10-25T04:12:14+00:00"
     }
   ]
 }

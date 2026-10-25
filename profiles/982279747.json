@@ -6,102 +6,115 @@
       "field": "name",
       "value": "BISHOP SHIPPING INC",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": "2000-08-17",
+      "source_date": null,
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     },
     {
       "field": "legal_form",
       "value": "Norskregistrert utenlandsk foretak",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": "2000-08-17",
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "industry",
-      "value": "50.201 Utenriks sjøfart med gods",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": "2000-08-17",
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "address",
-      "value": "4005, STAVANGER",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": "2000-08-17",
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "postal_address",
-      "value": "Postboks 90, 4001, STAVANGER",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": "2000-08-17",
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "vat_registered",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "in_business_register",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "in_voluntary_register",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "language_form",
-      "value": "Bokmål",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "bankrupt",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "being_dissolved",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "forced_dissolution",
-      "value": false,
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "role:Kontaktperson",
-      "value": "Magne Morken",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747/roller",
-      "source_date": "2026-10-06",
-      "retrieved_at": "2026-10-17T07:47:31+00:00"
-    },
-    {
-      "field": "role:Oppl om foretaket i hjemlandet",
-      "value": "BISHOP SHIPPING INC",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982279747/roller",
-      "source_date": "2000-08-17",
       "retrieved_at": "2026-10-17T07:47:31+00:00"
     }
   ],
-  "explanation": "14 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982279747. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:57:29+00:00",
-  "changes": []
+  "explanation": "2 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982279747. Gaps: no role data, no filed accounts found.",
+  "last_checked": "2026-10-25T03:01:30+00:00",
+  "changes": [
+    {
+      "field": "address",
+      "old": [
+        "4005, STAVANGER"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "bankrupt",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "being_dissolved",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "forced_dissolution",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "in_business_register",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "in_voluntary_register",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "industry",
+      "old": [
+        "50.201 Utenriks sjøfart med gods"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "language_form",
+      "old": [
+        "Bokmål"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "postal_address",
+      "old": [
+        "Postboks 90, 4001, STAVANGER"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "role:Kontaktperson",
+      "old": [
+        "Magne Morken"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "role:Oppl om foretaket i hjemlandet",
+      "old": [
+        "BISHOP SHIPPING INC"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    },
+    {
+      "field": "vat_registered",
+      "old": [
+        false
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:30+00:00"
+    }
+  ]
 }

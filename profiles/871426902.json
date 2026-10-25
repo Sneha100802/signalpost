@@ -242,27 +242,27 @@
     },
     {
       "field": "description",
-      "value": "Godthaab Helse og Rehabilitering tilbyr helse- og rehabiliteringstjenester for å bidra til bedre helse, funksjon, trygghet og økt livskvalitet.",
+      "value": "Godthaab Helse og Rehabilitering offers healthcare and rehabilitation services, including specialized programs, training memberships, medical consultations, and safety stays.",
       "source_url": "https://www.godthaab.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:22:42+00:00"
+      "retrieved_at": "2026-10-25T04:10:24+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Brudd- og slitasjeskader",
-        "Hjertesykdommer",
-        "Reumatologiske sykdommer",
-        "Kvinnehelse",
-        "DRIV opphold"
+        "Godthaab REHAB",
+        "Godthaab TRYGG",
+        "Godthaab MEDLEM",
+        "Godthaab DRIV",
+        "Gjestehus"
       ],
       "source_url": "https://www.godthaab.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:22:42+00:00"
+      "retrieved_at": "2026-10-25T04:10:24+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 871426902.",
-  "last_checked": "2026-10-17T10:22:42+00:00",
+  "last_checked": "2026-10-25T04:10:24+00:00",
   "changes": [
     {
       "field": "email",
@@ -333,6 +333,50 @@
         ]
       ],
       "at": "2026-10-17T10:22:42+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Godthaab Helse og Rehabilitering tilbyr helse- og rehabiliteringstjenester for å bidra til bedre helse, funksjon, trygghet og økt livskvalitet."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:08:26+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Brudd- og slitasjeskader",
+          "Hjertesykdommer",
+          "Reumatologiske sykdommer",
+          "Kvinnehelse",
+          "DRIV opphold"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:08:26+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Godthaab Helse og Rehabilitering offers healthcare and rehabilitation services, including specialized programs, training memberships, medical consultations, and safety stays."
+      ],
+      "at": "2026-10-25T04:10:24+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Godthaab REHAB",
+          "Godthaab TRYGG",
+          "Godthaab MEDLEM",
+          "Godthaab DRIV",
+          "Gjestehus"
+        ]
+      ],
+      "at": "2026-10-25T04:10:24+00:00"
     }
   ]
 }

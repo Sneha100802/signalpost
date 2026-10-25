@@ -242,10 +242,10 @@
     },
     {
       "field": "description",
-      "value": "Dellia Group offers a range of rapidly growing and popular FMCG brands primarily within the grocery, kiosk, and specialist retail sectors.",
+      "value": "Dellia Group ASA offers a range of rapidly growing and popular fast-moving consumer goods (FMCG) brands primarily within the grocery, kiosk, and specialist retail sectors.",
       "source_url": "https://www.dellia.com/en",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:52+00:00"
+      "retrieved_at": "2026-10-25T04:11:55+00:00"
     },
     {
       "field": "products",
@@ -258,11 +258,11 @@
       ],
       "source_url": "https://www.dellia.com/en",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:52+00:00"
+      "retrieved_at": "2026-10-25T04:11:55+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918280634.",
-  "last_checked": "2026-10-17T10:23:52+00:00",
+  "last_checked": "2026-10-25T04:11:55+00:00",
   "changes": [
     {
       "field": "email",
@@ -301,6 +301,50 @@
         ]
       ],
       "at": "2026-10-17T10:23:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Dellia Group offers a range of rapidly growing and popular FMCG brands primarily within the grocery, kiosk, and specialist retail sectors."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:59+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Dried mango",
+          "Dried peaches",
+          "Sunshine Delights",
+          "Dippies",
+          "A Date With"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:59+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Dellia Group ASA offers a range of rapidly growing and popular fast-moving consumer goods (FMCG) brands primarily within the grocery, kiosk, and specialist retail sectors."
+      ],
+      "at": "2026-10-25T04:11:55+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Dried mango",
+          "Dried peaches",
+          "Sunshine Delights",
+          "Dippies",
+          "A Date With"
+        ]
+      ],
+      "at": "2026-10-25T04:11:55+00:00"
     }
   ]
 }

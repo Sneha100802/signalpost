@@ -305,10 +305,10 @@
     },
     {
       "field": "description",
-      "value": "Mowi is a seafood provider within the retail, horeca and industry segments specialising in salmon farming and seafood products.",
+      "value": "Mowi is a seafood provider within the retail, horeca and industry segments.",
       "source_url": "https://mowi.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:46+00:00"
+      "retrieved_at": "2026-10-25T02:59:44+00:00"
     },
     {
       "field": "products",
@@ -325,7 +325,7 @@
     }
   ],
   "explanation": "45 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 964118191.",
-  "last_checked": "2026-10-17T09:56:46+00:00",
+  "last_checked": "2026-10-25T02:59:44+00:00",
   "changes": [
     {
       "field": "description",
@@ -364,6 +364,16 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:56:46+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Mowi is a seafood provider within the retail, horeca and industry segments specialising in salmon farming and seafood products."
+      ],
+      "new": [
+        "Mowi is a seafood provider within the retail, horeca and industry segments."
+      ],
+      "at": "2026-10-25T02:59:44+00:00"
     }
   ]
 }

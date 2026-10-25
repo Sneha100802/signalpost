@@ -214,23 +214,24 @@
     },
     {
       "field": "description",
-      "value": "Stiftelsen Grønn Diakoni – Plant et Tre jobber for miljøet ved å drive gjenbruksbutikker i Norge, samt treplantings- og brønn-prosjekter i utviklingsland.",
+      "value": "Stiftelsen Grønn Diakoni – Plant et Tre works for the environment by running second-hand shops in Norway as well as tree-planting and well projects in developing countries.",
       "source_url": "https://www.plant-et-tre.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:57+00:00"
+      "retrieved_at": "2026-10-25T04:13:04+00:00"
     },
     {
       "field": "products",
       "value": [
-        "brukte ting"
+        "Brukte ting",
+        "Grønnsaker"
       ],
       "source_url": "https://www.plant-et-tre.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:57+00:00"
+      "retrieved_at": "2026-10-25T04:13:04+00:00"
     }
   ],
   "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 927013339.",
-  "last_checked": "2026-10-17T09:58:57+00:00",
+  "last_checked": "2026-10-25T04:13:04+00:00",
   "changes": [
     {
       "field": "description",
@@ -265,6 +266,43 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:58:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Stiftelsen Grønn Diakoni – Plant et Tre jobber for miljøet ved å drive gjenbruksbutikker i Norge, samt treplantings- og brønn-prosjekter i utviklingsland."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:05:36+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "brukte ting"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:05:36+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen Grønn Diakoni – Plant et Tre works for the environment by running second-hand shops in Norway as well as tree-planting and well projects in developing countries."
+      ],
+      "at": "2026-10-25T04:13:04+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Brukte ting",
+          "Grønnsaker"
+        ]
+      ],
+      "at": "2026-10-25T04:13:04+00:00"
     }
   ]
 }

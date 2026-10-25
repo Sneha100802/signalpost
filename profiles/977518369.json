@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:50:12+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.barnehagen.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977518369",
       "source_date": "1997-05-12",
-      "retrieved_at": "2026-10-17T07:50:12+00:00"
+      "retrieved_at": "2026-10-25T04:13:46+00:00"
     },
     {
       "field": "employees",
@@ -225,41 +225,10 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977518369",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
-    },
-    {
-      "field": "website_verified",
-      "value": "exact legal name found on page",
-      "source_url": "https://barnehagen.no/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:09:23+00:00"
-    },
-    {
-      "field": "email",
-      "value": "tihana.delalic@barnehagen.no",
-      "source_url": "https://barnehagen.no/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:09:23+00:00"
-    },
-    {
-      "field": "description",
-      "value": "Ankerhagen barnehage SA is a kindergarten that creates play-based and educational communities for children, featuring departments named Regnbuen, Solglimt, and Månestråle.",
-      "source_url": "https://barnehagen.no/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:23+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Barnehageplass",
-        "Mattilbud"
-      ],
-      "source_url": "https://barnehagen.no/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:23+00:00"
     }
   ],
-  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977518369.",
-  "last_checked": "2026-10-17T10:26:23+00:00",
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977518369. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T04:13:46+00:00",
   "changes": [
     {
       "field": "email",
@@ -295,6 +264,57 @@
         ]
       ],
       "at": "2026-10-17T10:26:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Ankerhagen barnehage SA is a kindergarten that creates play-based and educational communities for children, featuring departments named Regnbuen, Solglimt, and Månestråle."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:18:05+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Barnehageplass",
+          "Mattilbud"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:18:05+00:00"
+    },
+    {
+      "field": "email",
+      "old": [
+        "tihana.delalic@barnehagen.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:13:46+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.barnehagen.no"
+      ],
+      "at": "2026-10-25T04:13:46+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.barnehagen.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:13:46+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [
+        "exact legal name found on page"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:13:46+00:00"
     }
   ]
 }

@@ -270,27 +270,27 @@
     },
     {
       "field": "description",
-      "value": "Elmera Group ASA is the parent company in a group of several companies selling counseling, services and computer software to energy companies, power agreements and various products for the low emission society.",
+      "value": "Elmera Group ASA is the parent company of a group that provides consumers, businesses, and the wholesale market with electricity, billing and rating services, electricity-related technology solutions, counseling, services, and computer software.",
       "source_url": "https://elmeragroup.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:01+00:00"
+      "retrieved_at": "2026-10-25T04:12:24+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Electricity",
-        "Billing & rating services",
-        "Electricity related technology solutions",
-        "Power agreements",
-        "Computer software"
+        "electricity",
+        "billing & rating services",
+        "electricity related technology solutions",
+        "counseling and services to energy companies",
+        "computer software"
       ],
       "source_url": "https://elmeragroup.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:01+00:00"
+      "retrieved_at": "2026-10-25T04:12:24+00:00"
     }
   ],
   "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920153577.",
-  "last_checked": "2026-10-17T09:58:01+00:00",
+  "last_checked": "2026-10-25T04:12:24+00:00",
   "changes": [
     {
       "field": "description",
@@ -321,6 +321,50 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:58:01+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Elmera Group ASA is the parent company in a group of several companies selling counseling, services and computer software to energy companies, power agreements and various products for the low emission society."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:03:23+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Electricity",
+          "Billing & rating services",
+          "Electricity related technology solutions",
+          "Power agreements",
+          "Computer software"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:03:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Elmera Group ASA is the parent company of a group that provides consumers, businesses, and the wholesale market with electricity, billing and rating services, electricity-related technology solutions, counseling, services, and computer software."
+      ],
+      "at": "2026-10-25T04:12:24+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "electricity",
+          "billing & rating services",
+          "electricity related technology solutions",
+          "counseling and services to energy companies",
+          "computer software"
+        ]
+      ],
+      "at": "2026-10-25T04:12:24+00:00"
     }
   ]
 }

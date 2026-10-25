@@ -228,10 +228,10 @@
     },
     {
       "field": "description",
-      "value": "Capsol Technologies ASA is a carbon capture technology provider that offers post-combustion point source carbon capture and heat recovery systems using a safe solvent.",
+      "value": "Capsol Technologies ASA is a carbon capture technology provider that offers energy-efficient and safe post-combustion carbon capture and heat recovery systems for hard-to-abate industries.",
       "source_url": "https://www.capsoltechnologies.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:32+00:00"
+      "retrieved_at": "2026-10-25T04:11:34+00:00"
     },
     {
       "field": "products",
@@ -242,11 +242,11 @@
       ],
       "source_url": "https://www.capsoltechnologies.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:32+00:00"
+      "retrieved_at": "2026-10-25T04:11:34+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914620457.",
-  "last_checked": "2026-10-17T10:23:32+00:00",
+  "last_checked": "2026-10-25T04:11:34+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -275,6 +275,46 @@
         ]
       ],
       "at": "2026-10-17T10:23:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Capsol Technologies ASA is a carbon capture technology provider that offers post-combustion point source carbon capture and heat recovery systems using a safe solvent."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:57+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "CapsolEoP",
+          "CapsolGT",
+          "CapsolGo"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:57+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Capsol Technologies ASA is a carbon capture technology provider that offers energy-efficient and safe post-combustion carbon capture and heat recovery systems for hard-to-abate industries."
+      ],
+      "at": "2026-10-25T04:11:34+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "CapsolEoP",
+          "CapsolGT",
+          "CapsolGo"
+        ]
+      ],
+      "at": "2026-10-25T04:11:34+00:00"
     }
   ]
 }

@@ -160,7 +160,7 @@
       "field": "role:Revisor",
       "value": "STATSAUTORISERT REVISOR HELENE",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/980334686/roller",
-      "source_date": "2011-06-22",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:48:37+00:00"
     },
     {
@@ -214,6 +214,6 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 980334686.",
-  "last_checked": "2026-10-17T10:01:26+00:00",
+  "last_checked": "2026-10-25T03:07:52+00:00",
   "changes": []
 }

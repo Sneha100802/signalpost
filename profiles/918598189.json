@@ -147,7 +147,7 @@
       "value": "Heartbreaker Records is a record label that represents artists and features music releases.",
       "source_url": "https://www.heartbreakerrecords.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:02+00:00"
+      "retrieved_at": "2026-10-25T04:12:04+00:00"
     },
     {
       "field": "products",
@@ -160,7 +160,7 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 918598189. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:24:02+00:00",
+  "last_checked": "2026-10-25T04:12:04+00:00",
   "changes": [
     {
       "field": "email",
@@ -195,6 +195,22 @@
         "Heartbreaker Records is a record label that represents artists and features music releases."
       ],
       "at": "2026-10-17T10:24:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Heartbreaker Records is a record label that represents artists and features music releases."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:02:44+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Heartbreaker Records is a record label that represents artists and features music releases."
+      ],
+      "at": "2026-10-25T04:12:04+00:00"
     }
   ]
 }

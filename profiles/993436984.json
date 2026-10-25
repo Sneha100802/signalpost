@@ -88,23 +88,16 @@
     },
     {
       "field": "being_dissolved",
-      "value": false,
+      "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:48:16+00:00"
+      "retrieved_at": "2026-10-25T03:05:40+00:00"
     },
     {
       "field": "forced_dissolution",
       "value": false,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:48:16+00:00"
-    },
-    {
-      "field": "role:Daglig leder",
-      "value": "Jon Olav Østhus",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
-      "source_date": "2008-12-16",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
@@ -125,18 +118,37 @@
       "field": "role:Styrets leder",
       "value": "Jon Olav Østhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
-      "source_date": "2008-12-16",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Unni Marie Østhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993436984/roller",
-      "source_date": "2008-12-16",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:48:16+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993436984. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:59:27+00:00",
-  "changes": []
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 993436984. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-25T03:05:41+00:00",
+  "changes": [
+    {
+      "field": "being_dissolved",
+      "old": [
+        false
+      ],
+      "new": [
+        true
+      ],
+      "at": "2026-10-25T03:05:41+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "old": [
+        "Jon Olav Østhus"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:05:41+00:00"
+    }
+  ]
 }

@@ -256,27 +256,27 @@
     },
     {
       "field": "description",
-      "value": "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for å øke publikums kunnskap om aksjer og verdipapirmarkedene.",
+      "value": "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for å øke publikums kunnskap om aksjer, verdipapirmarkedene og langsiktig aksjesparing.",
       "source_url": "https://aksjenorge.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:40+00:00"
+      "retrieved_at": "2026-10-25T02:59:33+00:00"
     },
     {
       "field": "products",
       "value": [
         "Aksjeskole",
         "Aksjekalkulator",
-        "Arrangementer",
+        "Arrangementer og webinarer",
         "Aksjequiz",
         "Nyhetsbrev"
       ],
       "source_url": "https://aksjenorge.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:40+00:00"
+      "retrieved_at": "2026-10-25T02:59:33+00:00"
     }
   ],
   "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971280689.",
-  "last_checked": "2026-10-17T09:56:40+00:00",
+  "last_checked": "2026-10-25T02:59:33+00:00",
   "changes": [
     {
       "field": "description",
@@ -315,6 +315,38 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:56:40+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for å øke publikums kunnskap om aksjer og verdipapirmarkedene."
+      ],
+      "new": [
+        "AksjeNorge er en ikke-kommersiell stiftelse som arbeider for å øke publikums kunnskap om aksjer, verdipapirmarkedene og langsiktig aksjesparing."
+      ],
+      "at": "2026-10-25T02:59:33+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Aksjeskole",
+          "Aksjekalkulator",
+          "Arrangementer",
+          "Aksjequiz",
+          "Nyhetsbrev"
+        ]
+      ],
+      "new": [
+        [
+          "Aksjeskole",
+          "Aksjekalkulator",
+          "Arrangementer og webinarer",
+          "Aksjequiz",
+          "Nyhetsbrev"
+        ]
+      ],
+      "at": "2026-10-25T02:59:33+00:00"
     }
   ]
 }

@@ -144,14 +144,27 @@
     },
     {
       "field": "description",
-      "value": "Bergen Økologiske Landsby develops an ecological and sustainable village project focusing on community, nature, and culture at Bruvik on Osterøy.",
+      "value": "Bergen Økologiske Landsby develops an ecological and sustainable village community with climate-friendly housing at Bruvik on Osterøy.",
       "source_url": "https://www.bergenokologiskelandsby.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:02+00:00"
+      "retrieved_at": "2026-10-25T04:16:25+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Klimavennlige boliger",
+        "Informasjonsmøter",
+        "Permakulturlørdager",
+        "Kurs i kontaktskapende kommunikasjon og sosiokrati",
+        "Fermenteringskurser"
+      ],
+      "source_url": "https://www.bergenokologiskelandsby.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-25T04:16:25+00:00"
     }
   ],
-  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:28:02+00:00",
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988148091. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-25T04:16:25+00:00",
   "changes": [
     {
       "field": "email",
@@ -176,6 +189,36 @@
         "Bergen Økologiske Landsby develops an ecological and sustainable village project focusing on community, nature, and culture at Bruvik on Osterøy."
       ],
       "at": "2026-10-17T10:28:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Bergen Økologiske Landsby develops an ecological and sustainable village project focusing on community, nature, and culture at Bruvik on Osterøy."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Bergen Økologiske Landsby develops an ecological and sustainable village community with climate-friendly housing at Bruvik on Osterøy."
+      ],
+      "at": "2026-10-25T04:16:25+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Klimavennlige boliger",
+          "Informasjonsmøter",
+          "Permakulturlørdager",
+          "Kurs i kontaktskapende kommunikasjon og sosiokrati",
+          "Fermenteringskurser"
+        ]
+      ],
+      "at": "2026-10-25T04:16:25+00:00"
     }
   ]
 }

@@ -228,14 +228,14 @@
     },
     {
       "field": "description",
-      "value": "Hopeful is a non-profit organization and professional training company in Kristiansand that helps young people complete their education and transition into regular employment.",
+      "value": "Hopeful er en ideell, livssynsnøytral organisasjon og profesjonell lærebedrift i Kristiansand som bidrar til at ungdom fullfører skole, studie eller fagbrev for å gå ut i ordinært arbeid.",
       "source_url": "https://www.hopeful.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:35+00:00"
+      "retrieved_at": "2026-10-25T03:01:55+00:00"
     }
   ],
   "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911724081.",
-  "last_checked": "2026-10-17T09:57:35+00:00",
+  "last_checked": "2026-10-25T03:01:55+00:00",
   "changes": [
     {
       "field": "description",
@@ -260,6 +260,16 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:57:35+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Hopeful is a non-profit organization and professional training company in Kristiansand that helps young people complete their education and transition into regular employment."
+      ],
+      "new": [
+        "Hopeful er en ideell, livssynsnøytral organisasjon og profesjonell lærebedrift i Kristiansand som bidrar til at ungdom fullfører skole, studie eller fagbrev for å gå ut i ordinært arbeid."
+      ],
+      "at": "2026-10-25T03:01:56+00:00"
     }
   ]
 }

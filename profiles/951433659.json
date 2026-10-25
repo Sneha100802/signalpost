@@ -88,10 +88,10 @@
     },
     {
       "field": "being_dissolved",
-      "value": false,
+      "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951433659",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:48:13+00:00"
+      "retrieved_at": "2026-10-25T03:05:35+00:00"
     },
     {
       "field": "forced_dissolution",
@@ -99,13 +99,6 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951433659",
       "source_date": null,
       "retrieved_at": "2026-10-17T07:48:13+00:00"
-    },
-    {
-      "field": "role:Daglig leder",
-      "value": "Bjørn Arild Åslund",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951433659/roller",
-      "source_date": "1989-04-23",
-      "retrieved_at": "2026-10-17T07:48:14+00:00"
     },
     {
       "field": "role:Deltaker med fullt ansvar",
@@ -125,18 +118,37 @@
       "field": "role:Styrets leder",
       "value": "Bjørn Arild Åslund",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951433659/roller",
-      "source_date": "1993-01-11",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Jarle Aaslund",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/951433659/roller",
-      "source_date": "1993-01-11",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:48:14+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 951433659. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:59:20+00:00",
-  "changes": []
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 951433659. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-25T03:05:35+00:00",
+  "changes": [
+    {
+      "field": "being_dissolved",
+      "old": [
+        false
+      ],
+      "new": [
+        true
+      ],
+      "at": "2026-10-25T03:05:35+00:00"
+    },
+    {
+      "field": "role:Daglig leder",
+      "old": [
+        "Bjørn Arild Åslund"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:05:35+00:00"
+    }
+  ]
 }

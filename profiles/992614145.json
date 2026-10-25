@@ -298,25 +298,25 @@
     },
     {
       "field": "description",
-      "value": "Polaris Media er et av Skandinavias største mediehus- og trykkerikonsern.",
+      "value": "Polaris Media is one of Scandinavia's largest media house and printing groups, operating numerous media outlets and focusing on journalistic development.",
       "source_url": "https://www.polarismedia.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:23+00:00"
+      "retrieved_at": "2026-10-25T04:16:55+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Mediehus",
-        "Trykkeritjenester",
+        "Mediehuse",
+        "Trykkerivirksomhet",
         "Distribusjon"
       ],
       "source_url": "https://www.polarismedia.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:23+00:00"
+      "retrieved_at": "2026-10-25T04:16:55+00:00"
     }
   ],
   "explanation": "44 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992614145.",
-  "last_checked": "2026-10-17T10:29:23+00:00",
+  "last_checked": "2026-10-25T04:16:55+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -345,6 +345,46 @@
         ]
       ],
       "at": "2026-10-17T10:29:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Polaris Media er et av Skandinavias største mediehus- og trykkerikonsern."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:18+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Mediehus",
+          "Trykkeritjenester",
+          "Distribusjon"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:18+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Polaris Media is one of Scandinavia's largest media house and printing groups, operating numerous media outlets and focusing on journalistic development."
+      ],
+      "at": "2026-10-25T04:16:55+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Mediehuse",
+          "Trykkerivirksomhet",
+          "Distribusjon"
+        ]
+      ],
+      "at": "2026-10-25T04:16:55+00:00"
     }
   ]
 }

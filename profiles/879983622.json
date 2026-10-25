@@ -118,21 +118,21 @@
       "field": "role:Styrets leder",
       "value": "Johan Peter Johansen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879983622/roller",
-      "source_date": "2025-06-23",
+      "source_date": "2026-10-17",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Haakon Lauritz Bryhn",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879983622/roller",
-      "source_date": "2025-06-23",
+      "source_date": "2026-10-17",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Oscar Laurentzius Olsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/879983622/roller",
-      "source_date": "2025-06-23",
+      "source_date": "2026-10-17",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
@@ -179,6 +179,6 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 879983622.",
-  "last_checked": "2026-10-17T10:06:35+00:00",
+  "last_checked": "2026-10-25T03:14:12+00:00",
   "changes": []
 }

@@ -242,10 +242,10 @@
     },
     {
       "field": "description",
-      "value": "Adius Advokater ANS offers legal assistance of high professional quality at competitive prices to private individuals and small to medium-sized businesses.",
+      "value": "Adius Advokater ANS tilbyr juridisk bistand av høy faglig kvalitet til privatpersoner og små til mellomstore bedrifter.",
       "source_url": "https://www.adius.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:22+00:00"
+      "retrieved_at": "2026-10-25T04:16:15+00:00"
     },
     {
       "field": "products",
@@ -256,11 +256,11 @@
       ],
       "source_url": "https://www.adius.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:22+00:00"
+      "retrieved_at": "2026-10-25T04:16:15+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990153884.",
-  "last_checked": "2026-10-17T10:28:22+00:00",
+  "last_checked": "2026-10-25T04:16:15+00:00",
   "changes": [
     {
       "field": "email",
@@ -297,6 +297,46 @@
         ]
       ],
       "at": "2026-10-17T10:28:22+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Adius Advokater ANS offers legal assistance of high professional quality at competitive prices to private individuals and small to medium-sized businesses."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:06+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Juridisk bistand",
+          "Generell veiledning",
+          "Avtaler"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:06+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Adius Advokater ANS tilbyr juridisk bistand av høy faglig kvalitet til privatpersoner og små til mellomstore bedrifter."
+      ],
+      "at": "2026-10-25T04:16:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Juridisk bistand",
+          "Generell veiledning",
+          "Avtaler"
+        ]
+      ],
+      "at": "2026-10-25T04:16:15+00:00"
     }
   ]
 }

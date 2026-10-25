@@ -90,21 +90,21 @@
       "field": "role:Styrets leder",
       "value": "Hans Erik Krogstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
-      "source_date": "2018-10-12",
+      "source_date": "2026-10-19",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Per Johan Trangmyr",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
-      "source_date": "2018-10-12",
+      "source_date": "2026-10-19",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Kjell Strand",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992092572/roller",
-      "source_date": "2018-10-12",
+      "source_date": "2026-10-19",
       "retrieved_at": "2026-10-17T07:49:11+00:00"
     },
     {
@@ -116,6 +116,6 @@
     }
   ],
   "explanation": "16 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992092572. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:05:09+00:00",
+  "last_checked": "2026-10-25T03:12:21+00:00",
   "changes": []
 }

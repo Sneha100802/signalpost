@@ -137,10 +137,10 @@
     },
     {
       "field": "description",
-      "value": "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that offers scouting activities for children and youth.",
+      "value": "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that organizes scouting activities for children and youth.",
       "source_url": "https://www.1eiksmarka.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:56+00:00"
+      "retrieved_at": "2026-10-25T03:00:32+00:00"
     },
     {
       "field": "products",
@@ -156,7 +156,7 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 913649753. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:56:56+00:00",
+  "last_checked": "2026-10-25T03:00:32+00:00",
   "changes": [
     {
       "field": "description",
@@ -194,6 +194,16 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:56:56+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that offers scouting activities for children and youth."
+      ],
+      "new": [
+        "1. Eiksmarka speidergruppe is a local scout group affiliated with Norges Speiderforbund that organizes scouting activities for children and youth."
+      ],
+      "at": "2026-10-25T03:00:33+00:00"
     }
   ]
 }

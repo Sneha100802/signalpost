@@ -38,11 +38,11 @@
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.bondensmarked.no/Drammen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615",
       "source_date": "2013-12-17",
-      "retrieved_at": "2026-10-17T07:49:56+00:00"
+      "retrieved_at": "2026-10-25T03:54:32+00:00"
     },
     {
       "field": "founded",
@@ -125,28 +125,28 @@
       "field": "role:Styrets leder",
       "value": "Elin Sofie Køhler",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
-      "source_date": "2026-02-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hilde Synnøve Riis",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:15:47+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Anne Karin Bøhn",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
-      "source_date": "2026-02-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Tim Reidar Stenberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
-      "source_date": "2026-02-02",
-      "retrieved_at": "2026-10-17T07:49:56+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Jan Thore Riseng",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911878615/roller",
-      "source_date": "2026-02-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     },
     {
@@ -199,7 +199,38 @@
       "retrieved_at": "2026-10-17T07:49:56+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911878615. Gaps: website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:08:31+00:00",
-  "changes": []
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 911878615. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T03:54:32+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Anne Karin Bøhn",
+        "Jan Thore Riseng",
+        "Tim Reidar Stenberg"
+      ],
+      "new": [
+        "Anne Karin Bøhn",
+        "Hilde Synnøve Riis",
+        "Tim Reidar Stenberg"
+      ],
+      "at": "2026-10-25T03:15:50+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.bondensmarked.no/Drammen"
+      ],
+      "at": "2026-10-25T03:54:32+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.bondensmarked.no/Drammen"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:54:32+00:00"
+    }
+  ]
 }

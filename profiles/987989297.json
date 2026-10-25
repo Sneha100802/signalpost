@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.bluenord.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/987989297",
       "source_date": "2005-03-12",
-      "retrieved_at": "2026-10-17T07:48:45+00:00"
+      "retrieved_at": "2026-10-25T03:55:18+00:00"
     },
     {
       "field": "employees",
@@ -234,7 +234,24 @@
       "retrieved_at": "2026-10-17T07:48:45+00:00"
     }
   ],
-  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987989297. Gaps: website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:02:18+00:00",
-  "changes": []
+  "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 987989297. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T03:55:18+00:00",
+  "changes": [
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.bluenord.com"
+      ],
+      "at": "2026-10-25T03:55:18+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.bluenord.com"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:55:18+00:00"
+    }
+  ]
 }

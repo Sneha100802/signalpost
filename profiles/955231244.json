@@ -32,10 +32,10 @@
     },
     {
       "field": "postal_address",
-      "value": "c/o Obos Eiendomsforvaltning AS, Postboks 5790 Torgarden, 7437, TRONDHEIM",
+      "value": "c/o Obos Eiendomsforvaltning AS, Postboks 393 Alnabru, 0614, OSLO",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244",
       "source_date": "1995-02-19",
-      "retrieved_at": "2026-10-17T07:50:12+00:00"
+      "retrieved_at": "2026-10-25T03:16:45+00:00"
     },
     {
       "field": "founded",
@@ -125,36 +125,36 @@
       "field": "role:Styrets leder",
       "value": "Bjørg Helen Arntsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
-      "source_date": "2025-01-24",
-      "retrieved_at": "2026-10-17T07:50:13+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Christoffer Olavi Räisänen",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
-      "source_date": "2025-01-24",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Tove Irene Sundberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
-      "source_date": "2025-01-24",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Sondre Vårvik Nordheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
-      "source_date": "2025-01-24",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:13+00:00"
     },
     {
-      "field": "role:Varamedlem",
-      "value": "Åse Fallin",
+      "field": "role:Styremedlem",
+      "value": "Even Devik Klemsdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
-      "source_date": "2025-01-24",
-      "retrieved_at": "2026-10-17T07:50:13+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:16:45+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Jens Christian Reberg",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955231244/roller",
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:16:45+00:00"
     },
     {
       "field": "role:Revisor",
@@ -214,6 +214,41 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 955231244.",
-  "last_checked": "2026-10-17T10:09:20+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:16:45+00:00",
+  "changes": [
+    {
+      "field": "postal_address",
+      "old": [
+        "c/o Obos Eiendomsforvaltning AS, Postboks 5790 Torgarden, 7437, TRONDHEIM"
+      ],
+      "new": [
+        "c/o Obos Eiendomsforvaltning AS, Postboks 393 Alnabru, 0614, OSLO"
+      ],
+      "at": "2026-10-25T03:16:46+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Christoffer Olavi Räisänen",
+        "Sondre Vårvik Nordheim",
+        "Tove Irene Sundberg"
+      ],
+      "new": [
+        "Even Devik Klemsdal",
+        "Sondre Vårvik Nordheim",
+        "Tove Irene Sundberg"
+      ],
+      "at": "2026-10-25T03:16:46+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "old": [
+        "Åse Fallin"
+      ],
+      "new": [
+        "Jens Christian Reberg"
+      ],
+      "at": "2026-10-25T03:16:46+00:00"
+    }
+  ]
 }

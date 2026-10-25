@@ -151,24 +151,23 @@
     },
     {
       "field": "description",
-      "value": "1. Godvik Sjøspeidergruppe is a newly established sea scout group offering outdoor life, friendship, and challenges for children from 3rd to 10th grade.",
+      "value": "1. Godvik Sjøspeidergruppe is a scouting group offering outdoor life, friendship, and personal challenges for children in grades 3 through 10.",
       "source_url": "https://1-godvik-sjo.webnode.page/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:18:41+00:00"
+      "retrieved_at": "2026-10-25T04:11:04+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Speiding",
-        "Friluftsliv"
+        "Speiding"
       ],
       "source_url": "https://1-godvik-sjo.webnode.page/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:18:41+00:00"
+      "retrieved_at": "2026-10-25T04:11:04+00:00"
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912992101. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:22:52+00:00",
+  "last_checked": "2026-10-25T04:11:04+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -196,6 +195,43 @@
         ]
       ],
       "at": "2026-10-17T10:18:41+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "1. Godvik Sjøspeidergruppe is a newly established sea scout group offering outdoor life, friendship, and challenges for children from 3rd to 10th grade."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:50+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Speiding",
+          "Friluftsliv"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:50+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "1. Godvik Sjøspeidergruppe is a scouting group offering outdoor life, friendship, and personal challenges for children in grades 3 through 10."
+      ],
+      "at": "2026-10-25T04:11:04+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Speiding"
+        ]
+      ],
+      "at": "2026-10-25T04:11:04+00:00"
     }
   ]
 }

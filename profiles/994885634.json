@@ -130,27 +130,27 @@
     },
     {
       "field": "description",
-      "value": "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, weekly meetings, trips, camps, and leadership development for children and youth.",
+      "value": "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, trips, and camps for children, youth, and adults.",
       "source_url": "https://3e1.kmspeider.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:18+00:00"
+      "retrieved_at": "2026-10-25T02:59:29+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Speidermøter",
-        "Speiderturer",
-        "Speiderleir",
-        "Lederutvikling",
-        "Friluftsaktiviteter"
+        "Familespeiding",
+        "Stifinnere",
+        "Vandrere",
+        "Rovere",
+        "Lederutvikling"
       ],
       "source_url": "https://3e1.kmspeider.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:18+00:00"
+      "retrieved_at": "2026-10-25T02:59:29+00:00"
     }
   ],
   "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 994885634. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:56:18+00:00",
+  "last_checked": "2026-10-25T02:59:29+00:00",
   "changes": [
     {
       "field": "description",
@@ -181,6 +181,38 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:56:18+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, weekly meetings, trips, camps, and leadership development for children and youth."
+      ],
+      "new": [
+        "3. Eiksmarka 1 KFUK-KFUM-speidere offers scouting and outdoor activities, trips, and camps for children, youth, and adults."
+      ],
+      "at": "2026-10-25T02:59:29+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Speidermøter",
+          "Speiderturer",
+          "Speiderleir",
+          "Lederutvikling",
+          "Friluftsaktiviteter"
+        ]
+      ],
+      "new": [
+        [
+          "Familespeiding",
+          "Stifinnere",
+          "Vandrere",
+          "Rovere",
+          "Lederutvikling"
+        ]
+      ],
+      "at": "2026-10-25T02:59:29+00:00"
     }
   ]
 }

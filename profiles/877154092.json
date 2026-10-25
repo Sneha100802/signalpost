@@ -193,14 +193,23 @@
     },
     {
       "field": "description",
-      "value": "Amalie Laksov (f. Scheer) Minnefond til vern om menneskerettighetene is a memorial foundation that awards the Laksov Prize to honor individuals and organizations for their work in protecting and advancing human rights.",
+      "value": "Amalie Laksovs Minnefond til vern om menneskerettighetene is a memorial fund that awards the annual Laksovprisen to individuals and organizations working to protect and promote fundamental human rights.",
       "source_url": "https://www.laksovprisen.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:24+00:00"
+      "retrieved_at": "2026-10-25T04:11:15+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Laksovprisen"
+      ],
+      "source_url": "https://www.laksovprisen.no",
+      "source_date": null,
+      "retrieved_at": "2026-10-25T04:11:15+00:00"
     }
   ],
-  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 877154092.",
-  "last_checked": "2026-10-17T09:58:24+00:00",
+  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 877154092.",
+  "last_checked": "2026-10-25T04:11:15+00:00",
   "changes": [
     {
       "field": "description",
@@ -217,6 +226,32 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:58:24+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Amalie Laksov (f. Scheer) Minnefond til vern om menneskerettighetene is a memorial foundation that awards the Laksov Prize to honor individuals and organizations for their work in protecting and advancing human rights."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:04:19+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Amalie Laksovs Minnefond til vern om menneskerettighetene is a memorial fund that awards the annual Laksovprisen to individuals and organizations working to protect and promote fundamental human rights."
+      ],
+      "at": "2026-10-25T04:11:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Laksovprisen"
+        ]
+      ],
+      "at": "2026-10-25T04:11:15+00:00"
     }
   ]
 }

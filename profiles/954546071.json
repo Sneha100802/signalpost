@@ -130,17 +130,24 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Gro Kristin Boge",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954546071/roller",
-      "source_date": "2025-02-20",
-      "retrieved_at": "2026-10-17T07:48:11+00:00"
-    },
-    {
-      "field": "role:Varamedlem",
       "value": "Tor Arild Bolstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954546071/roller",
-      "source_date": "2025-02-20",
-      "retrieved_at": "2026-10-17T07:48:11+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:05:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ole-Christian Knudsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954546071/roller",
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:05:27+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Hege Kristine Walløe",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954546071/roller",
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:05:27+00:00"
     },
     {
       "field": "accounts_period_end",
@@ -164,7 +171,35 @@
       "retrieved_at": "2026-10-17T07:48:11+00:00"
     }
   ],
-  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954546071.",
-  "last_checked": "2026-10-17T09:59:14+00:00",
-  "changes": []
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954546071.",
+  "last_checked": "2026-10-25T03:05:27+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [],
+      "new": [
+        "Hege Kristine Walløe",
+        "Ole-Christian Knudsen"
+      ],
+      "at": "2026-10-25T03:05:27+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "old": [
+        "Gro Kristin Boge"
+      ],
+      "new": [
+        "Tor Arild Bolstad"
+      ],
+      "at": "2026-10-25T03:05:27+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "old": [
+        "Tor Arild Bolstad"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:05:27+00:00"
+    }
+  ]
 }

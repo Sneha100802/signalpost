@@ -144,10 +144,10 @@
     },
     {
       "field": "description",
-      "value": "7. Kristiansand Sjø er en sjøspeidergruppe i Vågsbygd med et moderne speidersenter, eget bryggeanlegg, hytter og et stort utvalg av båter.",
+      "value": "7. Kristiansand Sjø er en bydelsgruppe for sjøspeidere i Vågsbygd med et speidersenter i Terneviga og over 300 aktive medlemmer.",
       "source_url": "https://www.syvende.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:02+00:00"
+      "retrieved_at": "2026-10-25T04:14:14+00:00"
     },
     {
       "field": "products",
@@ -160,11 +160,11 @@
       ],
       "source_url": "https://www.syvende.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:02+00:00"
+      "retrieved_at": "2026-10-25T04:14:14+00:00"
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975582663. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:26:02+00:00",
+  "last_checked": "2026-10-25T04:14:14+00:00",
   "changes": [
     {
       "field": "email",
@@ -203,6 +203,50 @@
         ]
       ],
       "at": "2026-10-17T10:26:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "7. Kristiansand Sjø er en sjøspeidergruppe i Vågsbygd med et moderne speidersenter, eget bryggeanlegg, hytter og et stort utvalg av båter."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:29+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Joller",
+          "Kanoer",
+          "Småbåter",
+          "Gyda",
+          "Utleie"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:29+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "7. Kristiansand Sjø er en bydelsgruppe for sjøspeidere i Vågsbygd med et speidersenter i Terneviga og over 300 aktive medlemmer."
+      ],
+      "at": "2026-10-25T04:14:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Joller",
+          "Kanoer",
+          "Småbåter",
+          "Gyda",
+          "Utleie"
+        ]
+      ],
+      "at": "2026-10-25T04:14:15+00:00"
     }
   ]
 }

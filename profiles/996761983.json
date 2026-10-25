@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:50:22+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.afs.no/lokallag/bodo",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996761983",
       "source_date": "2011-04-09",
-      "retrieved_at": "2026-10-17T07:50:22+00:00"
+      "retrieved_at": "2026-10-25T03:55:56+00:00"
     },
     {
       "field": "founded",
@@ -122,7 +122,24 @@
       "retrieved_at": "2026-10-17T07:50:23+00:00"
     }
   ],
-  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996761983. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:10:00+00:00",
-  "changes": []
+  "explanation": "17 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996761983. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own, no filed accounts found.",
+  "last_checked": "2026-10-25T03:55:57+00:00",
+  "changes": [
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.afs.no/lokallag/bodo"
+      ],
+      "at": "2026-10-25T03:55:57+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.afs.no/lokallag/bodo"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:55:57+00:00"
+    }
+  ]
 }

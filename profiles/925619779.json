@@ -158,27 +158,25 @@
     },
     {
       "field": "description",
-      "value": "Indieforfatterne er et non-profit samvirkelag for uavhengige, selvpubliserende forfattere i Norge som arbeider for å markedsføre medlemmene og deres bøker, samt tilby et kollegialt nettverk.",
+      "value": "Indieforfatterne SA er et samvirkelag for uavhengige, selvpubliserende forfattere som jobber for å markedsføre medlemmene og deres bøker, samt tilby et kollegialt nettverk.",
       "source_url": "https://indieforfatterne.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:52+00:00"
+      "retrieved_at": "2026-10-25T04:12:54+00:00"
     },
     {
       "field": "products",
       "value": [
         "Bøker",
-        "Månedens indiebok",
         "Bokkatalogen",
-        "Digitalt forfattertreff",
-        "Medlemskap"
+        "Månedens Indiebok"
       ],
       "source_url": "https://indieforfatterne.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:52+00:00"
+      "retrieved_at": "2026-10-25T04:12:54+00:00"
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 925619779. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:24:52+00:00",
+  "last_checked": "2026-10-25T04:12:54+00:00",
   "changes": [
     {
       "field": "email",
@@ -217,6 +215,48 @@
         ]
       ],
       "at": "2026-10-17T10:24:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Indieforfatterne er et non-profit samvirkelag for uavhengige, selvpubliserende forfattere i Norge som arbeider for å markedsføre medlemmene og deres bøker, samt tilby et kollegialt nettverk."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:08:46+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Bøker",
+          "Månedens indiebok",
+          "Bokkatalogen",
+          "Digitalt forfattertreff",
+          "Medlemskap"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:08:46+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Indieforfatterne SA er et samvirkelag for uavhengige, selvpubliserende forfattere som jobber for å markedsføre medlemmene og deres bøker, samt tilby et kollegialt nettverk."
+      ],
+      "at": "2026-10-25T04:12:54+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Bøker",
+          "Bokkatalogen",
+          "Månedens Indiebok"
+        ]
+      ],
+      "at": "2026-10-25T04:12:54+00:00"
     }
   ]
 }

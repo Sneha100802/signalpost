@@ -284,10 +284,10 @@
     },
     {
       "field": "description",
-      "value": "Norconsult combines engineering, architecture, and digital expertise to provide consulting services for planning, design, infrastructure, and sustainable development projects.",
+      "value": "Norconsult combines engineering, architecture, and digital expertise to provide consulting and planning services for various sectors such as infrastructure, building and property, and renewable energy.",
       "source_url": "https://norconsult.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:12+00:00"
+      "retrieved_at": "2026-10-25T04:13:35+00:00"
     },
     {
       "field": "products",
@@ -300,11 +300,11 @@
       ],
       "source_url": "https://norconsult.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:12+00:00"
+      "retrieved_at": "2026-10-25T04:13:35+00:00"
     }
   ],
   "explanation": "42 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 963865724.",
-  "last_checked": "2026-10-17T10:25:12+00:00",
+  "last_checked": "2026-10-25T04:13:35+00:00",
   "changes": [
     {
       "field": "email",
@@ -343,6 +343,50 @@
         ]
       ],
       "at": "2026-10-17T10:25:12+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Norconsult combines engineering, architecture, and digital expertise to provide consulting services for planning, design, infrastructure, and sustainable development projects."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:13:37+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Architecture",
+          "Building and Property",
+          "Digitalisation",
+          "Infrastructure",
+          "Renewable Energy"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:13:37+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Norconsult combines engineering, architecture, and digital expertise to provide consulting and planning services for various sectors such as infrastructure, building and property, and renewable energy."
+      ],
+      "at": "2026-10-25T04:13:35+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Architecture",
+          "Building and Property",
+          "Digitalisation",
+          "Infrastructure",
+          "Renewable Energy"
+        ]
+      ],
+      "at": "2026-10-25T04:13:35+00:00"
     }
   ]
 }

@@ -137,25 +137,26 @@
     },
     {
       "field": "description",
-      "value": "The organization marks the International Women's Day in Trondheim through events such as rallies, marches, and festival programs.",
+      "value": "8. mars i Trondheim arrangerer markeringer av den internasjonale kvinnedagen gjennom torgmøter, festmøter og paroler i samarbeid med ulike organisasjoner og enkeltpersoner.",
       "source_url": "https://www.8mars.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:42+00:00"
+      "retrieved_at": "2026-10-25T04:11:44+00:00"
     },
     {
       "field": "products",
       "value": [
         "Torgmøte",
         "Festmøte",
-        "Festivalprogram"
+        "Festivalprogram",
+        "Paroletog"
       ],
       "source_url": "https://www.8mars.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:23:42+00:00"
+      "retrieved_at": "2026-10-25T04:11:44+00:00"
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916552890. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:23:42+00:00",
+  "last_checked": "2026-10-25T04:11:44+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -184,6 +185,47 @@
         ]
       ],
       "at": "2026-10-17T10:23:42+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "The organization marks the International Women's Day in Trondheim through events such as rallies, marches, and festival programs."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:18:37+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Torgmøte",
+          "Festmøte",
+          "Festivalprogram"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:18:37+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "8. mars i Trondheim arrangerer markeringer av den internasjonale kvinnedagen gjennom torgmøter, festmøter og paroler i samarbeid med ulike organisasjoner og enkeltpersoner."
+      ],
+      "at": "2026-10-25T04:11:44+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Torgmøte",
+          "Festmøte",
+          "Festivalprogram",
+          "Paroletog"
+        ]
+      ],
+      "at": "2026-10-25T04:11:44+00:00"
     }
   ]
 }

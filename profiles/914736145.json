@@ -104,70 +104,63 @@
       "field": "role:Styrets leder",
       "value": "Rolf Liland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Vegard Bøthun",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Steve Pedersen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Merete Mjelle",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Tommy Alstad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
-      "retrieved_at": "2026-10-17T07:47:02+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Rolf Olaf Mangseth",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Kim-Rayner Fagerstad Monsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Andreas Stamsø Eidem",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Erik Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Siv Lena Yttergård",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/914736145/roller",
-      "source_date": "2026-01-14",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:47:02+00:00"
     },
     {
@@ -179,10 +172,10 @@
     },
     {
       "field": "description",
-      "value": "331 skv Veteranforening is an association for current and former personnel of 331 Squadron that serves as a forum for members and organizes gatherings, lectures, and social events.",
+      "value": "331 skv Veteranforening is a veteran association for current and former personnel of the 331 Squadron, serving as a social forum and organizing meetups, lectures, and gatherings.",
       "source_url": "https://www.331.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:43+00:00"
+      "retrieved_at": "2026-10-25T02:59:56+00:00"
     },
     {
       "field": "products",
@@ -196,8 +189,8 @@
       "retrieved_at": "2026-10-17T09:56:43+00:00"
     }
   ],
-  "explanation": "27 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914736145. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:56:43+00:00",
+  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 914736145. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-25T02:59:56+00:00",
   "changes": [
     {
       "field": "description",
@@ -226,6 +219,41 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:56:43+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "331 skv Veteranforening is an association for current and former personnel of 331 Squadron that serves as a forum for members and organizes gatherings, lectures, and social events."
+      ],
+      "new": [
+        "331 skv Veteranforening is a veteran association for current and former personnel of the 331 Squadron, serving as a social forum and organizing meetups, lectures, and gatherings."
+      ],
+      "at": "2026-10-25T02:59:56+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Andreas Stamsø Eidem",
+        "Erik Solberg",
+        "Kim-Rayner Fagerstad Monsen",
+        "Merete Mjelle",
+        "Rolf Olaf Mangseth",
+        "Siv Lena Yttergård",
+        "Steve Pedersen",
+        "Tommy Alstad",
+        "Vegard Bøthun"
+      ],
+      "new": [
+        "Andreas Stamsø Eidem",
+        "Erik Solberg",
+        "Kim-Rayner Fagerstad Monsen",
+        "Merete Mjelle",
+        "Siv Lena Yttergård",
+        "Steve Pedersen",
+        "Tommy Alstad",
+        "Vegard Bøthun"
+      ],
+      "at": "2026-10-25T02:59:56+00:00"
     }
   ]
 }

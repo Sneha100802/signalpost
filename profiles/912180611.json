@@ -235,27 +235,27 @@
     },
     {
       "field": "description",
-      "value": "Advokatfirmaet Henriksen & Co ANS is a law firm located in central Oslo that provides legal assistance to businesses, organizations, and private individuals.",
+      "value": "Advokatfirmaet Henriksen & Co ANS is a law firm based in central Oslo providing legal assistance to businesses, organizations, and private individuals.",
       "source_url": "https://henriksenco.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:22:32+00:00"
+      "retrieved_at": "2026-10-25T04:10:54+00:00"
     },
     {
       "field": "products",
       "value": [
-        "tvisteløsning, mekling og prosedyre",
-        "forsikrings- og erstatningsrett",
-        "eiendoms- og entrepriserett",
-        "familie/arv/skifte",
-        "arbeidsrett"
+        "Tvisteløsning, mekling og prosedyre",
+        "Forsikrings- og erstatningsrett",
+        "Eiendoms- og entrepriserett",
+        "Familie/arv/skifte",
+        "Arbeidsrett"
       ],
       "source_url": "https://henriksenco.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:22:32+00:00"
+      "retrieved_at": "2026-10-25T04:10:54+00:00"
     }
   ],
   "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 912180611.",
-  "last_checked": "2026-10-17T10:22:32+00:00",
+  "last_checked": "2026-10-25T04:10:54+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -318,6 +318,50 @@
         ]
       ],
       "at": "2026-10-17T10:22:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Advokatfirmaet Henriksen & Co ANS is a law firm located in central Oslo that provides legal assistance to businesses, organizations, and private individuals."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:14:33+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "tvisteløsning, mekling og prosedyre",
+          "forsikrings- og erstatningsrett",
+          "eiendoms- og entrepriserett",
+          "familie/arv/skifte",
+          "arbeidsrett"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:14:33+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Advokatfirmaet Henriksen & Co ANS is a law firm based in central Oslo providing legal assistance to businesses, organizations, and private individuals."
+      ],
+      "at": "2026-10-25T04:10:54+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Tvisteløsning, mekling og prosedyre",
+          "Forsikrings- og erstatningsrett",
+          "Eiendoms- og entrepriserett",
+          "Familie/arv/skifte",
+          "Arbeidsrett"
+        ]
+      ],
+      "at": "2026-10-25T04:10:54+00:00"
     }
   ]
 }

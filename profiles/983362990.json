@@ -158,10 +158,10 @@
     },
     {
       "field": "description",
-      "value": "Stiftelsen Grip Dagen legger til rette for ulike fritidsaktiviteter for utviklingshemmede i spesifikke kommuneler.",
+      "value": "Stiftelsen Grip Dagen legger til rette for forskjellige fritidsaktiviteter for utviklingshemmede i spesifikke kommunedelene.",
       "source_url": "https://www.gripdagen.org",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:23+00:00"
+      "retrieved_at": "2026-10-25T04:15:25+00:00"
     },
     {
       "field": "products",
@@ -174,11 +174,11 @@
       ],
       "source_url": "https://www.gripdagen.org",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:23+00:00"
+      "retrieved_at": "2026-10-25T04:15:25+00:00"
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 983362990. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:27:23+00:00",
+  "last_checked": "2026-10-25T04:15:25+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -209,6 +209,50 @@
         ]
       ],
       "at": "2026-10-17T10:27:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Stiftelsen Grip Dagen legger til rette for ulike fritidsaktiviteter for utviklingshemmede i spesifikke kommuneler."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:10:16+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Mandagsklubb",
+          "Torsdagstrening",
+          "Danmarkstur",
+          "Julebordstur til Smedsgården",
+          "Julebord"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:10:16+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen Grip Dagen legger til rette for forskjellige fritidsaktiviteter for utviklingshemmede i spesifikke kommunedelene."
+      ],
+      "at": "2026-10-25T04:15:25+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Mandagsklubb",
+          "Torsdagstrening",
+          "Danmarkstur",
+          "Julebordstur til Smedsgården",
+          "Julebord"
+        ]
+      ],
+      "at": "2026-10-25T04:15:25+00:00"
     }
   ]
 }

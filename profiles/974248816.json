@@ -249,25 +249,25 @@
     },
     {
       "field": "description",
-      "value": "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily in Eastern Europe funded by a chain of second-hand stores (\"Ting og Tøy\") run by volunteers in Innlandet, Norway.",
+      "value": "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily i Øst-Europa og en kjede av gjenbruksbutikker (\"Ting og Tøy\") i Innlandet som finansierer arbeidet.",
       "source_url": "https://nystart.org/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:43+00:00"
+      "retrieved_at": "2026-10-25T04:14:04+00:00"
     },
     {
       "field": "products",
       "value": [
         "Klær",
         "Produkter",
-        "Gjenbruksvarer"
+        "Hjelpesendinger"
       ],
       "source_url": "https://nystart.org/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:43+00:00"
+      "retrieved_at": "2026-10-25T04:14:04+00:00"
     }
   ],
   "explanation": "37 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 974248816.",
-  "last_checked": "2026-10-17T10:25:43+00:00",
+  "last_checked": "2026-10-25T04:14:04+00:00",
   "changes": [
     {
       "field": "email",
@@ -304,6 +304,46 @@
         ]
       ],
       "at": "2026-10-17T10:25:43+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily in Eastern Europe funded by a chain of second-hand stores (\"Ting og Tøy\") run by volunteers in Innlandet, Norway."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:10:10+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Klær",
+          "Produkter",
+          "Gjenbruksvarer"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:10:10+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Stiftelsen Ny Start STI driver humanitært hjelpearbeid primarily i Øst-Europa og en kjede av gjenbruksbutikker (\"Ting og Tøy\") i Innlandet som finansierer arbeidet."
+      ],
+      "at": "2026-10-25T04:14:04+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Klær",
+          "Produkter",
+          "Hjelpesendinger"
+        ]
+      ],
+      "at": "2026-10-25T04:14:04+00:00"
     }
   ]
 }

@@ -242,26 +242,25 @@
     },
     {
       "field": "description",
-      "value": "Lifecare develops miniaturized and implantable nanobiosensors for the correct and continuous monitoring of glucose and other biomarkers with a particular focus on diabetes.",
+      "value": "Lifecare develops miniaturized and implantable nanobiosensors for correct and continuous monitoring of glucose and other biomarkers.",
       "source_url": "https://lifecare.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:33+00:00"
+      "retrieved_at": "2026-10-25T03:01:26+00:00"
     },
     {
       "field": "products",
       "value": [
-        "CGM system",
         "Sencell",
         "RemovAid",
-        "Veterinary"
+        "CGM system"
       ],
       "source_url": "https://lifecare.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:33+00:00"
+      "retrieved_at": "2026-10-25T03:01:26+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990251657.",
-  "last_checked": "2026-10-17T10:28:33+00:00",
+  "last_checked": "2026-10-25T03:01:26+00:00",
   "changes": [
     {
       "field": "email",
@@ -299,6 +298,35 @@
         ]
       ],
       "at": "2026-10-17T10:28:33+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Lifecare develops miniaturized and implantable nanobiosensors for the correct and continuous monitoring of glucose and other biomarkers with a particular focus on diabetes."
+      ],
+      "new": [
+        "Lifecare develops miniaturized and implantable nanobiosensors for correct and continuous monitoring of glucose and other biomarkers."
+      ],
+      "at": "2026-10-25T03:01:26+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "CGM system",
+          "Sencell",
+          "RemovAid",
+          "Veterinary"
+        ]
+      ],
+      "new": [
+        [
+          "Sencell",
+          "RemovAid",
+          "CGM system"
+        ]
+      ],
+      "at": "2026-10-25T03:01:26+00:00"
     }
   ]
 }

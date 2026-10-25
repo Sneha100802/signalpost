@@ -4,10 +4,10 @@
   "facts": [
     {
       "field": "name",
-      "value": "123 NILSEN",
+      "value": "NILSEN MANAGEMENT",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931683403",
       "source_date": "2023-07-04",
-      "retrieved_at": "2026-10-17T07:49:26+00:00"
+      "retrieved_at": "2026-10-25T03:13:22+00:00"
     },
     {
       "field": "legal_form",
@@ -95,6 +95,17 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 931683403. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:05:59+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:13:22+00:00",
+  "changes": [
+    {
+      "field": "name",
+      "old": [
+        "123 NILSEN"
+      ],
+      "new": [
+        "NILSEN MANAGEMENT"
+      ],
+      "at": "2026-10-25T03:13:23+00:00"
+    }
+  ]
 }

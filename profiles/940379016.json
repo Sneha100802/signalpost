@@ -38,11 +38,11 @@
       "retrieved_at": "2026-10-17T07:47:09+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.hoff.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/940379016",
       "source_date": "1995-03-12",
-      "retrieved_at": "2026-10-17T07:47:09+00:00"
+      "retrieved_at": "2026-10-25T04:12:25+00:00"
     },
     {
       "field": "employees",
@@ -288,37 +288,10 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/940379016",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:47:10+00:00"
-    },
-    {
-      "field": "website_verified",
-      "value": "org number found on page",
-      "source_url": "https://www.hoff.no",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:53+00:00"
-    },
-    {
-      "field": "description",
-      "value": "HOFF SA er et norsk samvirkeselskap som bearbeider poteter til frosne, tørre og ferske potetprodukter for dagligvare, proffmarkedet og industri.",
-      "source_url": "https://www.hoff.no",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:02+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Pommes frites",
-        "Potetmos",
-        "Potetstivelse",
-        "HOFF Srirachakrydder",
-        "HOFF Churros"
-      ],
-      "source_url": "https://www.hoff.no",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:02+00:00"
     }
   ],
-  "explanation": "44 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940379016.",
-  "last_checked": "2026-10-17T09:57:02+00:00",
+  "explanation": "41 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 940379016. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T04:12:26+00:00",
   "changes": [
     {
       "field": "description",
@@ -349,6 +322,52 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:57:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "HOFF SA er et norsk samvirkeselskap som bearbeider poteter til frosne, tørre og ferske potetprodukter for dagligvare, proffmarkedet og industri."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:00:16+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Pommes frites",
+          "Potetmos",
+          "Potetstivelse",
+          "HOFF Srirachakrydder",
+          "HOFF Churros"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:00:16+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.hoff.no"
+      ],
+      "at": "2026-10-25T04:12:26+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.hoff.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:12:26+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [
+        "org number found on page"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:12:26+00:00"
     }
   ]
 }

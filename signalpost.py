@@ -1,4 +1,15 @@
-﻿
+#!/usr/bin/env python3
+"""
+Signalpost baseline: Norwegian company-info agent.
+
+Usage:
+  python signalpost.py discover --count 1200 --out orgnrs.txt   # collect org numbers
+  python signalpost.py run --input orgnrs.txt --out profiles/   # build/update profiles
+
+Dependencies: pip install httpx
+NOTE: endpoints/field names below follow Brreg's public API docs as I know them;
+verify against https://data.brreg.no/enhetsregisteret/api/docs before submitting.
+"""
 import argparse, asyncio, hashlib, json, os, re, sys, time
 from html import unescape
 from urllib.parse import urljoin, urlparse
@@ -54,6 +65,112 @@ async def get_json(client, url):
 WEB_ENABLED = os.getenv("SIGNALPOST_WEB", "1") == "1"   # set SIGNALPOST_WEB=0 to skip websites entirely
 UA = "signalpost-agent/0.1"
 MAX_PAGES = 3  # homepage + up to 2 contact/about pages: keeps run cost and load low
+
+# --- Run budgets (Builderr limits per 100 companies: 45 min, 2,000 outbound requests) ---
+SITE_MIN_DELAY = float(os.getenv("SITE_MIN_DELAY", "1.0"))          # min seconds between requests to the same site
+MAX_BACKOFF = 30.0                                                   # never wait longer than this for one Retry-After
+TIME_BUDGET = float(os.getenv("SIGNALPOST_TIME_BUDGET", "2400"))    # 40 min; after that, remaining companies get registry-only
+REQ_PER_COMPANY = float(os.getenv("SIGNALPOST_REQ_PER_COMPANY", "18"))  # 18 x 100 = 1,800 < 2,000 limit
+STATS = {"requests": 0}
+RUN = {"n": 0, "start": time.monotonic()}
+HOST_LAST, HOST_LOCKS = {}, {}
+
+
+async def _count_request(request):
+    STATS["requests"] += 1       # httpx hook: counts every outbound request (registry, sites, robots.txt, LLM)
+
+
+def web_budget_ok() -> bool:
+    n = max(RUN["n"], 1)
+    if time.monotonic() - RUN["start"] > TIME_BUDGET:
+        return False
+    return STATS["requests"] + 10 <= REQ_PER_COMPANY * n   # +10 = worst case cost of one more website step
+
+
+def clean_site(raw: str) -> str:
+    """Registry website fields are free text: unwrap markdown links like [www.x.no](https://www.x.no), drop junk."""
+    raw = (raw or "").strip()
+    m = re.search(r"\[[^\]]*\]\((https?://[^)\s]+)\)", raw)
+    if m:
+        raw = m.group(1)                                   # markdown link: use the target URL
+    parts = raw.strip("<>\"' ").split()
+    return parts[0] if parts else ""                       # if several URLs/words are listed, take the first
+
+
+def site_host(u: str) -> str:
+    u = clean_site(u)
+    u = u if u.startswith("http") else "https://" + u
+    return urlparse(u).netloc.lower().removeprefix("www.")
+
+
+async def polite_get(client, url, crawl_delay=0.0, max_tries=3):
+    """GET with per-site spacing (and robots Crawl-delay) and back-off on 429/503 honouring Retry-After.
+    Returns a Response (possibly still 429/503 if the site keeps refusing) or None on network errors."""
+    host = urlparse(url).netloc.lower()
+    lock = HOST_LOCKS.setdefault(host, asyncio.Lock())
+    for attempt in range(max_tries):
+        async with lock:                                     # one request at a time per site, spaced out
+            wait = max(SITE_MIN_DELAY, crawl_delay) - (time.monotonic() - HOST_LAST.get(host, 0.0))
+            if wait > 0:
+                await asyncio.sleep(wait)
+            HOST_LAST[host] = time.monotonic()
+        try:
+            r = await client.get(url, timeout=15, follow_redirects=True)
+        except httpx.HTTPError:
+            return None
+        if r.status_code not in (429, 503):
+            return r
+        try:
+            delay = float(r.headers.get("retry-after", ""))
+        except ValueError:
+            delay = 5.0 * (attempt + 1)                      # no usable Retry-After header: back off 5s, 10s, ...
+        if delay > MAX_BACKOFF or attempt == max_tries - 1:
+            return r                                         # the site wants us gone: give up, caller records it
+        await asyncio.sleep(delay)
+    return None
+
+
+# Sites that many unrelated registry entries point at (housing federations, managers, national umbrella bodies).
+# Seeded from a 1,200-company sample; extend it by listing more hosts in shared_sites.txt (one per line, next to this file).
+SHARED_SITE_HOSTS = {"nbbo.no", "bate.no", "usbl.no", "navn.no", "boligsamvirket.no", "abbl.no", "4h.no", "gobb.no", "advs2.no"}
+_shared_file = Path(__file__).with_name("shared_sites.txt")
+if _shared_file.exists():
+    SHARED_SITE_HOSTS |= {l.strip().lower().removeprefix("www.") for l in
+                          _shared_file.read_text(encoding="utf-8-sig").splitlines() if l.strip() and not l.startswith("#")}
+SHARED_SITE_MIN = int(os.getenv("SHARED_SITE_MIN", "3"))   # this many registry entries on one site => not one company's own
+
+
+async def site_is_shared(client, raw: str) -> bool:
+    """True if the website is a hub used by several registry entries (so it is not this company's own site)."""
+    host = site_host(raw)
+    if host in SHARED_SITE_HOSTS:
+        return True
+    best = 0
+    for v in dict.fromkeys([raw, clean_site(raw), host, "www." + host]):   # the spellings the registry might store
+        try:
+            r = await client.get(LIST, params={"hjemmeside": v, "size": 1})
+            total = (r.json().get("page") or {}).get("totalElements", 0) if r.status_code == 200 else 0
+        except (httpx.HTTPError, ValueError):
+            continue
+        if total < 5000:                                          # a huge total means the API ignored the filter
+            best = max(best, total)
+        if best >= SHARED_SITE_MIN:
+            return True
+    return False
+
+
+async def shares_parent_site(client, ent) -> bool:
+    """True if the registry lists the PARENT group's website for this subsidiary (so it is not this company's own)."""
+    parent = ent.get("overordnetEnhet")
+    if not parent or not ent.get("hjemmeside"):
+        return False
+    try:
+        p = await get_json(client, ENHET.format(parent))
+    except httpx.HTTPError:
+        return False                                         # can't tell: the on-page matching gate still protects us
+    ph = (p or {}).get("hjemmeside")
+    return bool(ph) and site_host(ph) == site_host(ent["hjemmeside"])
+
 
 PROVIDERS = {
     "gemini": {
@@ -161,27 +278,36 @@ async def llm_extract(client, page_text: str, legal_name: str, orgnr: str) -> di
 
 async def fetch_site(client, raw_url: str, legal_name: str, orgnr: str):
     """Returns (facts, note). note explains gaps for the explanation field."""
+    raw_url = clean_site(raw_url)
     url = raw_url if raw_url.startswith("http") else "https://" + raw_url
     host = strip_www(urlparse(url).netloc)
 
-    # robots.txt once per site. 4xx/5xx or unreachable robots.txt => treated as allowed (standard convention).
+    # robots.txt once per site. Missing/4xx robots.txt => allowed (standard convention).
     rp = RobotFileParser()
-    try:
-        rr = await client.get(urljoin(url, "/robots.txt"), timeout=10, follow_redirects=True)
-        rp.parse(rr.text.splitlines() if rr.status_code < 400 else [])
-    except httpx.HTTPError:
+    crawl_delay = 0.0
+    rr = await polite_get(client, urljoin(url, "/robots.txt"), max_tries=1)
+    if rr is not None and rr.status_code in (429, 503):
+        return [], "website asked us to slow down (HTTP 429/503); skipped"
+    if rr is not None and rr.status_code < 400:
+        rp.parse(rr.text.splitlines())
+        crawl_delay = min(float(rp.crawl_delay(UA) or 0), 10.0)   # respect Crawl-delay, capped at 10 s
+    else:
         rp.parse([])
 
-    pages, seen, queue = {}, set(), [url]   # pages: final_url -> html
+    pages, seen, queue, throttled = {}, set(), [url], False   # pages: final_url -> html
     while queue and len(pages) < MAX_PAGES:
         u = queue.pop(0)
         if u in seen or not rp.can_fetch(UA, u):
             continue
         seen.add(u)
-        try:
-            r = await client.get(u, timeout=15, follow_redirects=True)
-        except httpx.HTTPError:
+        r = await polite_get(client, u, crawl_delay)
+        if r is None and u.startswith("https://") and not pages:   # some small sites only answer on plain http
+            r = await polite_get(client, "http://" + u[len("https://"):], crawl_delay)
+        if r is None:
             continue
+        if r.status_code in (429, 503):
+            throttled = True                                  # "too many requests": stop crawling this site
+            break
         if r.status_code != 200 or "text/html" not in r.headers.get("content-type", ""):
             continue
         pages[str(r.url)] = r.text
@@ -193,6 +319,8 @@ async def fetch_site(client, raw_url: str, legal_name: str, orgnr: str):
                         queue.append(full)
 
     if not pages:
+        if throttled:
+            return [], "website asked us to slow down (HTTP 429/503); skipped"
         return [], "website unreachable or blocked by robots.txt"
 
     # Matching gate: no evidence => record nothing from this site.
@@ -217,7 +345,7 @@ async def fetch_site(client, raw_url: str, legal_name: str, orgnr: str):
             facts.append(fact("email", found[0].lower(), u))
             break
 
-    # Description/products: LLM on the verified text only.
+    # Description/products: LLM on the verified text only (skipped quietly when no key is set).
     data = await llm_extract(client, " ".join(texts.values()), legal_name, orgnr)
     if data.get("description"):
         facts.append(fact("description", data["description"], home))
@@ -272,8 +400,13 @@ async def build_profile(client, orgnr: str) -> dict:
         facts.append(fact("address", fmt_addr(main_addr), e_url, sd))
     if ent.get("postadresse") and ent["postadresse"] != main_addr:
         facts.append(fact("postal_address", fmt_addr(ent["postadresse"]), e_url, sd))
+    site_is_group = False
     if ent.get("hjemmeside"):
-        facts.append(fact("website", ent["hjemmeside"], e_url, sd))
+        site_is_group = await shares_parent_site(client, ent) or await site_is_shared(client, ent["hjemmeside"])
+        # A subsidiary that lists its parent's site must not publish that site (or anything from it) as its own.
+        facts.append(fact("group_website" if site_is_group else "website", clean_site(ent["hjemmeside"]) or ent["hjemmeside"], e_url, sd))
+        if site_is_group:
+            notes.append("the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own")
     if ent.get("antallAnsatte") is not None:
         facts.append(fact("employees", ent["antallAnsatte"], e_url))
     if ent.get("stiftelsesdato"):
@@ -299,7 +432,10 @@ async def build_profile(client, orgnr: str) -> dict:
 
     # Roles (CEO, chair, ...): separate endpoint, same org number key.
     r_url = ROLLER.format(orgnr)
-    roles = await get_json(client, r_url)
+    try:
+        roles = await get_json(client, r_url)
+    except httpx.HTTPError:
+        roles = None                      # keep the rest of the profile if only the roles call fails
     if roles:
         for grp in roles.get("rollegrupper", []):
             for rolle in grp.get("roller", []):
@@ -333,14 +469,17 @@ async def build_profile(client, orgnr: str) -> dict:
         notes.append("no filed accounts found")
 
     # Website step (optional): uses the registry's own website field, never a search result.
-    if WEB_ENABLED and ent.get("hjemmeside"):
-        try:
-            web_facts, web_note = await fetch_site(client, ent["hjemmeside"], ent.get("navn", ""), orgnr)
-            facts.extend(web_facts)
-            if web_note:
-                notes.append(web_note)
-        except Exception as ex:  # a broken website must never kill the whole profile
-            notes.append(f"website step failed: {ex!r}")
+    if WEB_ENABLED and ent.get("hjemmeside") and not site_is_group:
+        if not web_budget_ok():
+            notes.append("website step skipped to stay within the run's time/request budget")
+        else:
+            try:
+                web_facts, web_note = await fetch_site(client, ent["hjemmeside"], ent.get("navn", ""), orgnr)
+                facts.extend(web_facts)
+                if web_note:
+                    notes.append(web_note)
+            except Exception as ex:  # a broken website must never kill the whole profile
+                notes.append(f"website step failed: {ex!r}")
 
     explanation = (f"{len(facts)} facts from Enhetsregisteret/Regnskapsregisteret, "
                    f"keyed on org number {orgnr}." + (f" Gaps: {', '.join(notes)}." if notes else ""))
@@ -381,6 +520,11 @@ def merge_with_previous(new: dict, path: Path) -> dict:
         o = old_by_key.get(fkey(f))
         if o:
             f["retrieved_at"] = o["retrieved_at"]   # same field AND value as before: not fresh, keep old date
+    have = {f["field"] for f in new["facts"]}
+    if "website_verified" in have:                           # same verified site, but the LLM failed this time:
+        for f in old.get("facts", []):                       # keep the earlier extraction instead of losing it
+            if f["field"] in ("description", "products") and f["field"] not in have:
+                new["facts"].append(f)
     old_vals, new_vals = values_by_field(old.get("facts", [])), values_by_field(new["facts"])
     changes = []
     for fld in sorted(set(old_vals) | set(new_vals)):
@@ -399,7 +543,9 @@ async def run(input_file, out_dir):
     sem = asyncio.Semaphore(CONCURRENCY)
     done = 0
 
-    async with httpx.AsyncClient(timeout=30, headers={"User-Agent": "signalpost-agent/0.1"}) as client:
+    RUN["n"], RUN["start"], STATS["requests"] = len(orgnrs), time.monotonic(), 0
+    async with httpx.AsyncClient(timeout=30, headers={"User-Agent": "signalpost-agent/0.1"},
+                                 event_hooks={"request": [_count_request]}) as client:
         async def one(n):
             nonlocal done
             if not valid_orgnr(n):
@@ -409,7 +555,7 @@ async def run(input_file, out_dir):
                     for attempt in range(3):  # simple retry with backoff
                         try:
                             prof = await build_profile(client, n); break
-                        except httpx.HTTPError as ex:
+                        except Exception as ex:      # any failure: retry, then still write a result for this company
                             if attempt == 2:
                                 prof = {"orgnr": n, "found": False, "explanation": f"Fetch failed: {ex!r}"}
                             await asyncio.sleep(2 ** attempt)
@@ -420,6 +566,9 @@ async def run(input_file, out_dir):
                 print(f"{done}/{len(orgnrs)}", file=sys.stderr)
         await asyncio.gather(*(one(n) for n in orgnrs))
     print(f"Wrote {len(orgnrs)} profiles to {out}")
+    el = time.monotonic() - RUN["start"]
+    print(f"Outbound requests: {STATS['requests']} ({STATS['requests'] / max(len(orgnrs), 1):.1f} per company; "
+          f"limit 20), elapsed {el:.0f}s", file=sys.stderr)
 
 
 async def discover(count, out_file):

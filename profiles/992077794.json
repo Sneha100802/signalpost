@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:51:04+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.4h.no/nordland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794",
       "source_date": "2007-12-15",
-      "retrieved_at": "2026-10-17T07:51:04+00:00"
+      "retrieved_at": "2026-10-25T03:51:53+00:00"
     },
     {
       "field": "founded",
@@ -148,44 +148,10 @@
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/992077794/roller",
       "source_date": "2025-08-20",
       "retrieved_at": "2026-10-17T07:51:04+00:00"
-    },
-    {
-      "field": "website_verified",
-      "value": "exact legal name found on page",
-      "source_url": "https://4h.no/nordland/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:13:56+00:00"
-    },
-    {
-      "field": "email",
-      "value": "4hnordland@4h.no",
-      "source_url": "https://4h.no/nordland/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:13:57+00:00"
-    },
-    {
-      "field": "description",
-      "value": "4H Nordland is an active youth organisation that offers various activities, clubs, and 4H farms throughout the county.",
-      "source_url": "https://4h.no/nordland/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:13+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Medlemskap",
-        "Arrangementer",
-        "Kurs",
-        "Leir",
-        "Gårdsopplevelser"
-      ],
-      "source_url": "https://4h.no/nordland/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:13+00:00"
     }
   ],
-  "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:29:13+00:00",
+  "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 992077794. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own, no filed accounts found.",
+  "last_checked": "2026-10-25T03:51:54+00:00",
   "changes": [
     {
       "field": "email",
@@ -224,6 +190,60 @@
         ]
       ],
       "at": "2026-10-17T10:29:13+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "4H Nordland is an active youth organisation that offers various activities, clubs, and 4H farms throughout the county."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:22:34+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Medlemskap",
+          "Arrangementer",
+          "Kurs",
+          "Leir",
+          "Gårdsopplevelser"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:22:34+00:00"
+    },
+    {
+      "field": "email",
+      "old": [
+        "4hnordland@4h.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:51:54+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.4h.no/nordland"
+      ],
+      "at": "2026-10-25T03:51:54+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.4h.no/nordland"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:51:54+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [
+        "exact legal name found on page"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:51:54+00:00"
     }
   ]
 }

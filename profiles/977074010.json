@@ -158,10 +158,10 @@
     },
     {
       "field": "description",
-      "value": "Danske Bank A/S NUF is a corporate bank offering financial services, accounts, loans, and digital solutions for small and large businesses in Norway and the Nordic region.",
+      "value": "Danske Bank A/S NUF is a corporate bank offering financial services, accounts, loans, and digital banking solutions for businesses of all sizes in Norway and the Nordic region.",
       "source_url": "https://danskebank.no/bedrift",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:12+00:00"
+      "retrieved_at": "2026-10-25T04:14:35+00:00"
     },
     {
       "field": "products",
@@ -174,11 +174,11 @@
       ],
       "source_url": "https://danskebank.no/bedrift",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:12+00:00"
+      "retrieved_at": "2026-10-25T04:14:35+00:00"
     }
   ],
   "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 977074010. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:26:12+00:00",
+  "last_checked": "2026-10-25T04:14:35+00:00",
   "changes": [
     {
       "field": "email",
@@ -217,6 +217,50 @@
         ]
       ],
       "at": "2026-10-17T10:26:12+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Danske Bank A/S NUF is a corporate bank offering financial services, accounts, loans, and digital solutions for small and large businesses in Norway and the Nordic region."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:12:10+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Bedriftslån",
+          "Kassekreditt",
+          "Leasing",
+          "Fakturafinansiering",
+          "Firmakort"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:12:10+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Danske Bank A/S NUF is a corporate bank offering financial services, accounts, loans, and digital banking solutions for businesses of all sizes in Norway and the Nordic region."
+      ],
+      "at": "2026-10-25T04:14:35+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Bedriftslån",
+          "Kassekreditt",
+          "Leasing",
+          "Fakturafinansiering",
+          "Firmakort"
+        ]
+      ],
+      "at": "2026-10-25T04:14:35+00:00"
     }
   ]
 }

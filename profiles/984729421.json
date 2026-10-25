@@ -137,27 +137,27 @@
     },
     {
       "field": "description",
-      "value": "Arena Akustikk offers sales, installation, and rental of sound, lighting, and stage equipment, and is the Norwegian importer for Danley Sound Labs.",
+      "value": "Arena Akustikk DA offers sales, installation, and rental of sound, lighting, and stage equipment, and serves as the Norwegian agent for Danley Sound Labs.",
       "source_url": "https://arenaakustikk.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:43+00:00"
+      "retrieved_at": "2026-10-25T04:15:44+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Utleie av lyd og lysutstyr",
-        "Salg og installasjon av lydforsterkende løsninger",
+        "Lyd- og lysutstyr",
         "Danley Sound Labs høyttalere",
         "Forsterkere og DSP",
-        "Scene- og lysproduksjon"
+        "Sceneutstyr",
+        "Mikrofoner"
       ],
       "source_url": "https://arenaakustikk.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:43+00:00"
+      "retrieved_at": "2026-10-25T04:15:44+00:00"
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984729421. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:27:43+00:00",
+  "last_checked": "2026-10-25T04:15:44+00:00",
   "changes": [
     {
       "field": "email",
@@ -196,6 +196,50 @@
         ]
       ],
       "at": "2026-10-17T10:27:43+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Arena Akustikk offers sales, installation, and rental of sound, lighting, and stage equipment, and is the Norwegian importer for Danley Sound Labs."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:22+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Utleie av lyd og lysutstyr",
+          "Salg og installasjon av lydforsterkende løsninger",
+          "Danley Sound Labs høyttalere",
+          "Forsterkere og DSP",
+          "Scene- og lysproduksjon"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:22+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Arena Akustikk DA offers sales, installation, and rental of sound, lighting, and stage equipment, and serves as the Norwegian agent for Danley Sound Labs."
+      ],
+      "at": "2026-10-25T04:15:44+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Lyd- og lysutstyr",
+          "Danley Sound Labs høyttalere",
+          "Forsterkere og DSP",
+          "Sceneutstyr",
+          "Mikrofoner"
+        ]
+      ],
+      "at": "2026-10-25T04:15:44+00:00"
     }
   ]
 }

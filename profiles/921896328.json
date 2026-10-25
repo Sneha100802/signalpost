@@ -256,10 +256,10 @@
     },
     {
       "field": "description",
-      "value": "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering services within debt collection.",
+      "value": "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering collection services.",
       "source_url": "https://www.axactor.com",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:23+00:00"
+      "retrieved_at": "2026-10-25T04:12:34+00:00"
     },
     {
       "field": "products",
@@ -270,11 +270,11 @@
       ],
       "source_url": "https://www.axactor.com",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:24:23+00:00"
+      "retrieved_at": "2026-10-25T04:12:34+00:00"
     }
   ],
   "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 921896328.",
-  "last_checked": "2026-10-17T10:24:23+00:00",
+  "last_checked": "2026-10-25T04:12:34+00:00",
   "changes": [
     {
       "field": "email",
@@ -311,6 +311,46 @@
         ]
       ],
       "at": "2026-10-17T10:24:23+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering services within debt collection."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:42+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Debt collection",
+          "Debt purchase",
+          "Account receivables management"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:19:42+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Axactor helps companies, banks, financial institutions, and people with debt management by investing in non-performing debt portfolios and offering collection services."
+      ],
+      "at": "2026-10-25T04:12:34+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Debt collection",
+          "Debt purchase",
+          "Account receivables management"
+        ]
+      ],
+      "at": "2026-10-25T04:12:34+00:00"
     }
   ]
 }

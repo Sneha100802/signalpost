@@ -125,36 +125,36 @@
       "field": "role:Styrets leder",
       "value": "Ida Børve Larsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
-      "source_date": "2024-05-28",
-      "retrieved_at": "2026-10-17T07:50:28+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Solfrid Sundt",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
-      "source_date": "2024-05-28",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Steinar Justnes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
-      "source_date": "2024-05-28",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Anne Lill Tveit",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:17:53+00:00"
     },
     {
       "field": "role:Varamedlem",
       "value": "Geir Jonny Drivdal",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
-      "source_date": "2024-05-28",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:28+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Anne Lill Tveit",
+      "value": "Sissel Åteigen Strengenes",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/954989798/roller",
-      "source_date": "2024-05-28",
-      "retrieved_at": "2026-10-17T07:50:28+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:17:53+00:00"
     },
     {
       "field": "role:Revisor",
@@ -214,6 +214,31 @@
     }
   ],
   "explanation": "30 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954989798.",
-  "last_checked": "2026-10-17T10:10:30+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:17:54+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Solfrid Sundt",
+        "Steinar Justnes"
+      ],
+      "new": [
+        "Anne Lill Tveit",
+        "Steinar Justnes"
+      ],
+      "at": "2026-10-25T03:17:54+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "old": [
+        "Anne Lill Tveit",
+        "Geir Jonny Drivdal"
+      ],
+      "new": [
+        "Geir Jonny Drivdal",
+        "Sissel Åteigen Strengenes"
+      ],
+      "at": "2026-10-25T03:17:54+00:00"
+    }
+  ]
 }

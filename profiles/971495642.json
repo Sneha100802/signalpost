@@ -228,24 +228,25 @@
     },
     {
       "field": "description",
-      "value": "Ekornheia Barnehage SA is a private kindergarten focused on outdoor activities, cooperation, and a safe environment for children.",
+      "value": "Ekornheia Barnehage SA is a private kindergarten in Drammen that offers a safe and cheerful environment focused on outdoor play, nature, and cooperation.",
       "source_url": "https://ekornheia.barnehage.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:32+00:00"
+      "retrieved_at": "2026-10-25T04:13:54+00:00"
     },
     {
       "field": "products",
       "value": [
         "Barnehageplass",
-        "Matilbud"
+        "Mat tilbud",
+        "Årsplan"
       ],
       "source_url": "https://ekornheia.barnehage.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:32+00:00"
+      "retrieved_at": "2026-10-25T04:13:54+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971495642.",
-  "last_checked": "2026-10-17T10:25:32+00:00",
+  "last_checked": "2026-10-25T04:13:54+00:00",
   "changes": [
     {
       "field": "email",
@@ -281,6 +282,45 @@
         ]
       ],
       "at": "2026-10-17T10:25:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Ekornheia Barnehage SA is a private kindergarten focused on outdoor activities, cooperation, and a safe environment for children."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:35+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Barnehageplass",
+          "Matilbud"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:35+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Ekornheia Barnehage SA is a private kindergarten in Drammen that offers a safe and cheerful environment focused on outdoor play, nature, and cooperation."
+      ],
+      "at": "2026-10-25T04:13:54+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Barnehageplass",
+          "Mat tilbud",
+          "Årsplan"
+        ]
+      ],
+      "at": "2026-10-25T04:13:54+00:00"
     }
   ]
 }

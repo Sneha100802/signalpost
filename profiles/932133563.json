@@ -95,10 +95,10 @@
     },
     {
       "field": "being_dissolved",
-      "value": false,
+      "value": true,
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932133563",
       "source_date": null,
-      "retrieved_at": "2026-10-17T07:47:09+00:00"
+      "retrieved_at": "2026-10-25T03:00:01+00:00"
     },
     {
       "field": "forced_dissolution",
@@ -151,6 +151,17 @@
     }
   ],
   "explanation": "21 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 932133563.",
-  "last_checked": "2026-10-17T09:56:48+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:00:02+00:00",
+  "changes": [
+    {
+      "field": "being_dissolved",
+      "old": [
+        false
+      ],
+      "new": [
+        true
+      ],
+      "at": "2026-10-25T03:00:02+00:00"
+    }
+  ]
 }

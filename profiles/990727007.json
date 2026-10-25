@@ -235,14 +235,14 @@
     },
     {
       "field": "description",
-      "value": "BEVEST is an engaged and responsible owner with a long-term perspective that invests in companies operating within industrial production, seafood, and real estate.",
+      "value": "BEVEST is an engaged and responsible owner with a long-term perspective that invests in companies within industrial production, seafood, and real estate.",
       "source_url": "https://bevest.com/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:28:43+00:00"
+      "retrieved_at": "2026-10-25T04:16:34+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 990727007.",
-  "last_checked": "2026-10-17T10:28:43+00:00",
+  "last_checked": "2026-10-25T04:16:34+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -259,6 +259,22 @@
         "BEVEST is an engaged and responsible owner with a long-term perspective that invests in companies operating within industrial production, seafood, and real estate."
       ],
       "at": "2026-10-17T10:28:43+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "BEVEST is an engaged and responsible owner with a long-term perspective that invests in companies operating within industrial production, seafood, and real estate."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:06:45+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "BEVEST is an engaged and responsible owner with a long-term perspective that invests in companies within industrial production, seafood, and real estate."
+      ],
+      "at": "2026-10-25T04:16:34+00:00"
     }
   ]
 }

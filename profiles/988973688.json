@@ -172,10 +172,10 @@
     },
     {
       "field": "role:Regnskapsfører",
-      "value": "TANDEM AS",
+      "value": "ECIT SERVICES AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988973688/roller",
-      "source_date": "2006-03-30",
-      "retrieved_at": "2026-10-17T07:50:22+00:00"
+      "source_date": "2026-10-22",
+      "retrieved_at": "2026-10-25T03:17:14+00:00"
     },
     {
       "field": "accounts_period_end",
@@ -221,6 +221,17 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 988973688. Gaps: website could not be verified as this company's, so nothing was taken from it.",
-  "last_checked": "2026-10-17T10:09:49+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:17:17+00:00",
+  "changes": [
+    {
+      "field": "role:Regnskapsfører",
+      "old": [
+        "TANDEM AS"
+      ],
+      "new": [
+        "ECIT SERVICES AS"
+      ],
+      "at": "2026-10-25T03:17:17+00:00"
+    }
+  ]
 }

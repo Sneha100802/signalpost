@@ -129,7 +129,7 @@
       "retrieved_at": "2026-10-17T07:50:55+00:00"
     }
   ],
-  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984371926. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:12:44+00:00",
+  "explanation": "18 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984371926. Gaps: no filed accounts found, website could not be verified as this company's, so nothing was taken from it.",
+  "last_checked": "2026-10-25T03:55:05+00:00",
   "changes": []
 }

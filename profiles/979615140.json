@@ -151,27 +151,27 @@
     },
     {
       "field": "description",
-      "value": "A Cappellissimo er et kammerkor fra Trondheim som fremfører musikk av høy kunstnerisk kvalitet innen et variert repertoar.",
+      "value": "A Cappellissimo er et trondheimskor startet i 1996 som framfører et variert repertoar av høy kunstnerisk kvalitet og tar på seg oppdrag for konserter, konferanser, brylluper og andre tilstelninger.",
       "source_url": "https://acapp.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:32+00:00"
+      "retrieved_at": "2026-10-25T04:14:25+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Konserter vår og høst",
+        "Konserter",
         "Oppdrag på konferanser",
         "Oppdrag på bedriftsmøter",
         "Oppdrag i brylluper",
-        "Oppdrag på åremålsdager"
+        "Oppdrag på åremålsdager og festlige tilstelninger"
       ],
       "source_url": "https://acapp.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:32+00:00"
+      "retrieved_at": "2026-10-25T04:14:25+00:00"
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 979615140. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:26:32+00:00",
+  "last_checked": "2026-10-25T04:14:25+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -202,6 +202,50 @@
         ]
       ],
       "at": "2026-10-17T10:26:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "A Cappellissimo er et kammerkor fra Trondheim som fremfører musikk av høy kunstnerisk kvalitet innen et variert repertoar."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:14:20+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Konserter vår og høst",
+          "Oppdrag på konferanser",
+          "Oppdrag på bedriftsmøter",
+          "Oppdrag i brylluper",
+          "Oppdrag på åremålsdager"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:14:20+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "A Cappellissimo er et trondheimskor startet i 1996 som framfører et variert repertoar av høy kunstnerisk kvalitet og tar på seg oppdrag for konserter, konferanser, brylluper og andre tilstelninger."
+      ],
+      "at": "2026-10-25T04:14:25+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Konserter",
+          "Oppdrag på konferanser",
+          "Oppdrag på bedriftsmøter",
+          "Oppdrag i brylluper",
+          "Oppdrag på åremålsdager og festlige tilstelninger"
+        ]
+      ],
+      "at": "2026-10-25T04:14:25+00:00"
     }
   ]
 }

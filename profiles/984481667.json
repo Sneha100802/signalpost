@@ -151,27 +151,27 @@
     },
     {
       "field": "description",
-      "value": "Alternativ Opplysningen DA offers a guide to holistic lifestyle, spirituality, and self-development, featuring practitioners, courses, and alternative treatments.",
+      "value": "Alternativ Opplysningen DA provides a guide and marketplace for holistic lifestyle, spirituality, and self-development, connecting users with practitioners offering alternative treatments, courses, and guidance.",
       "source_url": "https://alternativ.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:32+00:00"
+      "retrieved_at": "2026-10-25T04:15:35+00:00"
     },
     {
       "field": "products",
       "value": [
         "Kurs",
-        "Astrologi",
-        "Healing",
-        "Coaching",
-        "Tarot"
+        "Eteriske oljer",
+        "Krystaller – Steiner",
+        "Stråleskjerming",
+        "Tidsskrifter"
       ],
       "source_url": "https://alternativ.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:32+00:00"
+      "retrieved_at": "2026-10-25T04:15:35+00:00"
     }
   ],
   "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 984481667. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:27:32+00:00",
+  "last_checked": "2026-10-25T04:15:35+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -202,6 +202,50 @@
         ]
       ],
       "at": "2026-10-17T10:27:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Alternativ Opplysningen DA offers a guide to holistic lifestyle, spirituality, and self-development, featuring practitioners, courses, and alternative treatments."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:22:20+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Kurs",
+          "Astrologi",
+          "Healing",
+          "Coaching",
+          "Tarot"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:22:20+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Alternativ Opplysningen DA provides a guide and marketplace for holistic lifestyle, spirituality, and self-development, connecting users with practitioners offering alternative treatments, courses, and guidance."
+      ],
+      "at": "2026-10-25T04:15:35+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Kurs",
+          "Eteriske oljer",
+          "Krystaller – Steiner",
+          "Stråleskjerming",
+          "Tidsskrifter"
+        ]
+      ],
+      "at": "2026-10-25T04:15:35+00:00"
     }
   ]
 }

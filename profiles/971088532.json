@@ -193,10 +193,10 @@
     },
     {
       "field": "description",
-      "value": "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private events, meetings, and gatherings with views of the Oslofjord.",
+      "value": "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private and corporate events such as weddings, confirmations, and meetings.",
       "source_url": "https://bekkelagshuset.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:22+00:00"
+      "retrieved_at": "2026-10-25T04:13:44+00:00"
     },
     {
       "field": "products",
@@ -209,11 +209,11 @@
       ],
       "source_url": "https://bekkelagshuset.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:22+00:00"
+      "retrieved_at": "2026-10-25T04:13:44+00:00"
     }
   ],
   "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971088532. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:25:22+00:00",
+  "last_checked": "2026-10-25T04:13:44+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -244,6 +244,50 @@
         ]
       ],
       "at": "2026-10-17T10:25:22+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private events, meetings, and gatherings with views of the Oslofjord."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:05+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Utleie av hele huset",
+          "Utleie av storsal",
+          "Utleie av lillesal",
+          "Utleie av salongen",
+          "Utleie av styrerommet"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:05+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Bekkelagshøgda Samfunnshus rents out rooms and facilities for various private and corporate events such as weddings, confirmations, and meetings."
+      ],
+      "at": "2026-10-25T04:13:44+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Utleie av hele huset",
+          "Utleie av storsal",
+          "Utleie av lillesal",
+          "Utleie av salongen",
+          "Utleie av styrerommet"
+        ]
+      ],
+      "at": "2026-10-25T04:13:44+00:00"
     }
   ]
 }

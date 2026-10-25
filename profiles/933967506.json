@@ -242,27 +242,25 @@
     },
     {
       "field": "description",
-      "value": "Advokatfirmaet Wold & Co DA yter rettslig bistand og prosedyretjenester overfor bedrifter og privatpersoner.",
+      "value": "Advokatfirmaet Wold & Co DA yter rettslig bistand overfor bedrifter og privatpersoner og prosederer saker for domstolene.",
       "source_url": "https://www.wold.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:39+00:00"
+      "retrieved_at": "2026-10-25T03:02:07+00:00"
     },
     {
       "field": "products",
       "value": [
         "Rettslig bistand",
-        "Prosedyre for domstoler",
-        "Bistand ved transaksjoner",
-        "Selskapsrett",
-        "Kontraktsrett"
+        "Prosedyre",
+        "Transaksjonsbistand"
       ],
       "source_url": "https://www.wold.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:39+00:00"
+      "retrieved_at": "2026-10-25T03:02:07+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 933967506.",
-  "last_checked": "2026-10-17T09:57:39+00:00",
+  "last_checked": "2026-10-25T03:02:07+00:00",
   "changes": [
     {
       "field": "description",
@@ -301,6 +299,36 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:57:39+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Advokatfirmaet Wold & Co DA yter rettslig bistand og prosedyretjenester overfor bedrifter og privatpersoner."
+      ],
+      "new": [
+        "Advokatfirmaet Wold & Co DA yter rettslig bistand overfor bedrifter og privatpersoner og prosederer saker for domstolene."
+      ],
+      "at": "2026-10-25T03:02:07+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Rettslig bistand",
+          "Prosedyre for domstoler",
+          "Bistand ved transaksjoner",
+          "Selskapsrett",
+          "Kontraktsrett"
+        ]
+      ],
+      "new": [
+        [
+          "Rettslig bistand",
+          "Prosedyre",
+          "Transaksjonsbistand"
+        ]
+      ],
+      "at": "2026-10-25T03:02:07+00:00"
     }
   ]
 }

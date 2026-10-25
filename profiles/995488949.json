@@ -118,46 +118,46 @@
       "field": "role:Styrets leder",
       "value": "Marius Ringsrud",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Blerina Zeqiri",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Sigrid Eilertsen Valberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Trygve Homme",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Morten Gluva",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Øyvind Dahl",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995488949/roller",
-      "source_date": "2026-01-24",
+      "source_date": "2026-10-23",
       "retrieved_at": "2026-10-17T07:50:53+00:00"
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995488949. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:12:41+00:00",
+  "last_checked": "2026-10-25T03:55:48+00:00",
   "changes": []
 }

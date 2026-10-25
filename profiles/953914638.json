@@ -172,10 +172,10 @@
     },
     {
       "field": "role:Revisor",
-      "value": "KPMG AS",
+      "value": "CEDRA NORGE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/953914638/roller",
-      "source_date": "1990-09-25",
-      "retrieved_at": "2026-10-17T07:48:10+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:05:26+00:00"
     },
     {
       "field": "role:Regnskapsfører",
@@ -221,6 +221,17 @@
     }
   ],
   "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 953914638.",
-  "last_checked": "2026-10-17T09:59:14+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:05:26+00:00",
+  "changes": [
+    {
+      "field": "role:Revisor",
+      "old": [
+        "KPMG AS"
+      ],
+      "new": [
+        "CEDRA NORGE AS"
+      ],
+      "at": "2026-10-25T03:05:26+00:00"
+    }
+  ]
 }

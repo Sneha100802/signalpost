@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:50:08+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "advs2.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982771706",
       "source_date": "2001-01-09",
-      "retrieved_at": "2026-10-17T07:50:08+00:00"
+      "retrieved_at": "2026-10-25T03:51:52+00:00"
     },
     {
       "field": "vat_registered",
@@ -164,7 +164,24 @@
       "retrieved_at": "2026-10-17T07:50:08+00:00"
     }
   ],
-  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982771706. Gaps: website could not be verified as this company's, so nothing was taken from it.",
-  "last_checked": "2026-10-17T10:09:09+00:00",
-  "changes": []
+  "explanation": "23 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982771706. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T03:51:53+00:00",
+  "changes": [
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "advs2.no"
+      ],
+      "at": "2026-10-25T03:51:53+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "advs2.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:51:53+00:00"
+    }
+  ]
 }

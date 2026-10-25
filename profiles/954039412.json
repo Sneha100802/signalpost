@@ -242,27 +242,14 @@
     },
     {
       "field": "description",
-      "value": "A/L Hoslemarka Borettslag er et borettslag i Bærum med 224 leiligheter som tilrettelegger for et trygt og velfungerende bomiljø for sine beboere.",
+      "value": "AL Hoslemarka Borettslag is a housing cooperative in Bærum managing 224 apartments and residential facilities.",
       "source_url": "https://www.hoslemarka.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:33+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Leiligheter",
-        "Parkering",
-        "Garasjeplasser",
-        "Elbillading",
-        "Vaskeri"
-      ],
-      "source_url": "https://www.hoslemarka.no/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T09:56:33+00:00"
+      "retrieved_at": "2026-10-25T02:59:29+00:00"
     }
   ],
-  "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954039412.",
-  "last_checked": "2026-10-17T09:56:33+00:00",
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 954039412.",
+  "last_checked": "2026-10-25T02:59:29+00:00",
   "changes": [
     {
       "field": "description",
@@ -301,6 +288,30 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:56:33+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "A/L Hoslemarka Borettslag er et borettslag i Bærum med 224 leiligheter som tilrettelegger for et trygt og velfungerende bomiljø for sine beboere."
+      ],
+      "new": [
+        "AL Hoslemarka Borettslag is a housing cooperative in Bærum managing 224 apartments and residential facilities."
+      ],
+      "at": "2026-10-25T02:59:29+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Leiligheter",
+          "Parkering",
+          "Garasjeplasser",
+          "Elbillading",
+          "Vaskeri"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T02:59:29+00:00"
     }
   ]
 }

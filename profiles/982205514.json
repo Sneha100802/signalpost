@@ -104,35 +104,21 @@
       "field": "role:Styrets leder",
       "value": "Bjørn Blichfeldt",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
-      "source_date": "2026-01-27",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Eva Kristin Stø",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
-      "source_date": "2026-01-27",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Tor Rullestad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
-      "source_date": "2026-01-27",
-      "retrieved_at": "2026-10-17T07:47:36+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Finn Bergstrøm",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
-      "source_date": "2026-01-27",
-      "retrieved_at": "2026-10-17T07:47:36+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Vegar Strand",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/982205514/roller",
-      "source_date": "2026-01-27",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     },
     {
@@ -185,7 +171,22 @@
       "retrieved_at": "2026-10-17T07:47:36+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982205514.",
-  "last_checked": "2026-10-17T09:57:42+00:00",
-  "changes": []
+  "explanation": "24 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982205514.",
+  "last_checked": "2026-10-25T03:02:07+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Eva Kristin Stø",
+        "Finn Bergstrøm",
+        "Tor Rullestad",
+        "Vegar Strand"
+      ],
+      "new": [
+        "Eva Kristin Stø",
+        "Tor Rullestad"
+      ],
+      "at": "2026-10-25T03:02:07+00:00"
+    }
+  ]
 }

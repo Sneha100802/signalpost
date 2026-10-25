@@ -204,9 +204,65 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/982199638",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:55+00:00"
+    },
+    {
+      "field": "website_verified",
+      "value": "exact legal name found on page",
+      "source_url": "https://harilastiftelsenhaap.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-25T03:55:01+00:00"
+    },
+    {
+      "field": "description",
+      "value": "Harilastiftelsen Håp is a foundation led by Steinar Harila that brings aid to people in need, particularly in Russia and Israel.",
+      "source_url": "https://harilastiftelsenhaap.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-25T03:58:29+00:00"
+    },
+    {
+      "field": "products",
+      "value": [
+        "Bruktbutikken Håp",
+        "Grillhytter",
+        "Turbuss eller kombibuss",
+        "Hjelpesendinger"
+      ],
+      "source_url": "https://harilastiftelsenhaap.no/",
+      "source_date": null,
+      "retrieved_at": "2026-10-25T03:58:29+00:00"
     }
   ],
-  "explanation": "29 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982199638. Gaps: website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:03:19+00:00",
-  "changes": []
+  "explanation": "32 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982199638.",
+  "last_checked": "2026-10-25T03:58:29+00:00",
+  "changes": [
+    {
+      "field": "website_verified",
+      "old": [],
+      "new": [
+        "exact legal name found on page"
+      ],
+      "at": "2026-10-25T03:56:04+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Harilastiftelsen Håp is a foundation led by Steinar Harila that brings aid to people in need, particularly in Russia and Israel."
+      ],
+      "at": "2026-10-25T03:58:29+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Bruktbutikken Håp",
+          "Grillhytter",
+          "Turbuss eller kombibuss",
+          "Hjelpesendinger"
+        ]
+      ],
+      "at": "2026-10-25T03:58:29+00:00"
+    }
+  ]
 }

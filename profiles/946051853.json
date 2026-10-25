@@ -102,45 +102,59 @@
     },
     {
       "field": "role:Styrets leder",
-      "value": "Arvid Bjerkestrand",
+      "value": "Åsa Marina Bauer",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
-      "retrieved_at": "2026-10-17T07:48:49+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Kasper Lygre Gulbrandsen",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
-      "retrieved_at": "2026-10-17T07:48:49+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Thomas Klungland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Pål Stolt-Nielsen Reksten",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:48:49+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Hedda Fjermestad Aase",
+      "value": "Arvid Bjerkestrand",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
-      "retrieved_at": "2026-10-17T07:48:49+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Åsa Marina Bauer",
+      "value": "Céline Christine Blanc",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
-      "source_date": "2025-11-10",
-      "retrieved_at": "2026-10-17T07:48:49+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Gabriel Solheim",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Emma Esmeralda Domino",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Martin Haga Hamarsland",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/946051853/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:09:33+00:00"
     },
     {
       "field": "role:Revisor",
@@ -185,7 +199,38 @@
       "retrieved_at": "2026-10-17T07:48:50+00:00"
     }
   ],
-  "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946051853.",
-  "last_checked": "2026-10-17T10:02:55+00:00",
-  "changes": []
+  "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 946051853.",
+  "last_checked": "2026-10-25T03:09:34+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Hedda Fjermestad Aase",
+        "Kasper Lygre Gulbrandsen",
+        "Pål Stolt-Nielsen Reksten",
+        "Thomas Klungland",
+        "Åsa Marina Bauer"
+      ],
+      "new": [
+        "Arvid Bjerkestrand",
+        "Céline Christine Blanc",
+        "Emma Esmeralda Domino",
+        "Gabriel Solheim",
+        "Martin Haga Hamarsland",
+        "Pål Stolt-Nielsen Reksten",
+        "Thomas Klungland"
+      ],
+      "at": "2026-10-25T03:09:34+00:00"
+    },
+    {
+      "field": "role:Styrets leder",
+      "old": [
+        "Arvid Bjerkestrand"
+      ],
+      "new": [
+        "Åsa Marina Bauer"
+      ],
+      "at": "2026-10-25T03:09:34+00:00"
+    }
+  ]
 }

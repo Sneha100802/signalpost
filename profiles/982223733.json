@@ -172,24 +172,23 @@
     },
     {
       "field": "description",
-      "value": "The company operates as a dealer of high-quality accordions and provides information related to accordion events, festivals, and news in Norway.",
+      "value": "The company operates as a dealer of high-quality accordions.",
       "source_url": "https://www.trekkspill.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:52+00:00"
+      "retrieved_at": "2026-10-25T04:14:55+00:00"
     },
     {
       "field": "products",
       "value": [
-        "trekkspill",
-        "torader"
+        "Trekkspill"
       ],
       "source_url": "https://www.trekkspill.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:26:52+00:00"
+      "retrieved_at": "2026-10-25T04:14:55+00:00"
     }
   ],
   "explanation": "26 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982223733. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:26:52+00:00",
+  "last_checked": "2026-10-25T04:14:55+00:00",
   "changes": [
     {
       "field": "email",
@@ -225,6 +224,43 @@
         ]
       ],
       "at": "2026-10-17T10:26:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "The company operates as a dealer of high-quality accordions and provides information related to accordion events, festivals, and news in Norway."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:16:39+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "trekkspill",
+          "torader"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:16:39+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "The company operates as a dealer of high-quality accordions."
+      ],
+      "at": "2026-10-25T04:14:55+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Trekkspill"
+        ]
+      ],
+      "at": "2026-10-25T04:14:55+00:00"
     }
   ]
 }

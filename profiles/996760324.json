@@ -224,7 +224,7 @@
       "value": "Ad Lib Jazzklubb is a jazz club that organizes concerts, musical events, and cultural programs.",
       "source_url": "https://www.adlibjazzklubb.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:52+00:00"
+      "retrieved_at": "2026-10-25T04:17:15+00:00"
     },
     {
       "field": "products",
@@ -235,11 +235,11 @@
       ],
       "source_url": "https://www.adlibjazzklubb.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:52+00:00"
+      "retrieved_at": "2026-10-25T04:17:15+00:00"
     }
   ],
   "explanation": "33 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 996760324.",
-  "last_checked": "2026-10-17T10:29:52+00:00",
+  "last_checked": "2026-10-25T04:17:15+00:00",
   "changes": [
     {
       "field": "email",
@@ -276,6 +276,46 @@
         ]
       ],
       "at": "2026-10-17T10:29:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Ad Lib Jazzklubb is a jazz club that organizes concerts, musical events, and cultural programs."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:13+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Konserter",
+          "Sesongkort",
+          "Billetter"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:15:13+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Ad Lib Jazzklubb is a jazz club that organizes concerts, musical events, and cultural programs."
+      ],
+      "at": "2026-10-25T04:17:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Konserter",
+          "Sesongkort",
+          "Billetter"
+        ]
+      ],
+      "at": "2026-10-25T04:17:15+00:00"
     }
   ]
 }

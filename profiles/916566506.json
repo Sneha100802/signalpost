@@ -31,11 +31,11 @@
       "retrieved_at": "2026-10-17T07:51:02+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.linkedin.com/groups/8416588",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/916566506",
       "source_date": "2016-02-05",
-      "retrieved_at": "2026-10-17T07:51:02+00:00"
+      "retrieved_at": "2026-10-25T03:54:35+00:00"
     },
     {
       "field": "founded",
@@ -136,7 +136,24 @@
       "retrieved_at": "2026-10-17T07:51:03+00:00"
     }
   ],
-  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916566506. Gaps: no filed accounts found, website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T10:13:44+00:00",
-  "changes": []
+  "explanation": "19 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 916566506. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own, no filed accounts found.",
+  "last_checked": "2026-10-25T03:54:35+00:00",
+  "changes": [
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.linkedin.com/groups/8416588"
+      ],
+      "at": "2026-10-25T03:54:35+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.linkedin.com/groups/8416588"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:54:35+00:00"
+    }
+  ]
 }

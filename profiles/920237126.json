@@ -139,99 +139,99 @@
       "field": "role:Styrets leder",
       "value": "Sven Madsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Morten Jurs",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Lisbeth Toftkær Kvan",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Saloume Djoudat",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Marius Hole",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Maria Nelly Holmedahl Flatland",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Carl Espen Wollebekk",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Lone Schøtt Kunøe",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Styremedlem",
+      "value": "Christoffer Besler Hansen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Charlotte Rosendahl Dohm",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
       "value": "Truls Berntsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
-    },
-    {
-      "field": "role:Varamedlem",
-      "value": "Margrethe Farsjø",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
-    },
-    {
-      "field": "role:Varamedlem",
-      "value": "Hanne Zakariassen",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
-    },
-    {
-      "field": "role:Varamedlem",
-      "value": "Kristian Valaker",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
     },
     {
       "field": "role:Varamedlem",
       "value": "Arild Fevang",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:47:53+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Leiv Jarle Larsen",
+      "value": "Maria Nelly Holmedahl Flatland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
-      "source_date": "2024-05-03",
-      "retrieved_at": "2026-10-17T07:47:53+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Elisabeth Palmgren",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Marianne Johannessen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "value": "Eugenie Bakous",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/920237126/roller",
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T03:03:29+00:00"
     },
     {
       "field": "role:Revisor",
@@ -284,6 +284,49 @@
     }
   ],
   "explanation": "40 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 920237126. Gaps: website unreachable or blocked by robots.txt.",
-  "last_checked": "2026-10-17T09:58:32+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:54:38+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Carl Espen Wollebekk",
+        "Lisbeth Toftkær Kvan",
+        "Lone Schøtt Kunøe",
+        "Maria Nelly Holmedahl Flatland",
+        "Marius Hole",
+        "Morten Jurs",
+        "Saloume Djoudat",
+        "Truls Berntsen"
+      ],
+      "new": [
+        "Carl Espen Wollebekk",
+        "Charlotte Rosendahl Dohm",
+        "Christoffer Besler Hansen",
+        "Lone Schøtt Kunøe",
+        "Marius Hole",
+        "Morten Jurs",
+        "Saloume Djoudat"
+      ],
+      "at": "2026-10-25T03:03:32+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "old": [
+        "Arild Fevang",
+        "Hanne Zakariassen",
+        "Kristian Valaker",
+        "Leiv Jarle Larsen",
+        "Margrethe Farsjø"
+      ],
+      "new": [
+        "Arild Fevang",
+        "Elisabeth Palmgren",
+        "Eugenie Bakous",
+        "Maria Nelly Holmedahl Flatland",
+        "Marianne Johannessen",
+        "Truls Berntsen"
+      ],
+      "at": "2026-10-25T03:03:32+00:00"
+    }
+  ]
 }

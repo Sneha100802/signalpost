@@ -144,10 +144,10 @@
     },
     {
       "field": "description",
-      "value": "3. Drammen speidergruppe is a scout group in Drammen municipality offering scouting activities for children and young adults.",
+      "value": "3. Drammen speidergruppe is a local scout group in Drammen offering scouting activities for children and youth across various age groups.",
       "source_url": "https://3drammen.speiding.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:07+00:00"
+      "retrieved_at": "2026-10-25T03:02:18+00:00"
     },
     {
       "field": "products",
@@ -162,7 +162,7 @@
     }
   ],
   "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 897160412. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T09:58:07+00:00",
+  "last_checked": "2026-10-25T03:02:18+00:00",
   "changes": [
     {
       "field": "description",
@@ -191,6 +191,16 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:58:07+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "3. Drammen speidergruppe is a scout group in Drammen municipality offering scouting activities for children and young adults."
+      ],
+      "new": [
+        "3. Drammen speidergruppe is a local scout group in Drammen offering scouting activities for children and youth across various age groups."
+      ],
+      "at": "2026-10-25T03:02:19+00:00"
     }
   ]
 }

@@ -118,22 +118,22 @@
       "field": "role:Styrets leder",
       "value": "Gunvor Birkeland",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965686/roller",
-      "source_date": "2023-12-22",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Camilla Doo-Ri Alstrup Nilsen Fossheim",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965686/roller",
-      "source_date": "2023-12-22",
+      "source_date": "2026-10-20",
       "retrieved_at": "2026-10-17T07:46:54+00:00"
     },
     {
       "field": "role:Styremedlem",
-      "value": "Trond Martin Backer",
+      "value": "Ingrid Lillevold Michalsen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975965686/roller",
-      "source_date": "2023-12-22",
-      "retrieved_at": "2026-10-17T07:46:54+00:00"
+      "source_date": "2026-10-20",
+      "retrieved_at": "2026-10-25T02:58:45+00:00"
     },
     {
       "field": "role:Revisor",
@@ -179,6 +179,19 @@
     }
   ],
   "explanation": "25 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975965686.",
-  "last_checked": "2026-10-17T09:56:14+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T02:58:46+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Camilla Doo-Ri Alstrup Nilsen Fossheim",
+        "Trond Martin Backer"
+      ],
+      "new": [
+        "Camilla Doo-Ri Alstrup Nilsen Fossheim",
+        "Ingrid Lillevold Michalsen"
+      ],
+      "at": "2026-10-25T02:58:46+00:00"
+    }
+  ]
 }

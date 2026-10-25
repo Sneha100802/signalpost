@@ -111,22 +111,36 @@
       "field": "role:Styrets leder",
       "value": "Magnus Asp",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
-      "source_date": "2026-08-31",
-      "retrieved_at": "2026-10-17T07:49:37+00:00"
-    },
-    {
-      "field": "role:Styremedlem",
-      "value": "Mie Mortensen",
-      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
-      "source_date": "2026-08-31",
+      "source_date": "2026-10-19",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Julian Andre Lian Hoff",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
-      "source_date": "2026-08-31",
+      "source_date": "2026-10-19",
       "retrieved_at": "2026-10-17T07:49:37+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Brita Eilertsen",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
+      "source_date": "2026-10-19",
+      "retrieved_at": "2026-10-25T03:14:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Ørjan Svanevik",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
+      "source_date": "2026-10-19",
+      "retrieved_at": "2026-10-25T03:14:01+00:00"
+    },
+    {
+      "field": "role:Styremedlem",
+      "value": "Silje Christine Augustson",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936295592/roller",
+      "source_date": "2026-10-19",
+      "retrieved_at": "2026-10-25T03:14:01+00:00"
     },
     {
       "field": "role:Revisor",
@@ -143,7 +157,22 @@
       "retrieved_at": "2026-10-17T07:49:37+00:00"
     }
   ],
-  "explanation": "20 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936295592. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:06:34+00:00",
-  "changes": []
+  "explanation": "22 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 936295592. Gaps: no filed accounts found.",
+  "last_checked": "2026-10-25T03:14:01+00:00",
+  "changes": [
+    {
+      "field": "role:Styremedlem",
+      "old": [
+        "Julian Andre Lian Hoff",
+        "Mie Mortensen"
+      ],
+      "new": [
+        "Brita Eilertsen",
+        "Julian Andre Lian Hoff",
+        "Silje Christine Augustson",
+        "Ørjan Svanevik"
+      ],
+      "at": "2026-10-25T03:14:01+00:00"
+    }
+  ]
 }

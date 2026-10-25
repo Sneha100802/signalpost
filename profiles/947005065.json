@@ -38,11 +38,11 @@
       "retrieved_at": "2026-10-17T07:49:13+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.bate.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/947005065",
       "source_date": "1995-03-12",
-      "retrieved_at": "2026-10-17T07:49:13+00:00"
+      "retrieved_at": "2026-10-25T03:51:48+00:00"
     },
     {
       "field": "founded",
@@ -241,7 +241,24 @@
       "retrieved_at": "2026-10-17T07:49:14+00:00"
     }
   ],
-  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947005065. Gaps: website could not be verified as this company's, so nothing was taken from it.",
-  "last_checked": "2026-10-17T10:05:23+00:00",
-  "changes": []
+  "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 947005065. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T03:51:48+00:00",
+  "changes": [
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.bate.no"
+      ],
+      "at": "2026-10-25T03:51:48+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.bate.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T03:51:48+00:00"
+    }
+  ]
 }

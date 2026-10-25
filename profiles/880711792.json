@@ -249,14 +249,14 @@
     },
     {
       "field": "description",
-      "value": "Eplehagan Barnehage SA is a kindergarten located in Mjøndalen.",
+      "value": "Eplehagan Barnehage SA is a kindergarten located in Mjøndalen with departments named Vivaldi, Platon, Newton, and Ibsen.",
       "source_url": "https://eplehagan.no/",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:58:29+00:00"
+      "retrieved_at": "2026-10-25T04:10:14+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 880711792.",
-  "last_checked": "2026-10-17T09:58:29+00:00",
+  "last_checked": "2026-10-25T04:10:14+00:00",
   "changes": [
     {
       "field": "description",
@@ -281,6 +281,22 @@
         "exact legal name found on page"
       ],
       "at": "2026-10-17T09:58:29+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Eplehagan Barnehage SA is a kindergarten located in Mjøndalen."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:04:02+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Eplehagan Barnehage SA is a kindergarten located in Mjøndalen with departments named Vivaldi, Platon, Newton, and Ibsen."
+      ],
+      "at": "2026-10-25T04:10:14+00:00"
     }
   ]
 }

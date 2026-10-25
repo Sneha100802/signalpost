@@ -38,11 +38,11 @@
       "retrieved_at": "2026-10-17T07:48:55+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.leroy.no",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975350940",
       "source_date": "1995-09-13",
-      "retrieved_at": "2026-10-17T07:48:55+00:00"
+      "retrieved_at": "2026-10-25T04:13:26+00:00"
     },
     {
       "field": "employees",
@@ -246,37 +246,10 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975350940",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:48:56+00:00"
-    },
-    {
-      "field": "website_verified",
-      "value": "org number found on page",
-      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:03:25+00:00"
-    },
-    {
-      "field": "description",
-      "value": "Lerøy Seafood Group ASA provides tasty seafood products, recipes, and inspiration.",
-      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:52+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Laks Supreme",
-        "Fisketerninger Laks og Torsk",
-        "Lerøy Raske Reker",
-        "Lerøy Bergensk plukkfisk",
-        "Spekesild"
-      ],
-      "source_url": "https://www.leroyseafood.com/no/smakfull-sjomat/",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:25:52+00:00"
     }
   ],
-  "explanation": "38 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940.",
-  "last_checked": "2026-10-17T10:25:52+00:00",
+  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 975350940. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T04:13:26+00:00",
   "changes": [
     {
       "field": "website_verified",
@@ -307,6 +280,52 @@
         ]
       ],
       "at": "2026-10-17T10:25:52+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Lerøy Seafood Group ASA provides tasty seafood products, recipes, and inspiration."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:37+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Laks Supreme",
+          "Fisketerninger Laks og Torsk",
+          "Lerøy Raske Reker",
+          "Lerøy Bergensk plukkfisk",
+          "Spekesild"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:11:37+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.leroy.no"
+      ],
+      "at": "2026-10-25T04:13:26+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.leroy.no"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:13:26+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [
+        "org number found on page"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:13:26+00:00"
     }
   ]
 }

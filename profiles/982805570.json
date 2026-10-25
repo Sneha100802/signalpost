@@ -228,27 +228,27 @@
     },
     {
       "field": "description",
-      "value": "Aurora Verksted SA er et arbeidssted for mennesker med og uten funksjonshemminger som produserer varer innen tekstil og keramikk, skaper kunst og design, samt driver kantine og egne butikker.",
+      "value": "Aurora Verksted is a workplace and care enterprise for people with and without disabilities that produces textile and ceramic products, art, and design, while offering tailored work and day center services.",
       "source_url": "https://www.aurora-verksted.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:13+00:00"
+      "retrieved_at": "2026-10-25T04:15:15+00:00"
     },
     {
       "field": "products",
       "value": [
-        "Tekstilprodukter",
+        "Tekstil",
         "Keramikk",
         "Kunst",
-        "Design",
-        "Klær"
+        "Strikk",
+        "Vev"
       ],
       "source_url": "https://www.aurora-verksted.no",
       "source_date": null,
-      "retrieved_at": "2026-10-17T10:27:13+00:00"
+      "retrieved_at": "2026-10-25T04:15:15+00:00"
     }
   ],
   "explanation": "34 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 982805570.",
-  "last_checked": "2026-10-17T10:27:13+00:00",
+  "last_checked": "2026-10-25T04:15:15+00:00",
   "changes": [
     {
       "field": "email",
@@ -287,6 +287,50 @@
         ]
       ],
       "at": "2026-10-17T10:27:13+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Aurora Verksted SA er et arbeidssted for mennesker med og uten funksjonshemminger som produserer varer innen tekstil og keramikk, skaper kunst og design, samt driver kantine og egne butikker."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:16:26+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Tekstilprodukter",
+          "Keramikk",
+          "Kunst",
+          "Design",
+          "Klær"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:16:26+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Aurora Verksted is a workplace and care enterprise for people with and without disabilities that produces textile and ceramic products, art, and design, while offering tailored work and day center services."
+      ],
+      "at": "2026-10-25T04:15:15+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "Tekstil",
+          "Keramikk",
+          "Kunst",
+          "Strikk",
+          "Vev"
+        ]
+      ],
+      "at": "2026-10-25T04:15:15+00:00"
     }
   ]
 }

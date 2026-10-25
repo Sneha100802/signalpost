@@ -25,10 +25,10 @@
     },
     {
       "field": "address",
-      "value": "Kringsjåveien 70, 5163, LAKSEVÅG",
+      "value": "Storhaugen 16, 5009, BERGEN",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923327851",
       "source_date": "2019-09-04",
-      "retrieved_at": "2026-10-17T07:49:52+00:00"
+      "retrieved_at": "2026-10-25T03:15:32+00:00"
     },
     {
       "field": "vat_registered",
@@ -95,6 +95,17 @@
     }
   ],
   "explanation": "13 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 923327851. Gaps: no filed accounts found.",
-  "last_checked": "2026-10-17T10:08:18+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:15:32+00:00",
+  "changes": [
+    {
+      "field": "address",
+      "old": [
+        "Kringsjåveien 70, 5163, LAKSEVÅG"
+      ],
+      "new": [
+        "Storhaugen 16, 5009, BERGEN"
+      ],
+      "at": "2026-10-25T03:15:32+00:00"
+    }
+  ]
 }

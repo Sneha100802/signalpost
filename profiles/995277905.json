@@ -38,11 +38,11 @@
       "retrieved_at": "2026-10-17T07:50:48+00:00"
     },
     {
-      "field": "website",
+      "field": "group_website",
       "value": "www.wilhelmsen.com",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/995277905",
       "source_date": "2010-03-11",
-      "retrieved_at": "2026-10-17T07:50:48+00:00"
+      "retrieved_at": "2026-10-25T04:16:16+00:00"
     },
     {
       "field": "employees",
@@ -218,44 +218,10 @@
       "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/995277905",
       "source_date": "2025-12-31",
       "retrieved_at": "2026-10-17T07:50:49+00:00"
-    },
-    {
-      "field": "website_verified",
-      "value": "exact legal name found on page",
-      "source_url": "https://www.wilhelmsen.com",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:12:22+00:00"
-    },
-    {
-      "field": "email",
-      "value": "wss.alexandria.operations@wilhelmsen.com",
-      "source_url": "https://www.wilhelmsen.com",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:12:22+00:00"
-    },
-    {
-      "field": "description",
-      "value": "Wilhelmsen is a global maritime group that provides products, services, port operations, ship management, and new energy solutions to the maritime and offshore industries.",
-      "source_url": "https://www.wilhelmsen.com",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:32+00:00"
-    },
-    {
-      "field": "products",
-      "value": [
-        "Unicool R-407H 10kg refrigerant",
-        "Klüber Summit Hysyn FG 46 200 ltr",
-        "Bunker sampler",
-        "Maritime products and services",
-        "Chemicals"
-      ],
-      "source_url": "https://www.wilhelmsen.com",
-      "source_date": null,
-      "retrieved_at": "2026-10-17T10:29:32+00:00"
     }
   ],
-  "explanation": "35 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905.",
-  "last_checked": "2026-10-17T10:29:32+00:00",
+  "explanation": "31 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 995277905. Gaps: the registry lists a website shared with other organisations or a parent group, so no website facts are published as this company's own.",
+  "last_checked": "2026-10-25T04:16:16+00:00",
   "changes": [
     {
       "field": "email",
@@ -294,6 +260,60 @@
         ]
       ],
       "at": "2026-10-17T10:29:32+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Wilhelmsen is a global maritime group that provides products, services, port operations, ship management, and new energy solutions to the maritime and offshore industries."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:09+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "Unicool R-407H 10kg refrigerant",
+          "Klüber Summit Hysyn FG 46 200 ltr",
+          "Bunker sampler",
+          "Maritime products and services",
+          "Chemicals"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:21:09+00:00"
+    },
+    {
+      "field": "email",
+      "old": [
+        "wss.alexandria.operations@wilhelmsen.com"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:16:16+00:00"
+    },
+    {
+      "field": "group_website",
+      "old": [],
+      "new": [
+        "www.wilhelmsen.com"
+      ],
+      "at": "2026-10-25T04:16:16+00:00"
+    },
+    {
+      "field": "website",
+      "old": [
+        "www.wilhelmsen.com"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:16:16+00:00"
+    },
+    {
+      "field": "website_verified",
+      "old": [
+        "exact legal name found on page"
+      ],
+      "new": [],
+      "at": "2026-10-25T04:16:16+00:00"
     }
   ]
 }

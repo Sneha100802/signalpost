@@ -3,3 +3,4 @@
 __pycache__/
 sample.txt
 sample_profiles/
+.devswarm-temp/

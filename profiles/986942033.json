@@ -242,26 +242,27 @@
     },
     {
       "field": "description",
-      "value": "Appear provides high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution.",
+      "value": "Appear is a global leader in high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution.",
       "source_url": "https://www.appear.net",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:14+00:00"
+      "retrieved_at": "2026-10-25T04:15:54+00:00"
     },
     {
       "field": "products",
       "value": [
         "X Platform",
-        "VX Platform",
-        "XC Platform",
-        "Appear Hub"
+        "X20",
+        "X10",
+        "X5",
+        "VX Platform"
       ],
       "source_url": "https://www.appear.net",
       "source_date": null,
-      "retrieved_at": "2026-10-17T09:57:14+00:00"
+      "retrieved_at": "2026-10-25T04:15:54+00:00"
     }
   ],
   "explanation": "36 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 986942033.",
-  "last_checked": "2026-10-17T09:57:14+00:00",
+  "last_checked": "2026-10-25T04:15:54+00:00",
   "changes": [
     {
       "field": "description",
@@ -299,6 +300,49 @@
         "org number found on page"
       ],
       "at": "2026-10-17T09:57:14+00:00"
+    },
+    {
+      "field": "description",
+      "old": [
+        "Appear provides high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution."
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:21+00:00"
+    },
+    {
+      "field": "products",
+      "old": [
+        [
+          "X Platform",
+          "VX Platform",
+          "XC Platform",
+          "Appear Hub"
+        ]
+      ],
+      "new": [],
+      "at": "2026-10-25T03:01:21+00:00"
+    },
+    {
+      "field": "description",
+      "old": [],
+      "new": [
+        "Appear is a global leader in high-capacity solutions for media processing and content delivery, including premium live event contribution, remote production, and distribution."
+      ],
+      "at": "2026-10-25T04:15:54+00:00"
+    },
+    {
+      "field": "products",
+      "old": [],
+      "new": [
+        [
+          "X Platform",
+          "X20",
+          "X10",
+          "X5",
+          "VX Platform"
+        ]
+      ],
+      "at": "2026-10-25T04:15:54+00:00"
     }
   ]
 }

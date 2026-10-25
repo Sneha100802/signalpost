@@ -125,36 +125,36 @@
       "field": "role:Styrets leder",
       "value": "Anna Viola Vesterhus",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971258667/roller",
-      "source_date": "2025-06-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Henrik Folkestad Holmen",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971258667/roller",
-      "source_date": "2025-06-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "role:Styremedlem",
       "value": "Anna Martine Selander Solberg",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971258667/roller",
-      "source_date": "2025-06-02",
+      "source_date": "2026-10-24",
       "retrieved_at": "2026-10-17T07:50:46+00:00"
     },
     {
       "field": "role:Varamedlem",
-      "value": "Ingunn Hveem Stugu",
+      "value": "Halvor Snersrud Gustad",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971258667/roller",
-      "source_date": "2025-06-02",
-      "retrieved_at": "2026-10-17T07:50:46+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:19:39+00:00"
     },
     {
       "field": "role:Revisor",
-      "value": "KPMG AS",
+      "value": "CEDRA NORGE AS",
       "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/971258667/roller",
-      "source_date": "2013-04-02",
-      "retrieved_at": "2026-10-17T07:50:46+00:00"
+      "source_date": "2026-10-24",
+      "retrieved_at": "2026-10-25T03:19:39+00:00"
     },
     {
       "field": "role:Regnskapsfører",
@@ -200,6 +200,27 @@
     }
   ],
   "explanation": "28 facts from Enhetsregisteret/Regnskapsregisteret, keyed on org number 971258667.",
-  "last_checked": "2026-10-17T10:12:15+00:00",
-  "changes": []
+  "last_checked": "2026-10-25T03:19:39+00:00",
+  "changes": [
+    {
+      "field": "role:Revisor",
+      "old": [
+        "KPMG AS"
+      ],
+      "new": [
+        "CEDRA NORGE AS"
+      ],
+      "at": "2026-10-25T03:19:39+00:00"
+    },
+    {
+      "field": "role:Varamedlem",
+      "old": [
+        "Ingunn Hveem Stugu"
+      ],
+      "new": [
+        "Halvor Snersrud Gustad"
+      ],
+      "at": "2026-10-25T03:19:39+00:00"
+    }
+  ]
 }
